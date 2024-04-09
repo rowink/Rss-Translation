@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>今日 GitHub 上的热门存储库 · GitHub</title>
+    <link>https://github.com/trending/?since=daily&spoken_language_code=en</link>
+    <description>今日 GitHub 上的热门存储库 · GitHub - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Tue, 09 Apr 2024 02:00:22 GMT</lastBuildDate>
+    <item>
+      <title>facebookresearch/pytorch3d</title>
+      <link>https://github.com/facebookresearch/pytorch3d</link>
+      <description><![CDATA[PyTorch3D 是 FAIR 的可重用组件库，用于使用 3D 数据进行深度学习L语言： Python 星星：8239 叉子：1249]]></description>
+      <guid>https://github.com/facebookresearch/pytorch3d</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>风筝-io/风筝</title>
+      <link>https://github.com/milvus-io/milvus</link>
+      <description><![CDATA[云原生矢量数据库，下一代人工智能应用的存储语言：Go 星星：26424 叉子：2541]]></description>
+      <guid>https://github.com/milvus-io/milvus</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>精炼/精炼</title>
+      <link>https://github.com/refinedev/refine</link>
+      <description><![CDATA[用于构建内部工具、管理面板、仪表板和应用程序的 React 框架B2B 应用程序具有无与伦比的灵活性。 语言：TypeScript 星星：24235 叉子：1770]]></description>
+      <guid>https://github.com/refinedev/refine</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>铁锈桌</title>
+      <link>https://github.com/rustdesk/rustdesk</link>
+      <description><![CDATA[开源远程桌面，TeamViewer 的替代品。 语言：Rust 星星：62077 叉子：6727]]></description>
+      <guid>https://github.com/rustdesk/rustdesk</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>天恩/KernelSU</title>
+      <link>https://github.com/tiann/KernelSU</link>
+      <description><![CDATA[基于内核的 Android 根解决方案语言：Kotlin Stars : 7849 货叉: 1309]]></description>
+      <guid>https://github.com/tiann/KernelSU</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>cocos/cocos-引擎</title>
+      <link>https://github.com/cocos/cocos-engine</link>
+      <description><![CDATA[Cocos 使用 Cocos Creator（一款免费、开放的工具）简化了游戏创建和分发源码，跨平台游戏引擎。使数百万开发人员能够创建高性能、引人入胜的 2D/3D 游戏和即时网络娱乐。 语言：C++ 星星：5259 叉子：1531]]></description>
+      <guid>https://github.com/cocos/cocos-engine</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊米奇应用程序/伊米奇</title>
+      <link>https://github.com/immich-app/immich</link>
+      <description><![CDATA[高性能自托管照片和视频管理解决方案。 语言：TypeScript 星星：29588 叉子：1353]]></description>
+      <guid>https://github.com/immich-app/immich</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>运行 llama/llama_index</title>
+      <link>https://github.com/run-llama/llama_index</link>
+      <description><![CDATA[LlamaIndex 是 LLM 申请的数据框架语言：Python &lt; br /&gt;星星：30387 叉子：4079]]></description>
+      <guid>https://github.com/run-llama/llama_index</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>安福/速度</title>
+      <link>https://github.com/antfu/vitesse</link>
+      <description><![CDATA[🏕 自以为是的 Vite + Vue 入门模板 语言：TypeScript 星星：8495 叉子：914]]></description>
+      <guid>https://github.com/antfu/vitesse</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>很棒的自我托管/很棒的自我托管</title>
+      <link>https://github.com/awesome-selfhosted/awesome-selfhosted</link>
+      <description><![CDATA[可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表 &lt; br /&gt;语言：未知星星：176064 叉子：8939]]></description>
+      <guid>https://github.com/awesome-selfhosted/awesome-selfhosted</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>内维姆</title>
+      <link>https://github.com/neovim/neovim</link>
+      <description><![CDATA[Vim-fork 专注于可扩展性和可用性语言：Vim Script 星星：75972 叉子：5250]]></description>
+      <guid>https://github.com/neovim/neovim</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>fastfetch-cli/fastfetch</title>
+      <link>https://github.com/fastfetch-cli/fastfetch</link>
+      <description><![CDATA[与neofetch类似，但速度更快，因为主要是用C编写的。 语言：C 星星：2057 前叉：114]]></description>
+      <guid>https://github.com/fastfetch-cli/fastfetch</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>盖特拉戈</title>
+      <link>https://github.com/getlago/lago</link>
+      <description><![CDATA[开源计量和基于使用情况的计费 API ⭐️ 消费跟踪、订阅管理、定价迭代、支付编排和支付收入分析语言：壳牌星级：5884 叉子：243]]></description>
+      <guid>https://github.com/getlago/lago</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>yt-dlp</title>
+      <link>https://github.com/yt-dlp/yt-dlp</link>
+      <description><![CDATA[功能丰富的命令行音频/视频下载器 语言：Python 星星：69575 叉子：5522]]></description>
+      <guid>https://github.com/yt-dlp/yt-dlp</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>UberGuidoZ/Flipper</title>
+      <link>https://github.com/UberGuidoZ/Flipper</link>
+      <description><![CDATA[我为 Flipper Zero 制作或修改的东西的游乐场（和转储）语言：C 星星：12142 叉子：2899]]></description>
+      <guid>https://github.com/UberGuidoZ/Flipper</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>ripienaar/免费开发</title>
+      <link>https://github.com/ripienaar/free-for-dev</link>
+      <description><![CDATA[具有免费等级的 SaaS、PaaS 和 IaaS 产品列表Vops 和基础设施开发语言：HTML 星星：82722 叉子：8952]]></description>
+      <guid>https://github.com/ripienaar/free-for-dev</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>AUTOMATIC1111/稳定扩散-webui</title>
+      <link>https://github.com/AUTOMATIC1111/stable-diffusion-webui</link>
+      <description><![CDATA[稳定扩散网页 UI 语言：Python 星星：128001 叉子：24914]]></description>
+      <guid>https://github.com/AUTOMATIC1111/stable-diffusion-webui</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>siyuan-note/siyuan</title>
+      <link>https://github.com/siyuan-note/siyuan</link>
+      <description><![CDATA[隐私优先、自托管、完全开源的个人知识管理软件，用 typescript 和 golang 编写。 语言：TypeScript 星星：15405 分叉：1156]]></description>
+      <guid>https://github.com/siyuan-note/siyuan</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>唐内马丁/系统设计入门</title>
+      <link>https://github.com/donnemartin/system-design-primer</link>
+      <description><![CDATA[了解如何设计大型系统。准备系统设计面试。包括 Anki 抽认卡。 语言：Python 星星：251385 叉子：43040]]></description>
+      <guid>https://github.com/donnemartin/system-design-primer</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>jrouwe/JoltPhysics</title>
+      <link>https://github.com/jrouwe/JoltPhysics</link>
+      <description><![CDATA[一个多核友好的刚体物理和碰撞检测库，用 C++ 编写，适合游戏和VR应用。 语言：C++ 星星：5456 叉子：349]]></description>
+      <guid>https://github.com/jrouwe/JoltPhysics</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>纸MC/纸</title>
+      <link>https://github.com/PaperMC/Paper</link>
+      <description><![CDATA[使用最广泛的高性能 Minecraft 服务器，旨在修复游戏玩法和机制的不一致问题语言：Java 星星：8764 叉子：2112]]></description>
+      <guid>https://github.com/PaperMC/Paper</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>freeCodeCamp/freeCodeCamp</title>
+      <link>https://github.com/freeCodeCamp/freeCodeCamp</link>
+      <description><![CDATA[freeCodeCamp.org 的开源代码库和课程。免费学习编码。 语言：TypeScript 星星：386626 叉子：35168]]></description>
+      <guid>https://github.com/freeCodeCamp/freeCodeCamp</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>可用项目/可用灯</title>
+      <link>https://github.com/availproject/avail-light</link>
+      <description><![CDATA[null 语言：Rust 星星：498 货叉：1060]]></description>
+      <guid>https://github.com/availproject/avail-light</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发人员-Y/cs-视频课程</title>
+      <link>https://github.com/Developer-Y/cs-video-courses</link>
+      <description><![CDATA[包含视频讲座的计算机科学课程列表。 语言：未知星星：64503叉子：8888]]></description>
+      <guid>https://github.com/Developer-Y/cs-video-courses</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>帕万奥斯曼/ChatGPT</title>
+      <link>https://github.com/PawanOsman/ChatGPT</link>
+      <description><![CDATA[OpenAI API 免费反向代理语言：TypeScript Star号：2484 货叉：421]]></description>
+      <guid>https://github.com/PawanOsman/ChatGPT</guid>
+      <pubDate>Tue, 09 Apr 2024 02:00:12 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
