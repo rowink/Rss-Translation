@@ -4,181 +4,181 @@
     <title>今日 GitHub 上的热门存储库 · GitHub</title>
     <link>https://github.com/trending/?since=daily&spoken_language_code=en</link>
     <description>今日 GitHub 上的热门存储库 · GitHub - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 10 Apr 2024 18:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 21:04:04 GMT</lastBuildDate>
     <item>
       <title>axios/axios</title>
       <link>https://github.com/axios/axios</link>
-      <description><![CDATA[浏览器和node.js的基于Promise的HTTP客户端语言：JavaScript &lt; br /&gt;星星：103866 叉子：10702]]></description>
+      <description><![CDATA[浏览器和node.js的基于Promise的HTTP客户端语言：JavaScript &lt; br /&gt;星星：103867 叉子：10702]]></description>
       <guid>https://github.com/axios/axios</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:53 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 21:04:04 GMT</pubDate>
     </item>
     <item>
       <title>Azure/二头肌注册表模块</title>
       <link>https://github.com/Azure/bicep-registry-modules</link>
       <description><![CDATA[Bicep 注册表模块语言：Bicep Stars : 346 货叉: 225]]></description>
       <guid>https://github.com/Azure/bicep-registry-modules</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>GyulyVGC/sniffnet</title>
-      <link>https://github.com/GyulyVGC/sniffnet</link>
-      <description><![CDATA[轻松监控您的互联网流量🕵️‍♂️ 语言：Rust 星星：13459 叉子：395]]></description>
-      <guid>https://github.com/GyulyVGC/sniffnet</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:52 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 21:04:04 GMT</pubDate>
     </item>
     <item>
       <title>nats-io/nats-服务器</title>
       <link>https://github.com/nats-io/nats-server</link>
       <description><![CDATA[用于 NATS.io、云和边缘本机消息传递的高性能服务器系统。 语言：Go 星星：14653 叉子：1346]]></description>
       <guid>https://github.com/nats-io/nats-server</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:52 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 21:04:03 GMT</pubDate>
     </item>
     <item>
       <title>拥抱脸/变形金刚</title>
       <link>https://github.com/huggingface/transformers</link>
-      <description><![CDATA[🤗 Transformers：最先进的 Pytorch 机器学习， TensorFlow 和 JAX。 语言：Python 星星：124016 叉子：24633]]></description>
+      <description><![CDATA[🤗 Transformers：最先进的 Pytorch 机器学习， TensorFlow 和 JAX。 语言：Python 星星：124017 叉子：24634]]></description>
       <guid>https://github.com/huggingface/transformers</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:52 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 21:04:03 GMT</pubDate>
     </item>
     <item>
       <title>苹果/斯威夫特</title>
       <link>https://github.com/apple/swift</link>
-      <description><![CDATA[Swift 编程语言语言：C++ 星星：65784 &lt; br/&gt;货叉：10188]]></description>
+      <description><![CDATA[The Swift Programming Language Language: C++ Stars: 65785 &lt; br /&gt;货叉：10189]]></description>
       <guid>https://github.com/apple/swift</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:52 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 21:04:03 GMT</pubDate>
     </item>
     <item>
       <title>开放/耳语</title>
       <link>https://github.com/openai/whisper</link>
-      <description><![CDATA[通过大规模弱监督进行鲁棒语音识别语言： Python 星星：59472 叉子：6829]]></description>
+      <description><![CDATA[通过大规模弱监督实现鲁棒语音识别语言：Python 星星：59477 叉子：6829]]></description>
       <guid>https://github.com/openai/whisper</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:51 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 21:04:02 GMT</pubDate>
     </item>
     <item>
       <title>A-poc/RedTeam-工具</title>
       <link>https://github.com/A-poc/RedTeam-Tools</link>
-      <description><![CDATA[红队/渗透测试的工具和技术语言：未知 星星：5043 叉子：684]]></description>
+      <description><![CDATA[红队/渗透测试的工具和技术语言：未知星星：5047 叉子：684]]></description>
       <guid>https://github.com/A-poc/RedTeam-Tools</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:51 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 21:04:02 GMT</pubDate>
     </item>
     <item>
       <title>邮差猪/邮差猪</title>
       <link>https://github.com/PostHog/posthog</link>
-      <description><![CDATA[🦔 PostHog 提供开源产品分析、会话记录、功能标记和您可以自行托管的 A/B 测试。 语言：Python 星星：16795 叉子：990]]></description>
+      <description><![CDATA[🦔 PostHog 提供开源产品分析、会话记录、功能标记和您可以自行托管的 A/B 测试。 语言：Python 星星：16797 叉子：991]]></description>
       <guid>https://github.com/PostHog/posthog</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:51 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 21:04:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>GyulyVGC/sniffnet</title>
+      <link>https://github.com/GyulyVGC/sniffnet</link>
+      <description><![CDATA[轻松监控您的互联网流量🕵️‍♂️ 语言：Rust 星星：13462 叉子：395]]></description>
+      <guid>https://github.com/GyulyVGC/sniffnet</guid>
+      <pubDate>Wed, 10 Apr 2024 21:04:02 GMT</pubDate>
     </item>
     <item>
       <title>朵拉-RS/朵拉</title>
       <link>https://github.com/dora-rs/dora</link>
-      <description><![CDATA[人工智能和机器人应用程序的低延迟、可组合和分布式数据流语言：Rust 星星：773 叉子：35]]></description>
+      <description><![CDATA[人工智能和机器人应用程序的低延迟、可组合和分布式数据流语言：Rust 星星：775 叉子：36]]></description>
       <guid>https://github.com/dora-rs/dora</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:50 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 21:04:01 GMT</pubDate>
     </item>
     <item>
       <title>奇迪威廉姆斯/巴兹</title>
       <link>https://github.com/chidiwilliams/buzz</link>
-      <description><![CDATA[Buzz 可在您的个人计算机上离线转录和翻译音频。由 OpenAI 的 Whisper 提供支持。 语言：Python 星星：9638 叉子：732]]></description>
+      <description><![CDATA[Buzz 可在您的个人计算机上离线转录和翻译音频。由 OpenAI 的 Whisper 提供支持。 语言：Python 星星：9641 叉子：732]]></description>
       <guid>https://github.com/chidiwilliams/buzz</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:50 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 21:04:01 GMT</pubDate>
     </item>
     <item>
       <title>容器/容器</title>
       <link>https://github.com/containerd/containerd</link>
-      <description><![CDATA[开放可靠的容器运行时语言：Go 星星： 16231 货叉：3229]]></description>
+      <description><![CDATA[开放可靠的容器运行时语言：Go 星星： 16235 货叉：3229]]></description>
       <guid>https://github.com/containerd/containerd</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:50 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 21:04:01 GMT</pubDate>
     </item>
     <item>
       <title>Coollabsio/coolify</title>
       <link>https://github.com/coollabsio/coolify</link>
-      <description><![CDATA[一个开源&amp;自托管 Heroku / Netlify / Vercel 替代方案。 语言：PHP 星星：12641 叉子：660]]></description>
+      <description><![CDATA[一个开源&amp;自托管 Heroku / Netlify / Vercel 替代方案。 语言：PHP 星星：12650 叉子：661]]></description>
       <guid>https://github.com/coollabsio/coolify</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:49 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 21:04:00 GMT</pubDate>
     </item>
     <item>
       <title>Huggingface/文本生成推理</title>
       <link>https://github.com/huggingface/text-generation-inference</link>
-      <description><![CDATA[大型语言模型文本生成推理语言：Python 星星：7650 叉子：833]]></description>
+      <description><![CDATA[大型语言模型文本生成推理语言：Python 星星：7652 叉子：833]]></description>
       <guid>https://github.com/huggingface/text-generation-inference</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:49 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 21:04:00 GMT</pubDate>
     </item>
     <item>
       <title>风筝-io/风筝</title>
       <link>https://github.com/milvus-io/milvus</link>
-      <description><![CDATA[云原生矢量数据库，下一代人工智能应用的存储语言：Go 星星：26464 叉子：2542]]></description>
+      <description><![CDATA[云原生矢量数据库，下一代人工智能应用的存储语言：Go 星星：26469 叉子：2542]]></description>
       <guid>https://github.com/milvus-io/milvus</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:49 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 21:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PSF/黑色</title>
+      <link>https://github.com/psf/black</link>
+      <description><![CDATA[不折不扣的 Python 代码格式化程序语言： Python 星星：37286 叉子：2365]]></description>
+      <guid>https://github.com/psf/black</guid>
+      <pubDate>Wed, 10 Apr 2024 21:03:59 GMT</pubDate>
     </item>
     <item>
       <title>火山</title>
       <link>https://github.com/volcano-sh/volcano</link>
       <description><![CDATA[云原生批处理系统（CNCF项目）语言：Go 星星：3730 叉子：856]]></description>
       <guid>https://github.com/volcano-sh/volcano</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:48 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 21:03:59 GMT</pubDate>
     </item>
     <item>
       <title>点网/核心</title>
       <link>https://github.com/dotnet/core</link>
       <description><![CDATA[.NET 新闻、公告、发行说明等等！ 语言：PowerShell 星星：20532 叉子：4842]]></description>
       <guid>https://github.com/dotnet/core</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:48 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 21:03:59 GMT</pubDate>
     </item>
     <item>
       <title>brocoders/nestjs-样板</title>
       <link>https://github.com/brocoders/nestjs-boilerplate</link>
-      <description><![CDATA[NestJS 样板。 Auth、TypeORM、Mongoose、Postgres、MongoDB、邮件、I18N、Docker。 语言：TypeScript 星星：2275 叉子：476]]></description>
+      <description><![CDATA[NestJS 样板。 Auth、TypeORM、Mongoose、Postgres、MongoDB、邮件、I18N、Docker。 语言：TypeScript 星星：2276 叉子：476]]></description>
       <guid>https://github.com/brocoders/nestjs-boilerplate</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员-Y/cs-视频课程</title>
-      <link>https://github.com/Developer-Y/cs-video-courses</link>
-      <description><![CDATA[包含视频讲座的计算机科学课程列表。 语言：未知星星：64641 叉子：8908]]></description>
-      <guid>https://github.com/Developer-Y/cs-video-courses</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>恩洛曼/json</title>
-      <link>https://github.com/nlohmann/json</link>
-      <description><![CDATA[现代 C++ 的 JSON 语言：C++ 星星：39890 叉子：6411]]></description>
-      <guid>https://github.com/nlohmann/json</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>PSF/黑色</title>
-      <link>https://github.com/psf/black</link>
-      <description><![CDATA[不折不扣的 Python 代码格式化程序语言： Python 星星：37285 叉子：2365]]></description>
-      <guid>https://github.com/psf/black</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>帕万奥斯曼/ChatGPT</title>
-      <link>https://github.com/PawanOsman/ChatGPT</link>
-      <description><![CDATA[OpenAI API 免费反向代理语言：TypeScript 星星： 3187 货叉：557]]></description>
-      <guid>https://github.com/PawanOsman/ChatGPT</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:36 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 21:03:59 GMT</pubDate>
     </item>
     <item>
       <title>获取主页/主页</title>
       <link>https://github.com/gethomepage/homepage</link>
-      <description><![CDATA[具有 Docker 和服务 API 集成的高度可定制的主页（或起始页/应用程序仪表板）。 语言：JavaScript 星星：15478 叉子：866]]></description>
+      <description><![CDATA[具有 Docker 和服务 API 集成的高度可定制的主页（或起始页/应用程序仪表板）。 语言：JavaScript 星星：15484 叉子：866]]></description>
       <guid>https://github.com/gethomepage/homepage</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:36 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 21:03:58 GMT</pubDate>
     </item>
     <item>
       <title>mui/mui-x</title>
       <link>https://github.com/mui/mui-x</link>
-      <description><![CDATA[MUI X：使用越来越多的列表构建复杂且数据丰富的应用程序高级 React 组件，如数据网格、日期和时间选择器、图表等等！ 语言：TypeScript 星星：3682 分叉：1078]]></description>
+      <description><![CDATA[MUI X：使用越来越多的列表构建复杂且数据丰富的应用程序高级 React 组件，如数据网格、日期和时间选择器、图表等等！ 语言：TypeScript 星星：3683 叉子：1078]]></description>
       <guid>https://github.com/mui/mui-x</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:36 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 21:03:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发人员-Y/cs-视频课程</title>
+      <link>https://github.com/Developer-Y/cs-video-courses</link>
+      <description><![CDATA[包含视频讲座的计算机科学课程列表。 语言：未知星星：64643 叉子：8909]]></description>
+      <guid>https://github.com/Developer-Y/cs-video-courses</guid>
+      <pubDate>Wed, 10 Apr 2024 21:03:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>恩洛曼/json</title>
+      <link>https://github.com/nlohmann/json</link>
+      <description><![CDATA[现代 C++ 的 JSON 语言：C++ 星星：39891 叉子：6411]]></description>
+      <guid>https://github.com/nlohmann/json</guid>
+      <pubDate>Wed, 10 Apr 2024 21:03:58 GMT</pubDate>
     </item>
     <item>
       <title>ripienaar/免费开发</title>
       <link>https://github.com/ripienaar/free-for-dev</link>
-      <description><![CDATA[可免费开发的 SaaS、PaaS 和 IaaS 产品列表ps 和基础设施语言：HTML 星星：82880 叉子：8967]]></description>
+      <description><![CDATA[语言：HTML 星星：82897 叉子：8967]]></description>
       <guid>https://github.com/ripienaar/free-for-dev</guid>
-      <pubDate>Wed, 10 Apr 2024 18:08:35 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 21:03:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>帕万奥斯曼/ChatGPT</title>
+      <link>https://github.com/PawanOsman/ChatGPT</link>
+      <description><![CDATA[OpenAI API 免费反向代理语言：TypeScript 星星: 3195 货叉：557]]></description>
+      <guid>https://github.com/PawanOsman/ChatGPT</guid>
+      <pubDate>Wed, 10 Apr 2024 21:03:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
