@@ -4,7 +4,7 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 10 Apr 2024 15:05:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 18:09:37 GMT</lastBuildDate>
     <item>
       <title>Gladed - 将 Figma 设计转化为跟踪计划</title>
       <link>https://www.producthunt.com/posts/glazed</link>
@@ -69,13 +69,6 @@
       <pubDate>Wed, 10 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>smartly-io - 智能地陪伴您的客户</title>
-      <link>https://www.producthunt.com/posts/smartly-io</link>
-      <description><![CDATA[Smartly.io 是一个数字广告和创意管理平台，可自动化社交广告流程的每一步。这使管理层能够在各种社交媒体平台上制作和提供有效的体验。     imgix.net/864e3260-120c-424a-bb0b-46443267f596.svg?auto=format&amp;fit=crop&quot; /&gt;  &lt;img src=&quot;https://ph-files.imgix.net/4465896b-c579-4d4d-9095-daba1ac34031.svg?auto=format&amp;amp;fit=作物”/&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/smartly-io</guid>
-      <pubDate>Wed, 10 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>porter-cloud - 在 Porter 上构建您的 MVP，稍后弹出到 AWS/Azure/GCP</title>
       <link>https://www.producthunt.com/posts/porter-cloud</link>
       <description><![CDATA[为您的产品的最早版本构建的可弹出云。只需链接 Git 存储库，即可轻松在 Porter Cloud 上部署您的应用程序，并可以选择在扩展时弹出到 AWS、Azure 或 Google Cloud。    ]]></description>
@@ -83,10 +76,10 @@
       <pubDate>Wed, 10 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>mata-today - 为 Z 世代重新构想的新闻，提供快速、引人入胜的见解</title>
-      <link>https://www.producthunt.com/posts/mata-today</link>
-      <description><![CDATA[MATA 通过简短的个性化见解重新定义了 Z 世代的新闻。 MATA 快速、引人入胜且专为您的生活量身定制，只需几分钟即可带您畅游世界。发现、参与并掌握随您节奏变化的新闻。欢迎来到新闻的未来。   ]]></description>
-      <guid>https://www.producthunt.com/posts/mata-today</guid>
+      <title>smartly-io - 智能地陪伴您的客户</title>
+      <link>https://www.producthunt.com/posts/smartly-io</link>
+      <description><![CDATA[Smartly.io 是一个数字广告和创意管理平台，可自动化社交广告流程的每一步。这使管理层能够在各种社交媒体平台上制作和提供有效的体验。     imgix.net/864e3260-120c-424a-bb0b-46443267f596.svg?auto=format&amp;fit=crop&quot; /&gt;  &lt;img src=&quot;https://ph-files.imgix.net/4465896b-c579-4d4d-9095-daba1ac34031.svg?auto=format&amp;amp;fit=作物”/&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/smartly-io</guid>
       <pubDate>Wed, 10 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -94,6 +87,13 @@
       <link>https://www.producthunt.com/posts/casc</link>
       <description><![CDATA[Casc 是将来自第三方的零碎和孤立的知识粘合在一起的粘合剂，并允许员工和客户提出问题并在几秒钟内获得答案。可与 Slack、Microsoft Teams、Discord、UI 小部件和 API 访问一起使用，即将推出。   ]]></description>
       <guid>https://www.producthunt.com/posts/casc</guid>
+      <pubDate>Wed, 10 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>mata-today - 为 Z 世代重新构想的新闻，提供快速、引人入胜的见解</title>
+      <link>https://www.producthunt.com/posts/mata-today</link>
+      <description><![CDATA[MATA 通过简短的个性化见解重新定义了 Z 世代的新闻。 MATA 快速、引人入胜且专为您的生活量身定制，只需几分钟即可带您畅游世界。发现、参与并掌握随您节奏变化的新闻。欢迎来到新闻的未来。   ]]></description>
+      <guid>https://www.producthunt.com/posts/mata-today</guid>
       <pubDate>Wed, 10 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -159,7 +159,7 @@
     <item>
       <title>intellectia-ai - 人工智能驱动的股票研究平台，实现更智能的投资</title>
       <link>https://www.producthunt.com/posts/intellectia-ai</link>
-      <description><![CDATA[Intellectia.AI 通过人工智能驱动的简单性增强您的投资 — 轻松访问财务数据、探索主题、分析和决策。跟踪股票走势，接收热门股票推荐，并创建和创建股票。共享研究成果 - 全部在一个平台上。     ]]></description>
+      <description><![CDATA[Intellectia.AI 通过人工智能驱动的简单性增强您的投资 — 轻松访问财务数据、探索主题、分析和决策。跟踪股票走势，接收热门股票推荐，并创建和创建股票。分享研究成果 - 全部在一个平台上。     ]]></description>
       <guid>https://www.producthunt.com/posts/intellectia-ai</guid>
       <pubDate>Thu, 04 Apr 2024 07:11:28 GMT</pubDate>
     </item>
