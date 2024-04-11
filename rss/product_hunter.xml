@@ -4,7 +4,7 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 11 Apr 2024 18:08:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 21:03:03 GMT</lastBuildDate>
     <item>
       <title>google-vids - 人工智能驱动的工作视频创作</title>
       <link>https://www.producthunt.com/posts/google-vids</link>
@@ -48,6 +48,14 @@
       <pubDate>Thu, 11 Apr 2024 07:15:31 GMT</pubDate>
     </item>
     <item>
+      <title>paragraph-integrations-as-code - 为您的应用程序提供面向用户的 SaaS 集成，速度提高 7 倍</title>
+      <link>https://www.producthunt.com/posts/paragraph-integrations-as-code</link>
+      <description><![CDATA[使用 Paragraph 与用户的 SaaS 应用程序（即 Salesforce、Slack、Notion）集成速度提高 7 倍。
+我们的 Typescript 框架为开发人员提供了 Paragon 嵌入式 iPaaS 代码的优势 - 解锁更多可扩展性、版本控制等。      ]]></description>
+      <guid>https://www.producthunt.com/posts/paragraph-integrations-as-code</guid>
+      <pubDate>Thu, 11 Apr 2024 07:01:01 GMT</pubDate>
+    </item>
+    <item>
       <title>v7-go - 使用 GenAI 大规模、可靠地自动化多模式任务</title>
       <link>https://www.producthunt.com/posts/v7-go</link>
       <description><![CDATA[V7 Go 使用生成式人工智能来可靠且大规模地自动化任务和文档处理，从而使公司能够减轻后台工作的压力并专注于真正重要的事情。 V7 Go 将图像和文档转换为结构化数据。        ]]></description>
@@ -62,19 +70,19 @@
       <pubDate>Thu, 11 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>eezycollab - 人工智能驱动的影响者营销工具</title>
-      <link>https://www.producthunt.com/posts/eezycollab</link>
-      <description><![CDATA[影响者营销新手？使用 eezyCollab 尽快启动您的营销活动，这是一款人工智能驱动的工具，可以为您的利基市场找到最佳影响者，并快速发送批量电子邮件。只需描述您的产品，剩下的就由我们来处理！简单、快速且经济实惠。 🚀     ]]></description>
-      <guid>https://www.producthunt.com/posts/eezycollab</guid>
-      <pubDate>Thu, 11 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>recap-84a14514-d948-4cca-8763-346cb5568426 - 在 5 分钟内将您的 Slack 变成自动操作项目</title>
       <link>https://www.producthunt.com/posts/recap-84a14514-d948-4cca-8763-346cb5568426</link>
       <description><![CDATA[通过 Recap 重新利用您的时间！
 自动检测行动项目，获取松弛摘要和按需摘要。用自然语言添加个人任务，委托给他人；在一处管理这一切。
 轻松添加注释、设置提醒并保持任务井然有序。       ]]></description>
       <guid>https://www.producthunt.com/posts/recap-84a14514-d948-4cca-8763-346cb5568426</guid>
+      <pubDate>Thu, 11 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>eezycollab - 人工智能驱动的影响者营销工具</title>
+      <link>https://www.producthunt.com/posts/eezycollab</link>
+      <description><![CDATA[影响者营销新手？使用 eezyCollab 尽快启动您的营销活动，这是一款人工智能驱动的工具，可以为您的利基市场找到最佳影响者，并快速发送批量电子邮件。只需描述您的产品，剩下的就由我们来处理！简单、快速且经济实惠。 🚀     ]]></description>
+      <guid>https://www.producthunt.com/posts/eezycollab</guid>
       <pubDate>Thu, 11 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -117,6 +125,13 @@
 
 隆重推出 kachiiing：服务提供商向客户收取付款的简单、高效的工具，无需进行令人不快的金钱谈判。    ]]></description>
       <guid>https://www.producthunt.com/posts/kachiiing</guid>
+      <pubDate>Thu, 11 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>lando-ai - 使用 AI 在 30 秒内为您的应用程序生成登陆页面</title>
+      <link>https://www.producthunt.com/posts/lando-ai</link>
+      <description><![CDATA[Lando AI 是为您的移动应用程序生成登陆页面的最快方法。您所要做的就是删除应用程序的 App Store 或 Google Play 页面的链接，不到 30 秒，您就可以准备好登录页面！   &lt;img src=&quot;https://ph-files.imgix.net/37b61009-53a1-4cf6-903a-de929f197975.png?auto=format&amp;amp;fit=作物”/&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/lando-ai</guid>
       <pubDate>Thu, 11 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>

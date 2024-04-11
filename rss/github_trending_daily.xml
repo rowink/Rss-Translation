@@ -4,181 +4,181 @@
     <title>今日 GitHub 上的热门存储库 · GitHub</title>
     <link>https://github.com/trending/?since=daily&spoken_language_code=en</link>
     <description>今日 GitHub 上的热门存储库 · GitHub - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 11 Apr 2024 18:07:34 GMT</lastBuildDate>
-    <item>
-      <title>calcom/cal.com</title>
-      <link>https://github.com/calcom/cal.com</link>
-      <description><![CDATA[为所有人安排基础设施。 语言：TypeScript 星星：28393 叉子：6399]]></description>
-      <guid>https://github.com/calcom/cal.com</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:34 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Apr 2024 21:02:23 GMT</lastBuildDate>
     <item>
       <title>范例xyz/reth</title>
       <link>https://github.com/paradigmxyz/reth</link>
       <description><![CDATA[以太坊协议的模块化、贡献者友好且极快的实现， Rust 语言：Rust 星星：3108 叉子：735]]></description>
       <guid>https://github.com/paradigmxyz/reth</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:34 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 21:02:23 GMT</pubDate>
     </item>
     <item>
       <title>新总部</title>
       <link>https://github.com/novuhq/novu</link>
-      <description><![CDATA[🔥 具有功能齐全的嵌入式通知中心的开源通知基础架构 🚀🚀 🚀 语言：TypeScript 星星：32395 叉子：3372]]></description>
+      <description><![CDATA[🔥 具有功能齐全的嵌入式通知中心的开源通知基础架构 🚀🚀 🚀 语言：TypeScript 星星：32400 分叉：3372]]></description>
       <guid>https://github.com/novuhq/novu</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:33 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 21:02:22 GMT</pubDate>
     </item>
     <item>
       <title>siyuan-note/siyuan</title>
       <link>https://github.com/siyuan-note/siyuan</link>
-      <description><![CDATA[隐私优先、自托管、完全开源的个人知识管理软件，用 typescript 和 golang 编写。 语言：TypeScript 星星：15519 分叉：1161]]></description>
+      <description><![CDATA[隐私优先、自托管、完全开源的个人知识管理软件，用 typescript 和 golang 编写。 语言：TypeScript 星星：15529 分叉：1161]]></description>
       <guid>https://github.com/siyuan-note/siyuan</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:33 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 21:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>calcom/cal.com</title>
+      <link>https://github.com/calcom/cal.com</link>
+      <description><![CDATA[为所有人安排基础设施。 语言：TypeScript 星星：28399 分叉：6399]]></description>
+      <guid>https://github.com/calcom/cal.com</guid>
+      <pubDate>Thu, 11 Apr 2024 21:02:22 GMT</pubDate>
     </item>
     <item>
       <title>SerenityOS/serenity</title>
       <link>https://github.com/SerenityOS/serenity</link>
-      <description><![CDATA[Serenity 操作系统🐞 语言：C++ &lt; br /&gt;星星：28447 货叉：3034]]></description>
+      <description><![CDATA[Serenity 操作系统🐞 语言：C++ 星星：28450 货叉：3034]]></description>
       <guid>https://github.com/SerenityOS/serenity</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:32 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 21:02:21 GMT</pubDate>
     </item>
     <item>
       <title>dolthub/go-mysql-服务器</title>
       <link>https://github.com/dolthub/go-mysql-server</link>
-      <description><![CDATA[具有与存储无关的查询引擎的 MySQL 兼容关系数据库。用纯 Go 实现。 语言：Go 星星：1961 叉子：183]]></description>
+      <description><![CDATA[具有与存储无关的查询引擎的 MySQL 兼容关系数据库。用纯 Go 实现。 语言：Go 星星：1980 叉子：183]]></description>
       <guid>https://github.com/dolthub/go-mysql-server</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:32 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 21:02:21 GMT</pubDate>
     </item>
     <item>
       <title>ripienaar/免费开发</title>
       <link>https://github.com/ripienaar/free-for-dev</link>
-      <description><![CDATA[对开发人员和用户感兴趣的 SaaS、PaaS 和 IaaS 产品列表弗拉德夫语言：HTML 星星：83072 叉子：8995]]></description>
+      <description><![CDATA[对 devops 和基础设施感兴趣的 SaaS、PaaS 和 IaaS 产品列表开发者语言：HTML 星星：83113 叉子：8999]]></description>
       <guid>https://github.com/ripienaar/free-for-dev</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:32 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 21:02:21 GMT</pubDate>
     </item>
     <item>
       <title>苏帕巴塞</title>
       <link>https://github.com/supabase/supabase</link>
-      <description><![CDATA[开源 Firebase 替代方案。 语言：TypeScript 星星：65111 分叉：6055]]></description>
+      <description><![CDATA[开源 Firebase 替代方案。 语言：TypeScript 星星：65121 分叉：6056]]></description>
       <guid>https://github.com/supabase/supabase</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:31 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 21:02:20 GMT</pubDate>
     </item>
     <item>
       <title>奇迪威廉姆斯/巴兹</title>
       <link>https://github.com/chidiwilliams/buzz</link>
-      <description><![CDATA[Buzz 可在您的个人计算机上离线转录和翻译音频。由 OpenAI 的 Whisper 提供支持。 语言：Python 星星：9674 叉子：736]]></description>
+      <description><![CDATA[Buzz 可在您的个人计算机上离线转录和翻译音频。由 OpenAI 的 Whisper 提供支持。 语言：Python 星星：9681 叉子：737]]></description>
       <guid>https://github.com/chidiwilliams/buzz</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:31 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 21:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Huggingface/文本生成推理</title>
+      <link>https://github.com/huggingface/text-generation-inference</link>
+      <description><![CDATA[大型语言模型文本生成推理语言：Python 星星：7674 叉子：835]]></description>
+      <guid>https://github.com/huggingface/text-generation-inference</guid>
+      <pubDate>Thu, 11 Apr 2024 21:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>steven2358/awesome-generative-ai</title>
+      <link>https://github.com/steven2358/awesome-generative-ai</link>
+      <description><![CDATA[A curated list of modern Generative Artificial Intelligence projects and services 语言：未知星星：4610 叉子：482]]></description>
+      <guid>https://github.com/steven2358/awesome-generative-ai</guid>
+      <pubDate>Thu, 11 Apr 2024 21:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Coollabsio/coolify</title>
+      <link>https://github.com/coollabsio/coolify</link>
+      <description><![CDATA[一个开源&amp;自托管 Heroku / Netlify / Vercel 替代方案。 语言：PHP 星星：12755 叉子：670]]></description>
+      <guid>https://github.com/coollabsio/coolify</guid>
+      <pubDate>Thu, 11 Apr 2024 21:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>类型/类型</title>
+      <link>https://github.com/typeorm/typeorm</link>
+      <description><![CDATA[适用于 TypeScript 和 JavaScript 的 ORM。支持 MySQL、PostgreSQL、MariaDB、SQLite、MS SQL Server、Oracle、SAP Hana、WebSQL 数据库。适用于 NodeJS、浏览器、Ionic、Cordova 和 Electron 平台。 语言：TypeScript 星星：33218 分叉：6164]]></description>
+      <guid>https://github.com/typeorm/typeorm</guid>
+      <pubDate>Thu, 11 Apr 2024 21:02:18 GMT</pubDate>
     </item>
     <item>
       <title>有赞/万特</title>
       <link>https://github.com/youzan/vant</link>
       <description><![CDATA[用于移动 Web 应用的轻量级、可自定义的 Vue UI 库。 语言：TypeScript 星星：22677 分叉：9462]]></description>
       <guid>https://github.com/youzan/vant</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Huggingface/文本生成推理</title>
-      <link>https://github.com/huggingface/text-generation-inference</link>
-      <description><![CDATA[大型语言模型文本生成推理语言：Python 星星：7668 叉子：835]]></description>
-      <guid>https://github.com/huggingface/text-generation-inference</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>steven2358/awesome-generative-ai</title>
-      <link>https://github.com/steven2358/awesome-generative-ai</link>
-      <description><![CDATA[现代生成人工智能项目和服务的精选列表语言：未知星星：4606 叉子：482]]></description>
-      <guid>https://github.com/steven2358/awesome-generative-ai</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌/平面缓冲区</title>
-      <link>https://github.com/google/flatbuffers</link>
-      <description><![CDATA[FlatBuffers：内存高效序列化库语言：C++星星：21975叉子：3152]]></description>
-      <guid>https://github.com/google/flatbuffers</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Coollabsio/coolify</title>
-      <link>https://github.com/coollabsio/coolify</link>
-      <description><![CDATA[一个开源&amp;自托管 Heroku / Netlify / Vercel 替代方案。 语言：PHP 星星：12717 叉子：668]]></description>
-      <guid>https://github.com/coollabsio/coolify</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>类型/类型</title>
-      <link>https://github.com/typeorm/typeorm</link>
-      <description><![CDATA[适用于 TypeScript 和 JavaScript 的 ORM。支持 MySQL、PostgreSQL、MariaDB、SQLite、MS SQL Server、Oracle、SAP Hana、WebSQL 数据库。适用于 NodeJS、浏览器、Ionic、Cordova 和 Electron 平台。 语言：TypeScript 星星：33216 分叉：6163]]></description>
-      <guid>https://github.com/typeorm/typeorm</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:29 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 21:02:18 GMT</pubDate>
     </item>
     <item>
       <title>confluenceinc/librdkafka</title>
       <link>https://github.com/confluentinc/librdkafka</link>
       <description><![CDATA[Apache Kafka C/C++ 库语言： C 星星：7261 叉子：3104]]></description>
       <guid>https://github.com/confluentinc/librdkafka</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:28 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 21:02:17 GMT</pubDate>
     </item>
     <item>
       <title>bluenviron/mediamtx</title>
       <link>https://github.com/bluenviron/mediamtx</link>
-      <description><![CDATA[即用型 SRT / WebRTC / RTSP / RTMP / LL-HLS 媒体服务器和媒体代理，允许读取、发布、代理、记录和播放视频和音频流。 语言：Go 星星：9820 叉子：1286]]></description>
+      <description><![CDATA[即用型 SRT / WebRTC / RTSP / RTMP / LL-HLS 媒体服务器和媒体代理，允许读取、发布、代理、记录和播放视频和音频流。 语言：Go 星星：9821 叉子：1286]]></description>
       <guid>https://github.com/bluenviron/mediamtx</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:28 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 21:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌/平面缓冲区</title>
+      <link>https://github.com/google/flatbuffers</link>
+      <description><![CDATA[FlatBuffers：内存高效序列化库语言：C++星星：21978叉子：3152]]></description>
+      <guid>https://github.com/google/flatbuffers</guid>
+      <pubDate>Thu, 11 Apr 2024 21:02:17 GMT</pubDate>
     </item>
     <item>
       <title>普罗米修斯/node_exporter</title>
       <link>https://github.com/prometheus/node_exporter</link>
-      <description><![CDATA[机器指标的导出器语言：Go 星星：10 210 &lt; br/&gt;货叉：2254]]></description>
+      <description><![CDATA[机器指标的导出器语言：Go 星星： 10211&lt; br/&gt;货叉：2254]]></description>
       <guid>https://github.com/prometheus/node_exporter</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:27 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 21:02:16 GMT</pubDate>
     </item>
     <item>
       <title>PSF/黑色</title>
       <link>https://github.com/psf/black</link>
-      <description><![CDATA[不折不扣的 Python 代码格式化程序语言： Python 星星：37299 叉子：2365]]></description>
+      <description><![CDATA[不折不扣的 Python 代码格式化程序语言： Python 星星：37302 叉子：2365]]></description>
       <guid>https://github.com/psf/black</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:27 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 21:02:16 GMT</pubDate>
     </item>
     <item>
       <title>使用备忘录/备忘录</title>
       <link>https://github.com/usememos/memos</link>
-      <description><![CDATA[一个开源的轻量级笔记服务。轻松捕捉并分享您的精彩想法。 语言：Go 星星：26830 叉子：1941]]></description>
+      <description><![CDATA[一个开源的轻量级笔记服务。轻松捕捉并分享您的精彩想法。 语言：Go 星星：26837 叉子：1942]]></description>
       <guid>https://github.com/usememos/memos</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:27 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 21:02:16 GMT</pubDate>
     </item>
     <item>
       <title>vinta/很棒的Python</title>
       <link>https://github.com/vinta/awesome-python</link>
-      <description><![CDATA[很棒的 Python 框架、库、软件和资源的固执己见的列表。 语言：Python 星星：203677 叉子：24413]]></description>
+      <description><![CDATA[很棒的 Python 框架、库、软件和资源的固执列表。 语言：Python 星星：203704 叉子：24416]]></description>
       <guid>https://github.com/vinta/awesome-python</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:26 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 21:02:15 GMT</pubDate>
     </item>
     <item>
       <title>朵拉-RS/朵拉</title>
       <link>https://github.com/dora-rs/dora</link>
-      <description><![CDATA[人工智能和机器人应用程序的低延迟、可组合和分布式数据流语言：Rust 星星：822 叉子：36]]></description>
+      <description><![CDATA[人工智能和机器人应用程序的低延迟、可组合和分布式数据流语言：Rust 星星：829 叉子：36]]></description>
       <guid>https://github.com/dora-rs/dora</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:26 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 21:02:15 GMT</pubDate>
     </item>
     <item>
       <title>mbed-TLS/mbedtls</title>
       <link>https://github.com/Mbed-TLS/mbedtls</link>
       <description><![CDATA[一个开源、可移植、易于使用、可读且灵活的 TLS 库以及该库的参考实现PSA 加密 API。发布的节奏各不相同，通常两次发布之间的间隔约为 3 - 6 个月。 语言：C 星星：4885 前叉：2452]]></description>
       <guid>https://github.com/Mbed-TLS/mbedtls</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:26 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 21:02:15 GMT</pubDate>
     </item>
     <item>
       <title>恩洛曼/json</title>
       <link>https://github.com/nlohmann/json</link>
-      <description><![CDATA[现代 C++ 的 JSON 语言：C++ 星星：39910 叉子：6415]]></description>
+      <description><![CDATA[现代 C++ 的 JSON 语言：C++ 星星：39920 叉子：6415]]></description>
       <guid>https://github.com/nlohmann/json</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:25 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 21:02:14 GMT</pubDate>
     </item>
     <item>
       <title>帕万奥斯曼/ChatGPT</title>
       <link>https://github.com/PawanOsman/ChatGPT</link>
-      <description><![CDATA[OpenAI API 免费反向代理语言：TypeScript 星星：328 1 货叉：572]]></description>
+      <description><![CDATA[OpenAI API 免费反向代理语言：TypeScript 星星： 3306 货叉：574]]></description>
       <guid>https://github.com/PawanOsman/ChatGPT</guid>
-      <pubDate>Thu, 11 Apr 2024 18:07:25 GMT</pubDate>
+      <pubDate>Thu, 11 Apr 2024 21:02:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
