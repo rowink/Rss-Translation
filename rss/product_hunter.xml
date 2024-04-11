@@ -4,7 +4,7 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 10 Apr 2024 21:04:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 00:29:26 GMT</lastBuildDate>
     <item>
       <title>Gladed - 将 Figma 设计转化为跟踪计划</title>
       <link>https://www.producthunt.com/posts/glazed</link>
@@ -48,17 +48,17 @@
       <pubDate>Wed, 10 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>matilda-workspace-preview - 当你的工具很复杂时很难快速移动</title>
-      <link>https://www.producthunt.com/posts/matilda-workspace-preview</link>
-      <description><![CDATA[我们将世界上最优秀的团队联系起来，让他们可以在任何地方一起工作。在 Matilda，我们相信在不影响功能或灵活性的情况下简化工作。文档、项目、表格、聊天、客户、副驾驶 - 每个工具都直观连接的工作区。       ]]></description>
-      <guid>https://www.producthunt.com/posts/matilda-workspace-preview</guid>
-      <pubDate>Wed, 10 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>infinity-ai - 输入脚本，输出视频</title>
       <link>https://www.producthunt.com/posts/infinity-ai</link>
       <description><![CDATA[Infinity 是一款人工智能视频生成工具，可让您输入脚本并输出视频。例如，只需几分钟，您就可以制作金·卡戴珊 (Kim Kardashian) 教授的数学课或埃隆·马斯克 (Elon Musk) 主演的麦克贝斯 (MacBeth) 戏剧。   ]]></description>
       <guid>https://www.producthunt.com/posts/infinity-ai</guid>
+      <pubDate>Wed, 10 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>matilda-workspace-preview - 当你的工具很复杂时很难快速移动</title>
+      <link>https://www.producthunt.com/posts/matilda-workspace-preview</link>
+      <description><![CDATA[我们将世界上最优秀的团队联系起来，让他们可以在任何地方一起工作。在 Matilda，我们相信在不影响功能或灵活性的情况下简化工作。文档、项目、表格、聊天、客户、副驾驶 - 每个工具都直观连接的工作区。       ]]></description>
+      <guid>https://www.producthunt.com/posts/matilda-workspace-preview</guid>
       <pubDate>Wed, 10 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -69,10 +69,17 @@
       <pubDate>Wed, 10 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>porter-cloud - 在 Porter 上构建您的 MVP，稍后弹出到 AWS/Azure/GCP</title>
+      <title>porter-cloud - 在 Porter 上构建 MVP，稍后弹出到 AWS/Azure/GCP</title>
       <link>https://www.producthunt.com/posts/porter-cloud</link>
-      <description><![CDATA[为您的产品的最早版本构建的可弹出云。只需链接 Git 存储库，即可轻松在 Porter Cloud 上部署您的应用程序，并可以选择在扩展时弹出到 AWS、Azure 或 Google Cloud。    ]]></description>
+      <description><![CDATA[为您的产品的最早版本构建的可弹出云。只需链接 Git 存储库，即可轻松在 Porter Cloud 上部署您的应用程序，并且可以选择在扩展时弹出到 AWS、Azure 或 Google Cloud。    ]]></description>
       <guid>https://www.producthunt.com/posts/porter-cloud</guid>
+      <pubDate>Wed, 10 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>casc - 在几秒钟内访问和扩展全公司的知识</title>
+      <link>https://www.producthunt.com/posts/casc</link>
+      <description><![CDATA[Casc 是将来自第三方的零碎和孤立的知识粘合在一起的粘合剂，并允许员工和客户提出问题并在几秒钟内获得答案。与 Slack、Microsoft Teams、Discord、UI 小部件和 API 访问功能即将推出。   ]]></description>
+      <guid>https://www.producthunt.com/posts/casc</guid>
       <pubDate>Wed, 10 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -80,13 +87,6 @@
       <link>https://www.producthunt.com/posts/smartly-io</link>
       <description><![CDATA[Smartly.io 是一个数字广告和创意管理平台，可自动化社交广告流程的每一步。这使管理层能够在各种社交媒体平台上制作和提供有效的体验。     imgix.net/864e3260-120c-424a-bb0b-46443267f596.svg?auto=format&amp;fit=crop&quot; /&gt;  &lt;img src=&quot;https://ph-files.imgix.net/4465896b-c579-4d4d-9095-daba1ac34031.svg?auto=format&amp;amp;fit=作物”/&gt;]]></description>
       <guid>https://www.producthunt.com/posts/smartly-io</guid>
-      <pubDate>Wed, 10 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>casc - 在几秒钟内访问和扩展全公司的知识</title>
-      <link>https://www.producthunt.com/posts/casc</link>
-      <description><![CDATA[Casc 是将来自第三方的零碎和孤立的知识粘合在一起的粘合剂，并允许员工和客户提出问题并在几秒钟内获得答案。可与 Slack、Microsoft Teams、Discord、UI 小部件和 API 访问一起使用，即将推出。   ]]></description>
-      <guid>https://www.producthunt.com/posts/casc</guid>
       <pubDate>Wed, 10 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -159,7 +159,7 @@
     <item>
       <title>intellectia-ai - 人工智能驱动的股票研究平台，实现更智能的投资</title>
       <link>https://www.producthunt.com/posts/intellectia-ai</link>
-      <description><![CDATA[Intellectia.AI 通过人工智能驱动的简单性增强您的投资 — 轻松访问财务数据、探索主题、分析和决策。跟踪股票走势，接收热门股票推荐，并创建和创建股票。分享研究成果 - 全部在一个平台上。     ]]></description>
+      <description><![CDATA[Intellectia.AI 通过人工智能驱动的简单性增强您的投资 — 轻松访问财务数据、探索主题、分析和决策。跟踪股票走势，接收热门股票推荐，并创建和创建股票。共享研究成果 - 全部在一个平台上。     ]]></description>
       <guid>https://www.producthunt.com/posts/intellectia-ai</guid>
       <pubDate>Thu, 04 Apr 2024 07:11:28 GMT</pubDate>
     </item>
@@ -192,7 +192,7 @@
       <pubDate>Tue, 02 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>圈子搜索——从奇迹到智慧，只需一拖</title>
+      <title>循环搜索——从奇迹到智慧，只需一拖</title>
       <link>https://www.producthunt.com/posts/circle-to-search</link>
       <description><![CDATA[它是一个扩展，可让您选择您感兴趣的内容，并通过简单的圈选来获取更多信息。您还可以向内置人工智能助手询问更多见解。这是一种无需离开页面或复制粘贴即可在浏览器中搜索任何内容的新方法。     ]]></description>
       <guid>https://www.producthunt.com/posts/circle-to-search</guid>
