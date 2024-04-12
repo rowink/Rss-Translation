@@ -4,7 +4,7 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 12 Apr 2024 18:04:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 21:10:26 GMT</lastBuildDate>
     <item>
       <title>What-is-the-time-3 - 时区、世界时钟、计划会议，无需心算</title>
       <link>https://www.producthunt.com/posts/what-is-the-time-3</link>
@@ -38,7 +38,7 @@
       <pubDate>Fri, 12 Apr 2024 12:53:53 GMT</pubDate>
     </item>
     <item>
-      <title>dovetail-magic - 将客户数据转化为像魔术一样的见解</title>
+      <title>dovetail-magic - 将客户数据转化为像魔法一样的见解</title>
       <link>https://www.producthunt.com/posts/dovetail-magic</link>
       <description><![CDATA[Dovetail 是专注于客户的团队使用的洞察中心。凭借七个新的神奇功能，现在只需点击几下即可将杂乱的客户数据转化为引人入胜的见解。    ]]></description>
       <guid>https://www.producthunt.com/posts/dovetail-magic</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>api-patrol - 在 30 秒内创建 API 和网站正常运行时间警报</title>
       <link>https://www.producthunt.com/posts/api-patrol</link>
-      <description><![CDATA[借助 API Patrol，您可以在 30 秒内创建 API 和网站正常运行时间警报，并在发生停机时通过电子邮件、短信、Slack、Teams 或 Webhooks 收到通知。   &lt;img src=&quot;https://ph-files.imgix.net/4b21d338-3d88-4649-a7d0-e9e180f79f03.png?auto=format&amp;amp;fit =作物”/&gt;]]></description>
+      <description><![CDATA[借助 API Patrol，您可以在 30 秒内创建 API 和网站正常运行时间警报，并在发生停机时通过电子邮件、短信、Slack、Teams 或 Webhook 收到通知。   &lt;img src=&quot;https://ph-files.imgix.net/4b21d338-3d88-4649-a7d0-e9e180f79f03.png?auto=format&amp;amp;fit =作物”/&gt;]]></description>
       <guid>https://www.producthunt.com/posts/api-patrol</guid>
       <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -94,13 +94,6 @@
       <link>https://www.producthunt.com/posts/chapter-one-ai</link>
       <description><![CDATA[第一章允许您上传简历以及您想要获得的职位。然后，我们将对您的简历进行深入审查，其中包括对您的简历是否适合您想要获得的工作的总体评分。   &lt;img src=&quot;https://ph-files.imgix.net/f32e8d7f-af0a-48cc-a969-665bdcc93a6f.png?auto=format&amp;amp;fit=crop ” /&gt;]]></description>
       <guid>https://www.producthunt.com/posts/chapter-one-ai</guid>
-      <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>getmyfolio - 适用于您的作品集网站的 CMS</title>
-      <link>https://www.producthunt.com/posts/getmyfolio</link>
-      <description><![CDATA[通过我们用户友好的界面在几分钟内建立您的投资组合。无需编码或设计技能。或者，将其用作您自己构建的作品集网站的 CMS。     ]]></description>
-      <guid>https://www.producthunt.com/posts/getmyfolio</guid>
       <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -118,10 +111,10 @@
       <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>knoiz - 在几秒钟内创建您的下一个 Spotify 播放列表。</title>
-      <link>https://www.producthunt.com/posts/knoiz</link>
-      <description><![CDATA[Knoiz 是一款基于人工智能的基于关键字的播放列表创建应用程序。输入您的关键字，播放列表将自动创建并添加到您的 Spotify 帐户的播放列表选项卡下。     ]]></description>
-      <guid>https://www.producthunt.com/posts/knoiz</guid>
+      <title>getmyfolio - 适用于您的作品集网站的 CMS</title>
+      <link>https://www.producthunt.com/posts/getmyfolio</link>
+      <description><![CDATA[通过我们用户友好的界面在几分钟内建立您的投资组合。无需编码或设计技能。或者，将其用作您自己构建的作品集网站的 CMS。     ]]></description>
+      <guid>https://www.producthunt.com/posts/getmyfolio</guid>
       <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -132,11 +125,18 @@
       <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
+      <title>knoiz - 在几秒钟内创建您的下一个 Spotify 播放列表。</title>
+      <link>https://www.producthunt.com/posts/knoiz</link>
+      <description><![CDATA[Knoiz 是一款基于人工智能的基于关键字的播放列表创建应用程序。输入您的关键字，播放列表将自动创建并添加到您的 Spotify 帐户的播放列表选项卡下。     ]]></description>
+      <guid>https://www.producthunt.com/posts/knoiz</guid>
+      <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
       <title>erbut - 简单、优雅，永远属于您！</title>
       <link>https://www.producthunt.com/posts/erbut</link>
       <description><![CDATA[生物工具中最好的链接，你可以说否则或者自己去尝试一下！
 
-我们有以下独特之处：
+我们有以下独特的特点：
 - 子域名，您的名字在前，然后是我们的！
 - 添加到 Apple Wallet®
 - 酷炫的用户界面，让您的眼睛保持良好状态 👀   ]]></description>
@@ -144,17 +144,17 @@
       <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>google-axion - Google 第一个专为数据中心设计的基于 Arm 的定制 CPU</title>
-      <link>https://www.producthunt.com/posts/google-axion</link>
-      <description><![CDATA[基于 Axion Arm 的定制处理器专为通用工作负载而设计，例如 Web 和应用服务器、数据库、分析、基于 CPU 的人工智能等。  ]]></description>
-      <guid>https://www.producthunt.com/posts/google-axion</guid>
-      <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>storyspec - 在几秒钟内将用户故事转换为综合规范</title>
       <link>https://www.producthunt.com/posts/storyspec</link>
       <description><![CDATA[非常适合产品经理、开发人员、QA 专家以及参与软件开发生命周期的任何人。如果您希望提高项目的效率、清晰度和一致性，Story Spec 是您的首选工具。   ]]></description>
       <guid>https://www.producthunt.com/posts/storyspec</guid>
+      <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>google-axion - Google 第一个专为数据中心设计的基于 Arm 的定制 CPU</title>
+      <link>https://www.producthunt.com/posts/google-axion</link>
+      <description><![CDATA[基于 Axion Arm 的定制处理器专为通用工作负载而设计，例如 Web 和应用服务器、数据库、分析、基于 CPU 的人工智能等。  ]]></description>
+      <guid>https://www.producthunt.com/posts/google-axion</guid>
       <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -176,23 +176,6 @@
       <link>https://www.producthunt.com/posts/mtia-v2</link>
       <description><![CDATA[推出下一代元训练和推理加速器 (MTIA)，这是我们定制芯片系列中的下一代产品，专为 Meta 的 AI 工作负载而设计。    ]]></description>
       <guid>https://www.producthunt.com/posts/mtia-v2</guid>
-      <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ezmeal-private-calorie-app - 确保您的饮食和健康数据在您的设备上安全</title>
-      <link>https://www.producthunt.com/posts/ezmeal-private-calorie-app</link>
-      <description><![CDATA[简单的卡路里应用程序。不需要花哨的功能，只需做好它的工作即可。
-将健康数据存储在设备上。
-无广告。没有购买。没有订阅。
-无需帐户
-卡路里记录
-体重记录
-扫描菜单
-定制收据
-扫码机
-禁食模式
-历史查询      ]]></description>
-      <guid>https://www.producthunt.com/posts/ezmeal-private-calorie-app</guid>
       <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -227,7 +210,7 @@
     <item>
       <title>eezycollab - 人工智能驱动的影响者营销工具</title>
       <link>https://www.producthunt.com/posts/eezycollab</link>
-      <description><![CDATA[影响者营销新手？使用 eezyCollab 尽快启动您的营销活动，这是一款人工智能驱动的工具，可以为您的利基市场找到最佳影响者，并快速发送批量电子邮件。只需描述您的产品，剩下的就由我们来处理！简单、快速且经济实惠。 🚀     ]]></description>
+      <description><![CDATA[影响者营销新手？使用 eezyCollab 尽快启动您的营销活动，这是一款人工智能驱动的工具，可以为您的利基市场找到最佳影响者，并快速发送大量电子邮件。只需描述您的产品，剩下的就由我们来处理！简单、快速且经济实惠。 🚀     ]]></description>
       <guid>https://www.producthunt.com/posts/eezycollab</guid>
       <pubDate>Thu, 11 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -276,7 +259,7 @@
       <pubDate>Tue, 02 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>圈子搜索——从奇迹到智慧，只需一拖</title>
+      <title>循环搜索——从奇迹到智慧，只需一拖</title>
       <link>https://www.producthunt.com/posts/circle-to-search</link>
       <description><![CDATA[它是一个扩展，可让您选择您感兴趣的内容，并通过简单的圈选来获取更多信息。您还可以向内置人工智能助手询问更多见解。这是一种无需离开页面或复制粘贴即可在浏览器中搜索任何内容的新方法。     ]]></description>
       <guid>https://www.producthunt.com/posts/circle-to-search</guid>
