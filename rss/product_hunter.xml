@@ -4,7 +4,7 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 12 Apr 2024 15:03:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 18:04:27 GMT</lastBuildDate>
     <item>
       <title>What-is-the-time-3 - 时区、世界时钟、计划会议，无需心算</title>
       <link>https://www.producthunt.com/posts/what-is-the-time-3</link>
@@ -90,13 +90,6 @@
       <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>stock-4 - 初创公司的股权专家</title>
-      <link>https://www.producthunt.com/posts/stake-4</link>
-      <description><![CDATA[初创公司的股票专家——我们管理您的股权结构表、执行 409A 估值、创建退出和退出机制。清算模型，并加大筹款力度 ]]></description>
-      <guid>https://www.producthunt.com/posts/stake-4</guid>
-      <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Chapter-one-ai - 通过 AI 进行简历分析</title>
       <link>https://www.producthunt.com/posts/chapter-one-ai</link>
       <description><![CDATA[第一章允许您上传简历以及您想要获得的职位。然后，我们将对您的简历进行深入审查，其中包括对您的简历是否适合您想要获得的工作的总体评分。   &lt;img src=&quot;https://ph-files.imgix.net/f32e8d7f-af0a-48cc-a969-665bdcc93a6f.png?auto=format&amp;amp;fit=crop ” /&gt;]]></description>
@@ -118,17 +111,17 @@
       <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>knoiz - 在几秒钟内创建您的下一个 Spotify 播放列表。</title>
-      <link>https://www.producthunt.com/posts/knoiz</link>
-      <description><![CDATA[Knoiz 是一款基于人工智能的基于关键字的播放列表创建应用程序。输入您的关键字，播放列表将自动创建并添加到您的 Spotify 帐户的播放列表选项卡下。     ]]></description>
-      <guid>https://www.producthunt.com/posts/knoiz</guid>
-      <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>twibook - Twitter 书签替代品</title>
       <link>https://www.producthunt.com/posts/twibook</link>
       <description><![CDATA[创建、排序、过滤和组织您的 Twitter 书签    ]]></description>
       <guid>https://www.producthunt.com/posts/twibook</guid>
+      <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>knoiz - 在几秒钟内创建您的下一个 Spotify 播放列表。</title>
+      <link>https://www.producthunt.com/posts/knoiz</link>
+      <description><![CDATA[Knoiz 是一款基于人工智能的基于关键字的播放列表创建应用程序。输入您的关键字，播放列表将自动创建并添加到您的 Spotify 帐户的播放列表选项卡下。     ]]></description>
+      <guid>https://www.producthunt.com/posts/knoiz</guid>
       <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -151,13 +144,6 @@
       <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>humanizer-me - 用你的声音构建未来</title>
-      <link>https://www.producthunt.com/posts/humanizer-me</link>
-      <description><![CDATA[寻找提示设计工具、集成 OpenAI 的聊天机器人、集成 GPTZero 的人工智能生成内容检测器和人性化工具的独特平台是一个创新的创业理念，旨在彻底改变人们与技术交互的方式。   ]]></description>
-      <guid>https://www.producthunt.com/posts/humanizer-me</guid>
-      <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>google-axion - Google 第一个专为数据中心设计的基于 Arm 的定制 CPU</title>
       <link>https://www.producthunt.com/posts/google-axion</link>
       <description><![CDATA[基于 Axion Arm 的定制处理器专为通用工作负载而设计，例如 Web 和应用服务器、数据库、分析、基于 CPU 的人工智能等。  ]]></description>
@@ -172,10 +158,24 @@
       <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
+      <title>humanizer-me - 用你的声音构建未来</title>
+      <link>https://www.producthunt.com/posts/humanizer-me</link>
+      <description><![CDATA[寻找提示设计工具、集成 OpenAI 的聊天机器人、集成 GPTZero 的人工智能生成内容检测器和人性化工具的独特平台是一个创新的创业理念，旨在彻底改变人们与技术交互的方式。   ]]></description>
+      <guid>https://www.producthunt.com/posts/humanizer-me</guid>
+      <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
       <title>宁静的广阔 - 你的正念日记</title>
       <link>https://www.producthunt.com/posts/tranquil-expanse</link>
       <description><![CDATA[在 Tranquil Expanse，我们相信引导日记的变革力量，重点关注正念和彻底接受的深刻实践。     ]]></description>
       <guid>https://www.producthunt.com/posts/tranquil-expanse</guid>
+      <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>mtia-v2 - 元训练和推理加速器</title>
+      <link>https://www.producthunt.com/posts/mtia-v2</link>
+      <description><![CDATA[推出下一代元训练和推理加速器 (MTIA)，这是我们定制芯片系列中的下一代产品，专为 Meta 的 AI 工作负载而设计。    ]]></description>
+      <guid>https://www.producthunt.com/posts/mtia-v2</guid>
       <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -193,13 +193,6 @@
 禁食模式
 历史查询      ]]></description>
       <guid>https://www.producthunt.com/posts/ezmeal-private-calorie-app</guid>
-      <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>mtia-v2 - 元训练和推理加速器</title>
-      <link>https://www.producthunt.com/posts/mtia-v2</link>
-      <description><![CDATA[推出下一代元训练和推理加速器 (MTIA)，这是我们定制芯片系列中的下一代产品，专为 Meta 的 AI 工作负载而设计。    ]]></description>
-      <guid>https://www.producthunt.com/posts/mtia-v2</guid>
       <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
