@@ -4,181 +4,181 @@
     <title>今日 GitHub 上的热门存储库 · GitHub</title>
     <link>https://github.com/trending/?since=daily&spoken_language_code=en</link>
     <description>今日 GitHub 上的热门存储库 · GitHub - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 13 Apr 2024 18:06:14 GMT</lastBuildDate>
-    <item>
-      <title>BlackINT3/OpenArk</title>
-      <link>https://github.com/BlackINT3/OpenArk</link>
-      <description><![CDATA[适用于 Windows 的下一代 Anti-Rookit(ARK) 工具。 语言：C++ 星星：6855 叉子：744]]></description>
-      <guid>https://github.com/BlackINT3/OpenArk</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:13 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Apr 2024 21:02:05 GMT</lastBuildDate>
     <item>
       <title>石蜡/tesseract.js</title>
       <link>https://github.com/naptha/tesseract.js</link>
-      <description><![CDATA[适用于 100 多种语言的纯 Javascript OCR 📖🎉🖥  语言：JavaScript 星星：33303 叉子：2123]]></description>
+      <description><![CDATA[适用于 100 多种语言的纯 Javascript OCR 📖🎉🖥  语言：JavaScript 星星：33308 叉子：2123]]></description>
       <guid>https://github.com/naptha/tesseract.js</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>商店用品/商店用品</title>
-      <link>https://github.com/shopware/shopware</link>
-      <description><![CDATA[Shopware 6 是一个基于 Symfony Framework 和 Vue 并支持的开放商务平台由全球社区和超过 1,500 个社区扩展语言：PHP 星星：2596 分叉：955]]></description>
-      <guid>https://github.com/shopware/shopware</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:12 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 21:02:05 GMT</pubDate>
     </item>
     <item>
       <title>mui/material-ui</title>
       <link>https://github.com/mui/material-ui</link>
-      <description><![CDATA[MaterialUI：即用型基础 React 组件，永久免费。它包括 Material UI，它实现了 Google 的 Material Design。 语言：TypeScript 星星：91448 分叉：31382]]></description>
+      <description><![CDATA[MaterialUI：即用型基础 React 组件，永久免费。它包括 Material UI，它实现了 Google 的 Material Design。 语言：TypeScript 星星：91448 分叉：31383]]></description>
       <guid>https://github.com/mui/material-ui</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:12 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 21:02:04 GMT</pubDate>
     </item>
     <item>
       <title>PSF/黑色</title>
       <link>https://github.com/psf/black</link>
       <description><![CDATA[不折不扣的 Python 代码格式化程序语言： Python 星星：37323 叉子：2365]]></description>
       <guid>https://github.com/psf/black</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:12 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 21:02:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>BlackINT3/OpenArk</title>
+      <link>https://github.com/BlackINT3/OpenArk</link>
+      <description><![CDATA[适用于 Windows 的下一代 Anti-Rookit(ARK) 工具。 语言：C++ 星星：6856 叉子：744]]></description>
+      <guid>https://github.com/BlackINT3/OpenArk</guid>
+      <pubDate>Sat, 13 Apr 2024 21:02:04 GMT</pubDate>
     </item>
     <item>
       <title>电源外壳/电源外壳</title>
       <link>https://github.com/PowerShell/PowerShell</link>
       <description><![CDATA[适用于每个系统的 PowerShell！ 语言：C# 星星：43203 叉子：7010]]></description>
       <guid>https://github.com/PowerShell/PowerShell</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:11 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 21:02:03 GMT</pubDate>
     </item>
     <item>
       <title>mbed-TLS/mbedtls</title>
       <link>https://github.com/Mbed-TLS/mbedtls</link>
-      <description><![CDATA[一个开源、可移植、易于使用、可读且灵活的 TLS 库，以及该库的参考实现PSA 加密 API。发布的节奏各不相同，通常发布之间的间隔约为 3 - 6 个月。 语言：C 星星：4890 前叉：2454]]></description>
+      <description><![CDATA[一个开源、可移植、易于使用、可读且灵活的 TLS 库，以及该库的参考实现PSA 加密 API。发布的节奏各不相同，通常两次发布之间的间隔约为 3 - 6 个月。 语言：C 星星：4890 前叉：2454]]></description>
       <guid>https://github.com/Mbed-TLS/mbedtls</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:11 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 21:02:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>商店用品/商店用品</title>
+      <link>https://github.com/shopware/shopware</link>
+      <description><![CDATA[Shopware 6 是一个基于 Symfony Framework 和 Vue 并支持的开放商务平台由全球社区和超过 1,500 个社区扩展语言：PHP 星星：2596 分叉：955]]></description>
+      <guid>https://github.com/shopware/shopware</guid>
+      <pubDate>Sat, 13 Apr 2024 21:02:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>vinta/很棒的Python</title>
+      <link>https://github.com/vinta/awesome-python</link>
+      <description><![CDATA[很棒的 Python 框架、库、软件和资源的固执列表。 语言：Python 星星：203969 叉子：24437]]></description>
+      <guid>https://github.com/vinta/awesome-python</guid>
+      <pubDate>Sat, 13 Apr 2024 21:02:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>序数/顺序</title>
+      <link>https://github.com/ordinals/ord</link>
+      <description><![CDATA[👁‍🗨 稀有而奇异的卫星语言：Rust 星星: 3299 前叉: 1131]]></description>
+      <guid>https://github.com/ordinals/ord</guid>
+      <pubDate>Sat, 13 Apr 2024 21:02:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAPI 工具/openapi-generator</title>
+      <link>https://github.com/OpenAPITools/openapi-generator</link>
+      <description><![CDATA[OpenAPI Generator 允许自动生成 API 客户端库（SDK 生成）、服务器存根、文档和配置OpenAPI 规范（v2、v3）语言：Java 星星：19727 分叉：6070]]></description>
+      <guid>https://github.com/OpenAPITools/openapi-generator</guid>
+      <pubDate>Sat, 13 Apr 2024 21:02:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>axios/axios</title>
+      <link>https://github.com/axios/axios</link>
+      <description><![CDATA[浏览器和node.js基于Promise的HTTP客户端语言：JavaScript &lt; br /&gt;星星：103914 叉子：10701]]></description>
+      <guid>https://github.com/axios/axios</guid>
+      <pubDate>Sat, 13 Apr 2024 21:02:01 GMT</pubDate>
     </item>
     <item>
       <title>ClickHouse/ClickHouse</title>
       <link>https://github.com/ClickHouse/ClickHouse</link>
       <description><![CDATA[ClickHouse® 是一款免费的大数据分析 DBMS 语言：C++ 星星：33966 叉子：6440]]></description>
       <guid>https://github.com/ClickHouse/ClickHouse</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>vinta/很棒的Python</title>
-      <link>https://github.com/vinta/awesome-python</link>
-      <description><![CDATA[很棒的 Python 框架、库、软件和资源的固执列表。 语言：Python 星星：203963 叉子：24437]]></description>
-      <guid>https://github.com/vinta/awesome-python</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>序数词/顺序</title>
-      <link>https://github.com/ordinals/ord</link>
-      <description><![CDATA[👁‍🗨 稀有且充满异国情调的卫星语言：Rust 星星: 3298 货叉: 1131]]></description>
-      <guid>https://github.com/ordinals/ord</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAPI 工具/openapi-generator</title>
-      <link>https://github.com/OpenAPITools/openapi-generator</link>
-      <description><![CDATA[OpenAPI Generator 允许自动生成 API 客户端库（SDK 生成）、服务器存根、文档和配置OpenAPI 规范（v2、v3）语言：Java 星星：19726 分叉：6070]]></description>
-      <guid>https://github.com/OpenAPITools/openapi-generator</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>axios/axios</title>
-      <link>https://github.com/axios/axios</link>
-      <description><![CDATA[浏览器和node.js的基于Promise的HTTP客户端语言：JavaScript &lt; br /&gt;星星：103912 叉子：10703]]></description>
-      <guid>https://github.com/axios/axios</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿帕奇/赫兹节拍</title>
-      <link>https://github.com/apache/hertzbeat</link>
-      <description><![CDATA[HertzBeat是一个无代理、性能集群、prometheus的实时监控系统- 兼容、自定义监控和状态页面构建功能。 语言：Java 星星：4478 叉子：786]]></description>
-      <guid>https://github.com/apache/hertzbeat</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>冰鲸科技/CasaOS</title>
-      <link>https://github.com/IceWhaleTech/CasaOS</link>
-      <description><![CDATA[CasaOS - 一个简单、易于使用、优雅的开源个人云系统。 语言：Go 星星：21735 叉子：1169]]></description>
-      <guid>https://github.com/IceWhaleTech/CasaOS</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:08 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 21:02:01 GMT</pubDate>
     </item>
     <item>
       <title>NVIDIA/开放 GPU 内核模块</title>
       <link>https://github.com/NVIDIA/open-gpu-kernel-modules</link>
-      <description><![CDATA[NVIDIA Linux开放GPU内核模块源码语言： C 星星：13878 叉子：1114]]></description>
+      <description><![CDATA[NVIDIA Linux开放GPU内核模块源码语言： C 星星：13879 叉子：1114]]></description>
       <guid>https://github.com/NVIDIA/open-gpu-kernel-modules</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:08 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 21:02:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿帕奇/赫兹节拍</title>
+      <link>https://github.com/apache/hertzbeat</link>
+      <description><![CDATA[HertzBeat是一个无代理、性能集群、prometheus的实时监控系统- 兼容、自定义监控和状态页面构建功能。 语言：Java 星星：4479 叉子：786]]></description>
+      <guid>https://github.com/apache/hertzbeat</guid>
+      <pubDate>Sat, 13 Apr 2024 21:01:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>冰鲸科技/CasaOS</title>
+      <link>https://github.com/IceWhaleTech/CasaOS</link>
+      <description><![CDATA[CasaOS - 一个简单、易于使用、优雅的开源个人云系统。 语言：Go 星星：21739 叉子：1169]]></description>
+      <guid>https://github.com/IceWhaleTech/CasaOS</guid>
+      <pubDate>Sat, 13 Apr 2024 21:01:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>trekhleb/javascript-算法</title>
+      <link>https://github.com/trekhleb/javascript-algorithms</link>
+      <description><![CDATA[📝 用 Ja​​vaScript 实现的算法和数据结构，附有解释和进一步阅读的链接语言：JavaScript 星星：181552 叉子：29337]]></description>
+      <guid>https://github.com/trekhleb/javascript-algorithms</guid>
+      <pubDate>Sat, 13 Apr 2024 21:01:58 GMT</pubDate>
     </item>
     <item>
       <title>星光/ruff</title>
       <link>https://github.com/astral-sh/ruff</link>
-      <description><![CDATA[一个极其快速的 Python linter 和代码格式化程序，用 Rust 编写。 语言：Rust 星星：26091 叉子：832]]></description>
+      <description><![CDATA[一个非常快的 Python linter 和代码格式化程序，用 Rust 编写。 语言：Rust 星星：26095 叉子：832]]></description>
       <guid>https://github.com/astral-sh/ruff</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:07 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 21:01:58 GMT</pubDate>
     </item>
     <item>
       <title>真实性</title>
       <link>https://github.com/goauthentik/authentik</link>
-      <description><![CDATA[您需要的身份验证粘合剂。 语言：Python 星星：6611 叉子：504]]></description>
+      <description><![CDATA[您需要的身份验证粘合剂。 语言：Python 星星：6614 叉子：504]]></description>
       <guid>https://github.com/goauthentik/authentik</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:07 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 21:01:58 GMT</pubDate>
     </item>
     <item>
       <title>数据中心项目/数据中心</title>
       <link>https://github.com/datahub-project/datahub</link>
       <description><![CDATA[数据堆栈的元数据平台语言：Java 星星：9170 叉子：2688]]></description>
       <guid>https://github.com/datahub-project/datahub</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:06 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 21:01:57 GMT</pubDate>
     </item>
     <item>
       <title>阿帕奇/座位隧道</title>
       <link>https://github.com/apache/seatunnel</link>
       <description><![CDATA[SeaTunnel是下一代超高性能、分布式、海量数据集成工具。 语言：Java 星星：7187 叉子：1521]]></description>
       <guid>https://github.com/apache/seatunnel</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>trekhleb/javascript-算法</title>
-      <link>https://github.com/trekhleb/javascript-algorithms</link>
-      <description><![CDATA[📝 用 Ja​​vaScript 实现的算法和数据结构，附有解释和进一步阅读的链接语言：JavaScript 星星：181548 叉子：29336]]></description>
-      <guid>https://github.com/trekhleb/javascript-algorithms</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>pingcap/TiDB</title>
-      <link>https://github.com/pingcap/tidb</link>
-      <description><![CDATA[TiDB 是一个开源、云原生、分布式、兼容 MySQL 的数据库，具有弹性规模和实时性时间分析。免费试用 AI 支持的 Chat2Query：https://tidbcloud.com/free-Trial 语言：Go 星星：36053 分叉：5704]]></description>
-      <guid>https://github.com/pingcap/tidb</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:05 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 21:01:57 GMT</pubDate>
     </item>
     <item>
       <title>faker-ruby/faker</title>
       <link>https://github.com/faker-ruby/faker</link>
-      <description><![CDATA[用于生成姓名、地址和电话号码等虚假数据的库。 语言：Ruby 星星：11046 叉子：3162]]></description>
+      <description><![CDATA[用于生成姓名、地址和电话号码等虚假数据的库。 语言：Ruby 星星：11047 叉子：3162]]></description>
       <guid>https://github.com/faker-ruby/faker</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:05 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 21:01:56 GMT</pubDate>
     </item>
     <item>
-      <title>恩洛曼/json</title>
-      <link>https://github.com/nlohmann/json</link>
-      <description><![CDATA[现代 C++ 的 JSON 语言：C++ 星星：39992 叉子：6434]]></description>
-      <guid>https://github.com/nlohmann/json</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:04 GMT</pubDate>
+      <title>pingcap/TiDB</title>
+      <link>https://github.com/pingcap/tidb</link>
+      <description><![CDATA[TiDB 是一个开源、云原生、分布式、兼容 MySQL 的数据库，具有弹性规模和实时性时间分析。免费试用人工智能驱动的 Chat2Query：https://tidbcloud.com/free-Trial 语言：Go 星星：36056 分叉：5704]]></description>
+      <guid>https://github.com/pingcap/tidb</guid>
+      <pubDate>Sat, 13 Apr 2024 21:01:55 GMT</pubDate>
     </item>
     <item>
       <title>ripienaar/免费开发</title>
       <link>https://github.com/ripienaar/free-for-dev</link>
-      <description><![CDATA[对 devops 和基础设施感兴趣的 SaaS、PaaS 和 IaaS 产品列表开发者语言：HTML 星星：83364 叉子：9026]]></description>
+      <description><![CDATA[具有免费等级的 SaaS、PaaS 和 IaaS 产品列表DevOps 和基础设施开发语言：HTML 星星：83378 叉子：9030]]></description>
       <guid>https://github.com/ripienaar/free-for-dev</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:04 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 21:01:54 GMT</pubDate>
     </item>
     <item>
       <title>ggerganov/whisper.cpp</title>
       <link>https://github.com/ggerganov/whisper.cpp</link>
-      <description><![CDATA[OpenAI Whisper 模型的 C/C++ 移植语言：C 星星：29575 前叉：2871]]></description>
+      <description><![CDATA[OpenAI Whisper 模型的 C/C++ 移植语言：C 星星：29583 叉子：2871]]></description>
       <guid>https://github.com/ggerganov/whisper.cpp</guid>
-      <pubDate>Sat, 13 Apr 2024 18:06:04 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 21:01:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>恩洛曼/json</title>
+      <link>https://github.com/nlohmann/json</link>
+      <description><![CDATA[现代 C++ 的 JSON 语言：C++ 星星：39997 叉子：6434]]></description>
+      <guid>https://github.com/nlohmann/json</guid>
+      <pubDate>Sat, 13 Apr 2024 21:01:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

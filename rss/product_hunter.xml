@@ -4,7 +4,7 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 13 Apr 2024 18:07:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 21:02:49 GMT</lastBuildDate>
     <item>
       <title>Storyline-smith - 消除分散音符的混乱</title>
       <link>https://www.producthunt.com/posts/storyline-smith</link>
@@ -50,17 +50,24 @@
       <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>Everlyn-ai - 24/7 人工智能导师教授、帮助和测试您的学生</title>
-      <link>https://www.producthunt.com/posts/everlyn-ai</link>
-      <description><![CDATA[想象一下未来，每个学生都会在他们需要的时候得到他们需要的帮助。这就是 Everlyn AI 导师的魔力。凭借个性化的即时支持和自动评估，这对学生和教育工作者来说都是双赢的局面。      ]]></description>
-      <guid>https://www.producthunt.com/posts/everlyn-ai</guid>
-      <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Expense-badger - 这个报税季您需要的人工智能助手</title>
       <link>https://www.producthunt.com/posts/expense-badger</link>
       <description><![CDATA[将电子或数字化发票中的供应商名称、金额、发票号码和日期等基本计费数据提取到电子表格中。 badger 还可以重命名您的文件并将invoice123.pdf 转换为Amazon_2024-04-12_USD_69.pdf。   ]]></description>
       <guid>https://www.producthunt.com/posts/expense-badger</guid>
+      <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>kazimir-ai - 搜索名人的逼真 AI 图像</title>
+      <link>https://www.producthunt.com/posts/kazimir-ai</link>
+      <description><![CDATA[使用 Kazimir.ai 搜索引擎探索超过 200 万张 AI 生成的 13,000 人图像，其中包括 OnlyFans 名人、演员、运动员、模特和歌手。   ]]></description>
+      <guid>https://www.producthunt.com/posts/kazimir-ai</guid>
+      <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Everlyn-ai - 24/7 人工智能导师教授、帮助和测试您的学生</title>
+      <link>https://www.producthunt.com/posts/everlyn-ai</link>
+      <description><![CDATA[想象一下未来，每个学生都会在他们需要的时候得到他们需要的帮助。这就是 Everlyn AI 导师的魔力。凭借个性化的即时支持和自动评估，这对学生和教育工作者来说都是双赢的局面。      ]]></description>
+      <guid>https://www.producthunt.com/posts/everlyn-ai</guid>
       <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -78,31 +85,17 @@
       <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>Hireharmonyai - 即时 LinkedIn 个人资料洞察，让智能招聘变得简单</title>
-      <link>https://www.producthunt.com/posts/hireharmonyai</link>
-      <description><![CDATA[HireHarmonyAI 是一款基于人工智能的 Chrome 扩展程序，可让通过 LinkedIn 进行招聘变得更轻松、更高效。  ]]></description>
-      <guid>https://www.producthunt.com/posts/hireharmonyai</guid>
-      <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>stackifymind - 与文档聊天</title>
-      <link>https://www.producthunt.com/posts/stackifymind</link>
-      <description><![CDATA[它是一个允许您与您上传的任何文档聊天的应用程序。一个无论您在哪里都可以使用的改写工具，可以提高您的写作技巧。   ]]></description>
-      <guid>https://www.producthunt.com/posts/stackifymind</guid>
-      <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>astebin-ai - 主要代码的简单高效的pastebin</title>
       <link>https://www.producthunt.com/posts/pastebin-ai</link>
-      <description><![CDATA[Pastebin.ai 是一个简单高效的 Pastebin，主要用于在网络上整齐高效地分发代码。    ]]></description>
+      <description><![CDATA[Pastebin.ai 是一个简单高效的 Pastebin，主要用于在网络上整齐高效地分发代码。     ]]></description>
       <guid>https://www.producthunt.com/posts/pastebin-ai</guid>
       <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>kazimir-ai - 搜索名人的逼真 AI 图像</title>
-      <link>https://www.producthunt.com/posts/kazimir-ai</link>
-      <description><![CDATA[使用 Kazimir.ai 搜索引擎探索超过 200 万张 AI 生成的 13,000 人图像，其中包括 OnlyFans 名人、演员、运动员、模特和歌手。   ]]></description>
-      <guid>https://www.producthunt.com/posts/kazimir-ai</guid>
+      <title>Hireharmonyai - 即时 LinkedIn 个人资料洞察，让智能招聘变得简单</title>
+      <link>https://www.producthunt.com/posts/hireharmonyai</link>
+      <description><![CDATA[HireHarmonyAI 是一款人工智能驱动的 Chrome 扩展程序，可让 LinkedIn 招聘变得更轻松、更高效。  ]]></description>
+      <guid>https://www.producthunt.com/posts/hireharmonyai</guid>
       <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -120,10 +113,10 @@
       <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>zactor - 综合个人理财平台</title>
-      <link>https://www.producthunt.com/posts/zactor</link>
-      <description><![CDATA[寻求管理个人财务、规划目标和退休、做出更好的投资决策。我们提供一个一体化平台，提供个性化的见解和可行的建议，以改善您的财务健康状况。     ]]></description>
-      <guid>https://www.producthunt.com/posts/zactor</guid>
+      <title>stackifymind - 与文档聊天</title>
+      <link>https://www.producthunt.com/posts/stackifymind</link>
+      <description><![CDATA[它是一个允许您与您上传的任何文档聊天的应用程序。一个无论您在哪里都可以使用的改写工具，可以提高您的写作技巧。   ]]></description>
+      <guid>https://www.producthunt.com/posts/stackifymind</guid>
       <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -131,6 +124,13 @@
       <link>https://www.producthunt.com/posts/frameit-1</link>
       <description><![CDATA[加速艺术分享，加快艺术品销售，专为艺术家和爱好者量身定制。        ]]></description>
       <guid>https://www.producthunt.com/posts/frameit-1</guid>
+      <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>zactor - 综合个人理财平台</title>
+      <link>https://www.producthunt.com/posts/zactor</link>
+      <description><![CDATA[寻求管理个人财务、规划目标和退休、做出更好的投资决策。我们提供一个一体化平台，提供个性化的见解和可行的建议，以改善您的财务健康状况。     ]]></description>
+      <guid>https://www.producthunt.com/posts/zactor</guid>
       <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -143,7 +143,7 @@
       <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>dovetail-magic - 将客户数据转化为像魔法一样的见解</title>
+      <title>dovetail-magic - 将客户数据转化为像魔术一样的见解</title>
       <link>https://www.producthunt.com/posts/dovetail-magic</link>
       <description><![CDATA[Dovetail 是专注于客户的团队使用的洞察中心。凭借七个新的神奇功能，现在只需点击几下即可将杂乱的客户数据转化为引人入胜的见解。    ]]></description>
       <guid>https://www.producthunt.com/posts/dovetail-magic</guid>
