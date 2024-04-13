@@ -4,7 +4,7 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 13 Apr 2024 15:02:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 18:07:00 GMT</lastBuildDate>
     <item>
       <title>Storyline-smith - 消除分散音符的混乱</title>
       <link>https://www.producthunt.com/posts/storyline-smith</link>
@@ -57,6 +57,13 @@
       <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
+      <title>Expense-badger - 这个报税季您需要的人工智能助手</title>
+      <link>https://www.producthunt.com/posts/expense-badger</link>
+      <description><![CDATA[将电子或数字化发票中的供应商名称、金额、发票号码和日期等基本计费数据提取到电子表格中。 badger 还可以重命名您的文件并将invoice123.pdf 转换为Amazon_2024-04-12_USD_69.pdf。   ]]></description>
+      <guid>https://www.producthunt.com/posts/expense-badger</guid>
+      <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
       <title>azyri - 医疗保健人工智能副驾驶</title>
       <link>https://www.producthunt.com/posts/azyri</link>
       <description><![CDATA[医疗保健人工智能副驾驶  &lt; img src=&quot;https://ph-files.imgix.net/ed0280cc-b0ba-42ff-8968-45ea927e0b07.png?auto=format&amp;fit=crop&quot; /&gt;  ]]></description>
@@ -68,20 +75,6 @@
       <link>https://www.producthunt.com/posts/notes-6</link>
       <description><![CDATA[使用我们直观的应用程序有效地组织您的笔记。简化的界面，方便导航。跨设备同步以实现无缝访问。通过快速搜索和分类功能提高工作效率。立即下载，高效记笔记     &lt;img src=&quot;https://ph-files.imgix.net/d5d09e97-8437-4134-a4bb-0d1aecd95618.png?auto=format&amp;amp;适合=作物“/&gt;]]></description>
       <guid>https://www.producthunt.com/posts/notes-6</guid>
-      <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Expense-badger - 这个报税季您需要的人工智能助手</title>
-      <link>https://www.producthunt.com/posts/expense-badger</link>
-      <description><![CDATA[将电子或数字化发票中的供应商名称、金额、发票号码和日期等基本计费数据提取到电子表格中。 badger 还可以重命名您的文件并将invoice123.pdf 转换为Amazon_2024-04-12_USD_69.pdf。   ]]></description>
-      <guid>https://www.producthunt.com/posts/expense-badger</guid>
-      <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>astebin-ai - 主要代码的简单高效的pastebin</title>
-      <link>https://www.producthunt.com/posts/pastebin-ai</link>
-      <description><![CDATA[Pastebin.ai 是一个简单高效的 Pastebin，主要用于在网络上整齐高效地分发代码。    ]]></description>
-      <guid>https://www.producthunt.com/posts/pastebin-ai</guid>
       <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -99,6 +92,13 @@
       <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
+      <title>astebin-ai - 主要代码的简单高效的pastebin</title>
+      <link>https://www.producthunt.com/posts/pastebin-ai</link>
+      <description><![CDATA[Pastebin.ai 是一个简单高效的 Pastebin，主要用于在网络上整齐高效地分发代码。    ]]></description>
+      <guid>https://www.producthunt.com/posts/pastebin-ai</guid>
+      <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
       <title>kazimir-ai - 搜索名人的逼真 AI 图像</title>
       <link>https://www.producthunt.com/posts/kazimir-ai</link>
       <description><![CDATA[使用 Kazimir.ai 搜索引擎探索超过 200 万张 AI 生成的 13,000 人图像，其中包括 OnlyFans 名人、演员、运动员、模特和歌手。   ]]></description>
@@ -106,17 +106,17 @@
       <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>claud-dreams - AI 梦想日记与分析</title>
-      <link>https://www.producthunt.com/posts/claud-dreams</link>
-      <description><![CDATA[Claud 是一款人工智能驱动的应用程序，通过直观的日志记录、高级解释和生动的图像生成，让您可以轻松记录、解释和可视化您的梦想。   &lt;img src=&quot;https://ph-files.imgix.net/02cdf185-f698-4dd2-b400-73cbc6fbc665.png?auto=format&amp;amp;fit=crop ” /&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/claud-dreams</guid>
-      <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>topoguesser - GeoGuessr 但带有 Google 地球</title>
       <link>https://www.producthunt.com/posts/topoguesser</link>
       <description><![CDATA[与 GeoGuessr 类似，该游戏将您置于 Google 地球上的随机位置，而不是街景视图。您必须通过在 2D 地图上放置图钉来猜测您的位置，您的分数取决于猜测的准确性。     ]]></description>
       <guid>https://www.producthunt.com/posts/topoguesser</guid>
+      <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>claud-dreams - AI 梦想日记与分析</title>
+      <link>https://www.producthunt.com/posts/claud-dreams</link>
+      <description><![CDATA[Claud 是一款人工智能驱动的应用程序，通过直观的日志记录、高级解释和生动的图像生成，让您可以轻松记录、解释和可视化您的梦想。   &lt;img src=&quot;https://ph-files.imgix.net/02cdf185-f698-4dd2-b400-73cbc6fbc665.png?auto=format&amp;amp;fit=crop ” /&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/claud-dreams</guid>
       <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
