@@ -4,181 +4,181 @@
     <title>今日 GitHub 上的热门存储库 · GitHub</title>
     <link>https://github.com/trending/?since=daily&spoken_language_code=en</link>
     <description>今日 GitHub 上的热门存储库 · GitHub - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 12 Apr 2024 21:06:05 GMT</lastBuildDate>
-    <item>
-      <title>mywalkb/LSPosed_mod</title>
-      <link>https://github.com/mywalkb/LSPosed_mod</link>
-      <description><![CDATA[我对 LSPosed 的更改语言：Java 星星：8 02&lt; br /&gt;货叉：37]]></description>
-      <guid>https://github.com/mywalkb/LSPosed_mod</guid>
-      <pubDate>Fri, 12 Apr 2024 21:05:20 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Apr 2024 00:24:22 GMT</lastBuildDate>
     <item>
       <title>EleutherAI/lm-评估-harness</title>
       <link>https://github.com/EleutherAI/lm-evaluation-harness</link>
-      <description><![CDATA[用于语言模型的小样本评估的框架。 语言：Python 星星：4809 叉子：1241]]></description>
+      <description><![CDATA[用于语言模型的小样本评估的框架。 语言：Python 星星：4812 叉子：1241]]></description>
       <guid>https://github.com/EleutherAI/lm-evaluation-harness</guid>
-      <pubDate>Fri, 12 Apr 2024 21:05:07 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 00:24:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>mywalkb/LSPosed_mod</title>
+      <link>https://github.com/mywalkb/LSPosed_mod</link>
+      <description><![CDATA[我对 LSPosed 的更改语言：Java Stars : 804 &lt; br /&gt;货叉：37]]></description>
+      <guid>https://github.com/mywalkb/LSPosed_mod</guid>
+      <pubDate>Sat, 13 Apr 2024 00:24:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>幽灵作品集</title>
+      <link>https://github.com/ghostfolio/ghostfolio</link>
+      <description><![CDATA[开源财富管理软件。 Angular + NestJS + Prisma + Nx + TypeScript 🤍 语言：TypeScript 星星：3523 分叉：336]]></description>
+      <guid>https://github.com/ghostfolio/ghostfolio</guid>
+      <pubDate>Sat, 13 Apr 2024 00:24:21 GMT</pubDate>
     </item>
     <item>
       <title>openvinotoolkit/openvino_notebooks</title>
       <link>https://github.com/openvinotoolkit/openvino_notebooks</link>
       <description><![CDATA[📚 OpenVINO™ 的 Jupyter 笔记本教程 语言：Jupyter Notebook星星：1922 叉子：690]]></description>
       <guid>https://github.com/openvinotoolkit/openvino_notebooks</guid>
-      <pubDate>Fri, 12 Apr 2024 21:04:04 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 00:24:21 GMT</pubDate>
     </item>
     <item>
       <title>拥抱脸/变形金刚</title>
       <link>https://github.com/huggingface/transformers</link>
-      <description><![CDATA[🤗 Transformers：最先进的 Pytorch 机器学习， TensorFlow 和 JAX。 语言：Python 星星：124160 叉子：24656]]></description>
+      <description><![CDATA[🤗 Transformers：最先进的 Pytorch 机器学习， TensorFlow 和 JAX。 语言：Python 星星：124166 叉子：24656]]></description>
       <guid>https://github.com/huggingface/transformers</guid>
-      <pubDate>Fri, 12 Apr 2024 21:04:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>aws/amazon-sagemaker-示例</title>
-      <link>https://github.com/aws/amazon-sagemaker-examples</link>
-      <description><![CDATA[示例 📓 Jupyter 笔记本，演示如何构建、训练和部署机器学习使用 🧠 的模型亚马逊 SageMaker。 语言：Jupyter Notebook星星：9477 叉子：6587]]></description>
-      <guid>https://github.com/aws/amazon-sagemaker-examples</guid>
-      <pubDate>Fri, 12 Apr 2024 21:04:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>幽灵作品集</title>
-      <link>https://github.com/ghostfolio/ghostfolio</link>
-      <description><![CDATA[开源财富管理软件。 Angular + NestJS + Prisma + Nx + TypeScript 🤍 语言：TypeScript 星星：3520 分叉：336]]></description>
-      <guid>https://github.com/ghostfolio/ghostfolio</guid>
-      <pubDate>Fri, 12 Apr 2024 21:04:03 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 00:24:21 GMT</pubDate>
     </item>
     <item>
       <title>skypilot-org/skypilot</title>
       <link>https://github.com/skypilot-org/skypilot</link>
-      <description><![CDATA[SkyPilot：在任何云上运行 LLM、AI 和 Batch 作业。通过简单的界面即可实现最大程度的节省、最高的 GPU 可用性和托管执行。 语言：Python 星星：5556 叉子：383]]></description>
+      <description><![CDATA[SkyPilot：在任何云上运行 LLM、AI 和 Batch 作业。通过简单的界面即可实现最大程度的节省、最高的 GPU 可用性和托管执行。 语言：Python 星星：5558 叉子：383]]></description>
       <guid>https://github.com/skypilot-org/skypilot</guid>
-      <pubDate>Fri, 12 Apr 2024 21:04:02 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 00:24:20 GMT</pubDate>
     </item>
     <item>
       <title>迈尔斯·克兰默/PySR</title>
       <link>https://github.com/MilesCranmer/PySR</link>
-      <description><![CDATA[Python 和 Julia 中的高性能符号回归语言：Python 星星：1786 叉子：180]]></description>
+      <description><![CDATA[Python 和 Julia 中的高性能符号回归语言：Python 星星：1792 叉子：180]]></description>
       <guid>https://github.com/MilesCranmer/PySR</guid>
-      <pubDate>Fri, 12 Apr 2024 21:04:02 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 00:24:20 GMT</pubDate>
     </item>
     <item>
-      <title>下一个云/一体化</title>
-      <link>https://github.com/nextcloud/all-in-one</link>
-      <description><![CDATA[📦Nextcloud官方安装方法。通过这一 Nextcloud 实例中包含的大多数功能，提供轻松的部署和维护。 语言：PHP 星星：3981 叉子：507]]></description>
-      <guid>https://github.com/nextcloud/all-in-one</guid>
-      <pubDate>Fri, 12 Apr 2024 21:04:01 GMT</pubDate>
+      <title>aws/amazon-sagemaker-示例</title>
+      <link>https://github.com/aws/amazon-sagemaker-examples</link>
+      <description><![CDATA[示例 📓 Jupyter 笔记本，演示如何使用它构建、训练和部署机器学习模型🧠亚马逊 SageMaker。 语言：Jupyter Notebook星星：9478 叉子：6587]]></description>
+      <guid>https://github.com/aws/amazon-sagemaker-examples</guid>
+      <pubDate>Sat, 13 Apr 2024 00:24:20 GMT</pubDate>
     </item>
     <item>
       <title>拥抱脸/最佳</title>
       <link>https://github.com/huggingface/optimum</link>
-      <description><![CDATA[🚀 使用易于使用的硬件加速 🤗 Transformers 和 🤗 Diffuser 的训练和推理优化工具&lt; br /&gt;语言：Python 星星：2112 分叉：360]]></description>
+      <description><![CDATA[🚀 轻松加速 🤗 Transformers 和 🤗 Diffuser 的训练和推理使用硬件优化工具&lt; br /&gt;语言：Python 星星：2115 分叉：360]]></description>
       <guid>https://github.com/huggingface/optimum</guid>
-      <pubDate>Fri, 12 Apr 2024 21:04:01 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 00:24:19 GMT</pubDate>
     </item>
     <item>
       <title>阿帕奇/iotdb</title>
       <link>https://github.com/apache/iotdb</link>
-      <description><![CDATA[Apache IoTDB 语言：Java 星星：4245 货叉：957]]></description>
+      <description><![CDATA[Apache IoTDB Language: Java Stars: 4247 货叉：957]]></description>
       <guid>https://github.com/apache/iotdb</guid>
-      <pubDate>Fri, 12 Apr 2024 21:04:01 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 00:24:19 GMT</pubDate>
     </item>
     <item>
       <title>Edr4/XSS 旁路过滤器</title>
       <link>https://github.com/Edr4/XSS-Bypass-Filters</link>
-      <description><![CDATA[null 语言：未知星星：271 货叉：38]]></description>
+      <description><![CDATA[null Language: Unknown Stars: 272 货叉：38]]></description>
       <guid>https://github.com/Edr4/XSS-Bypass-Filters</guid>
-      <pubDate>Fri, 12 Apr 2024 21:04:00 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 00:24:18 GMT</pubDate>
     </item>
     <item>
       <title>ifzhang/ByteTrack</title>
       <link>https://github.com/ifzhang/ByteTrack</link>
-      <description><![CDATA[[ECCV 2022] ByteTrack：通过关联每个检测框进行多对象跟踪语言：Python 星星：4210 分叉：806]]></description>
+      <description><![CDATA[[ECCV 2022] ByteTrack：通过关联每个检测框进行多对象跟踪语言：Python 星星：4211 分叉：806]]></description>
       <guid>https://github.com/ifzhang/ByteTrack</guid>
-      <pubDate>Fri, 12 Apr 2024 21:04:00 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 00:24:18 GMT</pubDate>
     </item>
     <item>
-      <title>微软/onnxruntime</title>
-      <link>https://github.com/microsoft/onnxruntime</link>
-      <description><![CDATA[ONNX Runtime：跨平台、高性能机器学习推理和训练加速器&lt; br /&gt;语言：C++ 星星：12552 叉子：2609]]></description>
-      <guid>https://github.com/microsoft/onnxruntime</guid>
-      <pubDate>Fri, 12 Apr 2024 21:03:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>瓦格米</title>
-      <link>https://github.com/wevm/wagmi</link>
-      <description><![CDATA[以太坊的 React Hooks 语言：TypeScript 星星：5475 &lt; br /&gt;货叉：885]]></description>
-      <guid>https://github.com/wevm/wagmi</guid>
-      <pubDate>Fri, 12 Apr 2024 21:03:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>mui/mui-x</title>
-      <link>https://github.com/mui/mui-x</link>
-      <description><![CDATA[MUI X：使用越来越多的列表构建复杂且数据丰富的应用程序高级 React 组件，如数据网格、日期和时间选择器、图表等等！ 语言：TypeScript 星星：3695 叉子：1079]]></description>
-      <guid>https://github.com/mui/mui-x</guid>
-      <pubDate>Fri, 12 Apr 2024 21:03:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>扩增/扩增</title>
-      <link>https://github.com/amplication/amplication</link>
-      <description><![CDATA[🔥🔥🔥 开源后端开发平台。构建可投入生产的服务，而无需在重复编码上浪费时间。 语言：TypeScript 星星：13278 分叉：1356]]></description>
-      <guid>https://github.com/amplication/amplication</guid>
-      <pubDate>Fri, 12 Apr 2024 21:03:58 GMT</pubDate>
+      <title>下一个云/一体化</title>
+      <link>https://github.com/nextcloud/all-in-one</link>
+      <description><![CDATA[📦Nextcloud官方安装方法。通过这一 Nextcloud 实例中包含的大多数功能，提供轻松的部署和维护。 语言：PHP 星星：3984 叉子：507]]></description>
+      <guid>https://github.com/nextcloud/all-in-one</guid>
+      <pubDate>Sat, 13 Apr 2024 00:24:18 GMT</pubDate>
     </item>
     <item>
       <title>拥抱脸/扩散器</title>
       <link>https://github.com/huggingface/diffusers</link>
-      <description><![CDATA[🤗 扩散器：用于在 PyTorch 和 中生成图像和音频的最先进的扩散模型亚麻。 语言：Python 星星：22295 叉子：4600]]></description>
+      <description><![CDATA[🤗 Diffusers：最先进的扩散模型，用于 PyTorch 和 FLAX 中的图像和音频生成。 语言：Python 星星：22297 叉子：4601]]></description>
       <guid>https://github.com/huggingface/diffusers</guid>
-      <pubDate>Fri, 12 Apr 2024 21:03:58 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 00:24:17 GMT</pubDate>
     </item>
     <item>
-      <title>序数词/顺序</title>
-      <link>https://github.com/ordinals/ord</link>
-      <description><![CDATA[👁‍🗨 稀有且充满异国情调的卫星语言：Rust 星星: 3282 货叉: 1128]]></description>
-      <guid>https://github.com/ordinals/ord</guid>
-      <pubDate>Fri, 12 Apr 2024 21:03:57 GMT</pubDate>
+      <title>微软/onnxruntime</title>
+      <link>https://github.com/microsoft/onnxruntime</link>
+      <description><![CDATA[ONNX Runtime：跨平台、高性能机器学习推理和训练加速器&lt; br /&gt;语言：C++ 星星：12556 叉子：2610]]></description>
+      <guid>https://github.com/microsoft/onnxruntime</guid>
+      <pubDate>Sat, 13 Apr 2024 00:24:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>瓦格米</title>
+      <link>https://github.com/wevm/wagmi</link>
+      <description><![CDATA[以太坊的 React Hooks 语言：TypeScript 星星：54 75&lt; br /&gt;货叉：886]]></description>
+      <guid>https://github.com/wevm/wagmi</guid>
+      <pubDate>Sat, 13 Apr 2024 00:24:17 GMT</pubDate>
     </item>
     <item>
       <title>PSF/黑色</title>
       <link>https://github.com/psf/black</link>
-      <description><![CDATA[不折不扣的 Python 代码格式化程序语言： Python 星星：37326 叉子：2365]]></description>
+      <description><![CDATA[不折不扣的 Python 代码格式化程序语言： Python 星星：37325 叉子：2365]]></description>
       <guid>https://github.com/psf/black</guid>
-      <pubDate>Fri, 12 Apr 2024 21:03:57 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 00:24:16 GMT</pubDate>
     </item>
     <item>
-      <title>桑斯特/IOPaint</title>
-      <link>https://github.com/Sanster/IOPaint</link>
-      <description><![CDATA[由 SOTA AI 模型提供支持的图像修复工具。从照片中删除任何不需要的物体、缺陷、人物，或擦除并替换（由稳定扩散驱动）照片上的任何东西。 语言：Python 星星：16797 叉子：1671]]></description>
-      <guid>https://github.com/Sanster/IOPaint</guid>
-      <pubDate>Fri, 12 Apr 2024 21:03:56 GMT</pubDate>
+      <title>mui/mui-x</title>
+      <link>https://github.com/mui/mui-x</link>
+      <description><![CDATA[MUI X：使用越来越多的列表构建复杂且数据丰富的应用程序高级 React 组件，如数据网格、日期和时间选择器、图表等等！ 语言：TypeScript 星星：3697 分叉：1079]]></description>
+      <guid>https://github.com/mui/mui-x</guid>
+      <pubDate>Sat, 13 Apr 2024 00:24:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>扩增/扩增</title>
+      <link>https://github.com/amplication/amplication</link>
+      <description><![CDATA[🔥🔥🔥 开源后端开发平台。构建可投入生产的服务，而无需在重复编码上浪费时间。 语言：TypeScript 星星：13282 分叉：1356]]></description>
+      <guid>https://github.com/amplication/amplication</guid>
+      <pubDate>Sat, 13 Apr 2024 00:24:16 GMT</pubDate>
     </item>
     <item>
       <title>calcom/cal.com</title>
       <link>https://github.com/calcom/cal.com</link>
-      <description><![CDATA[为所有人安排基础设施。 语言：TypeScript 星星：28414 分叉：6413]]></description>
+      <description><![CDATA[为所有人安排基础设施。 语言：TypeScript 星星：28418 分叉：6414]]></description>
       <guid>https://github.com/calcom/cal.com</guid>
-      <pubDate>Fri, 12 Apr 2024 21:03:56 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 00:24:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>序数/顺序</title>
+      <link>https://github.com/ordinals/ord</link>
+      <description><![CDATA[👁‍🗨 稀有且充满异国情调的卫星语言：Rust 星星: 3284 货叉: 1131]]></description>
+      <guid>https://github.com/ordinals/ord</guid>
+      <pubDate>Sat, 13 Apr 2024 00:24:15 GMT</pubDate>
     </item>
     <item>
       <title>ripienaar/免费开发</title>
       <link>https://github.com/ripienaar/free-for-dev</link>
-      <description><![CDATA[对开发人员和用户感兴趣的 SaaS、PaaS 和 IaaS 产品列表弗拉德夫语言：HTML 星星：83259 叉子：9016]]></description>
+      <description><![CDATA[可免费开发的 SaaS、PaaS 和 IaaS 产品列表ps 和基础设施语言：HTML 星星：83273 叉子：9016]]></description>
       <guid>https://github.com/ripienaar/free-for-dev</guid>
-      <pubDate>Fri, 12 Apr 2024 21:03:55 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 00:24:14 GMT</pubDate>
     </item>
     <item>
       <title>淘数据/TD引擎</title>
       <link>https://github.com/taosdata/TDengine</link>
-      <description><![CDATA[TDengine是一个开源、高性能、云原生的时序引擎针对物联网 (IoT)、联网汽车、工业物联网和开发运营进行优化的数据库。 语言：C 星星：22762 前叉：4796]]></description>
+      <description><![CDATA[TDengine是一个开源、高性能、云原生的时序引擎针对物联网 (IoT)、联网汽车、工业物联网和开发运营进行优化的数据库。 语言：C 星星：22763 叉子：4796]]></description>
       <guid>https://github.com/taosdata/TDengine</guid>
-      <pubDate>Fri, 12 Apr 2024 21:03:55 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 00:24:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>桑斯特/IOPaint</title>
+      <link>https://github.com/Sanster/IOPaint</link>
+      <description><![CDATA[由 SOTA AI 模型提供支持的图像修复工具。从照片中删除任何不需要的物体、缺陷、人物，或擦除并替换（由稳定扩散驱动）照片上的任何东西。 语言：Python 星星：16802 叉子：1671]]></description>
+      <guid>https://github.com/Sanster/IOPaint</guid>
+      <pubDate>Sat, 13 Apr 2024 00:24:14 GMT</pubDate>
     </item>
     <item>
       <title>vinta/很棒的Python</title>
       <link>https://github.com/vinta/awesome-python</link>
-      <description><![CDATA[很棒的 Python 框架、库、软件和资源的固执列表。 语言：Python 星星：203842 叉子：24423]]></description>
+      <description><![CDATA[很棒的 Python 框架、库、软件和资源的固执列表。 语言：Python 星星：203867 叉子：24425]]></description>
       <guid>https://github.com/vinta/awesome-python</guid>
-      <pubDate>Fri, 12 Apr 2024 21:03:54 GMT</pubDate>
+      <pubDate>Sat, 13 Apr 2024 00:24:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
