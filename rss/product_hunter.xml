@@ -4,7 +4,7 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 13 Apr 2024 21:02:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 00:29:51 GMT</lastBuildDate>
     <item>
       <title>Storyline-smith - 消除分散音符的混乱</title>
       <link>https://www.producthunt.com/posts/storyline-smith</link>
@@ -64,7 +64,7 @@
       <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>Everlyn-ai - 24/7 人工智能导师教授、帮助和测试您的学生</title>
+      <title>Everlyn-ai - 24/7 的人工智能导师教授、帮助和测试您的学生</title>
       <link>https://www.producthunt.com/posts/everlyn-ai</link>
       <description><![CDATA[想象一下未来，每个学生都会在他们需要的时候得到他们需要的帮助。这就是 Everlyn AI 导师的魔力。凭借个性化的即时支持和自动评估，这对学生和教育工作者来说都是双赢的局面。      ]]></description>
       <guid>https://www.producthunt.com/posts/everlyn-ai</guid>
@@ -87,15 +87,8 @@
     <item>
       <title>astebin-ai - 主要代码的简单高效的pastebin</title>
       <link>https://www.producthunt.com/posts/pastebin-ai</link>
-      <description><![CDATA[Pastebin.ai 是一个简单高效的 Pastebin，主要用于在网络上整齐高效地分发代码。     ]]></description>
+      <description><![CDATA[Pastebin.ai 是一个简单高效的 Pastebin，主要用于在网络上整齐高效地分发代码。    ]]></description>
       <guid>https://www.producthunt.com/posts/pastebin-ai</guid>
-      <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hireharmonyai - 即时 LinkedIn 个人资料洞察，让智能招聘变得简单</title>
-      <link>https://www.producthunt.com/posts/hireharmonyai</link>
-      <description><![CDATA[HireHarmonyAI 是一款人工智能驱动的 Chrome 扩展程序，可让 LinkedIn 招聘变得更轻松、更高效。  ]]></description>
-      <guid>https://www.producthunt.com/posts/hireharmonyai</guid>
       <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -106,17 +99,24 @@
       <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>claud-dreams - AI 梦想日记与分析</title>
-      <link>https://www.producthunt.com/posts/claud-dreams</link>
-      <description><![CDATA[Claud 是一款人工智能驱动的应用程序，通过直观的日志记录、高级解释和生动的图像生成，让您可以轻松记录、解释和可视化您的梦想。   &lt;img src=&quot;https://ph-files.imgix.net/02cdf185-f698-4dd2-b400-73cbc6fbc665.png?auto=format&amp;amp;fit=crop ” /&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/claud-dreams</guid>
-      <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>stackifymind - 与文档聊天</title>
       <link>https://www.producthunt.com/posts/stackifymind</link>
       <description><![CDATA[它是一个允许您与您上传的任何文档聊天的应用程序。一个无论您在哪里都可以使用的改写工具，可以提高您的写作技巧。   ]]></description>
       <guid>https://www.producthunt.com/posts/stackifymind</guid>
+      <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hireharmonyai - 即时 LinkedIn 个人资料洞察，让智能招聘变得简单</title>
+      <link>https://www.producthunt.com/posts/hireharmonyai</link>
+      <description><![CDATA[HireHarmonyAI 是一款人工智能驱动的 Chrome 扩展程序，可让 LinkedIn 招聘变得更轻松、更高效。  ]]></description>
+      <guid>https://www.producthunt.com/posts/hireharmonyai</guid>
+      <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>claud-dreams - AI 梦想日记与分析</title>
+      <link>https://www.producthunt.com/posts/claud-dreams</link>
+      <description><![CDATA[Claud 是一款人工智能驱动的应用程序，通过直观的日志记录、高级解释和生动的图像生成，让您可以轻松记录、解释和可视化您的梦想。   &lt;img src=&quot;https://ph-files.imgix.net/02cdf185-f698-4dd2-b400-73cbc6fbc665.png?auto=format&amp;amp;fit=crop ” /&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/claud-dreams</guid>
       <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -223,7 +223,7 @@
       <pubDate>Tue, 02 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>循环搜索——从奇迹到智慧，只需一拖</title>
+      <title>圈子搜索——从奇迹到智慧，只需一拖</title>
       <link>https://www.producthunt.com/posts/circle-to-search</link>
       <description><![CDATA[它是一个扩展，可让您选择您感兴趣的内容，并通过简单的圈选来获取更多信息。您还可以向内置人工智能助手询问更多见解。这是一种无需离开页面或复制粘贴即可在浏览器中搜索任何内容的新方法。     ]]></description>
       <guid>https://www.producthunt.com/posts/circle-to-search</guid>
