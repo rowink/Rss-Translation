@@ -4,7 +4,7 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 14 Apr 2024 11:16:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 14:35:56 GMT</lastBuildDate>
     <item>
       <title>sitejetai-custom-support-chatbot - 顶级人工智能驱动、量身定制的客户服务聊天机器人</title>
       <link>https://www.producthunt.com/posts/sitejetai-customer-support-chatbot</link>
@@ -56,17 +56,25 @@
       <pubDate>Sun, 14 Apr 2024 07:02:37 GMT</pubDate>
     </item>
     <item>
+      <title>deblank-colors - 快速、可定制的人工智能调色板</title>
+      <link>https://www.producthunt.com/posts/deblank-colors</link>
+      <description><![CDATA[使用 Deblank 的人工智能调色板生成器加快设计项目的启动速度。输入提示，使用内置的色彩理论创建指导性和个性化的配色方案。另外，在有用的模型上可视化您的颜色。    ]]></description>
+      <guid>https://www.producthunt.com/posts/deblank-colors</guid>
+      <pubDate>Sun, 14 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>听 - 学习发音和口音</title>
+      <link>https://www.producthunt.com/posts/hear-it</link>
+      <description><![CDATA[踏上完美口语和发音的无缝之旅。
+只需轻按一下，即可了解单词的发音以及母语人士如何发音。    ]]></description>
+      <guid>https://www.producthunt.com/posts/hear-it</guid>
+      <pubDate>Sun, 14 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
       <title>quotely - 扫描并保存报价</title>
       <link>https://www.producthunt.com/posts/quotely</link>
       <description><![CDATA[Quotely 改变了您保存和组织您喜爱的书籍引言的方式。无论您是通过快速相机扫描捕捉引言、从图库中复制文本还是手动记下，Quotely 都可以轻松记录引起共鸣的时刻。   &lt;img src=&quot;https://ph-files.imgix.net/60f0d20f-aa2c-4dd1-9317-081f5aa0bb62.png?auto=format&amp;amp; ;适合=作物“/&gt;]]></description>
       <guid>https://www.producthunt.com/posts/quotely</guid>
-      <pubDate>Sun, 14 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>noteshub-3-3 - 完全跨平台、基于 Markdown 的笔记应用程序</title>
-      <link>https://www.producthunt.com/posts/noteshub-3-3</link>
-      <description><![CDATA[完全跨平台、与供应商无关、基于 Markdown 的笔记应用程序以及看板和白板工具。您可以将数据与 GitHub、您自己的 Git 服务器、iCloud Drive 同步，或者将其保留在文件系统中。     ]]></description>
-      <guid>https://www.producthunt.com/posts/noteshub-3-3</guid>
       <pubDate>Sun, 14 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -77,18 +85,10 @@
       <pubDate>Sun, 14 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>deblank-colors - 快速、可定制的人工智能调色板</title>
-      <link>https://www.producthunt.com/posts/deblank-colors</link>
-      <description><![CDATA[使用 Deblank 的人工智能调色板生成器加快设计项目的启动速度。输入提示，使用内置的色彩理论创建指导性和个性化的配色方案。另外，在有用的模型上可视化您的颜色。    ]]></description>
-      <guid>https://www.producthunt.com/posts/deblank-colors</guid>
-      <pubDate>Sun, 14 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>听到 - 学习发音和口音</title>
-      <link>https://www.producthunt.com/posts/hear-it</link>
-      <description><![CDATA[踏上完美口语和发音的无缝之旅。
-只需轻按一下，即可了解单词的发音以及母语人士如何发音。    ]]></description>
-      <guid>https://www.producthunt.com/posts/hear-it</guid>
+      <title>noteshub-3-3 - 完全跨平台、基于 Markdown 的笔记应用程序</title>
+      <link>https://www.producthunt.com/posts/noteshub-3-3</link>
+      <description><![CDATA[完全跨平台、与供应商无关、基于 Markdown 的笔记应用程序以及看板和白板工具。您可以将数据与 GitHub、您自己的 Git 服务器、iCloud Drive 同步，或者将其保留在文件系统中。     ]]></description>
+      <guid>https://www.producthunt.com/posts/noteshub-3-3</guid>
       <pubDate>Sun, 14 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -131,7 +131,7 @@
     <item>
       <title>顺时针-9512f274-c827-4dc9-8c74-2bf52caf55e4 - 跨时区保持同步</title>
       <link>https://www.producthunt.com/posts/clockwise-9512f274-c827-4dc9-8c74-2bf52caf55e4</link>
-      <description><![CDATA[Clockwise 是一款精美的应用程序，用于跟踪世界各地的朋友、家人和同事的当地时间。无论您是外籍人士、环球旅行者还是远程工作者，Clockwise 都将帮助您跨时区保持同步！   ]]></description>
+      <description><![CDATA[Clockwise 是一款精美的应用程序，用于跟踪世界各地的朋友、家人和同事的当地时间。无论您是外籍人士、环游世界还是远程工作者，Clockwise 都将帮助您跨时区保持同步！   ]]></description>
       <guid>https://www.producthunt.com/posts/clockwise-9512f274-c827-4dc9-8c74-2bf52caf55e4</guid>
       <pubDate>Sat, 13 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -171,7 +171,7 @@
       <pubDate>Tue, 02 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>循环搜索——从奇迹到智慧，只需一拖</title>
+      <title>循环搜索 - 从奇迹到智慧，只需一拖</title>
       <link>https://www.producthunt.com/posts/circle-to-search</link>
       <description><![CDATA[它是一个扩展，可让您选择您感兴趣的内容，并通过简单的圈选来获取更多信息。您还可以向内置人工智能助手询问更多见解。这是一种无需离开页面或复制粘贴即可在浏览器中搜索任何内容的新方法。     ]]></description>
       <guid>https://www.producthunt.com/posts/circle-to-search</guid>
