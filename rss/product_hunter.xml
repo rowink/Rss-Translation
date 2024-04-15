@@ -4,13 +4,20 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 15 Apr 2024 09:04:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 12:12:52 GMT</lastBuildDate>
     <item>
       <title>collectif-ai - 团队发现产品见解的地方。只需几分钟，而不是几天。</title>
       <link>https://www.producthunt.com/posts/collectif-ai</link>
       <description><![CDATA[产品经理、用户体验工程师、营销人员——我们都依赖于研究。然而，数据分散在不同的工具和团队中，需要很长时间才能分析。 Collectif 将您的支持请求、访谈等转化为见解，帮助您在几分钟而不是几天内做出成功的决定。      ]]></description>
       <guid>https://www.producthunt.com/posts/collectif-ai</guid>
       <pubDate>Mon, 15 Apr 2024 07:22:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>indielogs - 作为个体企业家脱颖而出并建立个人品牌</title>
+      <link>https://www.producthunt.com/posts/indielogs</link>
+      <description><![CDATA[IndieLogs 通过个性化个人资料、直接变更日志集成以及策划排名和每周产品更新战中的可见性提升，帮助创始人在公共场合脱颖而出。      ]]></description>
+      <guid>https://www.producthunt.com/posts/indielogs</guid>
+      <pubDate>Mon, 15 Apr 2024 07:22:00 GMT</pubDate>
     </item>
     <item>
       <title>macula - 不要泄露您的内容。按您的条件分享。</title>
@@ -33,7 +40,7 @@
       <pubDate>Mon, 15 Apr 2024 07:13:28 GMT</pubDate>
     </item>
     <item>
-      <title>packify-ai - 释放创造力，用人工智能进行包装设计。</title>
+      <title>packify-ai - 释放创造力，用 AI 进行包装设计。</title>
       <link>https://www.producthunt.com/posts/packify-ai</link>
       <description><![CDATA[Packify.ai是一款AI包装设计师，让普通人可以通过轻松聊天的方式创意设计自己的产品包装，并为电商产品摄影提供AI产品拍照功能。    ]]></description>
       <guid>https://www.producthunt.com/posts/packify-ai</guid>
@@ -47,10 +54,10 @@
       <pubDate>Mon, 15 Apr 2024 07:03:51 GMT</pubDate>
     </item>
     <item>
-      <title>ixord-ai-document-mastery-multitasking - 导航任务，激发创造力</title>
-      <link>https://www.producthunt.com/posts/ixord-ai-document-mastery-multitasking</link>
-      <description><![CDATA[🚀 探索 IXORD Notes AI：通过文档层次结构、多任务选项卡、移动轻型版本和日历事件集成增强组织。您的生产力和创造力中心！ #生产力      ]]></description>
-      <guid>https://www.producthunt.com/posts/ixord-ai-document-mastery-multitasking</guid>
+      <title>clickly-2 - 通过 Clickly 提高您的品牌参与度</title>
+      <link>https://www.producthunt.com/posts/clickly-2</link>
+      <description><![CDATA[Clickly 是一个链接管理平台，提供链接缩短、品牌链接、链接跟踪和分析。   ]]></description>
+      <guid>https://www.producthunt.com/posts/clickly-2</guid>
       <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -58,6 +65,15 @@
       <link>https://www.producthunt.com/posts/brandbay</link>
       <description><![CDATA[组织和存储您的品牌资产，与您的团队和客户协作，并在您自己的定制品牌白标品牌资产管理平台中安全地交付文件...网站上提供特别发布优惠：https://brandbay.io/      ]]></description>
       <guid>https://www.producthunt.com/posts/brandbay</guid>
+      <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2 - Postgres 开发者平台现已全面推出</title>
+      <link>https://www.producthunt.com/posts/supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2</link>
+      <description><![CDATA[经过 4 年测试期后，Supabase 现已全面上市。
+
+无论您是独立黑客还是财富 500 强公司，Supabase 现在都可以扩展到任何工作负载，目前超过三分之一的 YC 正在使用 Supabase 进行构建。    ]]></description>
+      <guid>https://www.producthunt.com/posts/supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2</guid>
       <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -75,26 +91,10 @@
       <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>airchat-6 - 社交对讲机</title>
-      <link>https://www.producthunt.com/posts/airchat-6</link>
-      <description><![CDATA[总有人可以倾诉。  &lt; img src=&quot;https://ph-files.imgix.net/997b5473-5791-48c0-83e5-328e60b9a309.png?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
-      <guid>https://www.producthunt.com/posts/airchat-6</guid>
-      <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2 - Postgres 开发者平台现已全面推出</title>
-      <link>https://www.producthunt.com/posts/supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2</link>
-      <description><![CDATA[经过 4 年测试期后，Supabase 现已全面上市。
-
-无论您是独立黑客还是财富 500 强公司，Supabase 现在都可以扩展到任何工作负载，目前超过三分之一的 YC 正在使用 Supabase 进行构建。    ]]></description>
-      <guid>https://www.producthunt.com/posts/supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2</guid>
-      <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>clickly-2 - URL 缩短器、品牌链接、CTA 链接、点击跟踪</title>
-      <link>https://www.producthunt.com/posts/clickly-2</link>
-      <description><![CDATA[Clickly 是一个链接管理平台，提供链接缩短、品牌链接、链接跟踪和分析。   ]]></description>
-      <guid>https://www.producthunt.com/posts/clickly-2</guid>
+      <title>ixord-ai-document-mastery-multitasking - 导航任务，激发创造力</title>
+      <link>https://www.producthunt.com/posts/ixord-ai-document-mastery-multitasking</link>
+      <description><![CDATA[🚀 探索 IXORD Notes AI：通过文档层次结构、多任务选项卡、移动轻型版本和日历事件集成增强组织。您的生产力和创造力中心！ #生产力      ]]></description>
+      <guid>https://www.producthunt.com/posts/ixord-ai-document-mastery-multitasking</guid>
       <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -102,6 +102,13 @@
       <link>https://www.producthunt.com/posts/cal-com-platform</link>
       <description><![CDATA[Cal.com Platform 是在您的应用程序中构建日程安排的最快、最简单的方法。将自己从时区、日历和会议 API 以及调度逻辑的麻烦中解放出来 — 利用 Cal.com 强大的调度技术来构建您的下一个产品。     ]]></description>
       <guid>https://www.producthunt.com/posts/cal-com-platform</guid>
+      <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>airchat-6 - 社交对讲机</title>
+      <link>https://www.producthunt.com/posts/airchat-6</link>
+      <description><![CDATA[总有人可以倾诉。  &lt; img src=&quot;https://ph-files.imgix.net/997b5473-5791-48c0-83e5-328e60b9a309.png?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
+      <guid>https://www.producthunt.com/posts/airchat-6</guid>
       <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -140,7 +147,7 @@
       <pubDate>Sun, 14 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>听到 - 学习发音和口音</title>
+      <title>听 - 学习发音和口音</title>
       <link>https://www.producthunt.com/posts/hear-it</link>
       <description><![CDATA[踏上完美口语和发音的无缝之旅。
 只需轻按一下，即可了解单词的发音以及母语人士如何发音。    ]]></description>
