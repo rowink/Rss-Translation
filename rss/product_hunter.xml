@@ -4,7 +4,14 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 15 Apr 2024 12:12:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 15:03:35 GMT</lastBuildDate>
+    <item>
+      <title>fastbots - 人工智能聊天机器人提供快速、准确的客户支持</title>
+      <link>https://www.producthunt.com/posts/fastbots</link>
+      <description><![CDATA[FastBots 提供强大的 AI 聊天机器人，使用最新的 LLM（包括 Claude 3 和 Chat GPT-4 Turbo）根据您自己的数据进行训练。只需不到 2 分钟，您就可以为网站访问者创建一个客户服务聊天机器人，并提供快速准确的帮助。   ]]></description>
+      <guid>https://www.producthunt.com/posts/fastbots</guid>
+      <pubDate>Mon, 15 Apr 2024 11:01:00 GMT</pubDate>
+    </item>
     <item>
       <title>collectif-ai - 团队发现产品见解的地方。只需几分钟，而不是几天。</title>
       <link>https://www.producthunt.com/posts/collectif-ai</link>
@@ -54,47 +61,12 @@
       <pubDate>Mon, 15 Apr 2024 07:03:51 GMT</pubDate>
     </item>
     <item>
-      <title>clickly-2 - 通过 Clickly 提高您的品牌参与度</title>
-      <link>https://www.producthunt.com/posts/clickly-2</link>
-      <description><![CDATA[Clickly 是一个链接管理平台，提供链接缩短、品牌链接、链接跟踪和分析。   ]]></description>
-      <guid>https://www.producthunt.com/posts/clickly-2</guid>
-      <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Brandbay - 安全地存储、管理和共享您的多品牌资产</title>
-      <link>https://www.producthunt.com/posts/brandbay</link>
-      <description><![CDATA[组织和存储您的品牌资产，与您的团队和客户协作，并在您自己的定制品牌白标品牌资产管理平台中安全地交付文件...网站上提供特别发布优惠：https://brandbay.io/      ]]></description>
-      <guid>https://www.producthunt.com/posts/brandbay</guid>
-      <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2 - Postgres 开发者平台现已全面推出</title>
       <link>https://www.producthunt.com/posts/supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2</link>
       <description><![CDATA[经过 4 年测试期后，Supabase 现已全面上市。
 
 无论您是独立黑客还是财富 500 强公司，Supabase 现在都可以扩展到任何工作负载，目前超过三分之一的 YC 正在使用 Supabase 进行构建。    ]]></description>
       <guid>https://www.producthunt.com/posts/supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2</guid>
-      <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>stampede-social - 创作者和影响者的 Instagram 副驾驶</title>
-      <link>https://www.producthunt.com/posts/stampede-social</link>
-      <description><![CDATA[你的 Instagram 副驾驶就在这里。 Stampede Social 帮助创作者节省高达 80% 的时间，同时增加收入和品牌影响力。包括自动化、人工智能和数据，以提供最强大的平台，前 1% 的创作者希望保守秘密。     ]]></description>
-      <guid>https://www.producthunt.com/posts/stampede-social</guid>
-      <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>unlogged - 用于模拟、测试和优化的开源工具</title>
-      <link>https://www.producthunt.com/posts/unlogged</link>
-      <description><![CDATA[Unlogged：供 Java 开发人员使用的开源工具，可立即模拟 DB/API、根据 API 流量自动生成单元测试、监控方法性能以及保存/重放方法输入和数据。输出。与 CI 集成以实现代码覆盖率。安装以提升您的 Java DevOps！      ]]></description>
-      <guid>https://www.producthunt.com/posts/unlogged</guid>
-      <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ixord-ai-document-mastery-multitasking - 导航任务，激发创造力</title>
-      <link>https://www.producthunt.com/posts/ixord-ai-document-mastery-multitasking</link>
-      <description><![CDATA[🚀 探索 IXORD Notes AI：通过文档层次结构、多任务选项卡、移动轻型版本和日历事件集成增强组织。您的生产力和创造力中心！ #生产力      ]]></description>
-      <guid>https://www.producthunt.com/posts/ixord-ai-document-mastery-multitasking</guid>
       <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -109,6 +81,48 @@
       <link>https://www.producthunt.com/posts/airchat-6</link>
       <description><![CDATA[总有人可以倾诉。  &lt; img src=&quot;https://ph-files.imgix.net/997b5473-5791-48c0-83e5-328e60b9a309.png?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
       <guid>https://www.producthunt.com/posts/airchat-6</guid>
+      <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>unlogged - 用于模拟、测试和优化的开源工具</title>
+      <link>https://www.producthunt.com/posts/unlogged</link>
+      <description><![CDATA[Unlogged：供 Java 开发人员使用的开源工具，可立即模拟 DB/API、根据 API 流量自动生成单元测试、监控方法性能以及保存/重放方法输入和数据。输出。与 CI 集成以实现代码覆盖率。安装以提升您的 Java DevOps！      ]]></description>
+      <guid>https://www.producthunt.com/posts/unlogged</guid>
+      <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ixord-ai - 导航任务，激发创造力</title>
+      <link>https://www.producthunt.com/posts/ixord-ai</link>
+      <description><![CDATA[🚀 探索 IXORD Notes AI：通过文档层次结构、多任务选项卡、移动轻型版本和日历事件集成增强组织。您的生产力和创造力中心！ #生产力      ]]></description>
+      <guid>https://www.producthunt.com/posts/ixord-ai</guid>
+      <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>stampede-social - 创作者和影响者的 Instagram 副驾驶</title>
+      <link>https://www.producthunt.com/posts/stampede-social</link>
+      <description><![CDATA[你的 Instagram 副驾驶就在这里。 Stampede Social 帮助创作者节省高达 80% 的时间，同时增加收入和品牌影响力。包括自动化、人工智能和数据，以提供最强大的平台，前 1% 的创作者希望保守秘密。     ]]></description>
+      <guid>https://www.producthunt.com/posts/stampede-social</guid>
+      <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brandbay - 安全地存储、管理和共享您的多品牌资产</title>
+      <link>https://www.producthunt.com/posts/brandbay</link>
+      <description><![CDATA[组织和存储您的品牌资产，与您的团队和客户协作，并在您自己的定制品牌白标品牌资产管理平台中安全地交付文件...网站上提供特别发布优惠：https://brandbay.io/      ]]></description>
+      <guid>https://www.producthunt.com/posts/brandbay</guid>
+      <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>clickly-2 - 通过 Clickly 提高您的品牌参与度</title>
+      <link>https://www.producthunt.com/posts/clickly-2</link>
+      <description><![CDATA[Clickly 是一个链接管理平台，提供链接缩短、品牌链接、链接跟踪和分析。   ]]></description>
+      <guid>https://www.producthunt.com/posts/clickly-2</guid>
+      <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>deedsign - 免费电子签名来签署文件</title>
+      <link>https://www.producthunt.com/posts/deedsign</link>
+      <description><![CDATA[DeedSign 是一个基于网络的电子签名平台，用安全的数字签名取代了传统的纸质签名。它提供了一种高效、简化的方法来签署和管理文档，消除了对物理文书工作的依赖。     ]]></description>
+      <guid>https://www.producthunt.com/posts/deedsign</guid>
       <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
