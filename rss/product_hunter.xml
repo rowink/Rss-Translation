@@ -4,7 +4,7 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 16 Apr 2024 12:11:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 15:05:06 GMT</lastBuildDate>
     <item>
       <title>seomaker - 通过 AI 提升您的 SEO 和洞察力</title>
       <link>https://www.producthunt.com/posts/seomaker</link>
@@ -33,10 +33,12 @@
       <pubDate>Tue, 16 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>alttunes - PC 用户会喜欢的 iPhone 管理器</title>
-      <link>https://www.producthunt.com/posts/alttunes</link>
-      <description><![CDATA[AltTunes — 适用于 iPhone 的最佳备份管理器和数据传输工具。它允许您轻松地将音乐、照片、联系人等从 iPhone 导出到 PC。轻松整理和备份数据，确保轻松的 iPhone 管理体验。   &lt; img src=&quot;https://ph-files.imgix.net/6c164f41-0d37-4c47-9bc1-43e550f81ac5.png?auto=format&amp;fit=crop&quot; /&gt;  ]]></description>
-      <guid>https://www.producthunt.com/posts/alttunes</guid>
+      <title>vidyard-ai-avatars - 大规模生成个性化人工智能销售视频消息</title>
+      <link>https://www.producthunt.com/posts/vidyard-ai-avatars</link>
+      <description><![CDATA[AI Avatars：使用 Vidyard 创建个性化视频的全新方式。
+
+使用看起来和听起来都像你的超现实化身大规模创建高质量的 AI 视频。只需编写脚本即可在几分钟内生成个性化视频消息。     ]]></description>
+      <guid>https://www.producthunt.com/posts/vidyard-ai-avatars</guid>
       <pubDate>Tue, 16 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -49,19 +51,10 @@
       <pubDate>Tue, 16 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>vidyard-ai-avatars - 大规模生成个性化人工智能销售视频消息</title>
-      <link>https://www.producthunt.com/posts/vidyard-ai-avatars</link>
-      <description><![CDATA[AI Avatars：使用 Vidyard 创建个性化视频的全新方式。
-
-使用看起来和听起来都像你的超现实化身大规模创建高质量的 AI 视频。只需编写脚本即可在几分钟内生成个性化视频消息。     ]]></description>
-      <guid>https://www.producthunt.com/posts/vidyard-ai-avatars</guid>
-      <pubDate>Tue, 16 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>goptimise-beta - 无代码人工智能驱动的可扩展后端构建器</title>
-      <link>https://www.producthunt.com/posts/goptimise-beta</link>
-      <description><![CDATA[Gooptimise 是一个无代码后端构建器，提供专用基础设施、可视化构建器、广泛的第三方集成和先进的 AI 生成功能。它旨在轻松创建可扩展的 API，以满足任何业务需求。     ]]></description>
-      <guid>https://www.producthunt.com/posts/goptimise-beta</guid>
+      <title>alttunes - PC 用户会喜欢的 iPhone 管理器</title>
+      <link>https://www.producthunt.com/posts/alttunes</link>
+      <description><![CDATA[AltTunes — 适用于 iPhone 的最佳备份管理器和数据传输工具。它允许您轻松地将音乐、照片、联系人等从 iPhone 导出到 PC。轻松整理和备份数据，确保轻松的 iPhone 管理体验。   &lt; img src=&quot;https://ph-files.imgix.net/6c164f41-0d37-4c47-9bc1-43e550f81ac5.png?auto=format&amp;fit=crop&quot; /&gt;  ]]></description>
+      <guid>https://www.producthunt.com/posts/alttunes</guid>
       <pubDate>Tue, 16 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -72,10 +65,10 @@
       <pubDate>Tue, 16 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>yourgpt-2 - 通过手机上的 API 密钥使用法学硕士</title>
-      <link>https://www.producthunt.com/posts/yourgpt-2</link>
-      <description><![CDATA[只需使用您的 API 密钥即可直接通过手机使用 Claude 3、GPT-4 Turbo 等法学硕士！告别每月订阅和使用限制。通过时尚、用户友好的界面体验无限制、无广告的对话     ]]></description>
-      <guid>https://www.producthunt.com/posts/yourgpt-2</guid>
+      <title>goptimise-beta - 无代码人工智能驱动的可扩展后端构建器</title>
+      <link>https://www.producthunt.com/posts/goptimise-beta</link>
+      <description><![CDATA[Gooptimise 是一个无代码后端构建器，提供专用基础设施、可视化构建器、广泛的第三方集成和先进的 AI 生成功能。它旨在轻松创建可扩展的 API，以满足任何业务需求。     ]]></description>
+      <guid>https://www.producthunt.com/posts/goptimise-beta</guid>
       <pubDate>Tue, 16 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -87,6 +80,13 @@ Muzaic 使用人工智能在几秒钟内创建独特的配乐。
 高品质、可定制、合法。
 在 Product Hunt 上尝试一下！  &lt; img src=&quot;https://ph-files.imgix.net/710007ed-2516-4186-87e4-cabff86bf442.png?auto=format&amp;fit=crop&quot; /&gt;   &lt;img src=&quot;https://ph-files.imgix.net/a0499e86-3115-4fb7-8946-f67156046fd1.png?auto=format&amp;amp;fit =作物”/&gt;]]></description>
       <guid>https://www.producthunt.com/posts/muzaic-api</guid>
+      <pubDate>Tue, 16 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>yourgpt-2 - 通过手机上的 API 密钥使用法学硕士</title>
+      <link>https://www.producthunt.com/posts/yourgpt-2</link>
+      <description><![CDATA[只需使用您的 API 密钥即可直接通过手机使用 Claude 3、GPT-4 Turbo 等法学硕士！告别每月订阅和使用限制。通过时尚、用户友好的界面体验无限制、无广告的对话     ]]></description>
+      <guid>https://www.producthunt.com/posts/yourgpt-2</guid>
       <pubDate>Tue, 16 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
