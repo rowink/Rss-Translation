@@ -4,181 +4,181 @@
     <title>今日 GitHub 上的热门存储库 · GitHub</title>
     <link>https://github.com/trending/?since=daily&spoken_language_code=en</link>
     <description>今日 GitHub 上的热门存储库 · GitHub - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 16 Apr 2024 15:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 18:07:57 GMT</lastBuildDate>
     <item>
-      <title>阿帕奇/flink-cdc</title>
-      <link>https://github.com/apache/flink-cdc</link>
-      <description><![CDATA[Flink CDC是一个流数据集成工具语言：Java 星星：5217 叉子：1767]]></description>
-      <guid>https://github.com/apache/flink-cdc</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:31 GMT</pubDate>
+      <title>vwxyzjn/cleanrl</title>
+      <link>https://github.com/vwxyzjn/cleanrl</link>
+      <description><![CDATA[具有研究友好功能（PPO、DQN、 , DDPG、TD3、SAC、PPG）语言：Python 星星：4384 叉子：521]]></description>
+      <guid>https://github.com/vwxyzjn/cleanrl</guid>
+      <pubDate>Tue, 16 Apr 2024 18:07:57 GMT</pubDate>
     </item>
     <item>
       <title>风筝-io/风筝</title>
       <link>https://github.com/milvus-io/milvus</link>
-      <description><![CDATA[云原生矢量数据库，下一代人工智能应用的存储语言：Go 星星：26590 叉子：2554]]></description>
+      <description><![CDATA[云原生矢量数据库，下一代人工智能应用的存储语言：Go 星星：26592 叉子：2554]]></description>
       <guid>https://github.com/milvus-io/milvus</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:31 GMT</pubDate>
+      <pubDate>Tue, 16 Apr 2024 18:07:56 GMT</pubDate>
     </item>
     <item>
       <title>阿达普/花</title>
       <link>https://github.com/adap/flower</link>
-      <description><![CDATA[Flower：友好的联邦学习框架语言：Python 星星：4122 分叉：737]]></description>
+      <description><![CDATA[Flower：友好的联邦学习框架语言：Python 星星：4125 分叉：737]]></description>
       <guid>https://github.com/adap/flower</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>vwxyzjn/cleanrl</title>
-      <link>https://github.com/vwxyzjn/cleanrl</link>
-      <description><![CDATA[具有研究友好功能（PPO、DQN、C51、 DDPG、TD3、SAC、PPG）语言：Python 星星：4382 叉子：521]]></description>
-      <guid>https://github.com/vwxyzjn/cleanrl</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>极地-RS/极地</title>
-      <link>https://github.com/pola-rs/polars</link>
-      <description><![CDATA[由多线程、矢量化查询引擎提供支持的数据帧，用 Rust 编写语言：Rust 星星：25896 叉子：1560]]></description>
-      <guid>https://github.com/pola-rs/polars</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:30 GMT</pubDate>
+      <pubDate>Tue, 16 Apr 2024 18:07:56 GMT</pubDate>
     </item>
     <item>
       <title>爱彼迎/lottie-ios</title>
       <link>https://github.com/airbnb/lottie-ios</link>
-      <description><![CDATA[用于原生渲染 After Effects 矢量动画的 iOS 库语言：Swift 星星：24900 叉子：3601]]></description>
+      <description><![CDATA[用于原生渲染 After Effects 矢量动画的 iOS 库语言：Swift 星星：24899 叉子：3601]]></description>
       <guid>https://github.com/airbnb/lottie-ios</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:30 GMT</pubDate>
+      <pubDate>Tue, 16 Apr 2024 18:07:55 GMT</pubDate>
     </item>
     <item>
       <title>Gopeed实验室/gopeed</title>
       <link>https://github.com/GopeedLab/gopeed</link>
-      <description><![CDATA[支持所有平台的现代下载管理器。使用 Golang 和 Flutter 构建。 语言：Dart 星星：13175 叉子：966]]></description>
+      <description><![CDATA[支持所有平台的现代下载管理器。使用 Golang 和 Flutter 构建。 语言：Dart 星星：13182 叉子：967]]></description>
       <guid>https://github.com/GopeedLab/gopeed</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:30 GMT</pubDate>
+      <pubDate>Tue, 16 Apr 2024 18:07:55 GMT</pubDate>
     </item>
     <item>
-      <title>ipfs/久保</title>
-      <link>https://github.com/ipfs/kubo</link>
-      <description><![CDATA[Go 语言中的 IPFS 实现语言：去 星星：15765 叉子：2956]]></description>
-      <guid>https://github.com/ipfs/kubo</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:29 GMT</pubDate>
+      <title>阿帕奇/flink-cdc</title>
+      <link>https://github.com/apache/flink-cdc</link>
+      <description><![CDATA[Flink CDC是一个流数据集成工具语言：Java 星星：5218 叉子：1767]]></description>
+      <guid>https://github.com/apache/flink-cdc</guid>
+      <pubDate>Tue, 16 Apr 2024 18:07:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>KRTirtho/spotube</title>
+      <link>https://github.com/KRTirtho/spotube</link>
+      <description><![CDATA[🎧 开源 Spotify 客户端，不需要 Premium 也不使用 Electron！适用于台式机和平板电脑移动的！ 语言：Dart 星星：24069 叉子：968]]></description>
+      <guid>https://github.com/KRTirtho/spotube</guid>
+      <pubDate>Tue, 16 Apr 2024 18:07:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>极地-RS/极地</title>
+      <link>https://github.com/pola-rs/polars</link>
+      <description><![CDATA[由多线程矢量化查询引擎提供支持的数据帧，用 Rust 编写语言：Rust 星星：25896 叉子：1560]]></description>
+      <guid>https://github.com/pola-rs/polars</guid>
+      <pubDate>Tue, 16 Apr 2024 18:07:54 GMT</pubDate>
     </item>
     <item>
       <title>大猩猩/网络套接字</title>
       <link>https://github.com/gorilla/websocket</link>
-      <description><![CDATA[包 gorilla/websocket 是一个快速、经过充分测试且广泛使用的 Go WebSocket 实现。 语言：Go 星星：21104 叉子：3428]]></description>
+      <description><![CDATA[包 gorilla/websocket 是一个快速、经过充分测试且广泛使用的 Go WebSocket 实现。 语言：Go 星星：21105 叉子：3428]]></description>
       <guid>https://github.com/gorilla/websocket</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:29 GMT</pubDate>
+      <pubDate>Tue, 16 Apr 2024 18:07:53 GMT</pubDate>
     </item>
     <item>
       <title>TixiaoShan/LIO-SAM</title>
       <link>https://github.com/TixiaoShan/LIO-SAM</link>
       <description><![CDATA[LIO-SAM：通过平滑和映射实现紧耦合激光雷达惯性里程计语言：C++ 星星：3039 叉子：1166]]></description>
       <guid>https://github.com/TixiaoShan/LIO-SAM</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>KRTirtho/spotube</title>
-      <link>https://github.com/KRTirtho/spotube</link>
-      <description><![CDATA[🎧 开源 Spotify 客户端，不需要 Premium 也不使用 Electron！适用于台式机和平板电脑移动的！ 语言：Dart 星星：24065 叉子：966]]></description>
-      <guid>https://github.com/KRTirtho/spotube</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>乐鑫/arduino-esp32</title>
-      <link>https://github.com/espressif/arduino-esp32</link>
-      <description><![CDATA[用于 ESP32 的 Arduino 内核 语言：C++ 星星: 12538 货叉: 7180]]></description>
-      <guid>https://github.com/espressif/arduino-esp32</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:28 GMT</pubDate>
+      <pubDate>Tue, 16 Apr 2024 18:07:53 GMT</pubDate>
     </item>
     <item>
       <title>谷歌-deepmind/alphafold</title>
       <link>https://github.com/google-deepmind/alphafold</link>
       <description><![CDATA[AlphaFold 的开源代码。 语言：Python 星星：11641 叉子：2072]]></description>
       <guid>https://github.com/google-deepmind/alphafold</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:28 GMT</pubDate>
+      <pubDate>Tue, 16 Apr 2024 18:07:52 GMT</pubDate>
     </item>
     <item>
       <title>terraform-aws-模块/terraform-aws-eks</title>
       <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
       <description><![CDATA[用于创建 AWS Elastic Kubernetes (EKS) 资源的 Terraform 模块 🇺 🇦语言：HCL 星星：4146 叉子：3912]]></description>
       <guid>https://github.com/terraform-aws-modules/terraform-aws-eks</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:28 GMT</pubDate>
+      <pubDate>Tue, 16 Apr 2024 18:07:52 GMT</pubDate>
     </item>
     <item>
-      <title>yangshun/前端面试手册</title>
-      <link>https://github.com/yangshun/front-end-interview-handbook</link>
-      <description><![CDATA[⚡️忙碌工程师的前端面试准备材料语言：MDX 星星：40173 叉子：5636]]></description>
-      <guid>https://github.com/yangshun/front-end-interview-handbook</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>AUTOMATIC1111/稳定扩散-webui</title>
-      <link>https://github.com/AUTOMATIC1111/stable-diffusion-webui</link>
-      <description><![CDATA[稳定的 Diffusion Web UI 语言：Python 星星：128693 叉子：25014]]></description>
-      <guid>https://github.com/AUTOMATIC1111/stable-diffusion-webui</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:27 GMT</pubDate>
+      <title>ipfs/久保</title>
+      <link>https://github.com/ipfs/kubo</link>
+      <description><![CDATA[Go 语言中的 IPFS 实现语言：去 星星：15768 叉子：2956]]></description>
+      <guid>https://github.com/ipfs/kubo</guid>
+      <pubDate>Tue, 16 Apr 2024 18:07:52 GMT</pubDate>
     </item>
     <item>
       <title>SimplifyJobs/2024 年夏季-实习</title>
       <link>https://github.com/SimplifyJobs/Summer2024-Internships</link>
-      <description><![CDATA[2024年夏季技术实习合集！ 语言：未知星星：29725 叉子：2543]]></description>
+      <description><![CDATA[2024年夏季技术实习合集！ 语言：未知星星：29728 叉子：2543]]></description>
       <guid>https://github.com/SimplifyJobs/Summer2024-Internships</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:27 GMT</pubDate>
+      <pubDate>Tue, 16 Apr 2024 18:07:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>乐鑫/arduino-esp32</title>
+      <link>https://github.com/espressif/arduino-esp32</link>
+      <description><![CDATA[用于 ESP32 的 Arduino 内核 语言：C++ 星星: 12538 货叉: 7181]]></description>
+      <guid>https://github.com/espressif/arduino-esp32</guid>
+      <pubDate>Tue, 16 Apr 2024 18:07:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>codecrafters-io/构建你自己的-x</title>
+      <link>https://github.com/codecrafters-io/build-your-own-x</link>
+      <description><![CDATA[通过从头开始重新创建您最喜欢的技术来掌握编程。 语言：未知星星：256189 叉子：24300]]></description>
+      <guid>https://github.com/codecrafters-io/build-your-own-x</guid>
+      <pubDate>Tue, 16 Apr 2024 18:07:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>yangshun/前端面试手册</title>
+      <link>https://github.com/yangshun/front-end-interview-handbook</link>
+      <description><![CDATA[⚡️ 忙碌工程师的前端面试准备材料语言：MDX 星星：40177 叉子：5636]]></description>
+      <guid>https://github.com/yangshun/front-end-interview-handbook</guid>
+      <pubDate>Tue, 16 Apr 2024 18:07:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>AUTOMATIC1111/稳定扩散-webui</title>
+      <link>https://github.com/AUTOMATIC1111/stable-diffusion-webui</link>
+      <description><![CDATA[稳定的 Diffusion Web UI 语言：Python 星星：128703 叉子：25018]]></description>
+      <guid>https://github.com/AUTOMATIC1111/stable-diffusion-webui</guid>
+      <pubDate>Tue, 16 Apr 2024 18:07:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>langchain-ai/langchain</title>
+      <link>https://github.com/langchain-ai/langchain</link>
+      <description><![CDATA[🦜🔗 构建上下文感知推理应用语言：Python 星星：82310 叉子：12592]]></description>
+      <guid>https://github.com/langchain-ai/langchain</guid>
+      <pubDate>Tue, 16 Apr 2024 18:07:49 GMT</pubDate>
     </item>
     <item>
       <title>kubernetes/kube-state-metrics</title>
       <link>https://github.com/kubernetes/kube-state-metrics</link>
       <description><![CDATA[用于生成和公开集群级别指标的附加代理。 语言：Go 星星：5072 叉子：1848]]></description>
       <guid>https://github.com/kubernetes/kube-state-metrics</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>codecrafters-io/构建你自己的-x</title>
-      <link>https://github.com/codecrafters-io/build-your-own-x</link>
-      <description><![CDATA[通过从头开始重新创建您最喜欢的技术来掌握编程。 语言：未知星星：256169 叉子：24298]]></description>
-      <guid>https://github.com/codecrafters-io/build-your-own-x</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>序数/顺序</title>
-      <link>https://github.com/ordinals/ord</link>
-      <description><![CDATA[👁‍🗨 稀有和奇异的卫星语言：Rust 星星: 3351 货叉: 1143]]></description>
-      <guid>https://github.com/ordinals/ord</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>elebumm/RedditVideoMakerBot</title>
-      <link>https://github.com/elebumm/RedditVideoMakerBot</link>
-      <description><![CDATA[只需 ✨ 一个命令即可创建 Reddit 视频 ✨ 语言：Python 星星：6145 前叉：1728]]></description>
-      <guid>https://github.com/elebumm/RedditVideoMakerBot</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>langchain-ai/langchain</title>
-      <link>https://github.com/langchain-ai/langchain</link>
-      <description><![CDATA[🦜🔗 构建上下文感知推理应用语言：蟒蛇星星：82292 叉子：12590]]></description>
-      <guid>https://github.com/langchain-ai/langchain</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>ggerganov/whisper.cpp</title>
-      <link>https://github.com/ggerganov/whisper.cpp</link>
-      <description><![CDATA[OpenAI Whisper 模型的 C/C++ 移植语言：C 星星：30590 前叉：2988]]></description>
-      <guid>https://github.com/ggerganov/whisper.cpp</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>唐内马丁/系统设计入门</title>
-      <link>https://github.com/donnemartin/system-design-primer</link>
-      <description><![CDATA[了解如何设计大型系统。准备系统设计面试。包括 Anki 抽认卡。 语言：Python 星星：252711 叉子：43231]]></description>
-      <guid>https://github.com/donnemartin/system-design-primer</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:24 GMT</pubDate>
+      <pubDate>Tue, 16 Apr 2024 18:07:49 GMT</pubDate>
     </item>
     <item>
       <title>trekhleb/javascript-算法</title>
       <link>https://github.com/trekhleb/javascript-algorithms</link>
-      <description><![CDATA[📝 用 Ja​​vaScript 实现的算法和数据结构，附有解释和进一步阅读的链接语言：JavaScript 星星：182074 叉子：29412]]></description>
+      <description><![CDATA[📝 用 Ja​​vaScript 实现的算法和数据结构，附有解释和进一步阅读的链接语言：JavaScript 星星：182093 叉子：29416]]></description>
       <guid>https://github.com/trekhleb/javascript-algorithms</guid>
-      <pubDate>Tue, 16 Apr 2024 15:04:24 GMT</pubDate>
+      <pubDate>Tue, 16 Apr 2024 18:07:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>序数/顺序</title>
+      <link>https://github.com/ordinals/ord</link>
+      <description><![CDATA[👁‍🗨 稀有且充满异国情调的卫星语言：Rust 星星: 3352 货叉: 1145]]></description>
+      <guid>https://github.com/ordinals/ord</guid>
+      <pubDate>Tue, 16 Apr 2024 18:07:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>elebumm/RedditVideoMakerBot</title>
+      <link>https://github.com/elebumm/RedditVideoMakerBot</link>
+      <description><![CDATA[只需一个命令即可创建 Reddit 视频 ✨ 语言：Python &lt; br/ &gt;星星：6146 前叉：1728]]></description>
+      <guid>https://github.com/elebumm/RedditVideoMakerBot</guid>
+      <pubDate>Tue, 16 Apr 2024 18:07:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>ggerganov/whisper.cpp</title>
+      <link>https://github.com/ggerganov/whisper.cpp</link>
+      <description><![CDATA[OpenAI Whisper 模型的 C/C++ 移植语言：C 星星：30609 前叉：2996]]></description>
+      <guid>https://github.com/ggerganov/whisper.cpp</guid>
+      <pubDate>Tue, 16 Apr 2024 18:07:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>唐内马丁/系统设计入门</title>
+      <link>https://github.com/donnemartin/system-design-primer</link>
+      <description><![CDATA[了解如何设计大型系统。准备系统设计面试。包括 Anki 抽认卡。 语言：Python 星星：252733 叉子：43237]]></description>
+      <guid>https://github.com/donnemartin/system-design-primer</guid>
+      <pubDate>Tue, 16 Apr 2024 18:07:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
