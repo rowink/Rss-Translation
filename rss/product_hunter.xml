@@ -4,7 +4,7 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 18 Apr 2024 09:05:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 12:11:57 GMT</lastBuildDate>
     <item>
       <title>collabwriting-for-teams - 捕获、存储和查找知识的最简单方法</title>
       <link>https://www.producthunt.com/posts/collabwriting-for-teams</link>
@@ -22,41 +22,6 @@
       <pubDate>Thu, 18 Apr 2024 07:54:56 GMT</pubDate>
     </item>
     <item>
-      <title>design-engineer - 专门为设计工程师设计的漂亮工作板</title>
-      <link>https://www.producthunt.com/posts/design-engineer</link>
-      <description><![CDATA[到 2024 年，我们将看到设计工程师职位空缺呈指数级增长。下一代软件公司（Vercel、Stripe、Clerk 等）构建由设计工程师精心制作的用户喜爱的产品。   ]]></description>
-      <guid>https://www.producthunt.com/posts/design-engineer</guid>
-      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flycode- Payments - 停止因付款失败而损失收入，将 ARR 提高 6-8%</title>
-      <link>https://www.producthunt.com/posts/flycode-payments</link>
-      <description><![CDATA[FlyCode 的支付优化和失败支付恢复技术由机器学习和人工智能提供支持，可在支付失败发生之前阻止其发生，恢复收入损失并减少被动流失。今天开始通过零集成增加收入！     &lt;img src=&quot;https://ph-files.imgix.net/dad99574-5aba-4a0c-98bc-45ef005c0c24.png?auto=format&amp;amp ;适合=作物“/&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/flycode-payments</guid>
-      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>iopartners - 您的个人 3D AI 合作伙伴</title>
-      <link>https://www.producthunt.com/posts/iopartners</link>
-      <description><![CDATA[享受与您自己的 3D AI 合作伙伴进行无限对话的可能性。自定义他们的外观，从互动中创造新的记忆，塑造他们的个性特征，打造完美的伴侣，一起创造独特的故事。      ]]></description>
-      <guid>https://www.producthunt.com/posts/iopartners</guid>
-      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>delta-2 - 适用于 iOS 的 Gameboy 模拟器</title>
-      <link>https://www.producthunt.com/posts/delta-2</link>
-      <description><![CDATA[Delta 是一款适用于 iOS 的一体化模拟器。 Delta 以其前身 GBA4iOS 的优势为基础，同时进行了扩展，以支持更多游戏系统，例如 NES、SNES、N64 和 DS。           ]]></description>
-      <guid>https://www.producthunt.com/posts/delta-2</guid>
-      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>latitude-6 - 用于嵌入式分析的开源框架</title>
-      <link>https://www.producthunt.com/posts/latitude-6</link>
-      <description><![CDATA[Latitude 允许您仅使用 SQL 在数据库/仓库之上创建 API 端点，并将交互式可视化本地嵌入到您最喜欢的前端框架中或通过 iframe。    ]]></description>
-      <guid>https://www.producthunt.com/posts/latitude-6</guid>
-      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Askbetter-validate-with-ai - 不要浪费时间构建错误的产品。</title>
       <link>https://www.producthunt.com/posts/askbetter-validate-with-ai</link>
       <description><![CDATA[不要浪费时间构建错误的产品。
@@ -68,27 +33,6 @@
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>pullpo-io-2 - 在几小时内完成代码审查，而不是几天。就来自 Slack！</title>
-      <link>https://www.producthunt.com/posts/pullpo-io-2</link>
-      <description><![CDATA[利用与 GitHub 实时同步的人工智能驱动的 Slack Channels 加速代码审查。      &lt;img src=&quot;https://ph-files.imgix.net/2076e985-39a8-4ace-8e30-d3d3a4775e07.png?auto=format&amp;amp;适合=作物“/&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/pullpo-io-2</guid>
-      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>talkline-5 - 适用于 macOS、iOS 和 VisionOS 的文本转语音伴侣</title>
-      <link>https://www.producthunt.com/posts/speakline-5</link>
-      <description><![CDATA[SpeakLine 将您的文本转换为口语文字 - 只需键入、选择声音，然后让您的设备大声朗读。陶醉于有趣声音的乐趣或沉浸在母语文本中。   &lt; img src=&quot;https://ph-files.imgix.net/ac4b74eb-c15c-41bf-92dc-c10e9b5d4392.jpeg?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
-      <guid>https://www.producthunt.com/posts/speakline-5</guid>
-      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>opttimateai - 人工智能销售软件：获得报酬并促进销售</title>
-      <link>https://www.producthunt.com/posts/optimateai</link>
-      <description><![CDATA[OptimateAI 将您的所有销售业务集中在一处。通过提供多种支付选项来收集在线付款、跟踪销售 KPI、自动化应收账款和付款，从而快速获得付款。只需点击两下即可支付佣金。       ]]></description>
-      <guid>https://www.producthunt.com/posts/optimateai</guid>
-      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>ricksoft-ai - 用于付费预订和约会的人工智能聊天机器人。</title>
       <link>https://www.producthunt.com/posts/bricksoft-ai</link>
       <description><![CDATA[使用人工智能聊天机器人在线销售您的服务。添加您的服务，设置定价，设置持续时间，将聊天机器人嵌入您的网站，瞧！    ]]></description>
@@ -96,19 +40,24 @@
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>sweego - 眨眼间传递您的消息</title>
-      <link>https://www.producthunt.com/posts/sweego</link>
-      <description><![CDATA[Sweego 是面向开发人员的欧洲解决方案，可让您轻松发送通知，同时保持对数据和环境影响的控制。
-
-除了电子邮件之外，我们正在努力添加新渠道：短信、Slack、RCS、应用内通知...       &lt;img src=&quot;https://ph-files.imgix.net/29dd3510-6bf3-4eca-af9e-ef31efc6209c.png?auto=format&amp;amp;fit=crop ” /&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/sweego</guid>
+      <title>iopartners - 您的个人 3D AI 合作伙伴</title>
+      <link>https://www.producthunt.com/posts/iopartners</link>
+      <description><![CDATA[享受与您自己的 3D AI 合作伙伴进行无限对话的可能性。自定义他们的外观，从互动中创造新的回忆，塑造他们的个性特征，打造完美的伴侣，共同创造独特的故事。      ]]></description>
+      <guid>https://www.producthunt.com/posts/iopartners</guid>
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>math-solver-gpt - 通过上传图像获取即时数学解决方案。</title>
-      <link>https://www.producthunt.com/posts/math-solver-gpt</link>
-      <description><![CDATA[Math Solver GPT 是您的人工智能数学高手，可以解决从代数到微积分的任何问题。只需拍摄您的问题照片即可立即获得解决方案！   ]]></description>
-      <guid>https://www.producthunt.com/posts/math-solver-gpt</guid>
+      <title>lingquiz - 从现在开始永远不要忘记新单词！</title>
+      <link>https://www.producthunt.com/posts/lingquiz</link>
+      <description><![CDATA[一个简单易用的抽认卡工具，可利用间隔重复技术和 AI 抽认卡的强大功能帮助您学习新单词    ]]></description>
+      <guid>https://www.producthunt.com/posts/lingquiz</guid>
+      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>design-engineer - 专门为设计工程师设计的漂亮工作板</title>
+      <link>https://www.producthunt.com/posts/design-engineer</link>
+      <description><![CDATA[到 2024 年，我们将看到设计工程师职位空缺呈指数级增长。下一代软件公司（Vercel、Stripe、Clerk 等）构建由设计工程师精心制作的用户喜爱的产品。   ]]></description>
+      <guid>https://www.producthunt.com/posts/design-engineer</guid>
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -119,38 +68,24 @@
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>tabula-4 - 由人工智能加速的初创公司分析</title>
-      <link>https://www.producthunt.com/posts/tabula-4</link>
-      <description><![CDATA[您的初创公司需要的唯一人工智能驱动的数据工具。使用所有自定义指标集中数据并自动生成报告。 Tabula 使初创公司能够在无需雇用数据工程师的情况下发展其分析能力。             ]]></description>
-      <guid>https://www.producthunt.com/posts/tabula-4</guid>
-      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>lingquiz - 从现在开始永远不要忘记新单词！</title>
-      <link>https://www.producthunt.com/posts/lingquiz</link>
-      <description><![CDATA[一款简单易用的抽认卡工具，可利用间隔重复技术和 AI 抽认卡的强大功能帮助您学习新单词    ]]></description>
-      <guid>https://www.producthunt.com/posts/lingquiz</guid>
-      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Brave-search - Brave Search 的人工智能答案引擎</title>
-      <link>https://www.producthunt.com/posts/brave-search</link>
-      <description><![CDATA[通过 Brave Search，您可以更快地获得真正的答案。除了链接列表之外，人工智能还提供几乎所有问题的答案。 Brave 通过自己从头开始构建的索引提供结果。没有秘密方法或算法。  &lt; img src=&quot;https://ph-files.imgix.net/467d6e49-9477-4256-bf8f-a37426bd9ed4.png?auto=format&amp;fit=crop&quot; /&gt;   &lt;img src=&quot;https://ph-files.imgix.net/eee51047-21fb-46f8-985b-4402b3f75800.png?auto=format&amp;amp;fit =作物”/&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/brave-search</guid>
-      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>claude-to-notion - 一键将您的 Claude 对话保存到 Notion</title>
-      <link>https://www.producthunt.com/posts/claude-to-notion</link>
-      <description><![CDATA[“Claude to Notion”保存您的聊天记录，让您轻松参考、组织和利用见解。可定制的同步、可搜索的历史记录 - 不再丢失有价值的讨论。将您的 Claude 互动转变为集中式知识库。    ]]></description>
-      <guid>https://www.producthunt.com/posts/claude-to-notion</guid>
-      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>shiftx-ai - 使用 ai 生成流程和流程</title>
       <link>https://www.producthunt.com/posts/shiftx-ai</link>
       <description><![CDATA[利用人工智能将复杂的流程图和繁琐的日常文档转化为直观的工作流程，使您的团队能够更高效地运营，并随着业务的发展轻松改进流程。  ]]></description>
       <guid>https://www.producthunt.com/posts/shiftx-ai</guid>
+      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>tabula-4 - 由人工智能加速的初创公司分析</title>
+      <link>https://www.producthunt.com/posts/tabula-4</link>
+      <description><![CDATA[您的初创企业需要的唯一人工智能驱动的数据工具。使用所有自定义指标集中数据并自动生成报告。 Tabula 使初创公司能够在无需雇用数据工程师的情况下发展其分析能力。             ]]></description>
+      <guid>https://www.producthunt.com/posts/tabula-4</guid>
+      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>latitude-6 - 用于嵌入式分析的开源框架</title>
+      <link>https://www.producthunt.com/posts/latitude-6</link>
+      <description><![CDATA[Latitude 允许您仅使用 SQL 在数据库/仓库之上创建 API 端点，并将交互式可视化本地嵌入到您最喜欢的前端框架中或通过 iframe。    ]]></description>
+      <guid>https://www.producthunt.com/posts/latitude-6</guid>
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -165,6 +100,71 @@
       <link>https://www.producthunt.com/posts/tiktok-notes</link>
       <description><![CDATA[TikTok Notes 是一个生活方式平台，提供有关人们生活的信息丰富的图文内容，您可以在其中看到人们分享他们的旅行技巧、日常食谱。. ]]></description>
       <guid>https://www.producthunt.com/posts/tiktok-notes</guid>
+      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>claude-to-notion - 一键将您的 Claude 对话保存到 Notion</title>
+      <link>https://www.producthunt.com/posts/claude-to-notion</link>
+      <description><![CDATA[“Claude to Notion”保存您的聊天记录，让您轻松参考、组织和利用见解。可定制的同步、可搜索的历史记录 - 不再丢失有价值的讨论。将您的 Claude 互动转变为集中式知识库。    ]]></description>
+      <guid>https://www.producthunt.com/posts/claude-to-notion</guid>
+      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>talkline-5 - 适用于 macOS、iOS 和 VisionOS 的文本转语音伴侣</title>
+      <link>https://www.producthunt.com/posts/speakline-5</link>
+      <description><![CDATA[SpeakLine 将您的文本转换为口语文字 - 只需键入、选择声音，然后让您的设备大声朗读。陶醉于有趣声音的乐趣或沉浸在母语文本中。   &lt; img src=&quot;https://ph-files.imgix.net/ac4b74eb-c15c-41bf-92dc-c10e9b5d4392.jpeg?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
+      <guid>https://www.producthunt.com/posts/speakline-5</guid>
+      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flycode- payment - 停止因付款失败而损失收入，将 ARR 提高 6-8%</title>
+      <link>https://www.producthunt.com/posts/flycode-payments</link>
+      <description><![CDATA[FlyCode 的支付优化和失败支付恢复技术由机器学习和人工智能提供支持，可在支付失败发生之前阻止其发生，恢复收入损失并减少被动流失。今天开始通过零集成增加收入！     &lt;img src=&quot;https://ph-files.imgix.net/dad99574-5aba-4a0c-98bc-45ef005c0c24.png?auto=format&amp;amp ;适合=作物“/&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/flycode-payments</guid>
+      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brave-search - Brave Search 的人工智能答案引擎</title>
+      <link>https://www.producthunt.com/posts/brave-search</link>
+      <description><![CDATA[通过 Brave Search，您可以更快地获得真正的答案。除了链接列表之外，人工智能还提供几乎所有问题的答案。 Brave 通过自己从头开始构建的索引提供结果。没有秘密方法或算法。  &lt; img src=&quot;https://ph-files.imgix.net/467d6e49-9477-4256-bf8f-a37426bd9ed4.png?auto=format&amp;fit=crop&quot; /&gt;   &lt;img src=&quot;https://ph-files.imgix.net/eee51047-21fb-46f8-985b-4402b3f75800.png?auto=format&amp;amp;fit =作物”/&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/brave-search</guid>
+      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>math-solver-gpt - 通过上传图像获取即时数学解决方案。</title>
+      <link>https://www.producthunt.com/posts/math-solver-gpt</link>
+      <description><![CDATA[Math Solver GPT 是您的人工智能数学高手，可以解决从代数到微积分的任何问题。只需拍摄您的问题照片即可立即获得解决方案！   ]]></description>
+      <guid>https://www.producthunt.com/posts/math-solver-gpt</guid>
+      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>opttimateai - 人工智能销售软件：获得报酬并促进销售</title>
+      <link>https://www.producthunt.com/posts/optimateai</link>
+      <description><![CDATA[OptimateAI 将您的所有销售业务集中在一处。通过提供多种支付选项来收集在线付款、跟踪销售 KPI、自动化应收账款和付款，从而快速获得付款。只需点击两下即可支付佣金。       ]]></description>
+      <guid>https://www.producthunt.com/posts/optimateai</guid>
+      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>delta-2 - 适用于 iOS 的 Gameboy 模拟器</title>
+      <link>https://www.producthunt.com/posts/delta-2</link>
+      <description><![CDATA[Delta 是一款适用于 iOS 的一体化模拟器。 Delta 以其前身 GBA4iOS 的优势为基础，同时进行了扩展，以支持更多游戏系统，例如 NES、SNES、N64 和 DS。           ]]></description>
+      <guid>https://www.producthunt.com/posts/delta-2</guid>
+      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>sweego - 眨眼间传递您的消息</title>
+      <link>https://www.producthunt.com/posts/sweego</link>
+      <description><![CDATA[Sweego 是面向开发人员的欧洲解决方案，可让您轻松发送通知，同时保持对数据和环境影响的控制。
+
+除了电子邮件之外，我们正在努力添加新渠道：短信、Slack、RCS、应用内通知...       &lt;img src=&quot;https://ph-files.imgix.net/29dd3510-6bf3-4eca-af9e-ef31efc6209c.png?auto=format&amp;amp;fit=crop ” /&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/sweego</guid>
+      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>pullpo-io-2 - 在几小时内完成代码审查，而不是几天。就来自 Slack！</title>
+      <link>https://www.producthunt.com/posts/pullpo-io-2</link>
+      <description><![CDATA[利用与 GitHub 实时同步的人工智能驱动的 Slack Channels 加速代码审查。      &lt;img src=&quot;https://ph-files.imgix.net/2076e985-39a8-4ace-8e30-d3d3a4775e07.png?auto=format&amp;amp;适合=作物“/&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/pullpo-io-2</guid>
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
