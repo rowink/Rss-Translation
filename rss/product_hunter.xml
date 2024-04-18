@@ -4,7 +4,21 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 18 Apr 2024 18:08:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 21:03:48 GMT</lastBuildDate>
+    <item>
+      <title>meta-llama-3 - 迄今为止最有能力的公开可用的法学硕士</title>
+      <link>https://www.producthunt.com/posts/meta-llama-3</link>
+      <description><![CDATA[现在提供 8B 和 70B 预训练和指令调整版本，以支持广泛的应用    ]]></description>
+      <guid>https://www.producthunt.com/posts/meta-llama-3</guid>
+      <pubDate>Thu, 18 Apr 2024 16:48:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>meta-ai - 最智能的AI助手，你可以自由使用</title>
+      <link>https://www.producthunt.com/posts/meta-ai</link>
+      <description><![CDATA[使用 Meta AI 助手完成任务，免费创建 AI 生成的图像，并获得任何问题的答案。 Meta AI 基于 Meta 最新的 Llama 大型语言模型构建，并使用 Emu。       ]]></description>
+      <guid>https://www.producthunt.com/posts/meta-ai</guid>
+      <pubDate>Thu, 18 Apr 2024 16:35:52 GMT</pubDate>
+    </item>
     <item>
       <title>tabnine-2 - 私人、个性化且受保护的人工智能编码助手。</title>
       <link>https://www.producthunt.com/posts/tabnine-2</link>
@@ -20,7 +34,7 @@
       <pubDate>Thu, 18 Apr 2024 13:40:08 GMT</pubDate>
     </item>
     <item>
-      <title>facelessvideos-ai - 为您的 TikTok 帐户创建病毒式、不露脸的视频</title>
+      <title>facelessvideos-ai - 为您的 TikTok 帐户创建病毒式、不露面的视频</title>
       <link>https://www.producthunt.com/posts/facelessvideos-ai</link>
       <description><![CDATA[FacelessVideos 可让您轻松使用 AI 制作短视频。    ]]></description>
       <guid>https://www.producthunt.com/posts/facelessvideos-ai</guid>
@@ -75,17 +89,8 @@
     <item>
       <title>tabula-4 - 由人工智能加速的初创公司分析</title>
       <link>https://www.producthunt.com/posts/tabula-4</link>
-      <description><![CDATA[您的初创企业需要的唯一人工智能驱动的数据工具。使用所有自定义指标集中数据并自动生成报告。 Tabula 使初创公司能够在无需雇用数据工程师的情况下发展其分析能力。             ]]></description>
+      <description><![CDATA[您的初创公司需要的唯一人工智能驱动的数据工具。使用所有自定义指标集中数据并自动生成报告。 Tabula 使初创公司能够在无需雇用数据工程师的情况下发展其分析能力。             ]]></description>
       <guid>https://www.producthunt.com/posts/tabula-4</guid>
-      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>sweego - 眨眼间传递您的消息</title>
-      <link>https://www.producthunt.com/posts/sweego</link>
-      <description><![CDATA[Sweego 是面向开发人员的欧洲解决方案，可让您轻松发送通知，同时保持对数据和环境影响的控制。
-
-除了电子邮件之外，我们正在努力添加新渠道：短信、Slack、RCS、应用内通知...       &lt;img src=&quot;https://ph-files.imgix.net/29dd3510-6bf3-4eca-af9e-ef31efc6209c.png?auto=format&amp;amp;fit=crop ” /&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/sweego</guid>
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -96,10 +101,12 @@
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>alphacorp-ai - 与 AI 进行群聊</title>
-      <link>https://www.producthunt.com/posts/alphacorp-ai</link>
-      <description><![CDATA[AlphaCorp AI 是一款多模型聊天应用程序，您可以在其中与 ChatGPT、Claude、Mistral 等 AI 进行群聊，所有这些都在单个订阅下进行。比较他们的回答或在单次聊天中运行 AI 到 AI 聊天模拟。   &lt; img src=&quot;https://ph-files.imgix.net/e693c87c-aab3-4c83-9505-5da08690943e.png?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
-      <guid>https://www.producthunt.com/posts/alphacorp-ai</guid>
+      <title>sweego - 眨眼间传递您的消息</title>
+      <link>https://www.producthunt.com/posts/sweego</link>
+      <description><![CDATA[Sweego 是面向开发人员的欧洲解决方案，可让您轻松发送通知，同时保持对数据和环境影响的控制。
+
+除了电子邮件之外，我们正在努力添加新渠道：短信、Slack、RCS、应用内通知...       &lt;img src=&quot;https://ph-files.imgix.net/29dd3510-6bf3-4eca-af9e-ef31efc6209c.png?auto=format&amp;amp;fit=crop ” /&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/sweego</guid>
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -117,10 +124,24 @@
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>Flycode- payment - 停止因付款失败而损失收入，将 ARR 提高 6-8%</title>
+      <title>Flycode- Payments - 停止因付款失败而损失收入，将 ARR 提高 6-8%</title>
       <link>https://www.producthunt.com/posts/flycode-payments</link>
       <description><![CDATA[FlyCode 的支付优化和失败支付恢复技术由机器学习和人工智能提供支持，可在支付失败发生之前阻止其发生，恢复收入损失并减少被动流失。今天开始通过零集成增加收入！     &lt;img src=&quot;https://ph-files.imgix.net/dad99574-5aba-4a0c-98bc-45ef005c0c24.png?auto=format&amp;amp ;适合=作物“/&gt;]]></description>
       <guid>https://www.producthunt.com/posts/flycode-payments</guid>
+      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>alphacorp-ai - 与 AI 进行群聊</title>
+      <link>https://www.producthunt.com/posts/alphacorp-ai</link>
+      <description><![CDATA[AlphaCorp AI 是一款多模型聊天应用程序，您可以在其中与 ChatGPT、Claude、Mistral 等 AI 进行群聊，所有这些都在单个订阅下进行。比较他们的回答或在单次聊天中运行 AI 到 AI 聊天模拟。   &lt; img src=&quot;https://ph-files.imgix.net/e693c87c-aab3-4c83-9505-5da08690943e.png?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
+      <guid>https://www.producthunt.com/posts/alphacorp-ai</guid>
+      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>tiktok-notes - TikTok 的新照片和文本共享应用程序</title>
+      <link>https://www.producthunt.com/posts/tiktok-notes</link>
+      <description><![CDATA[TikTok Notes 是一个生活方式平台，提供有关人们生活的信息丰富的图文内容，您可以在其中看到人们分享他们的旅行技巧、日常食谱。. ]]></description>
+      <guid>https://www.producthunt.com/posts/tiktok-notes</guid>
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -132,13 +153,6 @@
 - 通过一系列精彩的 AI chatGPT 提示进行探索 + 使用 AI 更好地进行验证😍
 - 通过 AI 从访谈/调查中提取有用的见解 🤖    ]]></description>
       <guid>https://www.producthunt.com/posts/askbetter</guid>
-      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>tiktok-notes - TikTok 的新照片和文本共享应用程序</title>
-      <link>https://www.producthunt.com/posts/tiktok-notes</link>
-      <description><![CDATA[TikTok Notes 是一个生活方式平台，提供有关人们生活的信息丰富的图文内容，您可以在其中看到人们分享他们的旅行技巧、日常食谱。. ]]></description>
-      <guid>https://www.producthunt.com/posts/tiktok-notes</guid>
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -177,24 +191,17 @@
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>recursechat - 使用本地 AI 作为日常驱动</title>
+      <title>iopartners - 您的个人 3D AI 合作伙伴</title>
+      <link>https://www.producthunt.com/posts/iopartners</link>
+      <description><![CDATA[享受与您自己的 3D AI 合作伙伴进行无限对话的可能性。自定义他们的外观，从互动中创造新的记忆，塑造他们的个性特征，打造完美的伴侣，一起创造独特的故事。      ]]></description>
+      <guid>https://www.producthunt.com/posts/iopartners</guid>
+      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>recursechat - 使用本地 AI 作为日常驱动程序</title>
       <link>https://www.producthunt.com/posts/recursechat</link>
       <description><![CDATA[RecurseChat 是一款个人人工智能应用程序，用于与本地人工智能离线私下聊天。它专为您使用本地人工智能作为您的日常司机而设计。与本地文档聊天、与图像聊天、导入 ChatGPT 历史记录、全文搜索等等。     ]]></description>
       <guid>https://www.producthunt.com/posts/recursechat</guid>
-      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>lingquiz - 从现在开始永远不要忘记新单词！</title>
-      <link>https://www.producthunt.com/posts/lingquiz</link>
-      <description><![CDATA[一个简单易用的抽认卡工具，可利用间隔重复技术和 AI 抽认卡的强大功能帮助您学习新单词    ]]></description>
-      <guid>https://www.producthunt.com/posts/lingquiz</guid>
-      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>iopartners - 您的个人 3D AI 合作伙伴</title>
-      <link>https://www.producthunt.com/posts/iopartners</link>
-      <description><![CDATA[享受与您自己的 3D AI 合作伙伴进行无限对话的可能性。自定义他们的外观，从互动中创造新的回忆，塑造他们的个性特征，打造完美的伴侣，共同创造独特的故事。      ]]></description>
-      <guid>https://www.producthunt.com/posts/iopartners</guid>
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -202,6 +209,13 @@
       <link>https://www.producthunt.com/posts/speakline-5</link>
       <description><![CDATA[SpeakLine 将您的文本转换为口语文字 - 只需键入、选择声音，然后让您的设备大声朗读。陶醉于有趣声音的乐趣或沉浸在母语文本中。   &lt; img src=&quot;https://ph-files.imgix.net/ac4b74eb-c15c-41bf-92dc-c10e9b5d4392.jpeg?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
       <guid>https://www.producthunt.com/posts/speakline-5</guid>
+      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>lingquiz - 从现在开始永远不要忘记新单词！</title>
+      <link>https://www.producthunt.com/posts/lingquiz</link>
+      <description><![CDATA[一款简单易用的抽认卡工具，可利用间隔重复技术和 AI 抽认卡的强大功能帮助您学习新单词    ]]></description>
+      <guid>https://www.producthunt.com/posts/lingquiz</guid>
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
