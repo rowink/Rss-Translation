@@ -4,7 +4,14 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 18 Apr 2024 15:06:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 18:08:44 GMT</lastBuildDate>
+    <item>
+      <title>tabnine-2 - 私人、个性化且受保护的人工智能编码助手。</title>
+      <link>https://www.producthunt.com/posts/tabnine-2</link>
+      <description><![CDATA[Tabnine 通过 AI 工具实现编码工作流程自动化，从而提高代码质量和开发人员的幸福感。根据简单语言提示生成代码，自动创建测试和文档，让 AI 查找错误并建议代码修复，等等。      ]]></description>
+      <guid>https://www.producthunt.com/posts/tabnine-2</guid>
+      <pubDate>Thu, 18 Apr 2024 15:39:20 GMT</pubDate>
+    </item>
     <item>
       <title>credibl-esg - 从您的 ESG 战略、数据和报告中创造价值</title>
       <link>https://www.producthunt.com/posts/credibl-esg</link>
@@ -52,17 +59,17 @@
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>cascadeur-2-0 - 您可以使用 AI 清理和编辑资产和动作捕捉</title>
-      <link>https://www.producthunt.com/posts/cascadeur-2-0</link>
-      <description><![CDATA[动画取消烘焙，它是一种工具，可以简化将任何烘焙动画转换为可编辑动画的过程。如果是动作捕捉数据、资产或生成的动画，它将自动确定关键帧并选择最佳插值。      ]]></description>
-      <guid>https://www.producthunt.com/posts/cascadeur-2-0</guid>
-      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>latitude-6 - 用于嵌入式分析的开源框架</title>
       <link>https://www.producthunt.com/posts/latitude-6</link>
       <description><![CDATA[Latitude 允许您仅使用 SQL 在数据库/仓库之上创建 API 端点，并将交互式可视化本地嵌入到您最喜欢的前端框架中或通过 iframe。    ]]></description>
       <guid>https://www.producthunt.com/posts/latitude-6</guid>
+      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>cascadeur-2-0 - 您可以使用 AI 清理和编辑资产和动作捕捉</title>
+      <link>https://www.producthunt.com/posts/cascadeur-2-0</link>
+      <description><![CDATA[动画取消烘焙，它是一种工具，可以简化将任何烘焙动画转换为可编辑动画的过程。如果是动作捕捉数据、资产或生成的动画，它将自动确定关键帧并选择最佳插值。      ]]></description>
+      <guid>https://www.producthunt.com/posts/cascadeur-2-0</guid>
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -103,17 +110,17 @@
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>Flycode- payment - 停止因付款失败而损失收入，将 ARR 提高 6-8%</title>
-      <link>https://www.producthunt.com/posts/flycode-payments</link>
-      <description><![CDATA[FlyCode 的支付优化和失败支付恢复技术由机器学习和人工智能提供支持，可在支付失败发生之前阻止其发生，恢复收入损失并减少被动流失。今天开始通过零集成增加收入！     &lt;img src=&quot;https://ph-files.imgix.net/dad99574-5aba-4a0c-98bc-45ef005c0c24.png?auto=format&amp;amp ;适合=作物“/&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/flycode-payments</guid>
-      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>optimeai - 人工智能销售软件，获得报酬并促进销售</title>
       <link>https://www.producthunt.com/posts/optimateai</link>
       <description><![CDATA[OptimateAI 将您的所有销售业务集中在一处。通过提供多种支付选项来收集在线付款、跟踪销售 KPI、自动化应收账款和付款，从而快速获得付款。只需点击两下即可支付佣金。       ]]></description>
       <guid>https://www.producthunt.com/posts/optimateai</guid>
+      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flycode- payment - 停止因付款失败而损失收入，将 ARR 提高 6-8%</title>
+      <link>https://www.producthunt.com/posts/flycode-payments</link>
+      <description><![CDATA[FlyCode 的支付优化和失败支付恢复技术由机器学习和人工智能提供支持，可在支付失败发生之前阻止其发生，恢复收入损失并减少被动流失。今天开始通过零集成增加收入！     &lt;img src=&quot;https://ph-files.imgix.net/dad99574-5aba-4a0c-98bc-45ef005c0c24.png?auto=format&amp;amp ;适合=作物“/&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/flycode-payments</guid>
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -128,17 +135,17 @@
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>explainit - 在几秒钟内为您的文档创建人工智能支持的聊天！</title>
-      <link>https://www.producthunt.com/posts/explainit</link>
-      <description><![CDATA[在几秒钟内为您的文档创建人工智能支持的聊天！提供您的文档的链接，剩下的工作由我们来完成。自定义外观并轻松安装在您的网站       ]]></description>
-      <guid>https://www.producthunt.com/posts/explainit</guid>
-      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>tiktok-notes - TikTok 的新照片和文本共享应用程序</title>
       <link>https://www.producthunt.com/posts/tiktok-notes</link>
       <description><![CDATA[TikTok Notes 是一个生活方式平台，提供有关人们生活的信息丰富的图文内容，您可以在其中看到人们分享他们的旅行技巧、日常食谱。. ]]></description>
       <guid>https://www.producthunt.com/posts/tiktok-notes</guid>
+      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>explainit - 在几秒钟内为您的文档创建人工智能支持的聊天！</title>
+      <link>https://www.producthunt.com/posts/explainit</link>
+      <description><![CDATA[在几秒钟内为您的文档创建人工智能支持的聊天！提供您的文档的链接，剩下的工作由我们来完成。自定义外观并轻松安装在您的网站       ]]></description>
+      <guid>https://www.producthunt.com/posts/explainit</guid>
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -170,14 +177,7 @@
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>iopartners - 您的个人 3D AI 合作伙伴</title>
-      <link>https://www.producthunt.com/posts/iopartners</link>
-      <description><![CDATA[享受与您自己的 3D AI 合作伙伴进行无限对话的可能性。自定义他们的外观，从互动中创造新的回忆，塑造他们的个性特征，打造完美的伴侣，共同创造独特的故事。      ]]></description>
-      <guid>https://www.producthunt.com/posts/iopartners</guid>
-      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>recursechat - 使用本地 AI 作为日常驱动程序</title>
+      <title>recursechat - 使用本地 AI 作为日常驱动</title>
       <link>https://www.producthunt.com/posts/recursechat</link>
       <description><![CDATA[RecurseChat 是一款个人人工智能应用程序，用于与本地人工智能离线私下聊天。它专为您使用本地人工智能作为您的日常司机而设计。与本地文档聊天、与图像聊天、导入 ChatGPT 历史记录、全文搜索等等。     ]]></description>
       <guid>https://www.producthunt.com/posts/recursechat</guid>
@@ -191,10 +191,10 @@
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>ricksoft-ai - 用于付费预订和约会的人工智能聊天机器人。</title>
-      <link>https://www.producthunt.com/posts/bricksoft-ai</link>
-      <description><![CDATA[使用人工智能聊天机器人在线销售您的服务。添加您的服务，设置定价，设置持续时间，将聊天机器人嵌入您的网站，瞧！    ]]></description>
-      <guid>https://www.producthunt.com/posts/bricksoft-ai</guid>
+      <title>iopartners - 您的个人 3D AI 合作伙伴</title>
+      <link>https://www.producthunt.com/posts/iopartners</link>
+      <description><![CDATA[享受与您自己的 3D AI 合作伙伴进行无限对话的可能性。自定义他们的外观，从互动中创造新的回忆，塑造他们的个性特征，打造完美的伴侣，共同创造独特的故事。      ]]></description>
+      <guid>https://www.producthunt.com/posts/iopartners</guid>
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -202,6 +202,13 @@
       <link>https://www.producthunt.com/posts/speakline-5</link>
       <description><![CDATA[SpeakLine 将您的文本转换为口语文字 - 只需键入、选择声音，然后让您的设备大声朗读。陶醉于有趣声音的乐趣或沉浸在母语文本中。   &lt; img src=&quot;https://ph-files.imgix.net/ac4b74eb-c15c-41bf-92dc-c10e9b5d4392.jpeg?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
       <guid>https://www.producthunt.com/posts/speakline-5</guid>
+      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ricksoft-ai - 用于付费预订和约会的人工智能聊天机器人。</title>
+      <link>https://www.producthunt.com/posts/bricksoft-ai</link>
+      <description><![CDATA[使用人工智能聊天机器人在线销售您的服务。添加您的服务，设置定价，设置持续时间，将聊天机器人嵌入您的网站，瞧！    ]]></description>
+      <guid>https://www.producthunt.com/posts/bricksoft-ai</guid>
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
