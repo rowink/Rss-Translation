@@ -4,181 +4,181 @@
     <title>今日 GitHub 上的热门存储库 · GitHub</title>
     <link>https://github.com/trending/?since=daily&spoken_language_code=en</link>
     <description>今日 GitHub 上的热门存储库 · GitHub - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 18 Apr 2024 03:07:32 GMT</lastBuildDate>
-    <item>
-      <title>码头工人/撰写</title>
-      <link>https://github.com/docker/compose</link>
-      <description><![CDATA[使用 Docker 定义和运行多容器应用程序语言：Go 星星：32302 叉子：5045]]></description>
-      <guid>https://github.com/docker/compose</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:31 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Apr 2024 06:09:01 GMT</lastBuildDate>
     <item>
       <title>阿帕奇/超集</title>
       <link>https://github.com/apache/superset</link>
-      <description><![CDATA[Apache Superset 是一个数据可视化和数据探索平台&lt; br /&gt;语言：TypeScript 星星：58675 叉子：12509]]></description>
+      <description><![CDATA[Apache Superset 是一个数据可视化和数据探索平台&lt; br /&gt;语言：TypeScript 星星：58675 叉子：12511]]></description>
       <guid>https://github.com/apache/superset</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>风车实验室</title>
-      <link>https://github.com/windmill-labs/windmill</link>
-      <description><![CDATA[开源开发者平台，可将脚本转换为工作流程和 UI。最快的工作流程引擎（5 倍于 Airflow）。 Airplane 和 Retool 的开源替代品。 语言：Svelte 星星：8491 前叉：353]]></description>
-      <guid>https://github.com/windmill-labs/windmill</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:30 GMT</pubDate>
+      <pubDate>Thu, 18 Apr 2024 06:09:01 GMT</pubDate>
     </item>
     <item>
       <title>Orange-开源/投掷</title>
       <link>https://github.com/Orange-OpenSource/hurl</link>
-      <description><![CDATA[使用纯文本发出、运行和测试 HTTP 请求。 语言：Rust 星星：10796 叉子：389]]></description>
+      <description><![CDATA[使用纯文本发出、运行和测试 HTTP 请求。 语言：Rust 星星：10801 叉子：389]]></description>
       <guid>https://github.com/Orange-OpenSource/hurl</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:30 GMT</pubDate>
+      <pubDate>Thu, 18 Apr 2024 06:09:00 GMT</pubDate>
     </item>
     <item>
       <title>容器/skopeo</title>
       <link>https://github.com/containers/skopeo</link>
-      <description><![CDATA[使用远程映像注册表 - 检索信息、图像、签名内容语言：去 星星：7341 叉子：731]]></description>
+      <description><![CDATA[使用远程映像注册表 - 检索信息、图像、签名内容语言：去 星星：7343 叉子：731]]></description>
       <guid>https://github.com/containers/skopeo</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:30 GMT</pubDate>
+      <pubDate>Thu, 18 Apr 2024 06:09:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>码头工人/撰写</title>
+      <link>https://github.com/docker/compose</link>
+      <description><![CDATA[使用 Docker 定义和运行多容器应用程序语言：Go 星星：32303 叉子：5044]]></description>
+      <guid>https://github.com/docker/compose</guid>
+      <pubDate>Thu, 18 Apr 2024 06:09:00 GMT</pubDate>
     </item>
     <item>
       <title>电源外壳/电源外壳</title>
       <link>https://github.com/PowerShell/PowerShell</link>
-      <description><![CDATA[适用于每个系统的 PowerShell！ 语言：C# 星星：43264 叉子：7015]]></description>
+      <description><![CDATA[适用于每个系统的 PowerShell！ 语言：C# 星星：43266 叉子：7015]]></description>
       <guid>https://github.com/PowerShell/PowerShell</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:29 GMT</pubDate>
+      <pubDate>Thu, 18 Apr 2024 06:08:59 GMT</pubDate>
     </item>
     <item>
       <title>微软/PowerToys</title>
       <link>https://github.com/microsoft/PowerToys</link>
       <description><![CDATA[可最大限度提高工作效率的 Windows 系统实用程序语言：C# 星星：104168 叉子：6134]]></description>
       <guid>https://github.com/microsoft/PowerToys</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:29 GMT</pubDate>
+      <pubDate>Thu, 18 Apr 2024 06:08:59 GMT</pubDate>
     </item>
     <item>
-      <title>sudheerj/角度采访问题</title>
-      <link>https://github.com/sudheerj/angular-interview-questions</link>
-      <description><![CDATA[300 个 Angular 面试问题和答案列表语言：未知星星：3947 前叉：1919]]></description>
-      <guid>https://github.com/sudheerj/angular-interview-questions</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>redis/节点-redis</title>
-      <link>https://github.com/redis/node-redis</link>
-      <description><![CDATA[Redis Node.js 客户端语言：TypeScript 星星: 16668 前叉: 1823]]></description>
-      <guid>https://github.com/redis/node-redis</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>脸书研究/ESM</title>
-      <link>https://github.com/facebookresearch/esm</link>
-      <description><![CDATA[进化规模建模 (esm)：蛋白质的预训练语言模型语言：Python 星星：2793 叉子：554]]></description>
-      <guid>https://github.com/facebookresearch/esm</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:27 GMT</pubDate>
+      <title>风车实验室</title>
+      <link>https://github.com/windmill-labs/windmill</link>
+      <description><![CDATA[开源开发者平台，用于将脚本转换为工作流程和 UI。最快的工作流程引擎（5 倍于 Airflow）。 Airplane 和 Retool 的开源替代品。 语言：Svelte 星星：8492 前叉：353]]></description>
+      <guid>https://github.com/windmill-labs/windmill</guid>
+      <pubDate>Thu, 18 Apr 2024 06:08:59 GMT</pubDate>
     </item>
     <item>
       <title>faker-ruby/faker</title>
       <link>https://github.com/faker-ruby/faker</link>
       <description><![CDATA[用于生成姓名、地址和电话号码等虚假数据的库。 语言：Ruby 星星：11089 叉子：3165]]></description>
       <guid>https://github.com/faker-ruby/faker</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:27 GMT</pubDate>
+      <pubDate>Thu, 18 Apr 2024 06:08:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>sudheerj/角度采访问题</title>
+      <link>https://github.com/sudheerj/angular-interview-questions</link>
+      <description><![CDATA[300 个 Angular 面试问题和答案列表语言: 未知星星：3948 前叉：1919]]></description>
+      <guid>https://github.com/sudheerj/angular-interview-questions</guid>
+      <pubDate>Thu, 18 Apr 2024 06:08:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>redis/节点-redis</title>
+      <link>https://github.com/redis/node-redis</link>
+      <description><![CDATA[Redis Node.js 客户端语言：TypeScript 星星: 16670 前叉: 1823]]></description>
+      <guid>https://github.com/redis/node-redis</guid>
+      <pubDate>Thu, 18 Apr 2024 06:08:58 GMT</pubDate>
     </item>
     <item>
       <title>elsa 工作流程/elsa 核心</title>
       <link>https://github.com/elsa-workflows/elsa-core</link>
-      <description><![CDATA[.NET 工作流程库语言： C# 星星：5779 叉子：1041]]></description>
+      <description><![CDATA[.NET 工作流程库语言： C# 星星：5781 叉子：1041]]></description>
       <guid>https://github.com/elsa-workflows/elsa-core</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:26 GMT</pubDate>
+      <pubDate>Thu, 18 Apr 2024 06:08:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>脸书研究/ESM</title>
+      <link>https://github.com/facebookresearch/esm</link>
+      <description><![CDATA[进化规模建模 (esm)：蛋白质的预训练语言模型语言：Python 星星：2794 叉子：554]]></description>
+      <guid>https://github.com/facebookresearch/esm</guid>
+      <pubDate>Thu, 18 Apr 2024 06:08:57 GMT</pubDate>
     </item>
     <item>
       <title>水产安全/trivy</title>
       <link>https://github.com/aquasecurity/trivy</link>
-      <description><![CDATA[查找容器、Kubernetes、代码存储库、云等中的漏洞、错误配置、秘密、SBOM  语言：Go 星星：21273 叉子：2092]]></description>
+      <description><![CDATA[查找容器、Kubernetes、代码存储库、云等中的漏洞、错误配置、秘密、SBOM  语言：Go 星星：21274 叉子：2092]]></description>
       <guid>https://github.com/aquasecurity/trivy</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:25 GMT</pubDate>
+      <pubDate>Thu, 18 Apr 2024 06:08:56 GMT</pubDate>
     </item>
     <item>
       <title>kubernetes/kube-state-metrics</title>
       <link>https://github.com/kubernetes/kube-state-metrics</link>
-      <description><![CDATA[用于生成和公开集群级别指标的附加代理。 语言：Go 星星：5080 叉子：1847]]></description>
+      <description><![CDATA[用于生成和公开集群级别指标的附加代理。 语言：Go 星星：5081 叉子：1847]]></description>
       <guid>https://github.com/kubernetes/kube-state-metrics</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:25 GMT</pubDate>
+      <pubDate>Thu, 18 Apr 2024 06:08:56 GMT</pubDate>
     </item>
     <item>
       <title>langchain-ai/langchain</title>
       <link>https://github.com/langchain-ai/langchain</link>
-      <description><![CDATA[🦜🔗 构建上下文感知推理应用程序语言：Python 星星：82453 叉子：12619]]></description>
+      <description><![CDATA[🦜🔗 构建上下文感知推理应用程序语言：Python &lt; br /&gt;星星：82465 叉子：12624]]></description>
       <guid>https://github.com/langchain-ai/langchain</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:25 GMT</pubDate>
+      <pubDate>Thu, 18 Apr 2024 06:08:56 GMT</pubDate>
     </item>
     <item>
       <title>运行 llama/llama_index</title>
       <link>https://github.com/run-llama/llama_index</link>
-      <description><![CDATA[ 语言：python &lt; br /&gt;星星：30687 叉子：4142]]></description>
+      <description><![CDATA[ 语言：python &lt; br /&gt;星星：30688 叉子：4143]]></description>
       <guid>https://github.com/run-llama/llama_index</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:24 GMT</pubDate>
+      <pubDate>Thu, 18 Apr 2024 06:08:55 GMT</pubDate>
     </item>
     <item>
       <title>卡塔纳姆/麻雀</title>
       <link>https://github.com/katanaml/sparrow</link>
-      <description><![CDATA[使用 ML 和 LLM 进行数据处理语言：Python 星星： 1587 货叉：206]]></description>
+      <description><![CDATA[使用 ML 和 LLM 进行数据处理语言：Python 星星： 1595 货叉：207]]></description>
       <guid>https://github.com/katanaml/sparrow</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:24 GMT</pubDate>
+      <pubDate>Thu, 18 Apr 2024 06:08:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>KRTirtho/spotube</title>
+      <link>https://github.com/KRTirtho/spotube</link>
+      <description><![CDATA[🎧 开源 Spotify 客户端，不需要 Premium 也不使用 Electron！适用于台式机和平板电脑移动的！ 语言：Dart 星星：24148 叉子：969]]></description>
+      <guid>https://github.com/KRTirtho/spotube</guid>
+      <pubDate>Thu, 18 Apr 2024 06:08:54 GMT</pubDate>
     </item>
     <item>
       <title>动作/跑步者图像</title>
       <link>https://github.com/actions/runner-images</link>
       <description><![CDATA[GitHub Actions 运行器图像 语言：PowerShell 星星： 9049 货叉：2793]]></description>
       <guid>https://github.com/actions/runner-images</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:23 GMT</pubDate>
+      <pubDate>Thu, 18 Apr 2024 06:08:54 GMT</pubDate>
     </item>
     <item>
       <title>ckeditor/ckeditor5</title>
       <link>https://github.com/ckeditor/ckeditor5</link>
-      <description><![CDATA[强大的富文本编辑器框架，具有模块化架构、现代集成和功能比如协作编辑。 语言：JavaScript 星星：8153 叉子：3571]]></description>
+      <description><![CDATA[强大的富文本编辑器框架，具有模块化架构、现代集成和功能比如协作编辑。 语言：JavaScript 星星：8155 叉子：3571]]></description>
       <guid>https://github.com/ckeditor/ckeditor5</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>唐内马丁/系统设计入门</title>
-      <link>https://github.com/donnemartin/system-design-primer</link>
-      <description><![CDATA[了解如何设计大型系统。准备系统设计面试。包括 Anki 抽认卡。 语言：Python 星星：253003 叉子：43298]]></description>
-      <guid>https://github.com/donnemartin/system-design-primer</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>KRTirtho/spotube</title>
-      <link>https://github.com/KRTirtho/spotube</link>
-      <description><![CDATA[🎧 开源 Spotify 客户端，不需要 Premium 也不使用 Electron！适用于台式机和平板电脑移动的！ 语言：Dart 星星：24144 叉子：969]]></description>
-      <guid>https://github.com/KRTirtho/spotube</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>爱彼迎/lottie-ios</title>
-      <link>https://github.com/airbnb/lottie-ios</link>
-      <description><![CDATA[ 语言：Swift 星星：24944 叉子：3612]]></description>
-      <guid>https://github.com/airbnb/lottie-ios</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:21 GMT</pubDate>
+      <pubDate>Thu, 18 Apr 2024 06:08:54 GMT</pubDate>
     </item>
     <item>
       <title>非结构化-IO/非结构化</title>
       <link>https://github.com/Unstructured-IO/unstructured</link>
-      <description><![CDATA[开源库和 API，用于构建用于标记、训练或生产机器学习管道的自定义预处理管道。 语言：HTML 星星：5960 叉子：437]]></description>
+      <description><![CDATA[开源库和 API，用于构建用于标记、训练或生产机器学习管道的自定义预处理管道。 语言：HTML 星星：5986 叉子：444]]></description>
       <guid>https://github.com/Unstructured-IO/unstructured</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:21 GMT</pubDate>
+      <pubDate>Thu, 18 Apr 2024 06:08:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>唐内马丁/系统设计入门</title>
+      <link>https://github.com/donnemartin/system-design-primer</link>
+      <description><![CDATA[了解如何设计大型系统。准备系统设计面试。包括 Anki 抽认卡。 语言：Python 星星：253016 叉子：43304]]></description>
+      <guid>https://github.com/donnemartin/system-design-primer</guid>
+      <pubDate>Thu, 18 Apr 2024 06:08:53 GMT</pubDate>
     </item>
     <item>
       <title>trekhleb/javascript-算法</title>
       <link>https://github.com/trekhleb/javascript-algorithms</link>
-      <description><![CDATA[📝 用 Ja​​vaScript 实现的算法和数据结构，附有解释和进一步阅读的链接语言：JavaScript 星星：182361 叉子：29482]]></description>
+      <description><![CDATA[📝 用 Ja​​vaScript 实现的算法和数据结构，附有解释和进一步阅读的链接语言：JavaScript 星星：182385 叉子：29489]]></description>
       <guid>https://github.com/trekhleb/javascript-algorithms</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:20 GMT</pubDate>
+      <pubDate>Thu, 18 Apr 2024 06:08:52 GMT</pubDate>
     </item>
     <item>
       <title>ggerganov/whisper.cpp</title>
       <link>https://github.com/ggerganov/whisper.cpp</link>
-      <description><![CDATA[OpenAI Whisper 模型的 C/C++ 移植语言：C 星星：30817 叉子：3036]]></description>
+      <description><![CDATA[OpenAI Whisper 模型的 C/C++ 移植语言：C 星星：30832 叉子：3041]]></description>
       <guid>https://github.com/ggerganov/whisper.cpp</guid>
-      <pubDate>Thu, 18 Apr 2024 03:07:20 GMT</pubDate>
+      <pubDate>Thu, 18 Apr 2024 06:08:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>爱彼迎/lottie-ios</title>
+      <link>https://github.com/airbnb/lottie-ios</link>
+      <description><![CDATA[用于原生渲染 After Effects 矢量动画的 iOS 库语言：Swift 星星：24954 叉子：3614]]></description>
+      <guid>https://github.com/airbnb/lottie-ios</guid>
+      <pubDate>Thu, 18 Apr 2024 06:08:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
