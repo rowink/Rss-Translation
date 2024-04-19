@@ -4,7 +4,14 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 19 Apr 2024 18:05:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 21:03:06 GMT</lastBuildDate>
+    <item>
+      <title>无聊的床垫 - 逃离床垫地狱</title>
+      <link>https://www.producthunt.com/posts/boring-mattress</link>
+      <description><![CDATA[以合理的价格购买比看起来更好的床垫。 10 英寸“混合”床垫 - 泡沫和弹簧，提供中等硬度的感觉。舒适且有支持性。买了它，睡一觉，然后就忘了它。   ]]></description>
+      <guid>https://www.producthunt.com/posts/boring-mattress</guid>
+      <pubDate>Fri, 19 Apr 2024 19:15:35 GMT</pubDate>
+    </item>
     <item>
       <title>percepto-2 - 您的创业想法是否符合获胜标准？</title>
       <link>https://www.producthunt.com/posts/percepto-2</link>
@@ -76,6 +83,13 @@
       <pubDate>Fri, 19 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
+      <title>indiepulse - 在几秒钟内找到您的下一个副项目</title>
+      <link>https://www.producthunt.com/posts/indiepulse</link>
+      <description><![CDATA[IndiePulse 将 Reddit 的大量讨论提炼为您下一个项目的清晰、可操作的见解，并由 AI 提供支持，以确保您只看到真正重要的内容。非常适合独立黑客在没有噪音的情况下寻求灵感。    ]]></description>
+      <guid>https://www.producthunt.com/posts/indiepulse</guid>
+      <pubDate>Fri, 19 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
       <title>bridge-d84f5d97-9c9f-4155-8534-b588c3bb1060 - 用户向您提供反馈的简单方法</title>
       <link>https://www.producthunt.com/posts/bridge-d84f5d97-9c9f-4155-8534-b588c3bb1060</link>
       <description><![CDATA[Bridge 是用户通过简单直观的仪表板向您提供反馈、提出问题或报告错误的最简单方法。    ]]></description>
@@ -83,10 +97,10 @@
       <pubDate>Fri, 19 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>indiepulse - 在几秒钟内找到您的下一个副项目</title>
-      <link>https://www.producthunt.com/posts/indiepulse</link>
-      <description><![CDATA[IndiePulse 将 Reddit 的大量讨论提炼为您下一个项目的清晰、可操作的见解，并由 AI 提供支持，以确保您只看到真正重要的内容。非常适合独立黑客在没有噪音的情况下寻求灵感。    ]]></description>
-      <guid>https://www.producthunt.com/posts/indiepulse</guid>
+      <title>open-agent-studio - 构建无代码代理以适应人工智能未触及的目标市场</title>
+      <link>https://www.producthunt.com/posts/open-agent-studio</link>
+      <description><![CDATA[Open Agent Studio 发明了新的 RPA 概念，能够用简单的英语构建以前不可能的业务自动化，而不是使用脆弱的代码选择器或计算机视觉。 APA 解决了破坏当前所有 RPA 工具的根本问题。    ]]></description>
+      <guid>https://www.producthunt.com/posts/open-agent-studio</guid>
       <pubDate>Fri, 19 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -102,13 +116,6 @@
       <link>https://www.producthunt.com/posts/huggingchat</link>
       <description><![CDATA[通过 HuggingChat 释放一流人工智能的潜力，在用户与来自 Mistral AI、Meta 和 Google 等多个提供商的多个突破性大型语言模型 (LLM) 之间提供无缝通信。      ]]></description>
       <guid>https://www.producthunt.com/posts/huggingchat</guid>
-      <pubDate>Fri, 19 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>open-agent-studio - 构建无代码代理以适应人工智能未触及的目标市场</title>
-      <link>https://www.producthunt.com/posts/open-agent-studio</link>
-      <description><![CDATA[Open Agent Studio 发明了新的 RPA 概念，能够用简单的英语构建以前不可能的业务自动化，而不是使用脆弱的代码选择器或计算机视觉。 APA 解决了破坏当前所有 RPA 工具的根本问题。    ]]></description>
-      <guid>https://www.producthunt.com/posts/open-agent-studio</guid>
       <pubDate>Fri, 19 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -178,7 +185,7 @@
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>tabula-4 - 由人工智能加速的初创公司分析</title>
+      <title>tabula-4 - 人工智能加速的初创企业分析</title>
       <link>https://www.producthunt.com/posts/tabula-4</link>
       <description><![CDATA[您的初创企业需要的唯一人工智能驱动的数据工具。使用所有自定义指标集中数据并自动生成报告。 Tabula 使初创公司能够在无需雇用数据工程师的情况下发展其分析能力。             ]]></description>
       <guid>https://www.producthunt.com/posts/tabula-4</guid>
