@@ -4,7 +4,7 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 19 Apr 2024 06:10:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 09:05:49 GMT</lastBuildDate>
     <item>
       <title>meta-llama-3 - 迄今为止最有能力的公开可用的法学硕士</title>
       <link>https://www.producthunt.com/posts/meta-llama-3</link>
@@ -163,17 +163,17 @@
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>shiftx-ai - 使用 ai 生成流程和流程</title>
-      <link>https://www.producthunt.com/posts/shiftx-ai</link>
-      <description><![CDATA[利用人工智能将复杂的流程图和繁琐的日常文档转化为直观的工作流程，使您的团队能够更高效地运营，并随着业务的发展轻松改进流程。  ]]></description>
-      <guid>https://www.producthunt.com/posts/shiftx-ai</guid>
-      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>design-engineer - 专门为设计工程师设计的漂亮工作板</title>
       <link>https://www.producthunt.com/posts/design-engineer</link>
       <description><![CDATA[到 2024 年，我们将看到设计工程师职位空缺呈指数级增长。下一代软件公司（Vercel、Stripe、Clerk 等）构建由设计工程师精心制作的用户喜爱的产品。   ]]></description>
       <guid>https://www.producthunt.com/posts/design-engineer</guid>
+      <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>shiftx-ai - 使用 ai 生成流程和流程</title>
+      <link>https://www.producthunt.com/posts/shiftx-ai</link>
+      <description><![CDATA[利用人工智能将复杂的流程图和繁琐的日常文档转化为直观的工作流程，使您的团队能够更高效地运营，并随着业务的发展轻松改进流程。  ]]></description>
+      <guid>https://www.producthunt.com/posts/shiftx-ai</guid>
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -200,14 +200,14 @@
     <item>
       <title>iopartners - 您的个人 3D AI 合作伙伴</title>
       <link>https://www.producthunt.com/posts/iopartners</link>
-      <description><![CDATA[享受与您自己的 3D AI 合作伙伴进行无限对话的可能性。自定义他们的外观，从互动中创造新的回忆，塑造他们的个性特征，打造完美的伴侣，共同创造独特的故事。      ]]></description>
+      <description><![CDATA[享受与您自己的 3D AI 合作伙伴进行无限对话的可能性。自定义他们的外观，从互动中创造新的记忆，塑造他们的个性特征，打造完美的伴侣，一起创造独特的故事。      ]]></description>
       <guid>https://www.producthunt.com/posts/iopartners</guid>
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
       <title>talkline-5 - 适用于 macOS、iOS 和 VisionOS 的文本转语音伴侣</title>
       <link>https://www.producthunt.com/posts/speakline-5</link>
-      <description><![CDATA[SpeakLine 将您的文本转换为口语 - 只需键入、选择语音，然后让您的设备大声读出。陶醉于有趣声音的乐趣中，或沉浸在用母语朗读的文本中。    ]]></description>
+      <description><![CDATA[SpeakLine 将您的文本转换为口语文字 - 只需键入、选择声音，然后让您的设备大声朗读。陶醉于有趣声音的乐趣或沉浸在母语文本中。   &lt; img src=&quot;https://ph-files.imgix.net/ac4b74eb-c15c-41bf-92dc-c10e9b5d4392.jpeg?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
       <guid>https://www.producthunt.com/posts/speakline-5</guid>
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -263,7 +263,7 @@ SpeedLegal 还为您提供改进合同的个性化建议。     ]]></description
     <item>
       <title>tempo-12 - 在演示过程中不要说得太快</title>
       <link>https://www.producthunt.com/posts/tempo-12</link>
-      <description><![CDATA[语速过快可能会导致口齿不清、清晰度不够、语气不吸引人，从而阻碍你的信息牢牢地扎根在听者的脑海中。 Tempo 会在发生这种情况时实时向您发出警告，以便您进行调整。   ]]></description>
+      <description><![CDATA[语速过快可能会导致口齿不清、发音不清和语气不吸引人，从而阻碍你的信息牢牢地扎根在听者的脑海中。 Tempo 会在发生这种情况时实时向您发出警告，以便您进行调整。   ]]></description>
       <guid>https://www.producthunt.com/posts/tempo-12</guid>
       <pubDate>Wed, 17 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -295,7 +295,7 @@ SpeedLegal 还为您提供改进合同的个性化建议。     ]]></description
       <pubDate>Fri, 12 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>musho - 你的新人工智能设计助手</title>
+      <title>musho - 您的新 AI 设计助手</title>
       <link>https://www.producthunt.com/posts/musho</link>
       <description><![CDATA[Musho 不仅仅是一个设计工具 - 将其视为 Figma 中的首选创意助手，可以将简单的提示变成华丽的网站。 💛       ]]></description>
       <guid>https://www.producthunt.com/posts/musho</guid>
