@@ -4,181 +4,181 @@
     <title>今日 GitHub 上的热门存储库 · GitHub</title>
     <link>https://github.com/trending/?since=daily&spoken_language_code=en</link>
     <description>今日 GitHub 上的热门存储库 · GitHub - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 20 Apr 2024 18:09:11 GMT</lastBuildDate>
-    <item>
-      <title>学习任何东西/学习任何东西.xyz</title>
-      <link>https://github.com/learn-anything/learn-anything.xyz</link>
-      <description><![CDATA[整理世界知识、探索联系并策划学习路径&lt; br /&gt;语言：TypeScript 星星：15647 叉子：958]]></description>
-      <guid>https://github.com/learn-anything/learn-anything.xyz</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Drakkar 软件/OctoBot</title>
-      <link>https://github.com/Drakkar-Software/OctoBot</link>
-      <description><![CDATA[开源加密货币交易机器人语言： Python 星星：2890 叉子：697]]></description>
-      <guid>https://github.com/Drakkar-Software/OctoBot</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>skypilot-org/skypilot</title>
-      <link>https://github.com/skypilot-org/skypilot</link>
-      <description><![CDATA[SkyPilot：在任何云上运行 LLM、AI 和 Batch 作业。通过简单的界面即可实现最大程度的节省、最高的 GPU 可用性和托管执行。 语言：Python 星星：5609 叉子：388]]></description>
-      <guid>https://github.com/skypilot-org/skypilot</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:10 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 Apr 2024 21:02:41 GMT</lastBuildDate>
     <item>
       <title>星光/ruff</title>
       <link>https://github.com/astral-sh/ruff</link>
-      <description><![CDATA[一个极其快速的 Python linter 和代码格式化程序，用 Rust 编写。 语言：Rust 星星：26332 叉子：839]]></description>
+      <description><![CDATA[一个极其快速的 Python linter 和代码格式化程序，用 Rust 编写。 语言：Rust 星星：26334 叉子：840]]></description>
       <guid>https://github.com/astral-sh/ruff</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:10 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 21:02:40 GMT</pubDate>
     </item>
     <item>
-      <title>搜狗/工作流</title>
-      <link>https://github.com/sogou/workflow</link>
-      <description><![CDATA[C++并行计算和异步网络框架语言：C++ Stars : 12408 货叉: 2325]]></description>
-      <guid>https://github.com/sogou/workflow</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:09 GMT</pubDate>
+      <title>学习任何东西/学习任何东西.xyz</title>
+      <link>https://github.com/learn-anything/learn-anything.xyz</link>
+      <description><![CDATA[整理世界知识、探索联系并策划学习路径&lt; br /&gt;语言：TypeScript 星星：15656 叉子：958]]></description>
+      <guid>https://github.com/learn-anything/learn-anything.xyz</guid>
+      <pubDate>Sat, 20 Apr 2024 21:02:40 GMT</pubDate>
     </item>
     <item>
       <title>阿帕奇/海豚调度程序</title>
       <link>https://github.com/apache/dolphinscheduler</link>
-      <description><![CDATA[Apache DolphinScheduler 是现代数据编排平台。敏捷地使用低代码创建高性能工作流语言：Java Stars：11990 Forks：4410]]></description>
+      <description><![CDATA[Apache DolphinScheduler 是现代数据编排平台。敏捷地以低代码创建高性能工作流程语言：Java 星星：11991 分支：4410]]></description>
       <guid>https://github.com/apache/dolphinscheduler</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:09 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 21:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drakkar 软件/OctoBot</title>
+      <link>https://github.com/Drakkar-Software/OctoBot</link>
+      <description><![CDATA[开源加密货币交易机器人语言： Python 星星：2894 叉子：697]]></description>
+      <guid>https://github.com/Drakkar-Software/OctoBot</guid>
+      <pubDate>Sat, 20 Apr 2024 21:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>skypilot-org/skypilot</title>
+      <link>https://github.com/skypilot-org/skypilot</link>
+      <description><![CDATA[SkyPilot：在任何云上运行 LLM、AI 和 Batch 作业。通过简单的界面即可实现最大程度的节省、最高的 GPU 可用性和托管执行。 语言：Python 星星：5611 叉子：389]]></description>
+      <guid>https://github.com/skypilot-org/skypilot</guid>
+      <pubDate>Sat, 20 Apr 2024 21:02:39 GMT</pubDate>
     </item>
     <item>
       <title>英特尔分析/ipex-llm</title>
       <link>https://github.com/intel-analytics/ipex-llm</link>
-      <description><![CDATA[加速本地 LLM 推理和微调（LLaMA、Mistral、ChatGLM、百川、混合、 Gemma 等）在 Intel CPU 和 GPU 上（例如，具有 iGPU 的本地 PC、Arc、Flex 和 Max 等独立 GPU）。一个与 llama.cpp、HuggingFace、LangChain、LlamaIndex、DeepSpeed、vLLM、FastChat、ModelScope 等无缝集成的 PyTorch LLM 库。 语言：Python 星星：5900 货叉：1195]]></description>
+      <description><![CDATA[加速本地 LLM 推理和微调（LLaMA、Mistral、ChatGLM、Q文、百川、混合、 Gemma 等）在 Intel CPU 和 GPU 上（例如，具有 iGPU 的本地 PC、Arc、Flex 和 Max 等独立 GPU）。一个 PyTorch LLM 库，可与 llama.cpp、HuggingFace、LangChain、LlamaIndex、DeepSpeed、vLLM、FastChat、ModelScope 等无缝集成。 语言：Python 星星：5902 货叉：1195]]></description>
       <guid>https://github.com/intel-analytics/ipex-llm</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:08 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 21:02:38 GMT</pubDate>
     </item>
     <item>
       <title>epwalsh/obsidian.nvim</title>
       <link>https://github.com/epwalsh/obsidian.nvim</link>
-      <description><![CDATA[黑曜石 🤝 Neovim 语言：Lua &lt; br /&gt;星星：2717 叉子：130]]></description>
+      <description><![CDATA[黑曜石 🤝 Neovim 语言：Lua &lt; br /&gt;星星：2720 叉子：130]]></description>
       <guid>https://github.com/epwalsh/obsidian.nvim</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:08 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 21:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>搜狗/工作流</title>
+      <link>https://github.com/sogou/workflow</link>
+      <description><![CDATA[C++并行计算和异步网络框架语言：C++ Stars : 12409 货叉: 2325]]></description>
+      <guid>https://github.com/sogou/workflow</guid>
+      <pubDate>Sat, 20 Apr 2024 21:02:38 GMT</pubDate>
     </item>
     <item>
       <title>langchain-ai/langchain</title>
       <link>https://github.com/langchain-ai/langchain</link>
-      <description><![CDATA[    语言：python 星星：82720 叉子：12686]]></description>
+      <description><![CDATA[🦜🔗 构建上下文感知推理应用程序语言：Python 星星：82734 叉子：12693]]></description>
       <guid>https://github.com/langchain-ai/langchain</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:07 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 21:02:37 GMT</pubDate>
     </item>
     <item>
       <title>风筝-io/风筝</title>
       <link>https://github.com/milvus-io/milvus</link>
-      <description><![CDATA[云原生矢量数据库，下一代人工智能应用的存储语言：Go 星星：26711 叉子：2567]]></description>
+      <description><![CDATA[云原生矢量数据库，下一代人工智能应用的存储语言：Go 星星：26714 叉子：2569]]></description>
       <guid>https://github.com/milvus-io/milvus</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:07 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 21:02:37 GMT</pubDate>
     </item>
     <item>
       <title>阿韦利诺/awesome-go</title>
       <link>https://github.com/avelino/awesome-go</link>
-      <description><![CDATA[精选的精彩 Go 框架、库和软件列表语言：去 星星：120484 叉子：11570]]></description>
+      <description><![CDATA[精选的精彩 Go 框架、库和软件列表语言：去 星星：120499 叉子：11569]]></description>
       <guid>https://github.com/avelino/awesome-go</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:06 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 21:02:36 GMT</pubDate>
     </item>
     <item>
       <title>kananinirav/AWS 认证云从业者注释</title>
       <link>https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes</link>
-      <description><![CDATA[AWS 认证云从业者简记和练习考试F-C02) &lt; br /&gt;语言：HTML 星星：838 叉子：280]]></description>
+      <description><![CDATA[AWS 认证云从业者简记和练习考试 (CLF-C) 02) &lt; br /&gt;语言：HTML 星星：840 叉子：280]]></description>
       <guid>https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:06 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 21:02:36 GMT</pubDate>
     </item>
     <item>
       <title>类型挑战/类型挑战</title>
       <link>https://github.com/type-challenges/type-challenges</link>
-      <description><![CDATA[在线评判的TypeScript类型挑战集合语言：TypeScript 星星：39925 叉子：4298]]></description>
+      <description><![CDATA[在线评判的TypeScript类型挑战集合语言：TypeScript 星星：39927 叉子：4299]]></description>
       <guid>https://github.com/type-challenges/type-challenges</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:06 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 21:02:36 GMT</pubDate>
     </item>
     <item>
       <title>可用项目/可用灯</title>
       <link>https://github.com/availproject/avail-light</link>
-      <description><![CDATA[null 语言：Rust 星星：592 货叉：1165]]></description>
+      <description><![CDATA[null 语言：Rust Stars：594 Forks：1165]]></description>
       <guid>https://github.com/availproject/avail-light</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:05 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 21:02:35 GMT</pubDate>
     </item>
     <item>
       <title>EleutherAI/lm-评估-harness</title>
       <link>https://github.com/EleutherAI/lm-evaluation-harness</link>
-      <description><![CDATA[用于语言模型的小样本评估的框架。 语言：Python 星星：4925 叉子：1262]]></description>
+      <description><![CDATA[用于语言模型的小样本评估的框架。 语言：Python 星星：4926 叉子：1263]]></description>
       <guid>https://github.com/EleutherAI/lm-evaluation-harness</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>费用化/应用程序</title>
-      <link>https://github.com/Expensify/App</link>
-      <description><![CDATA[欢迎来到 New Expensify：以聊天为中心的金融协作的彻底重新构想。通过分享反馈和贡献代码来帮助我们构建下一代 Expensify。 语言：TypeScript 星星：2927 叉子：2446]]></description>
-      <guid>https://github.com/Expensify/App</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用程序/应用程序</title>
-      <link>https://github.com/appium/appium</link>
-      <description><![CDATA[基于 W3C WebDriver 协议构建的各种应用程序的跨平台自动化框架&lt; br /&gt;语言：JavaScript 星星：17885 叉子：5938]]></description>
-      <guid>https://github.com/appium/appium</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>极地-RS/极地</title>
-      <link>https://github.com/pola-rs/polars</link>
-      <description><![CDATA[由多线程、矢量化查询引擎提供支持的数据帧，用 Rust 编写语言：Rust 星星：26032 叉子：1570]]></description>
-      <guid>https://github.com/pola-rs/polars</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:03 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 21:02:35 GMT</pubDate>
     </item>
     <item>
       <title>太鼓物</title>
       <link>https://github.com/taikoxyz/taiko-mono</link>
-      <description><![CDATA[基于汇总。 🥁 语言：Solidity 星星：3908 叉子：1856]]></description>
+      <description><![CDATA[基于汇总。 🥁 语言：Solidity 星星：3909 叉子：1857]]></description>
       <guid>https://github.com/taikoxyz/taiko-mono</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:03 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 21:02:34 GMT</pubDate>
     </item>
     <item>
-      <title>美国宇航局/openmct</title>
-      <link>https://github.com/nasa/openmct</link>
-      <description><![CDATA[基于网络的任务控制框架。 语言：JavaScript 星星：11645 叉子：1203]]></description>
-      <guid>https://github.com/nasa/openmct</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:02 GMT</pubDate>
+      <title>费用化/应用程序</title>
+      <link>https://github.com/Expensify/App</link>
+      <description><![CDATA[欢迎来到 New Expensify：以聊天为中心的金融协作的彻底重新构想。通过分享反馈和贡献代码来帮助我们构建下一代 Expensify。 语言：TypeScript 星星：2928 叉子：2447]]></description>
+      <guid>https://github.com/Expensify/App</guid>
+      <pubDate>Sat, 20 Apr 2024 21:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>应用程序/应用程序</title>
+      <link>https://github.com/appium/appium</link>
+      <description><![CDATA[基于 W3C WebDriver 协议构建的各种应用程序的跨平台自动化框架&lt; br /&gt;语言：JavaScript 星星：17886 叉子：5939]]></description>
+      <guid>https://github.com/appium/appium</guid>
+      <pubDate>Sat, 20 Apr 2024 21:02:34 GMT</pubDate>
     </item>
     <item>
       <title>微软/剧作家</title>
       <link>https://github.com/microsoft/playwright</link>
-      <description><![CDATA[Playwright 是一个用于 Web 测试和自动化的框架。它允许使用单个 API 测试 Chromium、Firefox 和 WebKit。 语言：TypeScript 星星：61545 分叉：3281]]></description>
+      <description><![CDATA[Playwright 是一个用于 Web 测试和自动化的框架。它允许使用单个 API 测试 Chromium、Firefox 和 WebKit。 语言：TypeScript 星星：61549 分叉：3281]]></description>
       <guid>https://github.com/microsoft/playwright</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:02 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 21:02:33 GMT</pubDate>
     </item>
     <item>
-      <title>freeCodeCamp/freeCodeCamp</title>
-      <link>https://github.com/freeCodeCamp/freeCodeCamp</link>
-      <description><![CDATA[freeCodeCamp.org 的开源代码库和课程。免费学习编码。 语言：TypeScript 星星：387515 叉子：35317]]></description>
-      <guid>https://github.com/freeCodeCamp/freeCodeCamp</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:01 GMT</pubDate>
+      <title>极地-RS/极地</title>
+      <link>https://github.com/pola-rs/polars</link>
+      <description><![CDATA[由多线程、矢量化查询引擎提供支持的数据帧，用 Rust 编写语言：Rust 星星：26038 叉子：1571]]></description>
+      <guid>https://github.com/pola-rs/polars</guid>
+      <pubDate>Sat, 20 Apr 2024 21:02:33 GMT</pubDate>
     </item>
     <item>
       <title>精神病院/棒极了</title>
       <link>https://github.com/sindresorhus/awesome</link>
-      <description><![CDATA[😎 关于各种有趣主题的精彩列表语言：未知星星：299499 叉子：26758]]></description>
+      <description><![CDATA[😎 关于各种有趣主题的精彩列表语言：未知星星：299529 叉子：26761]]></description>
       <guid>https://github.com/sindresorhus/awesome</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:01 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 21:02:32 GMT</pubDate>
     </item>
     <item>
       <title>爱彼迎/lottie-ios</title>
       <link>https://github.com/airbnb/lottie-ios</link>
-      <description><![CDATA[用于原生渲染 After Effects 矢量动画的 iOS 库语言：Swift 星星：25098 叉子：3665]]></description>
+      <description><![CDATA[用于原生渲染 After Effects 矢量动画的 iOS 库语言：Swift 星星：25103 叉子：3665]]></description>
       <guid>https://github.com/airbnb/lottie-ios</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:01 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 21:02:32 GMT</pubDate>
     </item>
     <item>
-      <title>序数/顺序</title>
+      <title>美国宇航局/openmct</title>
+      <link>https://github.com/nasa/openmct</link>
+      <description><![CDATA[基于网络的任务控制框架。 语言：JavaScript 星星：11669 叉子：1204]]></description>
+      <guid>https://github.com/nasa/openmct</guid>
+      <pubDate>Sat, 20 Apr 2024 21:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>序数词/顺序</title>
       <link>https://github.com/ordinals/ord</link>
-      <description><![CDATA[👁‍🗨 稀有且充满异国情调的卫星语言：Rust Star s : 3504 货叉: 1180]]></description>
+      <description><![CDATA[👁‍🗨 稀有且充满异国情调的卫星语言：Rust 星星: 3514 前叉: 1187]]></description>
       <guid>https://github.com/ordinals/ord</guid>
-      <pubDate>Sat, 20 Apr 2024 18:09:00 GMT</pubDate>
+      <pubDate>Sat, 20 Apr 2024 21:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>freeCodeCamp/freeCodeCamp</title>
+      <link>https://github.com/freeCodeCamp/freeCodeCamp</link>
+      <description><![CDATA[freeCodeCamp.org 的开源代码库和课程。免费学习编码。 语言：TypeScript 星星：387541 叉子：35319]]></description>
+      <guid>https://github.com/freeCodeCamp/freeCodeCamp</guid>
+      <pubDate>Sat, 20 Apr 2024 21:02:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
