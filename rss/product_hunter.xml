@@ -4,7 +4,7 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 20 Apr 2024 06:08:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 09:04:16 GMT</lastBuildDate>
     <item>
       <title>无聊的床垫 - 逃离床垫地狱</title>
       <link>https://www.producthunt.com/posts/boring-mattress</link>
@@ -90,13 +90,6 @@
       <pubDate>Fri, 19 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>ai-product-design-by-pietra - 使用 AI 设计产品和包装并制作</title>
-      <link>https://www.producthunt.com/posts/ai-product-design-by-pietra</link>
-      <description><![CDATA[需要销售优秀的产品吗？使用 Pietra 的人工智能设计工具来设计独特的产品和包装。从草图、参考照片开始，或从数千个设计模板中进行选择，然后利用 AI 的力量将您的想法变为现实。    &lt; img src=&quot;https://ph-files.imgix.net/60ff577a-1183-4afa-89fa-b43f3b972359.png?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
-      <guid>https://www.producthunt.com/posts/ai-product-design-by-pietra</guid>
-      <pubDate>Fri, 19 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>calendarhunter - 查找日历链接并快速跟踪您的销售流程</title>
       <link>https://www.producthunt.com/posts/calendarhunter</link>
       <description><![CDATA[CalendarHunter 可立即显示隐藏的会议安排程序链接，提供闪电般快速的外展结果和不饱和的高质量潜在客户。
@@ -109,6 +102,13 @@
       <link>https://www.producthunt.com/posts/open-agent-studio</link>
       <description><![CDATA[Open Agent Studio 发明了新的 RPA 概念，能够用简单的英语构建以前不可能的业务自动化，而不是使用脆弱的代码选择器或计算机视觉。 APA 解决了破坏当前所有 RPA 工具的根本问题。    ]]></description>
       <guid>https://www.producthunt.com/posts/open-agent-studio</guid>
+      <pubDate>Fri, 19 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ai-product-design-by-pietra - 使用 AI 设计产品和包装并制作</title>
+      <link>https://www.producthunt.com/posts/ai-product-design-by-pietra</link>
+      <description><![CDATA[需要销售优秀的产品吗？使用 Pietra 的人工智能设计工具来设计独特的产品和包装。从草图、参考照片开始，或从数千个设计模板中进行选择，然后利用 AI 的力量将您的想法变为现实。    &lt; img src=&quot;https://ph-files.imgix.net/60ff577a-1183-4afa-89fa-b43f3b972359.png?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
+      <guid>https://www.producthunt.com/posts/ai-product-design-by-pietra</guid>
       <pubDate>Fri, 19 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -192,7 +192,7 @@
       <pubDate>Thu, 18 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>uninbox - 为团队和专业人士提供的开源现代电子邮件</title>
+      <title>uninbox - 面向团队和专业人士的开源现代电子邮件</title>
       <link>https://www.producthunt.com/posts/uninbox</link>
       <description><![CDATA[一个独立的电子邮件系统，颠覆了他们当前的体验。
 聊天优先方法与本机协作。
