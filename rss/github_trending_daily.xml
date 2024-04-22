@@ -4,181 +4,181 @@
     <title>今日 GitHub 上的热门存储库 · GitHub</title>
     <link>https://github.com/trending/?since=daily&spoken_language_code=en</link>
     <description>今日 GitHub 上的热门存储库 · GitHub - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 22 Apr 2024 09:07:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 12:11:41 GMT</lastBuildDate>
     <item>
       <title>拥抱脸/变形金刚</title>
       <link>https://github.com/huggingface/transformers</link>
-      <description><![CDATA[🤗 Transformers：最先进的 Pytorch 机器学习， TensorFlow 和 JAX。 语言：Python 星星：124734 叉子：24739]]></description>
+      <description><![CDATA[🤗 Transformers：最先进的 Pytorch 机器学习， TensorFlow 和 JAX。 语言：Python 星星：124748 叉子：24741]]></description>
       <guid>https://github.com/huggingface/transformers</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:12 GMT</pubDate>
+      <pubDate>Mon, 22 Apr 2024 12:11:41 GMT</pubDate>
     </item>
     <item>
       <title>天恩/KernelSU</title>
       <link>https://github.com/tiann/KernelSU</link>
-      <description><![CDATA[基于内核的 Android 根解决方案语言：Kotlin Stars : 8014 货叉: 1334]]></description>
+      <description><![CDATA[星星: 8015 货叉: 1334]]></description>
       <guid>https://github.com/tiann/KernelSU</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:11 GMT</pubDate>
+      <pubDate>Mon, 22 Apr 2024 12:11:40 GMT</pubDate>
     </item>
     <item>
       <title>螺旋编辑器/helix</title>
       <link>https://github.com/helix-editor/helix</link>
-      <description><![CDATA[后现代模态文本编辑器。 语言：Rust 星星：29980 叉子：2205]]></description>
+      <description><![CDATA[后现代模态文本编辑器。 语言：Rust 星星：29983 叉子：2206]]></description>
       <guid>https://github.com/helix-editor/helix</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:11 GMT</pubDate>
+      <pubDate>Mon, 22 Apr 2024 12:11:40 GMT</pubDate>
     </item>
     <item>
       <title>宜必思项目/宜必思</title>
       <link>https://github.com/ibis-project/ibis</link>
-      <description><![CDATA[可移植的 Python 数据帧库语言：Python 星星: 4142 货叉: 518]]></description>
+      <description><![CDATA[可移植的 Python 数据帧库语言：Python Stars : 4148 前叉: 518]]></description>
       <guid>https://github.com/ibis-project/ibis</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>夹克/夹克</title>
-      <link>https://github.com/Jackett/Jackett</link>
-      <description><![CDATA[为您喜爱的 torrent 跟踪器提供 API 支持语言：C# Stars : 11220 货叉: 1232]]></description>
-      <guid>https://github.com/Jackett/Jackett</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>无纸化-ngx/无纸化-ngx</title>
-      <link>https://github.com/paperless-ngx/paperless-ngx</link>
-      <description><![CDATA[社区支持的无纸化增强版本：扫描、索引和归档所有物理文档&lt; br /&gt;语言：Python 星星：16666 分叉：864]]></description>
-      <guid>https://github.com/paperless-ngx/paperless-ngx</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:10 GMT</pubDate>
+      <pubDate>Mon, 22 Apr 2024 12:11:40 GMT</pubDate>
     </item>
     <item>
       <title>NixOS/nixpkgs</title>
       <link>https://github.com/NixOS/nixpkgs</link>
-      <description><![CDATA[Nix 软件包集合 &amp; NixOS 语言：Nix 星星：15631 叉子：12310]]></description>
+      <description><![CDATA[Nix 软件包集合 &amp; NixOS 语言：Nix 星星：15631 叉子：12311]]></description>
       <guid>https://github.com/NixOS/nixpkgs</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:10 GMT</pubDate>
+      <pubDate>Mon, 22 Apr 2024 12:11:39 GMT</pubDate>
     </item>
     <item>
       <title>海洋基地</title>
       <link>https://github.com/oceanbase/oceanbase</link>
-      <description><![CDATA[OceanBase是一个高可用、高性能、横向的企业级分布式关系数据库可扩展性以及与 SQL 标准的兼容性。 语言：C++ 星星：7387 叉子：1504]]></description>
+      <description><![CDATA[OceanBase是一个高可用、高性能、横向的企业级分布式关系数据库可扩展性以及与 SQL 标准的兼容性。 语言：C++ 星星：7389 叉子：1504]]></description>
       <guid>https://github.com/oceanbase/oceanbase</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:10 GMT</pubDate>
+      <pubDate>Mon, 22 Apr 2024 12:11:39 GMT</pubDate>
     </item>
     <item>
-      <title>序数词/顺序</title>
-      <link>https://github.com/ordinals/ord</link>
-      <description><![CDATA[👁‍🗨 稀有且充满异国情调的卫星语言：Rust 星星: 3568 货叉: 1216]]></description>
-      <guid>https://github.com/ordinals/ord</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:09 GMT</pubDate>
+      <title>夹克/夹克</title>
+      <link>https://github.com/Jackett/Jackett</link>
+      <description><![CDATA[星星: 11221 货叉: 1232]]></description>
+      <guid>https://github.com/Jackett/Jackett</guid>
+      <pubDate>Mon, 22 Apr 2024 12:11:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>无纸化-ngx/无纸化-ngx</title>
+      <link>https://github.com/paperless-ngx/paperless-ngx</link>
+      <description><![CDATA[社区支持的无纸化增强版本：扫描、索引和归档所有物理文档&lt; br /&gt;语言：Python 星星：16669 叉子：865]]></description>
+      <guid>https://github.com/paperless-ngx/paperless-ngx</guid>
+      <pubDate>Mon, 22 Apr 2024 12:11:38 GMT</pubDate>
     </item>
     <item>
       <title>热0/热0</title>
       <link>https://github.com/risc0/risc0</link>
       <description><![CDATA[RISC Zero是基于zk-STARKs和RISC-V微架构的零知识可验证通用计算平台。 语言：C++ 星星：1393 叉子：299]]></description>
       <guid>https://github.com/risc0/risc0</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:09 GMT</pubDate>
+      <pubDate>Mon, 22 Apr 2024 12:11:37 GMT</pubDate>
     </item>
     <item>
       <title>OpenBB-财经/OpenBBTerminal</title>
       <link>https://github.com/OpenBB-finance/OpenBBTerminal</link>
-      <description><![CDATA[为世界各地的每个人提供投资研究。 语言：Python 星星：26033 叉子：2534]]></description>
+      <description><![CDATA[为世界各地的每个人提供投资研究。 语言：Python 星星：26032 叉子：2534]]></description>
       <guid>https://github.com/OpenBB-finance/OpenBBTerminal</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:09 GMT</pubDate>
+      <pubDate>Mon, 22 Apr 2024 12:11:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>以太坊/共识规范</title>
+      <link>https://github.com/ethereum/consensus-specs</link>
+      <description><![CDATA[以太坊权益证明共识规范Langu年龄：Python 星星：3425 叉子：885]]></description>
+      <guid>https://github.com/ethereum/consensus-specs</guid>
+      <pubDate>Mon, 22 Apr 2024 12:11:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>序数/顺序</title>
+      <link>https://github.com/ordinals/ord</link>
+      <description><![CDATA[👁‍🗨 稀有和异国情调 语言：Rust &lt; br /&gt;星星: 3569 前叉: 1217]]></description>
+      <guid>https://github.com/ordinals/ord</guid>
+      <pubDate>Mon, 22 Apr 2024 12:11:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>朱内根/fzf</title>
+      <link>https://github.com/junegunn/fzf</link>
+      <description><![CDATA[:cherry_blossom：命令行模糊查找器语言：Go 星星：59606 叉子：2294]]></description>
+      <guid>https://github.com/junegunn/fzf</guid>
+      <pubDate>Mon, 22 Apr 2024 12:11:35 GMT</pubDate>
     </item>
     <item>
       <title>ray-x/go.nvim</title>
       <link>https://github.com/ray-x/go.nvim</link>
       <description><![CDATA[功能丰富的 Go 开发插件，利用 gopls、treesitter AST、Dap 和各种 Go增强开发体验的工具。 语言：Lua 星星：1750 叉子：106]]></description>
       <guid>https://github.com/ray-x/go.nvim</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:08 GMT</pubDate>
+      <pubDate>Mon, 22 Apr 2024 12:11:35 GMT</pubDate>
     </item>
     <item>
       <title>不朽世界</title>
       <link>https://github.com/immortalwrt/immortalwrt</link>
-      <description><![CDATA[面向中国大陆用户的开源 OpenWrt 变体。 语言：C 星星：4529 前叉：1423]]></description>
+      <description><![CDATA[面向中国大陆用户的开源 OpenWrt 变体。 语言：C 星星：4530 前叉：1423]]></description>
       <guid>https://github.com/immortalwrt/immortalwrt</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>以太坊/共识规范</title>
-      <link>https://github.com/ethereum/consensus-specs</link>
-      <description><![CDATA[以太坊权益证明共识规范Lang使用：Python星星：3425 叉子：885]]></description>
-      <guid>https://github.com/ethereum/consensus-specs</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>spicetify/spicetify-主题</title>
-      <link>https://github.com/spicetify/spicetify-themes</link>
-      <description><![CDATA[社区驱动的主题集合，用于通过 Spicetify 自定义 Spotify - https: //github.com/spicetify/spicetify-cli 语言：CSS 星星：4678 分叉：1239]]></description>
-      <guid>https://github.com/spicetify/spicetify-themes</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊米奇应用程序/伊米奇</title>
-      <link>https://github.com/immich-app/immich</link>
-      <description><![CDATA[高性能自托管照片和视频管理解决方案。 语言：TypeScript 星星：30433 分叉：1396]]></description>
-      <guid>https://github.com/immich-app/immich</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:07 GMT</pubDate>
+      <pubDate>Mon, 22 Apr 2024 12:11:35 GMT</pubDate>
     </item>
     <item>
       <title>国家安全局/ghidra</title>
       <link>https://github.com/NationalSecurityAgency/ghidra</link>
-      <description><![CDATA[Ghidra 是一个软件逆向工程 (SRE) 框架语言：Java 星星：47558 叉子：5535]]></description>
+      <description><![CDATA[ br /&gt; 语言：java 星星：47563 叉子：5535]]></description>
       <guid>https://github.com/NationalSecurityAgency/ghidra</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:07 GMT</pubDate>
+      <pubDate>Mon, 22 Apr 2024 12:11:34 GMT</pubDate>
     </item>
     <item>
-      <title>朱内根/fzf</title>
-      <link>https://github.com/junegunn/fzf</link>
-      <description><![CDATA[:cherry_blossom：命令行模糊查找器语言：Go 星星：59601 叉子：2294]]></description>
-      <guid>https://github.com/junegunn/fzf</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:07 GMT</pubDate>
+      <title>spicetify/spicetify-主题</title>
+      <link>https://github.com/spicetify/spicetify-themes</link>
+      <description><![CDATA[社区驱动的主题集合，用于通过 Spicetify 自定义 Spotify - https: //github.com/spicetify/spicetify-cli 语言：CSS 星星：4680 分叉：1239]]></description>
+      <guid>https://github.com/spicetify/spicetify-themes</guid>
+      <pubDate>Mon, 22 Apr 2024 12:11:33 GMT</pubDate>
     </item>
     <item>
-      <title>阿韦利诺/awesome-go</title>
-      <link>https://github.com/avelino/awesome-go</link>
-      <description><![CDATA[精选的精彩 Go 框架、库和软件列表语言：去 星星：120603 叉子：11572]]></description>
-      <guid>https://github.com/avelino/awesome-go</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>内维姆</title>
-      <link>https://github.com/neovim/neovim</link>
-      <description><![CDATA[Vim-fork 专注于可扩展性和可用性语言：Vim脚本星星：76404 叉子：5274]]></description>
-      <guid>https://github.com/neovim/neovim</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:06 GMT</pubDate>
+      <title>伊米奇应用程序/伊米奇</title>
+      <link>https://github.com/immich-app/immich</link>
+      <description><![CDATA[高性能自托管照片和视频管理解决方案。 语言：TypeScript 星星：30442 分叉：1395]]></description>
+      <guid>https://github.com/immich-app/immich</guid>
+      <pubDate>Mon, 22 Apr 2024 12:11:33 GMT</pubDate>
     </item>
     <item>
       <title>精神病院/棒极了</title>
       <link>https://github.com/sindresorhus/awesome</link>
-      <description><![CDATA[😎 关于各种有趣主题的精彩列表语言：未知星星：299844 叉子：26786]]></description>
+      <description><![CDATA[😎 关于各种有趣主题的精彩列表语言：未知星星：299860 叉子：26786]]></description>
       <guid>https://github.com/sindresorhus/awesome</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:06 GMT</pubDate>
+      <pubDate>Mon, 22 Apr 2024 12:11:32 GMT</pubDate>
     </item>
     <item>
       <title>龙神克斯/龙神克斯</title>
       <link>https://github.com/Ryujinx/Ryujinx</link>
-      <description><![CDATA[用 C# 编写的实验性 Nintendo Switch 模拟器语言：C# Stars：32054 Forks：3727]]></description>
+      <description><![CDATA[用 C# 编写的实验性 Nintendo Switch 模拟器 语言：C# 星星: 32054 货叉: 3728]]></description>
       <guid>https://github.com/Ryujinx/Ryujinx</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>freeCodeCamp/freeCodeCamp</title>
-      <link>https://github.com/freeCodeCamp/freeCodeCamp</link>
-      <description><![CDATA[freeCodeCamp.org 的开源代码库和课程。免费学习编码。 语言：TypeScript 星星：387826 分叉：35357]]></description>
-      <guid>https://github.com/freeCodeCamp/freeCodeCamp</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>yt-dlp</title>
-      <link>https://github.com/yt-dlp/yt-dlp</link>
-      <description><![CDATA[功能丰富的命令行音频/视频下载器 语言：Python 星星：70397 叉子：5605]]></description>
-      <guid>https://github.com/yt-dlp/yt-dlp</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:05 GMT</pubDate>
+      <pubDate>Mon, 22 Apr 2024 12:11:32 GMT</pubDate>
     </item>
     <item>
       <title>Lissy93/达西</title>
       <link>https://github.com/Lissy93/dashy</link>
-      <description><![CDATA[🚀 为您构建的可自托管个人仪表板。包括状态检查、小部件、主题、图标包、UI 编辑器等！语言：Vue Stars：15257 Forks：1184]]></description>
+      <description><![CDATA[🚀 为您构建的自托管个人仪表板。包括状态检查、小部件、主题、图标包、UI 编辑器等等！ 语言：Vue 星星：15258 叉子：1184]]></description>
       <guid>https://github.com/Lissy93/dashy</guid>
-      <pubDate>Mon, 22 Apr 2024 09:07:05 GMT</pubDate>
+      <pubDate>Mon, 22 Apr 2024 12:11:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿韦利诺/awesome-go</title>
+      <link>https://github.com/avelino/awesome-go</link>
+      <description><![CDATA[精选的精彩 Go 框架、库和软件列表语言：去 星星：120614 叉子：11572]]></description>
+      <guid>https://github.com/avelino/awesome-go</guid>
+      <pubDate>Mon, 22 Apr 2024 12:11:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>内维姆</title>
+      <link>https://github.com/neovim/neovim</link>
+      <description><![CDATA[Vim-fork 专注于可扩展性和可用性语言：Vim Script 星星：76408 叉子：5274]]></description>
+      <guid>https://github.com/neovim/neovim</guid>
+      <pubDate>Mon, 22 Apr 2024 12:11:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>freeCodeCamp/freeCodeCamp</title>
+      <link>https://github.com/freeCodeCamp/freeCodeCamp</link>
+      <description><![CDATA[freeCodeCamp.org 的开源代码库和课程。免费学习编码。 语言：TypeScript 星星：387847 分叉：35353]]></description>
+      <guid>https://github.com/freeCodeCamp/freeCodeCamp</guid>
+      <pubDate>Mon, 22 Apr 2024 12:11:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>yt-dlp</title>
+      <link>https://github.com/yt-dlp/yt-dlp</link>
+      <description><![CDATA[功能丰富的命令行音频/视频下载器 语言：Python 星星：70409 叉子：5606]]></description>
+      <guid>https://github.com/yt-dlp/yt-dlp</guid>
+      <pubDate>Mon, 22 Apr 2024 12:11:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
