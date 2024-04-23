@@ -4,181 +4,181 @@
     <title>今日 GitHub 上的热门存储库 · GitHub</title>
     <link>https://github.com/trending/?since=daily&spoken_language_code=en</link>
     <description>今日 GitHub 上的热门存储库 · GitHub - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 23 Apr 2024 00:29:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 03:07:13 GMT</lastBuildDate>
     <item>
       <title>nvim-望远镜/telescope.nvim</title>
       <link>https://github.com/nvim-telescope/telescope.nvim</link>
-      <description><![CDATA[查找、过滤、预览、选择。所有的lua，所有的时间。 语言：Lua 星星：13952 叉子：768]]></description>
+      <description><![CDATA[查找、过滤、预览、选择。所有的lua，所有的时间。 语言：Lua 星星：13953 叉子：768]]></description>
       <guid>https://github.com/nvim-telescope/telescope.nvim</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:26 GMT</pubDate>
+      <pubDate>Tue, 23 Apr 2024 03:07:13 GMT</pubDate>
     </item>
     <item>
       <title>纸MC/纸</title>
       <link>https://github.com/PaperMC/Paper</link>
       <description><![CDATA[使用最广泛的高性能 Minecraft 服务器，旨在修复游戏玩法和机制的不一致问题语言：Java 星星：8802 叉子：2127]]></description>
       <guid>https://github.com/PaperMC/Paper</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>海普鲁姆/海普兰</title>
-      <link>https://github.com/hyprwm/Hyprland</link>
-      <description><![CDATA[Hyprland 是一个高度可定制的动态平铺 Wayland 合成器，不会牺牲它的外观。 语言：C++ 星星：16515 叉子：676]]></description>
-      <guid>https://github.com/hyprwm/Hyprland</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:25 GMT</pubDate>
+      <pubDate>Tue, 23 Apr 2024 03:07:13 GMT</pubDate>
     </item>
     <item>
       <title>juce框架/JUCE</title>
       <link>https://github.com/juce-framework/JUCE</link>
-      <description><![CDATA[JUCE 是一个开源跨平台 C++ 应用框架，适用于桌面和移动应用程序，包括 VST、 VST3、AU、AUv3、LV2 和 AAX 音频插件。 语言：C++ 星星：6088 叉子：1637]]></description>
+      <description><![CDATA[JUCE 是一个开源跨平台 C++ 应用框架，适用于桌面和移动应用程序，包括 VST、 VST3、AU、AUv3、LV2 和 AAX 音频插件。 语言：C++ 星星：6090 叉子：1637]]></description>
       <guid>https://github.com/juce-framework/JUCE</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:25 GMT</pubDate>
+      <pubDate>Tue, 23 Apr 2024 03:07:12 GMT</pubDate>
     </item>
     <item>
       <title>XIU2/TrackersListCollection</title>
       <link>https://github.com/XIU2/TrackersListCollection</link>
       <description><![CDATA[🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！ Language: Unknown Stars: 23086 Forks: 1536]]></description>
       <guid>https://github.com/XIU2/TrackersListCollection</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:25 GMT</pubDate>
+      <pubDate>Tue, 23 Apr 2024 03:07:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>海普鲁姆/海普兰</title>
+      <link>https://github.com/hyprwm/Hyprland</link>
+      <description><![CDATA[Hyprland 是一个高度可定制的动态平铺 Wayland 合成器，不会牺牲它的外观。 语言：C++ 星星：16518 叉子：677]]></description>
+      <guid>https://github.com/hyprwm/Hyprland</guid>
+      <pubDate>Tue, 23 Apr 2024 03:07:11 GMT</pubDate>
     </item>
     <item>
       <title>freeCodeCamp/freeCodeCamp</title>
       <link>https://github.com/freeCodeCamp/freeCodeCamp</link>
-      <description><![CDATA[freeCodeCamp.org 的开源代码库和课程。免费学习编码。 语言：TypeScript 星星：387899 分叉：35354]]></description>
+      <description><![CDATA[freeCodeCamp.org 的开源代码库和课程。免费学习编码。 语言：TypeScript 星星：387902 分叉：35356]]></description>
       <guid>https://github.com/freeCodeCamp/freeCodeCamp</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:24 GMT</pubDate>
+      <pubDate>Tue, 23 Apr 2024 03:07:10 GMT</pubDate>
     </item>
     <item>
       <title>ngosang/trackerslist</title>
       <link>https://github.com/ngosang/trackerslist</link>
-      <description><![CDATA[星星： 44381 货叉：6543]]></description>
+      <description><![CDATA[星星： 44382 货叉：6543]]></description>
       <guid>https://github.com/ngosang/trackerslist</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>ReVanced/revanced-经理</title>
-      <link>https://github.com/ReVanced/revanced-manager</link>
-      <description><![CDATA[💊 在 Android 上使用 ReVanced 的应用程序 语言：Dart 星星：15609 叉子：682]]></description>
-      <guid>https://github.com/ReVanced/revanced-manager</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:23 GMT</pubDate>
+      <pubDate>Tue, 23 Apr 2024 03:07:10 GMT</pubDate>
     </item>
     <item>
       <title>极地-RS/极地</title>
       <link>https://github.com/pola-rs/polars</link>
-      <description><![CDATA[由多线程、矢量化查询引擎提供支持的数据帧，用 Rust 编写语言：Rust 星星：26102 叉子：1581]]></description>
+      <description><![CDATA[由多线程、矢量化查询引擎提供支持的数据帧，用 Rust 编写语言：Rust 星星：26104 叉子：1582]]></description>
       <guid>https://github.com/pola-rs/polars</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:23 GMT</pubDate>
+      <pubDate>Tue, 23 Apr 2024 03:07:09 GMT</pubDate>
     </item>
     <item>
       <title>mywalkb/LSPosed_mod</title>
       <link>https://github.com/mywalkb/LSPosed_mod</link>
-      <description><![CDATA[我对 LSPosed 的更改语言：Java Star秒：1012&lt; br /&gt;货叉：46]]></description>
+      <description><![CDATA[我对 LSPosed 的更改语言：Java 星星： 014 &lt; br /&gt;货叉：47]]></description>
       <guid>https://github.com/mywalkb/LSPosed_mod</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>精神病院/棒极了</title>
-      <link>https://github.com/sindresorhus/awesome</link>
-      <description><![CDATA[😎 关于各种有趣主题的精彩列表语言：未知星星：299944 叉子：26786]]></description>
-      <guid>https://github.com/sindresorhus/awesome</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:22 GMT</pubDate>
+      <pubDate>Tue, 23 Apr 2024 03:07:09 GMT</pubDate>
     </item>
     <item>
       <title>苹果/斯威夫特</title>
       <link>https://github.com/apple/swift</link>
-      <description><![CDATA[Swift 编程语言语言：C++ 星星：65857 &lt; br /&gt;货叉：10192]]></description>
+      <description><![CDATA[Swift 编程语言语言：C++ 星星：65859 &lt; br /&gt;货叉：10192]]></description>
       <guid>https://github.com/apple/swift</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:22 GMT</pubDate>
+      <pubDate>Tue, 23 Apr 2024 03:07:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>ReVanced/revanced-经理</title>
+      <link>https://github.com/ReVanced/revanced-manager</link>
+      <description><![CDATA[💊 在 Android 上使用 ReVanced 的应用程序 语言：Dart 星星：15613 叉子：683]]></description>
+      <guid>https://github.com/ReVanced/revanced-manager</guid>
+      <pubDate>Tue, 23 Apr 2024 03:07:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>热0/热0</title>
+      <link>https://github.com/risc0/risc0</link>
+      <description><![CDATA[RISC Zero是一个基于zk-STARKs和RISC-V微架构的零知识可验证通用计算平台结构。 语言：C++ 星星：1402 叉子：300]]></description>
+      <guid>https://github.com/risc0/risc0</guid>
+      <pubDate>Tue, 23 Apr 2024 03:07:07 GMT</pubDate>
     </item>
     <item>
       <title>ImranR98/Obtainium</title>
       <link>https://github.com/ImranR98/Obtainium</link>
       <description><![CDATA[直接从源获取 Android 应用更新。 语言：Dart 星星：5098 叉子：123]]></description>
       <guid>https://github.com/ImranR98/Obtainium</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:21 GMT</pubDate>
+      <pubDate>Tue, 23 Apr 2024 03:07:07 GMT</pubDate>
     </item>
     <item>
-      <title>热0/热0</title>
-      <link>https://github.com/risc0/risc0</link>
-      <description><![CDATA[RISC Zero是基于zk-STARKs和RISC-V微架构的零知识可验证通用计算平台。 语言：C++ 星星：1401 叉子：300]]></description>
-      <guid>https://github.com/risc0/risc0</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>无纸化-ngx/无纸化-ngx</title>
-      <link>https://github.com/paperless-ngx/paperless-ngx</link>
-      <description><![CDATA[社区支持的无纸化增强版本：扫描、索引和归档所有物理文档&lt; br /&gt;语言：Python 星星：16687 叉子：867]]></description>
-      <guid>https://github.com/paperless-ngx/paperless-ngx</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑灯安全/bbot</title>
-      <link>https://github.com/blacklanternsecurity/bbot</link>
-      <description><![CDATA[黑客的递归互联网扫描器。 语言：Python 星星：3625 叉子：330]]></description>
-      <guid>https://github.com/blacklanternsecurity/bbot</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:18 GMT</pubDate>
+      <title>精神病院/棒极了</title>
+      <link>https://github.com/sindresorhus/awesome</link>
+      <description><![CDATA[😎 关于各种有趣主题的精彩列表语言：未知星星：299954 叉子：26786]]></description>
+      <guid>https://github.com/sindresorhus/awesome</guid>
+      <pubDate>Tue, 23 Apr 2024 03:07:07 GMT</pubDate>
     </item>
     <item>
       <title>国家安全局/ghidra</title>
       <link>https://github.com/NationalSecurityAgency/ghidra</link>
       <description><![CDATA[Ghidra 是一个软件逆向工程 (SRE) 框架语言：Java 星星：47579 叉子：5535]]></description>
       <guid>https://github.com/NationalSecurityAgency/ghidra</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>codecrafters-io/构建你自己的-x</title>
-      <link>https://github.com/codecrafters-io/build-your-own-x</link>
-      <description><![CDATA[通过从头开始重新创建您最喜欢的技术来掌握编程。 语言：未知星星：257079 叉子：24379]]></description>
-      <guid>https://github.com/codecrafters-io/build-your-own-x</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:17 GMT</pubDate>
+      <pubDate>Tue, 23 Apr 2024 03:07:06 GMT</pubDate>
     </item>
     <item>
       <title>nix 社区/家庭经理</title>
       <link>https://github.com/nix-community/home-manager</link>
-      <description><![CDATA[使用 Nix 管理用户环境 [maintainer=@rycee] 语言：Nix 星星：5869 叉子：1588]]></description>
+      <description><![CDATA[使用 Nix 管理用户环境 [maintainer=@rycee] 语言：Nix 星星：5872 叉子：1588]]></description>
       <guid>https://github.com/nix-community/home-manager</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:17 GMT</pubDate>
+      <pubDate>Tue, 23 Apr 2024 03:07:05 GMT</pubDate>
     </item>
     <item>
-      <title>本巴斯比/whoogle-搜索</title>
-      <link>https://github.com/benbusby/whoogle-search</link>
-      <description><![CDATA[自托管、无广告、尊重隐私的元搜索引擎&lt; br /&gt;语言：Python 星星：8770 叉子：886]]></description>
-      <guid>https://github.com/benbusby/whoogle-search</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:16 GMT</pubDate>
+      <title>无纸化-ngx/无纸化-ngx</title>
+      <link>https://github.com/paperless-ngx/paperless-ngx</link>
+      <description><![CDATA[社区支持的无纸化增强版本：扫描、索引和归档所有物理文档&lt; br /&gt;语言：Python 星星：16687 叉子：867]]></description>
+      <guid>https://github.com/paperless-ngx/paperless-ngx</guid>
+      <pubDate>Tue, 23 Apr 2024 03:07:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>黑灯安全/bbot</title>
+      <link>https://github.com/blacklanternsecurity/bbot</link>
+      <description><![CDATA[黑客的递归互联网扫描器。 语言：Python 星星：3626 叉子：330]]></description>
+      <guid>https://github.com/blacklanternsecurity/bbot</guid>
+      <pubDate>Tue, 23 Apr 2024 03:07:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>朱内根/fzf</title>
+      <link>https://github.com/junegunn/fzf</link>
+      <description><![CDATA[:cherry_blossom：命令行模糊查找器语言：Go 星星：59632 叉子：2294]]></description>
+      <guid>https://github.com/junegunn/fzf</guid>
+      <pubDate>Tue, 23 Apr 2024 03:07:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>codecrafters-io/构建你自己的-x</title>
+      <link>https://github.com/codecrafters-io/build-your-own-x</link>
+      <description><![CDATA[通过从头开始重新创建您最喜欢的技术来掌握编程。 语言：未知星星：257091 叉子：24381]]></description>
+      <guid>https://github.com/codecrafters-io/build-your-own-x</guid>
+      <pubDate>Tue, 23 Apr 2024 03:07:04 GMT</pubDate>
     </item>
     <item>
       <title>夹克/夹克</title>
       <link>https://github.com/Jackett/Jackett</link>
       <description><![CDATA[为您喜爱的 torrent 跟踪器提供 API 支持语言：C# Stars : 11225 货叉: 1233]]></description>
       <guid>https://github.com/Jackett/Jackett</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>朱内根/fzf</title>
-      <link>https://github.com/junegunn/fzf</link>
-      <description><![CDATA[:cherry_blossom：命令行模糊查找器语言：Go 星星：59628 叉子：2294]]></description>
-      <guid>https://github.com/junegunn/fzf</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:16 GMT</pubDate>
+      <pubDate>Tue, 23 Apr 2024 03:07:03 GMT</pubDate>
     </item>
     <item>
       <title>AUTOMATIC1111/稳定扩散-webui</title>
       <link>https://github.com/AUTOMATIC1111/stable-diffusion-webui</link>
-      <description><![CDATA[稳定的 Diffusion Web UI 语言：Python &lt; br/&gt;星星：129265 叉子：25154]]></description>
+      <description><![CDATA[稳定的扩散 Web UI 语言：Python 星星：129267 叉子：25154]]></description>
       <guid>https://github.com/AUTOMATIC1111/stable-diffusion-webui</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:15 GMT</pubDate>
+      <pubDate>Tue, 23 Apr 2024 03:07:02 GMT</pubDate>
     </item>
     <item>
       <title>Lissy93/达西</title>
       <link>https://github.com/Lissy93/dashy</link>
-      <description><![CDATA[🚀 为您构建的自托管个人仪表板。包括状态检查、小部件、主题、图标包、UI 编辑器等等！ 语言：Vue 星星：15280 叉子：1185]]></description>
+      <description><![CDATA[🚀 为您构建的自托管个人仪表板。包括状态检查、小部件、主题、图标包、UI 编辑器等等！ 语言：Vue 星星：15284 叉子：1185]]></description>
       <guid>https://github.com/Lissy93/dashy</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:15 GMT</pubDate>
+      <pubDate>Tue, 23 Apr 2024 03:07:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>本巴斯比/whoogle-搜索</title>
+      <link>https://github.com/benbusby/whoogle-search</link>
+      <description><![CDATA[自托管、无广告、尊重隐私的元搜索引擎&lt; br /&gt;语言：Python 星星：8774 叉子：887]]></description>
+      <guid>https://github.com/benbusby/whoogle-search</guid>
+      <pubDate>Tue, 23 Apr 2024 03:07:02 GMT</pubDate>
     </item>
     <item>
       <title>伊米奇应用程序/伊米奇</title>
       <link>https://github.com/immich-app/immich</link>
-      <description><![CDATA[高性能自托管照片和视频管理解决方案。 语言：TypeScript 星星：30615 分叉：1417]]></description>
+      <description><![CDATA[高性能自托管照片和视频管理解决方案。 语言：TypeScript 星星：30639 分叉：1419]]></description>
       <guid>https://github.com/immich-app/immich</guid>
-      <pubDate>Tue, 23 Apr 2024 00:29:14 GMT</pubDate>
+      <pubDate>Tue, 23 Apr 2024 03:07:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
