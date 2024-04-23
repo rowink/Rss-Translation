@@ -4,7 +4,14 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 23 Apr 2024 15:05:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 18:10:24 GMT</lastBuildDate>
+    <item>
+      <title>subframe - 快速构建 UI 的最佳方式</title>
+      <link>https://www.producthunt.com/posts/subframe</link>
+      <description><![CDATA[使用真实组件直观地构建 UI。从令人惊叹的模板开始。个性化您的主题。使用我们直观的拖放编辑器设计页面。然后，无需再次编写 CSS，从而节省时间。    ]]></description>
+      <guid>https://www.producthunt.com/posts/subframe</guid>
+      <pubDate>Tue, 23 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
     <item>
       <title>Insights-by-ayraa-2 - 企业搜索人工智能的新维度</title>
       <link>https://www.producthunt.com/posts/insights-by-ayraa-2</link>
@@ -14,13 +21,6 @@
 
 您工作场所的 AGI 助手。       ]]></description>
       <guid>https://www.producthunt.com/posts/insights-by-ayraa-2</guid>
-      <pubDate>Tue, 23 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>subframe - 快速构建 UI 的最佳方式</title>
-      <link>https://www.producthunt.com/posts/subframe</link>
-      <description><![CDATA[使用真实组件直观地构建 UI。从令人惊叹的模板开始。个性化您的主题。使用我们直观的拖放编辑器设计页面。然后，无需再次编写 CSS，从而节省时间。    ]]></description>
-      <guid>https://www.producthunt.com/posts/subframe</guid>
       <pubDate>Tue, 23 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -45,13 +45,6 @@
       <pubDate>Tue, 23 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>kreatli - 连接 YouTube 创作者和专业人士的平台</title>
-      <link>https://www.producthunt.com/posts/kreatli</link>
-      <description><![CDATA[Kreatli 将 YouTube 创作者和专业人士聚集在一起，在一个旨在促进成长和创造力的充满活力的社区中促进他们的协作和成功。    ]]></description>
-      <guid>https://www.producthunt.com/posts/kreatli</guid>
-      <pubDate>Tue, 23 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>ga-widgets - Google Analytics 的小部件</title>
       <link>https://www.producthunt.com/posts/ga-widgets</link>
       <description><![CDATA[GA Widgets 是一系列 iOS 小部件，可显示来自 Google Analytics 的数据，您可以将它们放在 iPhone 的主屏幕甚至 Mac 桌面上。   ]]></description>
@@ -59,17 +52,24 @@
       <pubDate>Tue, 23 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>secbrain-ai - 捕捉想法，再也不会失去百万美元的想法</title>
+      <title>ardrive-2 - Web3 保管箱，等等</title>
+      <link>https://www.producthunt.com/posts/ardrive-2</link>
+      <description><![CDATA[安全地保存、管理和共享您的照片、文件和文档 - 利用分散式数据存储的强大功能。    ]]></description>
+      <guid>https://www.producthunt.com/posts/ardrive-2</guid>
+      <pubDate>Tue, 23 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>secbrain-ai - 使用人工智能来保存和记住一切</title>
       <link>https://www.producthunt.com/posts/secbrain-ai</link>
       <description><![CDATA[SecBrain 是一款人工智能驱动的录音应用程序。轻松捕捉想法，并观看它将您的录音转换为带有标题和标签的优化文本，以便于搜索。另外，探索其神奇功能以提高工作效率。    ]]></description>
       <guid>https://www.producthunt.com/posts/secbrain-ai</guid>
       <pubDate>Tue, 23 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>ardrive-2 - Web3 保管箱，等等</title>
-      <link>https://www.producthunt.com/posts/ardrive-2</link>
-      <description><![CDATA[安全地保存、管理和共享您的照片、文件和文档 - 利用分散式数据存储的强大功能。    ]]></description>
-      <guid>https://www.producthunt.com/posts/ardrive-2</guid>
+      <title>kreatli - 连接 YouTube 创作者和专业人士的平台</title>
+      <link>https://www.producthunt.com/posts/kreatli</link>
+      <description><![CDATA[Kreatli 将 YouTube 创作者和专业人士聚集在一起，在一个旨在促进成长和创造力的充满活力的社区中促进他们的协作和成功。    ]]></description>
+      <guid>https://www.producthunt.com/posts/kreatli</guid>
       <pubDate>Tue, 23 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -99,13 +99,6 @@ Benolingo 精确指导您每天要做的事情，这样您就可以持续训练 
       <pubDate>Tue, 23 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>light-meter-ultra - 使用手机进行胶片摄影的精确曝光</title>
-      <link>https://www.producthunt.com/posts/light-meter-ultra</link>
-      <description><![CDATA[iPhone 版 Light Meter Ultra 由电影摄影师专为电影摄影师打造，只需将设备对准场景即可为您提供相机所需的准确读数。包含多种模式、自定义配置文件等。再也不会错过任何一个镜头。  &lt; img src=&quot;https://ph-files.imgix.net/c982f6a3-0bf3-404b-801a-a1e181766675.png?auto=format&amp;fit=crop&quot; /&gt;   &lt;img src=&quot;https://ph-files.imgix.net/58e375b5-ba93-4b4b-bca2-90079ff13979.png?auto=format&amp;amp;fit =作物”/&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/light-meter-ultra</guid>
-      <pubDate>Tue, 23 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>psychpedia - 通过人工智能课程和正念探索心理学</title>
       <link>https://www.producthunt.com/posts/psychpedia</link>
       <description><![CDATA[与 Psychpedia 一起踏上您的心理教育和自我完善之旅。深入研究人工智能驱动的心理学课程，加深理解，同时通过正念练习打开自我发现之门。  &lt;img src=&quot;https://ph-files.imgix.net/4a432f38-c785-4632-8138-3211bc59800d.png?auto=format&amp;amp;适合=作物“/&gt;]]></description>
@@ -117,6 +110,13 @@ Benolingo 精确指导您每天要做的事情，这样您就可以持续训练 
       <link>https://www.producthunt.com/posts/paybcn</link>
       <description><![CDATA[通过 Paybcn，您可以使用加密货币购买数百万种产品。避免代币转换和利润税，以简化您的投资组合管理。粘贴您的产品链接，然后点击付款按钮。 Paybcn会立即为您订购。   ]]></description>
       <guid>https://www.producthunt.com/posts/paybcn</guid>
+      <pubDate>Tue, 23 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>light-meter-ultra - 使用手机进行胶片摄影的精确曝光</title>
+      <link>https://www.producthunt.com/posts/light-meter-ultra</link>
+      <description><![CDATA[iPhone 版 Light Meter Ultra 由电影摄影师专为电影摄影师打造，只需将设备对准场景即可为您提供相机所需的准确读数。包含多种模式、自定义配置文件等。再也不会错过任何一个镜头。  &lt; img src=&quot;https://ph-files.imgix.net/c982f6a3-0bf3-404b-801a-a1e181766675.png?auto=format&amp;fit=crop&quot; /&gt;   &lt;img src=&quot;https://ph-files.imgix.net/58e375b5-ba93-4b4b-bca2-90079ff13979.png?auto=format&amp;amp;fit =作物”/&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/light-meter-ultra</guid>
       <pubDate>Tue, 23 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
