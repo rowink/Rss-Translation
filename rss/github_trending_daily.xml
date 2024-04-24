@@ -4,181 +4,181 @@
     <title>今日 GitHub 上的热门存储库 · GitHub</title>
     <link>https://github.com/trending/?since=daily&spoken_language_code=en</link>
     <description>今日 GitHub 上的热门存储库 · GitHub - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 24 Apr 2024 03:07:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 06:09:54 GMT</lastBuildDate>
     <item>
       <title>无纸化-ngx/无纸化-ngx</title>
       <link>https://github.com/paperless-ngx/paperless-ngx</link>
-      <description><![CDATA[社区支持的无纸化增强版本：扫描、索引和归档所有物理文档&lt; br /&gt;语言：Python 星星：16722 叉子：868]]></description>
+      <description><![CDATA[社区支持的无纸化增强版：扫描、索引和归档所有物理文档&lt; br /&gt;语言：Python 星星：16732 叉子：868]]></description>
       <guid>https://github.com/paperless-ngx/paperless-ngx</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:21 GMT</pubDate>
+      <pubDate>Wed, 24 Apr 2024 06:09:54 GMT</pubDate>
     </item>
     <item>
       <title>bluenviron/mediamtx</title>
       <link>https://github.com/bluenviron/mediamtx</link>
-      <description><![CDATA[即用型 SRT / WebRTC / RTSP / RTMP / LL-HLS 媒体服务器和媒体代理，允许读取、发布、代理、记录和播放视频和音频流。 语言：Go 星星：9936 叉子：1309]]></description>
+      <description><![CDATA[即用型 SRT / WebRTC / RTSP / RTMP / LL-HLS 媒体服务器和媒体允许的代理读取、发布、代理、记录和播放视频和音频流。 语言：Go 星星：9943 叉子：1309]]></description>
       <guid>https://github.com/bluenviron/mediamtx</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:20 GMT</pubDate>
+      <pubDate>Wed, 24 Apr 2024 06:09:53 GMT</pubDate>
     </item>
     <item>
       <title>smartcontractkit/full-blockchain-solidity-course-js</title>
       <link>https://github.com/smartcontractkit/full-blockchain-solidity-course-js</link>
-      <description><![CDATA[使用 Javascript 学习区块链、Solidity 和全栈 Web3 开发语言：未知星星：11439 叉子：2734]]></description>
+      <description><![CDATA[语言：未知星星：11439 叉子：2736]]></description>
       <guid>https://github.com/smartcontractkit/full-blockchain-solidity-course-js</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:20 GMT</pubDate>
+      <pubDate>Wed, 24 Apr 2024 06:09:53 GMT</pubDate>
     </item>
     <item>
       <title>英特尔分析/ipex-llm</title>
       <link>https://github.com/intel-analytics/ipex-llm</link>
-      <description><![CDATA[加速本地 LLM 推理和微调（LLaMA、Mistral、ChatGLM、 , 百川, 混合, Gemma 等）在 Intel CPU 和 GPU 上（例如，具有 iGPU 的本地 PC、Arc、Flex 和 Max 等独立 GPU）。一个与 llama.cpp、Ollama、HuggingFace、LangChain、LlamaIndex、DeepSpeed、vLLM、FastChat、ModelScope 等无缝集成的 PyTorch LLM 库语言：Python 星星：5935 货叉：1197]]></description>
+      <description><![CDATA[加速本地 LLM 推理和微调（LLaMA、Mistral、ChatGLM、Qwen、川、混合、 Gemma 等）在 Intel CPU 和 GPU 上（例如，具有 iGPU 的本地 PC、Arc、Flex 和 Max 等独立 GPU）。一个与 llama.cpp、Ollama、HuggingFace、LangChain、LlamaIndex、DeepSpeed、vLLM、FastChat、ModelScope 等无缝集成的 PyTorch LLM 库语言：Python 星星：5938 货叉：1198]]></description>
       <guid>https://github.com/intel-analytics/ipex-llm</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>cloudflare/下一页</title>
-      <link>https://github.com/cloudflare/next-on-pages</link>
-      <description><![CDATA[用于为 Cloudflare Pages 构建和开发 Next.js 应用的 CLI 语言：TypeScript 星星：1014 叉子：105]]></description>
-      <guid>https://github.com/cloudflare/next-on-pages</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>朱利安斯汀巴克/mobile_scanner</title>
-      <link>https://github.com/juliansteenbakker/mobile_scanner</link>
-      <description><![CDATA[基于 MLKit 的 Flutter 通用扫描器。在 Android 上使用 CameraX，在 iOS 上使用 AVFoundation。 语言：Dart 星星：714 叉子：434]]></description>
-      <guid>https://github.com/juliansteenbakker/mobile_scanner</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软/DeepSpeed</title>
-      <link>https://github.com/microsoft/DeepSpeed</link>
-      <description><![CDATA[DeepSpeed 是一个深度学习优化库，可让分布式训练和推理变得简单、高效且有效。 语言：Python 星星：32595 叉子：3837]]></description>
-      <guid>https://github.com/microsoft/DeepSpeed</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特尔实感/librealsense</title>
-      <link>https://github.com/IntelRealSense/librealsense</link>
-      <description><![CDATA[英特尔® 实感™ SDK 语言：C++ 星星： 7277 货叉：4771]]></description>
-      <guid>https://github.com/IntelRealSense/librealsense</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flow-Launcher/Flow.Launcher</title>
-      <link>https://github.com/Flow-Launcher/Flow.Launcher</link>
-      <description><![CDATA[:mag：快速文件搜索&amp;适用于 Windows 的应用程序启动器，带有社区制作的插件 语言：C# 星星：6302 分叉：260]]></description>
-      <guid>https://github.com/Flow-Launcher/Flow.Launcher</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:18 GMT</pubDate>
+      <pubDate>Wed, 24 Apr 2024 06:09:53 GMT</pubDate>
     </item>
     <item>
       <title>mrousavy/react-native-vision-camera</title>
       <link>https://github.com/mrousavy/react-native-vision-camera</link>
-      <description><![CDATA[📸 一个强大、高性能的 React Native 相机库。 语言：TypeScript 星星：6477 叉子：959]]></description>
+      <description><![CDATA[📸 一个强大、高性能的 React Native 相机库。 语言：TypeScript 星星：6478 叉子：960]]></description>
       <guid>https://github.com/mrousavy/react-native-vision-camera</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:18 GMT</pubDate>
+      <pubDate>Wed, 24 Apr 2024 06:09:52 GMT</pubDate>
     </item>
     <item>
-      <title>vitejs/vite</title>
-      <link>https://github.com/vitejs/vite</link>
-      <description><![CDATA[下一代前端工具。它很快！ 语言：TypeScript 星星：64706 分叉：5731]]></description>
-      <guid>https://github.com/vitejs/vite</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:17 GMT</pubDate>
+      <title>cloudflare/下一页</title>
+      <link>https://github.com/cloudflare/next-on-pages</link>
+      <description><![CDATA[用于为 Cloudflare Pages 构建和开发 Next.js 应用的 CLI 语言：TypeScript 星星：1018 叉子：105]]></description>
+      <guid>https://github.com/cloudflare/next-on-pages</guid>
+      <pubDate>Wed, 24 Apr 2024 06:09:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>朱利安斯汀巴克/mobile_scanner</title>
+      <link>https://github.com/juliansteenbakker/mobile_scanner</link>
+      <description><![CDATA[基于 MLKit 的 Flutter 通用扫描器。在 Android 上使用 CameraX，在 iOS 上使用 AVFoundation。 语言：Dart 星星：717 叉子：434]]></description>
+      <guid>https://github.com/juliansteenbakker/mobile_scanner</guid>
+      <pubDate>Wed, 24 Apr 2024 06:09:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软/DeepSpeed</title>
+      <link>https://github.com/microsoft/DeepSpeed</link>
+      <description><![CDATA[DeepSpeed 是一个深度学习优化库，可让分布式训练和推理变得简单、高效且有效。 语言：Python 星星：32603 叉子：3837]]></description>
+      <guid>https://github.com/microsoft/DeepSpeed</guid>
+      <pubDate>Wed, 24 Apr 2024 06:09:52 GMT</pubDate>
     </item>
     <item>
       <title>k3s-i/k3s</title>
       <link>https://github.com/k3s-io/k3s</link>
-      <description><![CDATA[轻量级 Kubernetes 语言：Go 星星： 6432&lt; br /&gt;货叉：2230]]></description>
+      <description><![CDATA[轻量级 Kubernetes 语言：Go 星星： 6434&lt; br /&gt;货叉：2230]]></description>
       <guid>https://github.com/k3s-io/k3s</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:17 GMT</pubDate>
+      <pubDate>Wed, 24 Apr 2024 06:09:51 GMT</pubDate>
     </item>
     <item>
-      <title>bitnami 实验室/密封的秘密</title>
-      <link>https://github.com/bitnami-labs/sealed-secrets</link>
-      <description><![CDATA[一种用于单向加密 Secret 的 Kubernetes 控制器和工具语言：Go 星星：7135 叉子：650]]></description>
-      <guid>https://github.com/bitnami-labs/sealed-secrets</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:16 GMT</pubDate>
+      <title>英特尔实感/librealsense</title>
+      <link>https://github.com/IntelRealSense/librealsense</link>
+      <description><![CDATA[英特尔® 实感™ SDK 语言：C++ 星星： 7278 货叉：4771]]></description>
+      <guid>https://github.com/IntelRealSense/librealsense</guid>
+      <pubDate>Wed, 24 Apr 2024 06:09:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flow-Launcher/Flow.Launcher</title>
+      <link>https://github.com/Flow-Launcher/Flow.Launcher</link>
+      <description><![CDATA[:mag：快速文件搜索&amp;适用于 Windows 的应用程序启动器，带有社区制作的插件 语言：C# 星星：6315 分叉：261]]></description>
+      <guid>https://github.com/Flow-Launcher/Flow.Launcher</guid>
+      <pubDate>Wed, 24 Apr 2024 06:09:51 GMT</pubDate>
     </item>
     <item>
       <title>ultralytics/yolov5</title>
       <link>https://github.com/ultralytics/yolov5</link>
-      <description><![CDATA[PyTorch 中的 YOLOv5 🚀 &gt; ONNX&gt; CoreML&gt; TFLite 语言：Python 星星：46866 叉子：15553]]></description>
+      <description><![CDATA[PyTorch 中的 YOLOv5 🚀 &gt; ONNX&gt; CoreML&gt; TFLite 语言：Python 星星：46869 叉子：15555]]></description>
       <guid>https://github.com/ultralytics/yolov5</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:16 GMT</pubDate>
+      <pubDate>Wed, 24 Apr 2024 06:09:50 GMT</pubDate>
     </item>
     <item>
       <title>圆顶/圆顶</title>
       <link>https://github.com/kubevela/kubevela</link>
-      <description><![CDATA[现代应用程序平台。 语言：Go 星星：6075 叉子：853]]></description>
+      <description><![CDATA[现代应用程序平台。 语言：Go 星星：6079 叉子：853]]></description>
       <guid>https://github.com/kubevela/kubevela</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:16 GMT</pubDate>
+      <pubDate>Wed, 24 Apr 2024 06:09:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>vitejs/vite</title>
+      <link>https://github.com/vitejs/vite</link>
+      <description><![CDATA[下一代前端工具。它很快！ 语言：TypeScript 星星：64714​​ 分叉：5733]]></description>
+      <guid>https://github.com/vitejs/vite</guid>
+      <pubDate>Wed, 24 Apr 2024 06:09:50 GMT</pubDate>
     </item>
     <item>
       <title>普莱斯利/鹅</title>
       <link>https://github.com/pressly/goose</link>
-      <description><![CDATA[数据库迁移工具。支持SQL迁移和Go函数。 语言：Go 星星：5618 叉子：480]]></description>
+      <description><![CDATA[数据库迁移工具。支持SQL迁移和Go函数。 语言：Go 星星：5621 叉子：480]]></description>
       <guid>https://github.com/pressly/goose</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:15 GMT</pubDate>
+      <pubDate>Wed, 24 Apr 2024 06:09:49 GMT</pubDate>
     </item>
     <item>
       <title>AUTOMATIC1111/稳定扩散-webui</title>
       <link>https://github.com/AUTOMATIC1111/stable-diffusion-webui</link>
-      <description><![CDATA[稳定的 Diffusion Web UI 语言：Python 星星：129356 叉子：25170]]></description>
+      <description><![CDATA[稳定的 Diffusion Web UI 语言：Python &lt; br /&gt;星星：129375 叉子：25173]]></description>
       <guid>https://github.com/AUTOMATIC1111/stable-diffusion-webui</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:15 GMT</pubDate>
+      <pubDate>Wed, 24 Apr 2024 06:09:49 GMT</pubDate>
     </item>
     <item>
-      <title>MAZHARMIK/访谈_DS_Algo</title>
-      <link>https://github.com/MAZHARMIK/Interview_DS_Algo</link>
-      <description><![CDATA[用于编码面试准备的超级存储库语言: C++ 星星: 1096 货叉：702]]></description>
-      <guid>https://github.com/MAZHARMIK/Interview_DS_Algo</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>自播/自播</title>
-      <link>https://github.com/owncast/owncast</link>
-      <description><![CDATA[通过自己运行来控制您的直播视频。开箱即用的流媒体+聊天。 语言：TypeScript 星星：8895 叉子：796]]></description>
-      <guid>https://github.com/owncast/owncast</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑灯安全/bbot</title>
-      <link>https://github.com/blacklanternsecurity/bbot</link>
-      <description><![CDATA[针对黑客的递归互联网扫描器。 语言：Python 星星：3662 叉子：332]]></description>
-      <guid>https://github.com/blacklanternsecurity/bbot</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>rust-unofficial/awesome-rust</title>
-      <link>https://github.com/rust-unofficial/awesome-rust</link>
-      <description><![CDATA[Rust 代码和资源的精选列表。 语言：Rust 星星：42813 叉子：2548]]></description>
-      <guid>https://github.com/rust-unofficial/awesome-rust</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:13 GMT</pubDate>
+      <title>bitnami 实验室/密封的秘密</title>
+      <link>https://github.com/bitnami-labs/sealed-secrets</link>
+      <description><![CDATA[一种用于单向加密 Secret 的 Kubernetes 控制器和工具语言：Go 星星：7138 叉子：650]]></description>
+      <guid>https://github.com/bitnami-labs/sealed-secrets</guid>
+      <pubDate>Wed, 24 Apr 2024 06:09:49 GMT</pubDate>
     </item>
     <item>
       <title>Rem0o/FanControl. 发布</title>
       <link>https://github.com/Rem0o/FanControl.Releases</link>
-      <description><![CDATA[这是 Fan Control 的版本存储库，Fan Control 是一款高度可定制的 Windows 风扇控制软件。 语言：未知星星：12468 叉子：403]]></description>
+      <description><![CDATA[这是 Fan Control 的版本存储库，Fan Control 是一款高度可定制的 Windows 风扇控制软件。 语言：未知星星：12471 叉子：403]]></description>
       <guid>https://github.com/Rem0o/FanControl.Releases</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:13 GMT</pubDate>
+      <pubDate>Wed, 24 Apr 2024 06:09:48 GMT</pubDate>
     </item>
     <item>
-      <title>伊米奇应用程序/伊米奇</title>
-      <link>https://github.com/immich-app/immich</link>
-      <description><![CDATA[高性能自托管照片和视频管理解决方案。 语言：TypeScript 星星：31000 叉子：1440]]></description>
-      <guid>https://github.com/immich-app/immich</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:12 GMT</pubDate>
+      <title>MAZHARMIK/访谈_DS_Algo</title>
+      <link>https://github.com/MAZHARMIK/Interview_DS_Algo</link>
+      <description><![CDATA[用于编码面试准备的超级存储库语言：C++ 星星： 1098 货叉：702]]></description>
+      <guid>https://github.com/MAZHARMIK/Interview_DS_Algo</guid>
+      <pubDate>Wed, 24 Apr 2024 06:09:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>自播/自播</title>
+      <link>https://github.com/owncast/owncast</link>
+      <description><![CDATA[通过自己运行来控制您的直播视频。开箱即用的流媒体+聊天。 语言：TypeScript 星星：8898 叉子：796]]></description>
+      <guid>https://github.com/owncast/owncast</guid>
+      <pubDate>Wed, 24 Apr 2024 06:09:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>黑灯安全/bbot</title>
+      <link>https://github.com/blacklanternsecurity/bbot</link>
+      <description><![CDATA[针对黑客的递归互联网扫描程序。 语言：Python 星星：3665 叉子：332]]></description>
+      <guid>https://github.com/blacklanternsecurity/bbot</guid>
+      <pubDate>Wed, 24 Apr 2024 06:09:48 GMT</pubDate>
     </item>
     <item>
       <title>实体-I/实体</title>
       <link>https://github.com/ente-io/ente</link>
-      <description><![CDATA[完全开源、端到端加密的 Google Photos 和 Apple Photos 替代方案语言：Dart 星星：7405 叉子：467]]></description>
+      <description><![CDATA[完全开源、端到端加密的 Google Photos 和 Apple Photos 替代方案语言：Dart 星星：7410 叉子：468]]></description>
       <guid>https://github.com/ente-io/ente</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:12 GMT</pubDate>
+      <pubDate>Wed, 24 Apr 2024 06:09:47 GMT</pubDate>
     </item>
     <item>
       <title>阿里巴巴-starter-academy/FunASR</title>
       <link>https://github.com/alibaba-damo-academy/FunASR</link>
-      <description><![CDATA[A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models. ｜语音识别工具包，包含丰富的性能优越的开源预训练模型，支持语音识别、语音端点检测、文本后处理等，具备服务部署能力。 Language: Python Stars: 3261 Forks: 384]]></description>
+      <description><![CDATA[A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models. ｜语音识别工具包，包含丰富的性能优越的开源预训练模型，支持语音识别、语音端点检测、文本后处理等，具备服务部署能力。 Language: Python Stars: 3269 Forks: 384]]></description>
       <guid>https://github.com/alibaba-damo-academy/FunASR</guid>
-      <pubDate>Wed, 24 Apr 2024 03:07:12 GMT</pubDate>
+      <pubDate>Wed, 24 Apr 2024 06:09:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>rust-非官方/很棒的-rust</title>
+      <link>https://github.com/rust-unofficial/awesome-rust</link>
+      <description><![CDATA[Rust 代码和资源的精选列表。 语言：Rust 星星：42820 叉子：2549]]></description>
+      <guid>https://github.com/rust-unofficial/awesome-rust</guid>
+      <pubDate>Wed, 24 Apr 2024 06:09:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊米奇应用程序/伊米奇</title>
+      <link>https://github.com/immich-app/immich</link>
+      <description><![CDATA[高性能自托管照片和视频管理解决方案。 语言：TypeScript 星星：31068 分叉：1442]]></description>
+      <guid>https://github.com/immich-app/immich</guid>
+      <pubDate>Wed, 24 Apr 2024 06:09:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
