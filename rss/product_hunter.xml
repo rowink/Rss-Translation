@@ -4,7 +4,7 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 24 Apr 2024 15:07:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 18:08:34 GMT</lastBuildDate>
     <item>
       <title>Flydesk-team - 简化远程和混合工作管理</title>
       <link>https://www.producthunt.com/posts/flydesk-team</link>
@@ -20,17 +20,17 @@
       <pubDate>Wed, 24 Apr 2024 11:52:05 GMT</pubDate>
     </item>
     <item>
-      <title>wizad - 一键制作社交媒体海报</title>
-      <link>https://www.producthunt.com/posts/wizad</link>
-      <description><![CDATA[Wizad 是您的首选应用程序，可轻松创建与您的品牌形象完美匹配的精美社交媒体海报。告别雇用设计师或花费大量时间调整模板的麻烦。      ]]></description>
-      <guid>https://www.producthunt.com/posts/wizad</guid>
-      <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>oom-6 - 让您的 Zoom、Meet、Teams 会议更具吸引力和乐趣</title>
       <link>https://www.producthunt.com/posts/boom-6</link>
       <description><![CDATA[Boom 是一款 macOS 相机应用程序，适用于 Zoom、Meet、Teams 等。打造您的通话品牌、使用 GIF 并增强您的屏幕共享。 Boom 让您的通话更具吸引力、高效且有趣。    ]]></description>
       <guid>https://www.producthunt.com/posts/boom-6</guid>
+      <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>wizad - 一键制作社交媒体海报</title>
+      <link>https://www.producthunt.com/posts/wizad</link>
+      <description><![CDATA[Wizad 是您的首选应用程序，可轻松创建与您的品牌形象完美匹配的精美社交媒体海报。告别雇用设计师或花费大量时间调整模板的麻烦。      ]]></description>
+      <guid>https://www.producthunt.com/posts/wizad</guid>
       <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -41,17 +41,24 @@
       <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>Coffeespace - 滑动即可结识其他探索想法的人并找到您的联合创始人</title>
-      <link>https://www.producthunt.com/posts/coffeespace</link>
-      <description><![CDATA[一个类似于 Tinder/Hinge 的平台，可与其他探索创业和商业想法的人见面并找到您的联合创始人。每天获取最优秀人才的推荐，这将加速您的创业想法的启动！    ]]></description>
-      <guid>https://www.producthunt.com/posts/coffeespace</guid>
-      <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Breezedoc - 为自由职业者和顾问提供的简单电子签名解决方案</title>
       <link>https://www.producthunt.com/posts/breezedoc</link>
       <description><![CDATA[更轻松地获取电子签名。创建、管理并向一方或多方发送合同、协议和其他数字签名文档。    ]]></description>
       <guid>https://www.producthunt.com/posts/breezedoc</guid>
+      <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>marketergrad-by-pangea - 使用 AI 立即与顶级分数营销人员匹配</title>
+      <link>https://www.producthunt.com/posts/marketergrad-by-pangea</link>
+      <description><![CDATA[我们创建了一个由顶级营销人员和设计师组成的经过审查的网络，他们拥有将产品从 0 带到 1 的经验。我们的人工智能将立即推荐相关人才，以便您可以在几秒钟内开始查看个人资料。    ]]></description>
+      <guid>https://www.producthunt.com/posts/marketergrad-by-pangea</guid>
+      <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Coffeespace - 滑动即可结识其他探索想法的人并找到您的联合创始人</title>
+      <link>https://www.producthunt.com/posts/coffeespace</link>
+      <description><![CDATA[一个类似于 Tinder/Hinge 的平台，可与其他探索创业和商业想法的人见面并找到您的联合创始人。每天获取最优秀人才的推荐，这将加速您的创业想法的启动！    ]]></description>
+      <guid>https://www.producthunt.com/posts/coffeespace</guid>
       <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -69,17 +76,17 @@
       <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>思考者 - 白板和看板提高生产力</title>
-      <link>https://www.producthunt.com/posts/thinker</link>
-      <description><![CDATA[Thinker 提供了三个基本功能：用于跟踪待办事项的看板、功能丰富的白板和便签本。您可以在 Thinker 中创建项目，每个项目都附加这三个功能。   &lt; img src=&quot;https://ph-files.imgix.net/c1248269-5030-4d60-b754-2cb13f0ed154.png?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
-      <guid>https://www.producthunt.com/posts/thinker</guid>
-      <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Candle-3 - 与你的钱聊天</title>
       <link>https://www.producthunt.com/posts/candle-3</link>
       <description><![CDATA[了解一下我们的 GPT，它链接到您的金融应用程序，例如 Cash App 和 Robinhood，并且可以智能地回答问题并执行操作，所有这些都在 ChatGPT 中进行。     ]]></description>
       <guid>https://www.producthunt.com/posts/candle-3</guid>
+      <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>思考者 - 白板和看板提高生产力</title>
+      <link>https://www.producthunt.com/posts/thinker</link>
+      <description><![CDATA[Thinker 提供了三个基本功能：用于跟踪待办事项的看板、功能丰富的白板和便签本。您可以在 Thinker 中创建项目，每个项目都附加这三个功能。   &lt; img src=&quot;https://ph-files.imgix.net/c1248269-5030-4d60-b754-2cb13f0ed154.png?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
+      <guid>https://www.producthunt.com/posts/thinker</guid>
       <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -106,13 +113,6 @@ doesitscale.dev 简化了开发人员和企业对流行身份验证和电子邮�
       <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>marketergrad-by-pangea - 使用 AI 立即与顶级分数营销人员匹配</title>
-      <link>https://www.producthunt.com/posts/marketergrad-by-pangea</link>
-      <description><![CDATA[我们创建了一个由顶级营销人员和设计师组成的经过审查的网络，他们拥有将产品从 0 带到 1 的经验。我们的人工智能将立即推荐相关人才，以便您可以在几秒钟内开始查看个人资料。    ]]></description>
-      <guid>https://www.producthunt.com/posts/marketergrad-by-pangea</guid>
-      <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>inboxly-ai - 您的人工智能驱动的公共邮箱可无限访问</title>
       <link>https://www.producthunt.com/posts/inboxly-ai</link>
       <description><![CDATA[为什么你这么难接近？使用 Inboxly，您可以组织邮件、确定优先顺序并回复邮件，这样您就不会错过宝贵的新机会。将您的 Inboxly 链接留在您的 BIOS 中，即可不受限制地访问，而无需牺牲隐私或时间。   &lt; img src=&quot;https://ph-files.imgix.net/a17e21fa-8ae2-4c2a-bfaf-baaef7d5775c.png?auto=format&amp;fit=crop&quot; /&gt;   &lt;img src=&quot;https://ph-files.imgix.net/e91958d3-727f-4ee6-a5a3-f46dcb3f0935.png?auto=format&amp;amp;fit =作物”/&gt;]]></description>
@@ -127,17 +127,17 @@ doesitscale.dev 简化了开发人员和企业对流行身份验证和电子邮�
       <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>amazon-maestro - 新的 AI 播放列表生成器</title>
-      <link>https://www.producthunt.com/posts/amazon-maestro</link>
-      <description><![CDATA[人工智能播放列表生成器可帮助您创建任何您能想到的播放列表，以及所有您想不到的播放列表。此功能正在测试版中向 Amazon Music 所有级别的少数美国客户推出。    ]]></description>
-      <guid>https://www.producthunt.com/posts/amazon-maestro</guid>
-      <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>podor - 番茄计时器和任务</title>
       <link>https://www.producthunt.com/posts/podor</link>
       <description><![CDATA[使用 Podor（您的个性化番茄钟计时器）最大限度地集中注意力。使用标签组织任务、访问详细统计数据并自定义您的体验以适应您的工作流程。简化你的一天，一次一个番茄钟。尝试 Podor，找到您的生产力节奏！      ]]></description>
       <guid>https://www.producthunt.com/posts/podor</guid>
+      <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>amazon-maestro - 新的 AI 播放列表生成器</title>
+      <link>https://www.producthunt.com/posts/amazon-maestro</link>
+      <description><![CDATA[人工智能播放列表生成器可帮助您创建任何您能想到的播放列表，以及所有您想不到的播放列表。此功能正在测试版中向 Amazon Music 所有级别的少数美国客户推出。    ]]></description>
+      <guid>https://www.producthunt.com/posts/amazon-maestro</guid>
       <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
