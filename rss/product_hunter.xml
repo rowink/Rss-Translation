@@ -4,7 +4,7 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 25 Apr 2024 15:03:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 18:08:44 GMT</lastBuildDate>
     <item>
       <title>habitie - 一款旨在帮助用户养成习惯的 iOS 应用程序。</title>
       <link>https://www.producthunt.com/posts/habitie</link>
@@ -15,7 +15,7 @@
     <item>
       <title>unbody - 一行代码用于自定义数据的自定义 AI</title>
       <link>https://www.producthunt.com/posts/unbody</link>
-      <description><![CDATA[Unbody 是一个 AI 原生内容 API，它可以自动化从数据到前端的整个 AI 管道，一切都在 API 中。连接您的数据，选择您的 AI，然后开始用一行代码进行构建。   &lt; img src=&quot;https://ph-files.imgix.net/beb98193-a00f-476f-bf52-fdd088731525.png?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
+      <description><![CDATA[Unbody 是一个 AI 原生内容 API，可自动化从数据到前端的整个 AI 管道，一切都在 API 中。连接您的数据，选择您的 AI，然后开始用一行代码进行构建。   &lt; img src=&quot;https://ph-files.imgix.net/beb98193-a00f-476f-bf52-fdd088731525.png?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
       <guid>https://www.producthunt.com/posts/unbody</guid>
       <pubDate>Thu, 25 Apr 2024 13:02:01 GMT</pubDate>
     </item>
@@ -48,6 +48,15 @@
       <description><![CDATA[使用 Exemplary AI Clips 将长视频立即转换为短片。使用动态布局、模板、字幕、副标题、幕后花絮等创建引人入胜的剪辑。使用基于人工智能的文本编辑器像专业人士一样编辑视频。提高参与度并节省时间。  &lt; img src=&quot;https://ph-files.imgix.net/a1fbbb3f-00c2-4260-bf86-17a635458e3b.jpeg?auto=format&amp;fit=crop&quot; /&gt;      ]]></description>
       <guid>https://www.producthunt.com/posts/ai-clips-by-exemplary</guid>
       <pubDate>Thu, 25 Apr 2024 07:08:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>每年 - 帮助您记住年度事件的常年日历</title>
+      <link>https://www.producthunt.com/posts/every-year</link>
+      <description><![CDATA[唯一的常年 iPhone 日历，可帮助您跟踪生日、周年纪念日、假期、自定义事件等！
+
+再也不会错过重要的日期。     &lt;img src=&quot;https://ph-files.imgix.net/538e4213-9061-416c-804e-ad35761eb404.png?auto=format&amp;amp;适合=作物“/&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/every-year</guid>
+      <pubDate>Thu, 25 Apr 2024 07:01:01 GMT</pubDate>
     </item>
     <item>
       <title>明轮船 - 通过逼真的 AI 角色扮演完善您的销售宣传</title>
@@ -85,17 +94,19 @@
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
+      <title>clik-2 - AI 支持的照片共享。</title>
+      <link>https://www.producthunt.com/posts/clik-2</link>
+      <description><![CDATA[Clik 可让您一步拍摄并与朋友分享照片 - 我们的人工智能会在拍摄照片的那一刻将照片发送给您的朋友。
+
+Instagram 是陌生人精选时刻的源。 Clik 是您与朋友在现实生活中分享的真实时刻的提要。      ]]></description>
+      <guid>https://www.producthunt.com/posts/clik-2</guid>
+      <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
       <title>client-billing - 一体化计费和支付解决方案</title>
       <link>https://www.producthunt.com/posts/client-billing</link>
       <description><![CDATA[Cloudways 推出客户计费：自动开票和计费代理机构付款自由职业者。简化客户管理、接受付款并简化工作流程。告别手动错误，通过无缝开票迎接成功。      ]]></description>
       <guid>https://www.producthunt.com/posts/client-billing</guid>
-      <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>amigos-do-miles - 宠物管理服务，帮助您安排最好的朋友生活</title>
-      <link>https://www.producthunt.com/posts/amigos-do-miles</link>
-      <description><![CDATA[Amigos do Miles 是一个旨在帮助所有宠物主人安排宠物生活的平台，允许他们以互动且灵活的方式插入有关宠物的所有相关信息。    ]]></description>
-      <guid>https://www.producthunt.com/posts/amigos-do-miles</guid>
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -106,12 +117,10 @@
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>clik-2 - AI 支持的照片共享。</title>
-      <link>https://www.producthunt.com/posts/clik-2</link>
-      <description><![CDATA[Clik 可让您一步拍摄并与朋友分享照片 - 我们的人工智能会在拍摄照片的那一刻将照片发送给您的朋友。
-
-Instagram 是陌生人精选时刻的源。 Clik 是您与朋友在现实生活中分享的真实时刻的提要。      ]]></description>
-      <guid>https://www.producthunt.com/posts/clik-2</guid>
+      <title>amigos-do-miles - 宠物管理服务，帮助您安排最好的朋友生活</title>
+      <link>https://www.producthunt.com/posts/amigos-do-miles</link>
+      <description><![CDATA[Amigos do Miles 是一个旨在帮助所有宠物主人安排宠物生活的平台，允许他们以互动且灵活的方式插入有关宠物的所有相关信息。    ]]></description>
+      <guid>https://www.producthunt.com/posts/amigos-do-miles</guid>
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -191,9 +200,9 @@ SpeedLegal 还为您提供改进合同的个性化建议。     ]]></description
       <pubDate>Tue, 16 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2 - Postgres 开发平台现已正式发布</title>
+      <title>supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2 - Postgres 开发者平台现已全面推出</title>
       <link>https://www.producthunt.com/posts/supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2</link>
-      <description><![CDATA[经过 4 年的测试期，Supabase 现已全面上市。
+      <description><![CDATA[经过 4 年测试期后，Supabase 现已全面上市。
 
 无论您是独立黑客还是财富 500 强公司，Supabase 现在都可以扩展到任何工作负载，目前超过三分之一的 YC 正在使用 Supabase 进行构建。    ]]></description>
       <guid>https://www.producthunt.com/posts/supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2</guid>
