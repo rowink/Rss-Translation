@@ -4,181 +4,181 @@
     <title>今日 GitHub 上的热门存储库 · GitHub</title>
     <link>https://github.com/trending/?since=daily&spoken_language_code=en</link>
     <description>今日 GitHub 上的热门存储库 · GitHub - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 25 Apr 2024 06:09:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 09:04:52 GMT</lastBuildDate>
     <item>
       <title>sudheerj/javascript-面试问题</title>
       <link>https://github.com/sudheerj/javascript-interview-questions</link>
-      <description><![CDATA[1000 个 JavaScript 面试问题列表语言：JavaScript &lt; br /&gt;星星：21793 叉子：6242]]></description>
+      <description><![CDATA[1000 个 JavaScript 面试问题列表Lang用法：JavaScript 星星：21797 叉子：6244]]></description>
       <guid>https://github.com/sudheerj/javascript-interview-questions</guid>
-      <pubDate>Thu, 25 Apr 2024 06:09:02 GMT</pubDate>
+      <pubDate>Thu, 25 Apr 2024 09:04:51 GMT</pubDate>
     </item>
     <item>
       <title>openvinotoolkit/anomalib</title>
       <link>https://github.com/openvinotoolkit/anomalib</link>
-      <description><![CDATA[一个异常检测库，包含最先进的算法和实验管理、超参数等功能优化和边缘推理。 语言：Python 星星：3128 叉子：578]]></description>
+      <description><![CDATA[一个异常检测库，包含最先进的算法和功能，例如实验管理、超参数优化和边缘推理。 语言：Python 星星：3131 叉子：579]]></description>
       <guid>https://github.com/openvinotoolkit/anomalib</guid>
-      <pubDate>Thu, 25 Apr 2024 06:09:02 GMT</pubDate>
+      <pubDate>Thu, 25 Apr 2024 09:04:51 GMT</pubDate>
     </item>
     <item>
       <title>williamboman/mason-lspconfig.nvim</title>
       <link>https://github.com/williamboman/mason-lspconfig.nvim</link>
-      <description><![CDATA[mason.nvim 的扩展，可以更轻松地使用 lspconfig 。 语言：Lua 星星：2265 叉子：137]]></description>
+      <description><![CDATA[mason.nvim 的扩展，可以更轻松地将 lspconfig 与 mason.nvim 一起使用。 语言：Lua 星星：2268 叉子：137]]></description>
       <guid>https://github.com/williamboman/mason-lspconfig.nvim</guid>
-      <pubDate>Thu, 25 Apr 2024 06:09:02 GMT</pubDate>
+      <pubDate>Thu, 25 Apr 2024 09:04:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>蒸汽/蒸汽</title>
+      <link>https://github.com/vapor/vapor</link>
+      <description><![CDATA[💧 服务器端 Swift HTTP Web 框架。 语言：Swift 星星：23790 叉子：1410]]></description>
+      <guid>https://github.com/vapor/vapor</guid>
+      <pubDate>Thu, 25 Apr 2024 09:04:50 GMT</pubDate>
     </item>
     <item>
       <title>AykutSarac/jsoncrack.com</title>
       <link>https://github.com/AykutSarac/jsoncrack.com</link>
-      <description><![CDATA[✨ 创新的开源可视化应用程序，可转换各种数据格式，例如JSON、YAML、XML、CSV 等格式转换为交互式图表。 语言：TypeScript 星星：28449 分叉：1644]]></description>
+      <description><![CDATA[✨ 创新的开源可视化应用程序，可转换各种数据格式，例如JSON、YAML、XML、CSV 等格式转换为交互式图表。 语言：TypeScript 星星：28453 分叉：1644]]></description>
       <guid>https://github.com/AykutSarac/jsoncrack.com</guid>
-      <pubDate>Thu, 25 Apr 2024 06:09:01 GMT</pubDate>
+      <pubDate>Thu, 25 Apr 2024 09:04:50 GMT</pubDate>
     </item>
     <item>
-      <title>nats-io/nats-服务器</title>
+      <title>nats-io/nats-server</title>
       <link>https://github.com/nats-io/nats-server</link>
       <description><![CDATA[用于 NATS.io（云和边缘本机消息传递）的高性能服务器系统。 语言：Go 星星：14752 叉子：1353]]></description>
       <guid>https://github.com/nats-io/nats-server</guid>
-      <pubDate>Thu, 25 Apr 2024 06:09:01 GMT</pubDate>
+      <pubDate>Thu, 25 Apr 2024 09:04:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>karanpratapsingh/系统设计</title>
+      <link>https://github.com/karanpratapsingh/system-design</link>
+      <description><![CDATA[了解如何大规模设计系统并为系统设计面试做好准备语言：未知星星：28752 叉子：2837]]></description>
+      <guid>https://github.com/karanpratapsingh/system-design</guid>
+      <pubDate>Thu, 25 Apr 2024 09:04:49 GMT</pubDate>
     </item>
     <item>
       <title>邮差猪/邮差猪</title>
       <link>https://github.com/PostHog/posthog</link>
-      <description><![CDATA[🦔 PostHog 提供开源产品分析、会话记录、功能标记和您可以自行托管的 A/B 测试。 语言：Python 星星：17138 叉子：1014]]></description>
+      <description><![CDATA[🦔 PostHog 提供开源产品分析、会话记录、功能标记和您可以自行托管的 A/B 测试。 语言：Python 星星：17141 叉子：1014]]></description>
       <guid>https://github.com/PostHog/posthog</guid>
-      <pubDate>Thu, 25 Apr 2024 06:09:00 GMT</pubDate>
+      <pubDate>Thu, 25 Apr 2024 09:04:49 GMT</pubDate>
     </item>
     <item>
       <title>dependentabot/dependabot-核心</title>
       <link>https://github.com/dependabot/dependabot-core</link>
       <description><![CDATA[🤖 Dependabot 用于创建更新 PR 的核心逻辑。 语言：Ruby 星星：3864 叉子：878]]></description>
       <guid>https://github.com/dependabot/dependabot-core</guid>
-      <pubDate>Thu, 25 Apr 2024 06:09:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>蒸汽/蒸汽</title>
-      <link>https://github.com/vapor/vapor</link>
-      <description><![CDATA[💧 服务器端 Swift HTTP Web 框架。 语言：Swift 星星：23788 叉子：1410]]></description>
-      <guid>https://github.com/vapor/vapor</guid>
-      <pubDate>Thu, 25 Apr 2024 06:09:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>itzg/docker-minecraft-服务器</title>
-      <link>https://github.com/itzg/docker-minecraft-server</link>
-      <description><![CDATA[提供 Minecraft 服务器的 Docker 镜像，该服务器将在启动时自动下载选定的版本 语言：Shell 星星：8363 前叉：1425]]></description>
-      <guid>https://github.com/itzg/docker-minecraft-server</guid>
-      <pubDate>Thu, 25 Apr 2024 06:08:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>MetaMask/元掩码扩展</title>
-      <link>https://github.com/MetaMask/metamask-extension</link>
-      <description><![CDATA[:globe_with_meridians: :electric_plug: MetaMask 浏览器扩展支持浏览以太坊区块链启用的网站&lt; br /&gt;语言：JavaScript 星星：11470 叉子：4664]]></description>
-      <guid>https://github.com/MetaMask/metamask-extension</guid>
-      <pubDate>Thu, 25 Apr 2024 06:08:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>karanpratapsingh/系统设计</title>
-      <link>https://github.com/karanpratapsingh/system-design</link>
-      <description><![CDATA[了解如何大规模设计系统并为系统设计面试做好准备语言：未知星星：28749 叉子：2837]]></description>
-      <guid>https://github.com/karanpratapsingh/system-design</guid>
-      <pubDate>Thu, 25 Apr 2024 06:08:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软/数据科学初学者</title>
-      <link>https://github.com/microsoft/Data-Science-For-Beginners</link>
-      <description><![CDATA[10周，20节课，全民数据科学！ 语言：Jupyter Notebook星星：26381 叉子：5419]]></description>
-      <guid>https://github.com/microsoft/Data-Science-For-Beginners</guid>
-      <pubDate>Thu, 25 Apr 2024 06:08:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>科鲁特</title>
-      <link>https://github.com/coroot/coroot</link>
-      <description><![CDATA[Coroot 是一个开源 APM 和 Coroot。可观察性工具，DataDog 和 NewRelic 的替代品 📊、🖥️、👉。由 eBPF 提供支持，可快速洞察系统性能。轻松监控、分析和优化您的基础设施，以实现任何规模的最高可靠性。 语言：Go 星星：3681 叉子：130]]></description>
-      <guid>https://github.com/coroot/coroot</guid>
-      <pubDate>Thu, 25 Apr 2024 06:08:58 GMT</pubDate>
+      <pubDate>Thu, 25 Apr 2024 09:04:49 GMT</pubDate>
     </item>
     <item>
       <title>panjf2000/gnet</title>
       <link>https://github.com/panjf2000/gnet</link>
-      <description><![CDATA[🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。 Language: Go Stars: 8820 Forks: 969]]></description>
+      <description><![CDATA[🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。 Language: Go Stars: 8822 Forks: 969]]></description>
       <guid>https://github.com/panjf2000/gnet</guid>
-      <pubDate>Thu, 25 Apr 2024 06:08:58 GMT</pubDate>
+      <pubDate>Thu, 25 Apr 2024 09:04:48 GMT</pubDate>
     </item>
     <item>
-      <title>kuchin/awesome-cto</title>
-      <link>https://github.com/kuchin/awesome-cto</link>
-      <description><![CDATA[为首席技术官精心策划和发表意见的资源列表，重点关注初创公司 语言：未知星星：24806 叉子：1479]]></description>
-      <guid>https://github.com/kuchin/awesome-cto</guid>
-      <pubDate>Thu, 25 Apr 2024 06:08:57 GMT</pubDate>
+      <title>itzg/docker-minecraft-服务器</title>
+      <link>https://github.com/itzg/docker-minecraft-server</link>
+      <description><![CDATA[提供 Minecraft 服务器的 Docker 映像，该服务器将在启动时自动下载选定的版本 语言：Shell 星星：8364 前叉：1425]]></description>
+      <guid>https://github.com/itzg/docker-minecraft-server</guid>
+      <pubDate>Thu, 25 Apr 2024 09:04:48 GMT</pubDate>
     </item>
     <item>
-      <title>埃里克加纳/PolData</title>
-      <link>https://github.com/erikgahner/PolData</link>
-      <description><![CDATA[包含政治数据集的数据集语言：R 星星：565 货叉：78]]></description>
-      <guid>https://github.com/erikgahner/PolData</guid>
-      <pubDate>Thu, 25 Apr 2024 06:08:57 GMT</pubDate>
+      <title>MetaMask/元掩码扩展</title>
+      <link>https://github.com/MetaMask/metamask-extension</link>
+      <description><![CDATA[:globe_with_meridians: :electric_plug：MetaMask 浏览器扩展允许浏览支持以太坊区块链的网站 &lt; br/&gt;&lt; br /&gt;语言：JavaScript 星星：11469 叉子：4663]]></description>
+      <guid>https://github.com/MetaMask/metamask-extension</guid>
+      <pubDate>Thu, 25 Apr 2024 09:04:48 GMT</pubDate>
     </item>
     <item>
       <title>flxzt/rnote</title>
       <link>https://github.com/flxzt/rnote</link>
-      <description><![CDATA[绘制草图并做手写笔记。 语言：Rust 星星：5954 叉子：204]]></description>
+      <description><![CDATA[绘制草图并做手写笔记。 语言：Rust 星星：5957 叉子：204]]></description>
       <guid>https://github.com/flxzt/rnote</guid>
-      <pubDate>Thu, 25 Apr 2024 06:08:57 GMT</pubDate>
+      <pubDate>Thu, 25 Apr 2024 09:04:47 GMT</pubDate>
     </item>
     <item>
-      <title>阿帕奇/多丽丝</title>
-      <link>https://github.com/apache/doris</link>
-      <description><![CDATA[Apache Doris 是一个易于使用、高性能和统一的分析数据库。 语言：Java 星星：11346 叉子：3043]]></description>
-      <guid>https://github.com/apache/doris</guid>
-      <pubDate>Thu, 25 Apr 2024 06:08:56 GMT</pubDate>
+      <title>微软/数据科学初学者</title>
+      <link>https://github.com/microsoft/Data-Science-For-Beginners</link>
+      <description><![CDATA[10周，20节课，全民数据科学！ 语言：Jupyter Notebook星星：26384 叉子：5419]]></description>
+      <guid>https://github.com/microsoft/Data-Science-For-Beginners</guid>
+      <pubDate>Thu, 25 Apr 2024 09:04:47 GMT</pubDate>
     </item>
     <item>
-      <title>n8n-io/n8n</title>
-      <link>https://github.com/n8n-io/n8n</link>
-      <description><![CDATA[免费且源可用的公平代码许可工作流自动化工具。轻松自动化跨不同服务的任务。 语言：TypeScript 星星：40649 叉子：4995]]></description>
-      <guid>https://github.com/n8n-io/n8n</guid>
-      <pubDate>Thu, 25 Apr 2024 06:08:56 GMT</pubDate>
+      <title>科鲁特</title>
+      <link>https://github.com/coroot/coroot</link>
+      <description><![CDATA[Coroot 是一个开源 APM 和 Coroot。可观察性工具，DataDog 和 NewRelic 的替代品 📊、🖥️、👉。由 eBPF 提供支持，可快速洞察系统性能。轻松监控、分析和优化您的基础设施，以实现任何规模的最高可靠性。 语言：Go 星星：3691 叉子：130]]></description>
+      <guid>https://github.com/coroot/coroot</guid>
+      <pubDate>Thu, 25 Apr 2024 09:04:47 GMT</pubDate>
     </item>
     <item>
       <title>InterviewReady/系统设计资源</title>
       <link>https://github.com/InterviewReady/system-design-resources</link>
-      <description><![CDATA[这些是互联网上系统设计的最佳资源 语言：未知星星：14269 叉子：1706]]></description>
+      <description><![CDATA[这些是互联网上系统设计的最佳资源 语言：未知星星：14269 叉子：1708]]></description>
       <guid>https://github.com/InterviewReady/system-design-resources</guid>
-      <pubDate>Thu, 25 Apr 2024 06:08:56 GMT</pubDate>
+      <pubDate>Thu, 25 Apr 2024 09:04:46 GMT</pubDate>
     </item>
     <item>
-      <title>学术/很棒的数据科学</title>
-      <link>https://github.com/academic/awesome-datascience</link>
-      <description><![CDATA[：备忘录：一个很棒的数据科学存储库，用于学习和应用于现实世界的问题。 语言：未知星星：23132 叉子：5705]]></description>
-      <guid>https://github.com/academic/awesome-datascience</guid>
-      <pubDate>Thu, 25 Apr 2024 06:08:55 GMT</pubDate>
+      <title>库钦/awesome-cto</title>
+      <link>https://github.com/kuchin/awesome-cto</link>
+      <description><![CDATA[为首席技术官精心策划和发表意见的资源列表，重点关注初创公司 语言：未知星星：24811 叉子：1479]]></description>
+      <guid>https://github.com/kuchin/awesome-cto</guid>
+      <pubDate>Thu, 25 Apr 2024 09:04:46 GMT</pubDate>
     </item>
     <item>
-      <title>恩洛曼/json</title>
-      <link>https://github.com/nlohmann/json</link>
-      <description><![CDATA[现代 C++ 的 JSON 语言：C++ 星星：40235 叉子：6495]]></description>
-      <guid>https://github.com/nlohmann/json</guid>
-      <pubDate>Thu, 25 Apr 2024 06:08:55 GMT</pubDate>
+      <title>埃里克加纳/PolData</title>
+      <link>https://github.com/erikgahner/PolData</link>
+      <description><![CDATA[包含政治数据集的数据集语言：R 星星：566 叉子：79]]></description>
+      <guid>https://github.com/erikgahner/PolData</guid>
+      <pubDate>Thu, 25 Apr 2024 09:04:46 GMT</pubDate>
     </item>
     <item>
       <title>项目-MONAI/MONAI</title>
       <link>https://github.com/Project-MONAI/MONAI</link>
-      <description><![CDATA[医疗影像人工智能工具包语言： Python 星星：5306 叉子：969]]></description>
+      <description><![CDATA[医疗影像人工智能工具包语言： Python 星星：5311 叉子：969]]></description>
       <guid>https://github.com/Project-MONAI/MONAI</guid>
-      <pubDate>Thu, 25 Apr 2024 06:08:55 GMT</pubDate>
+      <pubDate>Thu, 25 Apr 2024 09:04:45 GMT</pubDate>
     </item>
     <item>
-      <title>伊米奇应用程序/伊米奇</title>
-      <link>https://github.com/immich-app/immich</link>
-      <description><![CDATA[高性能自托管照片和视频管理解决方案。 语言：TypeScript 星星：31396 分叉：1467]]></description>
-      <guid>https://github.com/immich-app/immich</guid>
-      <pubDate>Thu, 25 Apr 2024 06:08:54 GMT</pubDate>
+      <title>阿帕奇/多丽丝</title>
+      <link>https://github.com/apache/doris</link>
+      <description><![CDATA[Apache Doris 是一个易于使用、高性能和统一的分析数据库。 语言：Java 星星：11347 叉子：3044]]></description>
+      <guid>https://github.com/apache/doris</guid>
+      <pubDate>Thu, 25 Apr 2024 09:04:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>n8n-io/n8n</title>
+      <link>https://github.com/n8n-io/n8n</link>
+      <description><![CDATA[免费且源可用的公平代码许可工作流自动化工具。轻松自动化跨不同服务的任务。 语言：TypeScript 星星：40656 叉子：4999]]></description>
+      <guid>https://github.com/n8n-io/n8n</guid>
+      <pubDate>Thu, 25 Apr 2024 09:04:45 GMT</pubDate>
     </item>
     <item>
       <title>帕万奥斯曼/ChatGPT</title>
       <link>https://github.com/PawanOsman/ChatGPT</link>
-      <description><![CDATA[OpenAI API 免费反向代理语言：TypeScript 星星： 3954 货叉：721]]></description>
+      <description><![CDATA[OpenAI API 免费反向代理语言：TypeScript 星星： 3979 货叉：723]]></description>
       <guid>https://github.com/PawanOsman/ChatGPT</guid>
-      <pubDate>Thu, 25 Apr 2024 06:08:54 GMT</pubDate>
+      <pubDate>Thu, 25 Apr 2024 09:04:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>学术/很棒的数据科学</title>
+      <link>https://github.com/academic/awesome-datascience</link>
+      <description><![CDATA[:memo：一个很棒的数据科学存储库，用于学习和应用解决现实世界问题。 语言：未知星星：23141 叉子：5706]]></description>
+      <guid>https://github.com/academic/awesome-datascience</guid>
+      <pubDate>Thu, 25 Apr 2024 09:04:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>恩洛曼/json</title>
+      <link>https://github.com/nlohmann/json</link>
+      <description><![CDATA[现代 C++ 的 JSON 语言：C++ 星星：40239 叉子：6495]]></description>
+      <guid>https://github.com/nlohmann/json</guid>
+      <pubDate>Thu, 25 Apr 2024 09:04:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊米奇应用程序/伊米奇</title>
+      <link>https://github.com/immich-app/immich</link>
+      <description><![CDATA[高性能自托管照片和视频管理解决方案。 语言：TypeScript 星星：31444 叉子：1470]]></description>
+      <guid>https://github.com/immich-app/immich</guid>
+      <pubDate>Thu, 25 Apr 2024 09:04:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
