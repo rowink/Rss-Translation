@@ -4,7 +4,7 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>产品搜寻今日流行 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 26 Apr 2024 12:11:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:08:04 GMT</lastBuildDate>
     <item>
       <title>gems-3 - 从您的所有知识中获取现成可用的答案</title>
       <link>https://www.producthunt.com/posts/gems-3</link>
@@ -22,18 +22,18 @@
     <item>
       <title>emojitell - 将文本翻译成有趣且富有表现力的表情符号组合。</title>
       <link>https://www.producthunt.com/posts/emojitell</link>
-      <description><![CDATA[Emojitell 🎨✨是一个迷人的🤩和创意🎨在线平台🌐，充当表情符号🤖组合翻译器➡️🔤。并提供了一个平台🚀，您可以在其中探索🔍、创建✍️并分享➡️您自己创建的表情符号组合💌。     ]]></description>
+      <description><![CDATA[Emojitell 🎨✨ 是一个迷人 🤩 和富有创意 🎨 在线平台 🌐，可用作表情符号 🤖 组合翻译器 ➡️🔤。并提供一个平台 🚀，您可以在其中探索 🔍、创建 ✍️ 和分享 ➡️ 您自己创建的表情符号组合 💌。     ]]></description>
       <guid>https://www.producthunt.com/posts/emojitell</guid>
       <pubDate>Fri, 26 Apr 2024 09:05:25 GMT</pubDate>
     </item>
     <item>
-      <title>langfuse-2-0-llm-engineering-platform - 跟踪、评估、提示管理、游乐场和数据集</title>
-      <link>https://www.producthunt.com/posts/langfuse-2-0-llm-engineering-platform</link>
+      <title>langfuse-2-0 - 开源 LLM 工程平台</title>
+      <link>https://www.producthunt.com/posts/langfuse-2-0</link>
       <description><![CDATA[Langfuse 是开源法学硕士工程平台。
 
 它提供可观察性、跟踪、评估、提示管理、游乐场和指标来调试和改进 LLM 应用程序。
 朗福斯已开放。它适用于任何模型、框架，您可以导出所有数据。   ]]></description>
-      <guid>https://www.producthunt.com/posts/langfuse-2-0-llm-engineering-platform</guid>
+      <guid>https://www.producthunt.com/posts/langfuse-2-0</guid>
       <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -51,10 +51,12 @@
       <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>ai-blog-articles - 通过 SEO 优化的内容提高网站流量</title>
-      <link>https://www.producthunt.com/posts/ai-blog-articles</link>
-      <description><![CDATA[AI 博客文章由 AI 驱动的内容编写器编写，可为您的网站创建 SEO 优化的博客文章。它使用最先进的法学硕士来制作内容，使您的网站流量增长。   ]]></description>
-      <guid>https://www.producthunt.com/posts/ai-blog-articles</guid>
+      <title>resume-photo-ai - 适合所有人的专业头像</title>
+      <link>https://www.producthunt.com/posts/resume-photo-ai</link>
+      <description><![CDATA[获得专业的头像是成功职业生涯的第一步。
+但获得专业的头像可能会很昂贵、耗时，有时甚至会带来压力。
+让我们帮助您。    ]]></description>
+      <guid>https://www.producthunt.com/posts/resume-photo-ai</guid>
       <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -62,15 +64,6 @@
       <link>https://www.producthunt.com/posts/moodset</link>
       <description><![CDATA[介绍您的心理健康伴侣！通过情绪状态评估的二维模型更深入地了解您的情绪。此外，还可以自动跟踪您的音乐聆听习惯，进一步了解您的情绪健康状况。      &lt;img src=&quot;https://ph-files.imgix.net/c35edfb0-c9f5-44d5-9359-7d6425369c2c.png?auto=format&amp;amp;适合=作物“/&gt;]]></description>
       <guid>https://www.producthunt.com/posts/moodset</guid>
-      <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>resume-photo-ai - 适合所有人的专业头像</title>
-      <link>https://www.producthunt.com/posts/resume-photo-ai</link>
-      <description><![CDATA[获得专业的头像是成功职业生涯的第一步。
-但获得专业的头像可能会很昂贵、耗时，有时甚至会带来压力。
-让我们帮助您。    ]]></description>
-      <guid>https://www.producthunt.com/posts/resume-photo-ai</guid>
       <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -97,7 +90,7 @@
     <item>
       <title>deepwander - 人工智能促进内省，提高自我意识。</title>
       <link>https://www.producthunt.com/posts/deepwander</link>
-      <description><![CDATA[Deepwander 是一款人工智能驱动的工具，旨在促进内省和增强自我意识。它帮助用户探索他们的想法、情感和行为，支持他们的自我发现之旅，使其符合他们的价值观和愿望。    &lt; img src=&quot;https://ph-files.imgix.net/2d201e45-0581-4876-a026-c9efa6cf9205.png?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
+      <description><![CDATA[Deepwander 是一款人工智能工具，旨在促进内省和增强自我意识。它帮助用户探索他们的思想、情感和行为，支持他们根据自己的价值观和抱负进行自我发现之旅。     ]]></description>
       <guid>https://www.producthunt.com/posts/deepwander</guid>
       <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -168,7 +161,7 @@
       <pubDate>Wed, 17 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>speedlegal - 您的个人人工智能合同谈判者</title>
+      <title>speedlegal - 您的个人 AI 合同谈判员</title>
       <link>https://www.producthunt.com/posts/speedlegal</link>
       <description><![CDATA[SpeedLegal 是一款人工智能工具，可帮助您更好地理解和协商合同。它可以快速识别潜在风险，并用简单的语言解释复杂的法律术语。
 SpeedLegal 还为您提供改进合同的个性化建议。     ]]></description>

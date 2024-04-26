@@ -4,181 +4,181 @@
     <title>今日 GitHub 上的热门存储库 · GitHub</title>
     <link>https://github.com/trending/?since=daily&spoken_language_code=en</link>
     <description>今日 GitHub 上的热门存储库 · GitHub - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 26 Apr 2024 12:11:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:07:23 GMT</lastBuildDate>
     <item>
-      <title>AykutSarac/jsoncrack.com</title>
-      <link>https://github.com/AykutSarac/jsoncrack.com</link>
-      <description><![CDATA[✨ 创新的开源可视化应用程序，可转换各种数据格式，例如JSON、YAML、XML、CSV 等格式转换为交互式图表。 语言：TypeScript 星星：28477 分叉：1648]]></description>
-      <guid>https://github.com/AykutSarac/jsoncrack.com</guid>
-      <pubDate>Fri, 26 Apr 2024 12:11:01 GMT</pubDate>
+      <title>leonardomso/33-js-concepts</title>
+      <link>https://github.com/leonardomso/33-js-concepts</link>
+      <description><![CDATA[📜 每个开发人员都应该了解的 33 个 JavaScript 概念。 语言：JavaScript 星星：61860 叉子：8658]]></description>
+      <guid>https://github.com/leonardomso/33-js-concepts</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:23 GMT</pubDate>
     </item>
     <item>
-      <title>纸MC/纸</title>
-      <link>https://github.com/PaperMC/Paper</link>
-      <description><![CDATA[使用最广泛的高性能 Minecraft 服务器，旨在修复游戏玩法和机制的不一致问题语言：Java 星星：8823 叉子：2129]]></description>
-      <guid>https://github.com/PaperMC/Paper</guid>
-      <pubDate>Fri, 26 Apr 2024 12:11:01 GMT</pubDate>
+      <title>桑伯/罗</title>
+      <link>https://github.com/samber/lo</link>
+      <description><![CDATA[💥 基于 Go 1.18+ 泛型的 Lodash 风格 Go 库（地图、过滤、包含、查找...） 语言：Go 星星：15362 叉子：698]]></description>
+      <guid>https://github.com/samber/lo</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:23 GMT</pubDate>
     </item>
     <item>
-      <title>开放/耳语</title>
-      <link>https://github.com/openai/whisper</link>
-      <description><![CDATA[通过大规模弱监督进行鲁棒语音识别语言： Python 星星：60344 叉子：6931]]></description>
-      <guid>https://github.com/openai/whisper</guid>
-      <pubDate>Fri, 26 Apr 2024 12:11:00 GMT</pubDate>
+      <title>groue/GRDB.swift</title>
+      <link>https://github.com/groue/GRDB.swift</link>
+      <description><![CDATA[SQLite数据库的工具包，专注于应用程序开发语言：Swift 星星：6489 叉子：667]]></description>
+      <guid>https://github.com/groue/GRDB.swift</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:22 GMT</pubDate>
     </item>
     <item>
-      <title>微软/剧作家</title>
-      <link>https://github.com/microsoft/playwright</link>
-      <description><![CDATA[Playwright 是一个用于 Web 测试和自动化的框架。它允许使用单个 API 测试 Chromium、Firefox 和 WebKit。 语言：TypeScript 星星：61723 分叉：3293]]></description>
-      <guid>https://github.com/microsoft/playwright</guid>
-      <pubDate>Fri, 26 Apr 2024 12:11:00 GMT</pubDate>
+      <title>illacloud/illa-builder</title>
+      <link>https://github.com/illacloud/illa-builder</link>
+      <description><![CDATA[低代码平台允许您构建业务应用程序，使您能够快速创建内部工具，如仪表板、crud 应用程序、管理面板、crm、cms 等。支持 PostgreSQL、MySQL、Supabase、GraphQL、MongoDB、MSSQL、Rest API、Hugging Face、Redis 等。使用计划或 webhook 自动化工作流程。开源重组。 语言：TypeScript 星星：10693 分叉：1044]]></description>
+      <guid>https://github.com/illacloud/illa-builder</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:22 GMT</pubDate>
     </item>
     <item>
-      <title>qubvel/segmentation_models.pytorch</title>
-      <link>https://github.com/qubvel/segmentation_models.pytorch</link>
-      <description><![CDATA[具有预训练主干的分割模型。火炬。 语言：Python 星星：8816 叉子：1592]]></description>
-      <guid>https://github.com/qubvel/segmentation_models.pytorch</guid>
-      <pubDate>Fri, 26 Apr 2024 12:11:00 GMT</pubDate>
+      <title>DovAmir/很棒的设计模式</title>
+      <link>https://github.com/DovAmir/awesome-design-patterns</link>
+      <description><![CDATA[软件和架构相关设计模式的精选列表。 语言：未知星星：35963 叉子：2681]]></description>
+      <guid>https://github.com/DovAmir/awesome-design-patterns</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:21 GMT</pubDate>
     </item>
     <item>
-      <title>NVIDIA/威震天-LM</title>
-      <link>https://github.com/NVIDIA/Megatron-LM</link>
-      <description><![CDATA[正在进行大规模训练 Transformer 模型的研究语言：Python 星星：8580 前叉：1914]]></description>
-      <guid>https://github.com/NVIDIA/Megatron-LM</guid>
-      <pubDate>Fri, 26 Apr 2024 12:10:59 GMT</pubDate>
+      <title>内部/内部</title>
+      <link>https://github.com/Infisical/infisical</link>
+      <description><![CDATA[♾ Infisical 是开源秘密管理平台：在您的设备之间同步秘密团队/基础设施并防止秘密泄露。 语言：TypeScript 星星：12145 叉子：589]]></description>
+      <guid>https://github.com/Infisical/infisical</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>超现实数据库/超现实主义</title>
+      <link>https://github.com/surrealdb/surrealist</link>
+      <description><![CDATA[Surrealist 是可视化管理 SurrealDB 数据库的终极方式 语言：TypeScript 星星：812 叉子：46]]></description>
+      <guid>https://github.com/surrealdb/surrealist</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>劳伦特22/乔普林</title>
+      <link>https://github.com/laurent22/joplin</link>
+      <description><![CDATA[Joplin - 安全的笔记和待办事项应用程序，具有同步功能Windows、macOS、Linux、Android 和 iOS。 语言：TypeScript 星星：42899 叉子：4645]]></description>
+      <guid>https://github.com/laurent22/joplin</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>mui/material-ui</title>
+      <link>https://github.com/mui/material-ui</link>
+      <description><![CDATA[MaterialUI：即用型基础 React 组件，永久免费。它包括 Material UI，它实现了 Google 的 Material Design。 语言：TypeScript 星星：91623 分叉：31457]]></description>
+      <guid>https://github.com/mui/material-ui</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软/DeepSpeed</title>
+      <link>https://github.com/microsoft/DeepSpeed</link>
+      <description><![CDATA[DeepSpeed 是一个深度学习优化库，可让分布式训练和推理变得简单、高效且有效。 语言：Python 星星：32689 叉子：3842]]></description>
+      <guid>https://github.com/microsoft/DeepSpeed</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>铁锈桌</title>
+      <link>https://github.com/rustdesk/rustdesk</link>
+      <description><![CDATA[开源远程桌面，TeamViewer 的替代品。 语言：Rust 星星：62936 叉子：6871]]></description>
+      <guid>https://github.com/rustdesk/rustdesk</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>项目-MONAI/MONAI</title>
+      <link>https://github.com/Project-MONAI/MONAI</link>
+      <description><![CDATA[医疗影像人工智能工具包语言： Python 星星：5319 叉子：970]]></description>
+      <guid>https://github.com/Project-MONAI/MONAI</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:19 GMT</pubDate>
     </item>
     <item>
       <title>多尼/路径过滤器</title>
       <link>https://github.com/dorny/paths-filter</link>
-      <description><![CDATA[根据 PR、功能分支或推送提交修改的文件有条件地运行操作 语言：TypeScript 星星：1820 叉子：208]]></description>
+      <description><![CDATA[根据 PR、功能分支或推送提交修改的文件有条件地运行操作语言：TypeScript 星星：1823 叉子：208]]></description>
       <guid>https://github.com/dorny/paths-filter</guid>
-      <pubDate>Fri, 26 Apr 2024 12:10:59 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 15:07:18 GMT</pubDate>
     </item>
     <item>
-      <title>DenverCoder1/github-readme-streak-stats</title>
-      <link>https://github.com/DenverCoder1/github-readme-streak-stats</link>
-      <description><![CDATA[🔥保持积极性并展示您的连续贡献！ 🌟 在 GitHub 个人资料自述文件中显示您的总贡献、当前连续贡献和最长连续贡献 语言：PHP 星星：4135 分叉：658]]></description>
-      <guid>https://github.com/DenverCoder1/github-readme-streak-stats</guid>
-      <pubDate>Fri, 26 Apr 2024 12:10:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flow-Launcher/Flow.Launcher</title>
-      <link>https://github.com/Flow-Launcher/Flow.Launcher</link>
-      <description><![CDATA[:mag：快速文件搜索&amp;适用于 Windows 的应用程序启动器，带有社区制作的插件 语言：C# 星星：6381 分叉：265]]></description>
-      <guid>https://github.com/Flow-Launcher/Flow.Launcher</guid>
-      <pubDate>Fri, 26 Apr 2024 12:10:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>维多利亚度量/维多利亚度量</title>
-      <link>https://github.com/VictoriaMetrics/VictoriaMetrics</link>
-      <description><![CDATA[VictoriaMetrics：快速、经济高效的监控解决方案和时间序列数据库语言：Go 星星：10857 叉子：1086]]></description>
-      <guid>https://github.com/VictoriaMetrics/VictoriaMetrics</guid>
-      <pubDate>Fri, 26 Apr 2024 12:10:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>库克人工智能/TTS</title>
-      <link>https://github.com/coqui-ai/TTS</link>
-      <description><![CDATA[🐸💬 - 经过研究考验的文本转语音深度学习工具包和生产语言：Python 星星：29248 叉子：3425]]></description>
-      <guid>https://github.com/coqui-ai/TTS</guid>
-      <pubDate>Fri, 26 Apr 2024 12:10:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>科鲁特</title>
-      <link>https://github.com/coroot/coroot</link>
-      <description><![CDATA[Coroot 是一个开源 APM 和 Coroot。可观察性工具，DataDog 和 NewRelic 的替代品 📊、🖥️、👉。由 eBPF 提供支持，可快速洞察系统性能。轻松监控、分析和优化您的基础设施，以实现任何规模的最高可靠性。 语言：Go 星星：3747 叉子：130]]></description>
-      <guid>https://github.com/coroot/coroot</guid>
-      <pubDate>Fri, 26 Apr 2024 12:10:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子/电子</title>
-      <link>https://github.com/electron/electron</link>
-      <description><![CDATA[: Electron：使用 JavaScript、HTML 和 CSS 构建跨平台桌面应用语言：C++ 星星：111957 叉子：14918]]></description>
-      <guid>https://github.com/electron/electron</guid>
-      <pubDate>Fri, 26 Apr 2024 12:10:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>运行 llama/llama_index</title>
-      <link>https://github.com/run-llama/llama_index</link>
-      <description><![CDATA[LlamaIndex 是 LLM 申请的数据框架语言：Python &lt; br /&gt;星星：31053 叉子：4213]]></description>
-      <guid>https://github.com/run-llama/llama_index</guid>
-      <pubDate>Fri, 26 Apr 2024 12:10:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>拥抱脸/变形金刚</title>
-      <link>https://github.com/huggingface/transformers</link>
-      <description><![CDATA[🤗 Transformers：最先进的 Pytorch 机器学习， TensorFlow 和 JAX。 语言：Python 星星：125045 叉子：24779]]></description>
-      <guid>https://github.com/huggingface/transformers</guid>
-      <pubDate>Fri, 26 Apr 2024 12:10:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果/斯威夫特</title>
-      <link>https://github.com/apple/swift</link>
-      <description><![CDATA[Swift 编程语言语言：C++ 星星：65901 &lt; br /&gt;货叉：10199]]></description>
-      <guid>https://github.com/apple/swift</guid>
-      <pubDate>Fri, 26 Apr 2024 12:10:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿帕奇/座位隧道</title>
-      <link>https://github.com/apache/seatunnel</link>
-      <description><![CDATA[SeaTunnel是下一代超高性能、分布式、海量数据集成工具。 语言：Java 星星：7229 叉子：1538]]></description>
-      <guid>https://github.com/apache/seatunnel</guid>
-      <pubDate>Fri, 26 Apr 2024 12:10:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>普罗米修斯/node_exporter</title>
-      <link>https://github.com/prometheus/node_exporter</link>
-      <description><![CDATA[机器指标导出器语言：Go 星星： 5 &lt; br/&gt;货叉：2262]]></description>
-      <guid>https://github.com/prometheus/node_exporter</guid>
-      <pubDate>Fri, 26 Apr 2024 12:10:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>帕万奥斯曼/ChatGPT</title>
-      <link>https://github.com/PawanOsman/ChatGPT</link>
-      <description><![CDATA[OpenAI API 免费反向代理语言：TypeScript 星星： 187 货叉：800]]></description>
-      <guid>https://github.com/PawanOsman/ChatGPT</guid>
-      <pubDate>Fri, 26 Apr 2024 12:10:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>学术/很棒的数据科学</title>
-      <link>https://github.com/academic/awesome-datascience</link>
-      <description><![CDATA[：备忘录：一个很棒的数据科学存储库，用于学习和应用于现实世界的问题。 语言：未知星星：23474 叉子：5731]]></description>
-      <guid>https://github.com/academic/awesome-datascience</guid>
-      <pubDate>Fri, 26 Apr 2024 12:10:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>terraform-aws-模块/terraform-aws-eks</title>
-      <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
-      <description><![CDATA[用于创建 AWS Elastic Kubernetes (EKS) 资源的 Terraform 模块🇺🇦语言：HCL 星星：4164 叉子：3922]]></description>
-      <guid>https://github.com/terraform-aws-modules/terraform-aws-eks</guid>
-      <pubDate>Fri, 26 Apr 2024 12:10:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAPI 工具/openapi-generator</title>
-      <link>https://github.com/OpenAPITools/openapi-generator</link>
-      <description><![CDATA[OpenAPI Generator 允许自动生成 API 客户端库（SDK 生成）、服务器存根、文档和配置OpenAPI 规范（v2、v3）语言：Java 星星：19862 分叉：6111]]></description>
-      <guid>https://github.com/OpenAPITools/openapi-generator</guid>
-      <pubDate>Fri, 26 Apr 2024 12:10:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊米奇应用程序/伊米奇</title>
-      <link>https://github.com/immich-app/immich</link>
-      <description><![CDATA[高性能自托管照片和视频管理解决方案。 语言：TypeScript 星星：31738 分叉：1496]]></description>
-      <guid>https://github.com/immich-app/immich</guid>
-      <pubDate>Fri, 26 Apr 2024 12:10:53 GMT</pubDate>
+      <title>codecrafters-io/构建你自己的-x</title>
+      <link>https://github.com/codecrafters-io/build-your-own-x</link>
+      <description><![CDATA[通过从头开始重新创建您最喜欢的技术来掌握编程。 语言：未知星星：257654 叉子：24449]]></description>
+      <guid>https://github.com/codecrafters-io/build-your-own-x</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:18 GMT</pubDate>
     </item>
     <item>
       <title>panjf2000/gnet</title>
       <link>https://github.com/panjf2000/gnet</link>
-      <description><![CDATA[🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。 Language: Go Stars: 8996 Forks: 994]]></description>
+      <description><![CDATA[🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。 Language: Go Stars: 9006 Forks: 995]]></description>
       <guid>https://github.com/panjf2000/gnet</guid>
-      <pubDate>Fri, 26 Apr 2024 12:10:53 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 15:07:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Azure/azureml-示例</title>
+      <link>https://github.com/Azure/azureml-examples</link>
+      <description><![CDATA[官方社区驱动的 Azure 机器学习示例，已使用 GitHub Actions 进行测试。 语言：Jupyter Notebook星星：1555 叉子：1238]]></description>
+      <guid>https://github.com/Azure/azureml-examples</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>学术/很棒的数据科学</title>
+      <link>https://github.com/academic/awesome-datascience</link>
+      <description><![CDATA[：备忘录：一个很棒的数据科学存储库，用于学习和应用于现实世界的问题。 语言：未知星星：23495 叉子：5732]]></description>
+      <guid>https://github.com/academic/awesome-datascience</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>范例xyz/reth</title>
+      <link>https://github.com/paradigmxyz/reth</link>
+      <description><![CDATA[以太坊协议的模块化、贡献者友好且极快的实现， Rust 语言：Rust 星星：3181 叉子：773]]></description>
+      <guid>https://github.com/paradigmxyz/reth</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>mui/mui-x</title>
+      <link>https://github.com/mui/mui-x</link>
+      <description><![CDATA[MUI X：使用越来越多的列表构建复杂且数据丰富的应用程序高级 React 组件，如数据网格、日期和时间选择器、图表等等！ 语言：TypeScript 星星：3723 分叉：1103]]></description>
+      <guid>https://github.com/mui/mui-x</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:16 GMT</pubDate>
     </item>
     <item>
       <title>唐内马丁/系统设计入门</title>
       <link>https://github.com/donnemartin/system-design-primer</link>
-      <description><![CDATA[了解如何设计大型系统。准备系统设计面试。包括 Anki 抽认卡。 语言：Python 星星：254469 叉子：43471]]></description>
+      <description><![CDATA[了解如何设计大型系统。准备系统设计面试。包括 Anki 抽认卡。 语言：Python 星星：254497 叉子：43477]]></description>
       <guid>https://github.com/donnemartin/system-design-primer</guid>
-      <pubDate>Fri, 26 Apr 2024 12:10:52 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 15:07:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>太鼓物</title>
+      <link>https://github.com/taikoxyz/taiko-mono</link>
+      <description><![CDATA[基于汇总。 🥁 语言：Solidity 星星：3947 叉子：1901]]></description>
+      <guid>https://github.com/taikoxyz/taiko-mono</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>下一个云/服务器</title>
+      <link>https://github.com/nextcloud/server</link>
+      <description><![CDATA[☁️ Nextcloud 服务器，所有数据的安全之家 语言：PHP 星星：25553 叉子：3837]]></description>
+      <guid>https://github.com/nextcloud/server</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>布卢姆-ai/布卢姆</title>
+      <link>https://github.com/cvat-ai/cvat</link>
+      <description><![CDATA[使用行业领先的机器学习数据引擎 CVAT 更好地进行注释。任何规模的团队都可以使用和信任任何规模的数据。 语言：TypeScript 星星：11390 叉子：2830]]></description>
+      <guid>https://github.com/cvat-ai/cvat</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>帕万奥斯曼/ChatGPT</title>
+      <link>https://github.com/PawanOsman/ChatGPT</link>
+      <description><![CDATA[OpenAI API 免费反向代理语言：TypeScript 星星：4203 货叉：806]]></description>
+      <guid>https://github.com/PawanOsman/ChatGPT</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿帕奇/座位隧道</title>
+      <link>https://github.com/apache/seatunnel</link>
+      <description><![CDATA[SeaTunnel是下一代超高性能、分布式、海量数据集成工具。 语言：Java 星星：7237 叉子：1541]]></description>
+      <guid>https://github.com/apache/seatunnel</guid>
+      <pubDate>Fri, 26 Apr 2024 15:07:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
