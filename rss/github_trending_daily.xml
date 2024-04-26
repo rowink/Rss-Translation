@@ -4,181 +4,181 @@
     <title>今日 GitHub 上的热门存储库 · GitHub</title>
     <link>https://github.com/trending/?since=daily&spoken_language_code=en</link>
     <description>今日 GitHub 上的热门存储库 · GitHub - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 26 Apr 2024 00:28:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 03:07:30 GMT</lastBuildDate>
     <item>
       <title>AykutSarac/jsoncrack.com</title>
       <link>https://github.com/AykutSarac/jsoncrack.com</link>
-      <description><![CDATA[✨ 创新的开源可视化应用程序，可转换各种数据格式，例如JSON、YAML、XML、CSV 等格式转换为交互式图表。 语言：TypeScript 星星：28468 分叉：1647]]></description>
+      <description><![CDATA[✨ 创新的开源可视化应用程序，可转换各种数据格式，例如JSON、YAML、XML、CSV 等格式转换为交互式图表。 语言：TypeScript 星星：28468 叉子：1647]]></description>
       <guid>https://github.com/AykutSarac/jsoncrack.com</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:41 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 03:07:30 GMT</pubDate>
     </item>
     <item>
       <title>纸MC/纸</title>
       <link>https://github.com/PaperMC/Paper</link>
-      <description><![CDATA[使用最广泛的高性能 Minecraft 服务器，旨在修复游戏玩法和机制的不一致问题语言：Java 星星：8819 叉子：2129]]></description>
+      <description><![CDATA[使用最广泛的高性能 Minecraft 服务器，旨在修复游戏玩法和机制的不一致问题语言：Java 星星：8820 叉子：2129]]></description>
       <guid>https://github.com/PaperMC/Paper</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>开放/耳语</title>
-      <link>https://github.com/openai/whisper</link>
-      <description><![CDATA[通过大规模弱监督进行鲁棒语音识别语言：Python &lt; br/ &gt;星星：60313 叉子：6928]]></description>
-      <guid>https://github.com/openai/whisper</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:40 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 03:07:30 GMT</pubDate>
     </item>
     <item>
       <title>微软/剧作家</title>
       <link>https://github.com/microsoft/playwright</link>
-      <description><![CDATA[Playwright 是一个用于 Web 测试和自动化的框架。它允许使用单个 API 测试 Chromium、Firefox 和 WebKit。 语言：TypeScript 星星：61704 分叉：3293]]></description>
+      <description><![CDATA[Playwright 是一个用于 Web 测试和自动化的框架。它允许使用单个 API 测试 Chromium、Firefox 和 WebKit。 语言：TypeScript 星星：61707 分叉：3293]]></description>
       <guid>https://github.com/microsoft/playwright</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:40 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 03:07:29 GMT</pubDate>
     </item>
     <item>
       <title>qubvel/segmentation_models.pytorch</title>
       <link>https://github.com/qubvel/segmentation_models.pytorch</link>
-      <description><![CDATA[具有预训练主干的分割模型。火炬。 语言：Python 星星：8814 叉子：1591]]></description>
+      <description><![CDATA[具有预训练主干的分割模型。火炬。 语言：Python 星星：8814 叉子：1592]]></description>
       <guid>https://github.com/qubvel/segmentation_models.pytorch</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA/威震天-LM</title>
-      <link>https://github.com/NVIDIA/Megatron-LM</link>
-      <description><![CDATA[正在进行大规模训练 Transformer 模型的研究语言：Python 星星：8573 前叉：1914]]></description>
-      <guid>https://github.com/NVIDIA/Megatron-LM</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:39 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 03:07:29 GMT</pubDate>
     </item>
     <item>
       <title>多尼/路径过滤器</title>
       <link>https://github.com/dorny/paths-filter</link>
       <description><![CDATA[根据 PR、功能分支或推送提交修改的文件有条件地运行操作 语言：TypeScript 星星：1814 叉子：208]]></description>
       <guid>https://github.com/dorny/paths-filter</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:39 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 03:07:28 GMT</pubDate>
     </item>
     <item>
       <title>DenverCoder1/github-readme-streak-stats</title>
       <link>https://github.com/DenverCoder1/github-readme-streak-stats</link>
-      <description><![CDATA[🔥 保持积极性并展示您的连续贡献！ 🌟 在 GitHub 个人资料自述文件中显示您的总贡献、当前连续贡献和最长连续贡献 语言：PHP 星星：4132 分叉：657]]></description>
+      <description><![CDATA[🔥 保持积极性并展示您的连续贡献！ 🌟 在 GitHub 个人资料自述文件中显示您的总贡献、当前连续贡献和最长连续贡献 语言：PHP 星星：4133 分叉：658]]></description>
       <guid>https://github.com/DenverCoder1/github-readme-streak-stats</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:39 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 03:07:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>开放/耳语</title>
+      <link>https://github.com/openai/whisper</link>
+      <description><![CDATA[星星：60317 叉子：6928]]></description>
+      <guid>https://github.com/openai/whisper</guid>
+      <pubDate>Fri, 26 Apr 2024 03:07:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>维多利亚度量/维多利亚度量</title>
+      <link>https://github.com/VictoriaMetrics/VictoriaMetrics</link>
+      <description><![CDATA[VictoriaMetrics：快速、经济高效的监控解决方案和时间序列数据库语言：Go 星星：10847 叉子：1087]]></description>
+      <guid>https://github.com/VictoriaMetrics/VictoriaMetrics</guid>
+      <pubDate>Fri, 26 Apr 2024 03:07:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA/威震天-LM</title>
+      <link>https://github.com/NVIDIA/Megatron-LM</link>
+      <description><![CDATA[正在进行大规模训练 Transformer 模型的研究语言：Python 星星：8574 前叉：1914]]></description>
+      <guid>https://github.com/NVIDIA/Megatron-LM</guid>
+      <pubDate>Fri, 26 Apr 2024 03:07:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>共根/共根</title>
+      <link>https://github.com/coroot/coroot</link>
+      <description><![CDATA[Coroot 是一个开源 APM 和 Coroot。可观察性工具，DataDog 和 NewRelic 的替代品 📊、🖥️、👉。由 eBPF 提供支持，可快速洞察系统性能。轻松监控、分析和优化您的基础设施，以实现任何规模的最高可靠性。 语言：Go 星星：3725 叉子：130]]></description>
+      <guid>https://github.com/coroot/coroot</guid>
+      <pubDate>Fri, 26 Apr 2024 03:07:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>电子/电子</title>
+      <link>https://github.com/electron/electron</link>
+      <description><![CDATA[: Electron：使用 JavaScript、HTML 和 CSS 构建跨平台桌面应用语言：C++ 星星：111948 叉子：14914]]></description>
+      <guid>https://github.com/electron/electron</guid>
+      <pubDate>Fri, 26 Apr 2024 03:07:26 GMT</pubDate>
     </item>
     <item>
       <title>Flow-Launcher/Flow.Launcher</title>
       <link>https://github.com/Flow-Launcher/Flow.Launcher</link>
       <description><![CDATA[:mag：快速文件搜索&amp;适用于 Windows 的应用程序启动器，带有社区制作的插件 语言：C# 星星：6369 分叉：265]]></description>
       <guid>https://github.com/Flow-Launcher/Flow.Launcher</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>维多利亚度量/维多利亚度量</title>
-      <link>https://github.com/VictoriaMetrics/VictoriaMetrics</link>
-      <description><![CDATA[VictoriaMetrics：快速、经济高效的监控解决方案和时间序列数据库语言：Go Stars：10846 Forks：1086]]></description>
-      <guid>https://github.com/VictoriaMetrics/VictoriaMetrics</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>库克人工智能/TTS</title>
-      <link>https://github.com/coqui-ai/TTS</link>
-      <description><![CDATA[🐸💬 - 用于文本转语音的深度学习工具包，经过研究和生产的考验语言：Python 星星：29226 叉子：3420]]></description>
-      <guid>https://github.com/coqui-ai/TTS</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>科鲁特</title>
-      <link>https://github.com/coroot/coroot</link>
-      <description><![CDATA[Coroot 是一个开源 APM 和 Coroot。可观察性工具，DataDog 和 NewRelic 的替代品 📊、🖥️、👉。由 eBPF 提供支持，可快速洞察系统性能。轻松监控、分析和优化您的基础设施，以实现任何规模的最高可靠性。 语言：Go 星星：3723 叉子：130]]></description>
-      <guid>https://github.com/coroot/coroot</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子/电子</title>
-      <link>https://github.com/electron/electron</link>
-      <description><![CDATA[: Electron：使用 JavaScript、HTML 和 CSS 构建跨平台桌面应用语言：C++ 星星：111946 叉子：14913]]></description>
-      <guid>https://github.com/electron/electron</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>运行 llama/llama_index</title>
-      <link>https://github.com/run-llama/llama_index</link>
-      <description><![CDATA[LlamaIndex 是 LLM 申请的数据框架语言：Python &lt; br /&gt;星星：31039 叉子：4211]]></description>
-      <guid>https://github.com/run-llama/llama_index</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>huggingface/变形金刚</title>
-      <link>https://github.com/huggingface/transformers</link>
-      <description><![CDATA[🤗 Transformers：最先进的 Pytorch 机器学习， TensorFlow 和 JAX。 语言：Python 星星：125015 叉子：24772]]></description>
-      <guid>https://github.com/huggingface/transformers</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:36 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 03:07:26 GMT</pubDate>
     </item>
     <item>
       <title>苹果/斯威夫特</title>
       <link>https://github.com/apple/swift</link>
-      <description><![CDATA[Swift 编程语言语言：C++ 星星：65894 &lt; br/&gt;货叉：10198]]></description>
+      <description><![CDATA[Swift 编程语言语言：C++ 星星：65896 &lt; br/&gt;货叉：10198]]></description>
       <guid>https://github.com/apple/swift</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:36 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 03:07:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>库克人工智能/TTS</title>
+      <link>https://github.com/coqui-ai/TTS</link>
+      <description><![CDATA[🐸💬 - 用于文本转语音的深度学习工具包，经过实战测试研究与生产语言：Python 星星：29229 叉子：3420]]></description>
+      <guid>https://github.com/coqui-ai/TTS</guid>
+      <pubDate>Fri, 26 Apr 2024 03:07:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>运行 llama/llama_index</title>
+      <link>https://github.com/run-llama/llama_index</link>
+      <description><![CDATA[LlamaIndex 是 LLM 申请的数据框架语言：Python &lt; br /&gt;星星：31042 叉子：4212]]></description>
+      <guid>https://github.com/run-llama/llama_index</guid>
+      <pubDate>Fri, 26 Apr 2024 03:07:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>拥抱脸/变形金刚</title>
+      <link>https://github.com/huggingface/transformers</link>
+      <description><![CDATA[🤗 Transformers：最先进的 Pytorch 机器学习， TensorFlow 和 JAX。 语言：Python 星星：125019 叉子：24773]]></description>
+      <guid>https://github.com/huggingface/transformers</guid>
+      <pubDate>Fri, 26 Apr 2024 03:07:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿帕奇/座位隧道</title>
+      <link>https://github.com/apache/seatunnel</link>
+      <description><![CDATA[SeaTunnel是下一代超高性能、分布式、海量数据集成工具。 语言：Java 星星：7223 叉子：1536]]></description>
+      <guid>https://github.com/apache/seatunnel</guid>
+      <pubDate>Fri, 26 Apr 2024 03:07:23 GMT</pubDate>
     </item>
     <item>
       <title>普罗米修斯/node_exporter</title>
       <link>https://github.com/prometheus/node_exporter</link>
       <description><![CDATA[机器指标导出器语言：Go 星星： &lt; br/&gt;货叉：2262]]></description>
       <guid>https://github.com/prometheus/node_exporter</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:35 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 03:07:23 GMT</pubDate>
     </item>
     <item>
-      <title>PawanOsman/ChatGPT</title>
+      <title>帕万奥斯曼/ChatGPT</title>
       <link>https://github.com/PawanOsman/ChatGPT</link>
-      <description><![CDATA[OpenAI API 免费反向代理语言：TypeScript 星星： 4157 货叉：796]]></description>
+      <description><![CDATA[OpenAI API 免费反向代理语言：TypeScript 星星: 4161 货叉：796]]></description>
       <guid>https://github.com/PawanOsman/ChatGPT</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:35 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 03:07:23 GMT</pubDate>
     </item>
     <item>
-      <title>terraform-aws-模块/terraform-aws-eks</title>
+      <title>OpenAPI 工具/openapi-generator</title>
+      <link>https://github.com/OpenAPITools/openapi-generator</link>
+      <description><![CDATA[OpenAPI Generator 允许自动生成 API 客户端库（SDK 生成）、服务器存根、文档和配置OpenAPI 规范（v2、v3）语言：Java 星星：19851 分叉：6109]]></description>
+      <guid>https://github.com/OpenAPITools/openapi-generator</guid>
+      <pubDate>Fri, 26 Apr 2024 03:07:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Terraform-aws-模块/terraform-aws-eks</title>
       <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
       <description><![CDATA[用于创建 AWS Elastic Kubernetes (EKS) 资源的 Terraform 模块🇺🇦语言：HCL 星星：4164 叉子：3922]]></description>
       <guid>https://github.com/terraform-aws-modules/terraform-aws-eks</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAPITools/openapi-generator</title>
-      <link>https://github.com/OpenAPITools/openapi-generator</link>
-      <description><![CDATA[OpenAPI Generator 允许自动生成 API 客户端库（SDK 生成）、服务器存根、文档和配置OpenAPI 规范（v2、v3）语言：Java 星星：19850 分叉：6108]]></description>
-      <guid>https://github.com/OpenAPITools/openapi-generator</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿帕奇/座位隧道</title>
-      <link>https://github.com/apache/seatunnel</link>
-      <description><![CDATA[SeaTunnel是下一代超高性能、分布式、海量数据集成工具。 语言：Java 星星：7223 叉子：1537]]></description>
-      <guid>https://github.com/apache/seatunnel</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊米奇应用程序/伊米奇</title>
-      <link>https://github.com/immich-app/immich</link>
-      <description><![CDATA[高性能自托管照片和视频管理解决方案。 语言：TypeScript 星星：31623 分叉：1479]]></description>
-      <guid>https://github.com/immich-app/immich</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>panjf2000/gnet</title>
-      <link>https://github.com/panjf2000/gnet</link>
-      <description><![CDATA[🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。 Language: Go Stars: 8892 Forks: 977]]></description>
-      <guid>https://github.com/panjf2000/gnet</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:33 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 03:07:20 GMT</pubDate>
     </item>
     <item>
       <title>学术/很棒的数据科学</title>
       <link>https://github.com/academic/awesome-datascience</link>
-      <description><![CDATA[:memo：一个很棒的数据科学存储库，用于学习和应用于现实世界的问题。 语言：未知星星：23334 叉子：5717]]></description>
+      <description><![CDATA[：备忘录：一个很棒的数据科学存储库，用于学习和应用于现实世界的问题。 语言：未知星星：23357 叉子：5720]]></description>
       <guid>https://github.com/academic/awesome-datascience</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:33 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 03:07:19 GMT</pubDate>
     </item>
     <item>
       <title>唐内马丁/系统设计入门</title>
       <link>https://github.com/donnemartin/system-design-primer</link>
-      <description><![CDATA[了解如何设计大型系统。准备系统设计面试。包括 Anki 抽认卡。 语言：Python 星星：254335 叉子：43438]]></description>
+      <description><![CDATA[了解如何设计大型系统。准备系统设计面试。包括 Anki 抽认卡。 语言：Python 星星：254358 叉子：43445]]></description>
       <guid>https://github.com/donnemartin/system-design-primer</guid>
-      <pubDate>Fri, 26 Apr 2024 00:28:32 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 03:07:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊米奇应用程序/伊米奇</title>
+      <link>https://github.com/immich-app/immich</link>
+      <description><![CDATA[高性能自托管照片和视频管理解决方案。 语言：TypeScript 星星：31641 叉子：1480]]></description>
+      <guid>https://github.com/immich-app/immich</guid>
+      <pubDate>Fri, 26 Apr 2024 03:07:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>panjf2000/gnet</title>
+      <link>https://github.com/panjf2000/gnet</link>
+      <description><![CDATA[🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。 Language: Go Stars: 8913 Forks: 982]]></description>
+      <guid>https://github.com/panjf2000/gnet</guid>
+      <pubDate>Fri, 26 Apr 2024 03:07:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
