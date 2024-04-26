@@ -3,10 +3,10 @@
   <channel>
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
-    <description>产品搜寻今日流行 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 26 Apr 2024 15:08:04 GMT</lastBuildDate>
+    <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Fri, 26 Apr 2024 18:09:15 GMT</lastBuildDate>
     <item>
-      <title>gems-3 - 从您的所有知识中获取现成可用的答案</title>
+      <title>gems-3 - 从你所有的知识中获取现成的答案</title>
       <link>https://www.producthunt.com/posts/gems-3</link>
       <description><![CDATA[Gems 是您的个人人工智能知识助手，它根据您最喜欢的所有工具（如 Notion、Gmail 等）提供的信息回答您的所有问题 – 现在您可以与它聊天 💬   ]]></description>
       <guid>https://www.producthunt.com/posts/gems-3</guid>
@@ -22,7 +22,7 @@
     <item>
       <title>emojitell - 将文本翻译成有趣且富有表现力的表情符号组合。</title>
       <link>https://www.producthunt.com/posts/emojitell</link>
-      <description><![CDATA[Emojitell 🎨✨ 是一个迷人 🤩 和富有创意 🎨 在线平台 🌐，可用作表情符号 🤖 组合翻译器 ➡️🔤。并提供一个平台 🚀，您可以在其中探索 🔍、创建 ✍️ 和分享 ➡️ 您自己创建的表情符号组合 💌。     ]]></description>
+      <description><![CDATA[Emojitell 🎨✨是一个迷人的🤩和创意🎨在线平台🌐，充当表情符号🤖组合翻译器➡️🔤。并提供了一个平台🚀，您可以在其中探索🔍、创建✍️并分享➡️您自己创建的表情符号组合💌。     ]]></description>
       <guid>https://www.producthunt.com/posts/emojitell</guid>
       <pubDate>Fri, 26 Apr 2024 09:05:25 GMT</pubDate>
     </item>
@@ -60,13 +60,6 @@
       <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>情绪集 - 通过音乐增强情绪追踪</title>
-      <link>https://www.producthunt.com/posts/moodset</link>
-      <description><![CDATA[介绍您的心理健康伴侣！通过情绪状态评估的二维模型更深入地了解您的情绪。此外，还可以自动跟踪您的音乐聆听习惯，进一步了解您的情绪健康状况。      &lt;img src=&quot;https://ph-files.imgix.net/c35edfb0-c9f5-44d5-9359-7d6425369c2c.png?auto=format&amp;amp;适合=作物“/&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/moodset</guid>
-      <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>hyra - 适用于 Apple Vision Pro 的沉浸式 AI 阅读应用</title>
       <link>https://www.producthunt.com/posts/hyra</link>
       <description><![CDATA[体验阅读的下一个前沿领域：首款专为 Apple Vision Pro 设计的应用程序，由 AI 提供支持，根据您正在阅读的书籍创建完全身临其境的场景。   &lt;img src=&quot;https://ph-files.imgix.net/281bd243-23ec-40af-ad76-ce906cb6adfa.png?auto=format&amp;amp;适合=作物“/&gt;]]></description>
@@ -74,10 +67,10 @@
       <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>aliagents-ai - 创建情感丰富且富有表现力的链上人工智能代理并从中获利</title>
-      <link>https://www.producthunt.com/posts/aliagents-ai</link>
-      <description><![CDATA[ALIagents.ai 是一个基于 AI 协议的 dApp，它通过区块链技术实现代理 AI 的创建、定制和货币化民主化。用户可以创建自定义的生成式和代理式 AI 系统。   ]]></description>
-      <guid>https://www.producthunt.com/posts/aliagents-ai</guid>
+      <title>情绪集 - 通过音乐增强情绪追踪</title>
+      <link>https://www.producthunt.com/posts/moodset</link>
+      <description><![CDATA[介绍您的心理健康伴侣！通过情绪状态评估的二维模型更深入地了解您的情绪。此外，还可以自动跟踪您的音乐聆听习惯，进一步了解您的情绪健康状况。      &lt;img src=&quot;https://ph-files.imgix.net/c35edfb0-c9f5-44d5-9359-7d6425369c2c.png?auto=format&amp;amp;适合=作物“/&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/moodset</guid>
       <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -88,9 +81,16 @@
       <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
+      <title>aliagents-ai - 创建情感丰富且富有表现力的链上人工智能代理并从中获利</title>
+      <link>https://www.producthunt.com/posts/aliagents-ai</link>
+      <description><![CDATA[ALIagents.ai 是一个基于 AI 协议的 dApp，它通过区块链技术实现代理 AI 的创建、定制和货币化民主化。用户可以创建自定义的生成式和代理式 AI 系统。   ]]></description>
+      <guid>https://www.producthunt.com/posts/aliagents-ai</guid>
+      <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
       <title>deepwander - 人工智能促进内省，提高自我意识。</title>
       <link>https://www.producthunt.com/posts/deepwander</link>
-      <description><![CDATA[Deepwander 是一款人工智能工具，旨在促进内省和增强自我意识。它帮助用户探索他们的思想、情感和行为，支持他们根据自己的价值观和抱负进行自我发现之旅。     ]]></description>
+      <description><![CDATA[Deepwander 是一款人工智能驱动的工具，旨在促进内省和增强自我意识。它帮助用户探索他们的想法、情感和行为，支持他们的自我发现之旅，使其符合他们的价值观和愿望。    &lt; img src=&quot;https://ph-files.imgix.net/2d201e45-0581-4876-a026-c9efa6cf9205.png?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
       <guid>https://www.producthunt.com/posts/deepwander</guid>
       <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -115,14 +115,14 @@
     <item>
       <title>ai-clips-by-exemplary - 使用 AI 创建社交媒体剪辑，速度提高 12 倍</title>
       <link>https://www.producthunt.com/posts/ai-clips-by-exemplary</link>
-      <description><![CDATA[使用 Exemplary AI Clips 将长视频立即转换为短片。使用动态布局、模板、字幕、副标题、幕后花絮等创建引人入胜的剪辑。使用基于人工智能的文本编辑器像专业人士一样编辑视频。提高参与度并节省时间。  &lt; img src=&quot;https://ph-files.imgix.net/a1fbbb3f-00c2-4260-bf86-17a635458e3b.jpeg?auto=format&amp;fit=crop&quot; /&gt;      ]]></description>
+      <description><![CDATA[使用 Exemplary AI Clips 立即将长视频转换为短片。使用动态布局、模板、字幕、副标题、B-roll 等创建引人入胜的剪辑。使用 AI 驱动的基于文本的编辑器像专业人士一样编辑视频。提高参与度并节省时间。        ]]></description>
       <guid>https://www.producthunt.com/posts/ai-clips-by-exemplary</guid>
       <pubDate>Thu, 25 Apr 2024 07:08:10 GMT</pubDate>
     </item>
     <item>
       <title>明轮船 - 通过逼真的 AI 角色扮演完善您的销售宣传</title>
       <link>https://www.producthunt.com/posts/paddleboat</link>
-      <description><![CDATA[通过与现实的人工智能买家练习推销电话，提高你的销售说服力！从人工智能买家列表中进行选择，或者根据您的业务环境，根据可定制的个性、反对意见和说明创建您自己的买家。    ]]></description>
+      <description><![CDATA[通过与现实的人工智能买家练习推销电话，提高你的推销能力！从人工智能买家列表中进行选择，或者根据您的业务环境，根据可定制的个性、反对意见和说明创建您自己的买家。    ]]></description>
       <guid>https://www.producthunt.com/posts/paddleboat</guid>
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -143,7 +143,7 @@
     <item>
       <title>cap-3 - 轻松、即时的屏幕共享。</title>
       <link>https://www.producthunt.com/posts/cap-3</link>
-      <description><![CDATA[Cap 是 Loom 的开源替代品。轻巧、强大、令人惊叹。秒级录制和分享。  &lt; img src=&quot;https://ph-files.imgix.net/7d649426-da4f-4389-86d7-39136635c96e.png?auto=format&amp;fit=crop&quot; /&gt;   &lt;img src=&quot;https://ph-files.imgix.net/752ae5b8-4f12-4c6f-8275-dae6e56e4559.png?auto=format&amp;amp;fit =作物”/&gt;]]></description>
+      <description><![CDATA[Cap 是 Loom 的开源替代品。轻量、强大、令人惊叹。几秒钟内即可录制和分享。     ]]></description>
       <guid>https://www.producthunt.com/posts/cap-3</guid>
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -161,7 +161,7 @@
       <pubDate>Wed, 17 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>speedlegal - 您的个人 AI 合同谈判员</title>
+      <title>speedlegal - 您的个人人工智能合同谈判者</title>
       <link>https://www.producthunt.com/posts/speedlegal</link>
       <description><![CDATA[SpeedLegal 是一款人工智能工具，可帮助您更好地理解和协商合同。它可以快速识别潜在风险，并用简单的语言解释复杂的法律术语。
 SpeedLegal 还为您提供改进合同的个性化建议。     ]]></description>
