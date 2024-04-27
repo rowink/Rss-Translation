@@ -4,181 +4,181 @@
     <title>今日 GitHub 上的热门存储库 · GitHub</title>
     <link>https://github.com/trending/?since=daily&spoken_language_code=en</link>
     <description>今日 GitHub 上的热门存储库 · GitHub - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 27 Apr 2024 15:02:38 GMT</lastBuildDate>
-    <item>
-      <title>字节库/字节库</title>
-      <link>https://github.com/bytebase/bytebase</link>
-      <description><![CDATA[用于数据库 DevOps 的 GitLab/GitHub。面向开发人员、DBA 和平台工程团队的世界上最先进的数据库 DevOps 和 CI/CD。 语言：Go 星星：10041 叉子：650]]></description>
-      <guid>https://github.com/bytebase/bytebase</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>铁锈桌</title>
-      <link>https://github.com/rustdesk/rustdesk</link>
-      <description><![CDATA[开源远程桌面，TeamViewer 的替代品。 语言：Rust 星星：63025 叉子：6883]]></description>
-      <guid>https://github.com/rustdesk/rustdesk</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:37 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Apr 2024 18:07:22 GMT</lastBuildDate>
     <item>
       <title>库克人工智能/TTS</title>
       <link>https://github.com/coqui-ai/TTS</link>
-      <description><![CDATA[🐸💬 - 用于文本转语音的深度学习工具包，经过研究和生产的考验语言：Python 星星：29286 叉子：3433]]></description>
+      <description><![CDATA[🐸💬 - 经过研究考验的文本转语音深度学习工具包和生产语言：Python 星星：29287 叉子：3434]]></description>
       <guid>https://github.com/coqui-ai/TTS</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:37 GMT</pubDate>
+      <pubDate>Sat, 27 Apr 2024 18:07:22 GMT</pubDate>
     </item>
     <item>
-      <title>布卢姆-ai/布卢姆</title>
-      <link>https://github.com/cvat-ai/cvat</link>
-      <description><![CDATA[使用 CVAT 更好地进行注释，CVAT 是业界领先的机器学习数据引擎。任何规模的团队都使用并信任它，适用于任何规模的数据。语言：TypeScript Stars：11411 Forks：2833]]></description>
-      <guid>https://github.com/cvat-ai/cvat</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:36 GMT</pubDate>
+      <title>字节库/字节库</title>
+      <link>https://github.com/bytebase/bytebase</link>
+      <description><![CDATA[用于数据库 DevOps 的 GitLab/GitHub。面向开发人员、DBA 和平台工程团队的世界上最先进的数据库 DevOps 和 CI/CD。 语言：Go 星星：10045 叉子：650]]></description>
+      <guid>https://github.com/bytebase/bytebase</guid>
+      <pubDate>Sat, 27 Apr 2024 18:07:22 GMT</pubDate>
     </item>
     <item>
       <title>evcc-io/evcc</title>
       <link>https://github.com/evcc-io/evcc</link>
-      <description><![CDATA[Sonne tanken ☀️🚘 Language: Go Stars: 2559 货叉：489]]></description>
+      <description><![CDATA[Sonne tanken ☀️🚘 语言：Go Star s: 2560 货叉：489]]></description>
       <guid>https://github.com/evcc-io/evcc</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:36 GMT</pubDate>
+      <pubDate>Sat, 27 Apr 2024 18:07:21 GMT</pubDate>
     </item>
     <item>
       <title>PSF/黑色</title>
       <link>https://github.com/psf/black</link>
-      <description><![CDATA[不折不扣的 Python 代码格式化程序语言： Python 星星：37385 叉子：2371]]></description>
+      <description><![CDATA[不折不扣的 Python 代码格式化程序语言： Python 星星：37386 叉子：2371]]></description>
       <guid>https://github.com/psf/black</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:36 GMT</pubDate>
+      <pubDate>Sat, 27 Apr 2024 18:07:21 GMT</pubDate>
     </item>
     <item>
-      <title>tranek/GAS文档</title>
-      <link>https://github.com/tranek/GASDocumentation</link>
-      <description><![CDATA[通过一个简单的多人游戏示例项目了解虚幻引擎 5 的 GameplayAbilitySystem 插件。 语言：C++ 星星：3830 叉子：743]]></description>
-      <guid>https://github.com/tranek/GASDocumentation</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:35 GMT</pubDate>
+      <title>铁锈桌</title>
+      <link>https://github.com/rustdesk/rustdesk</link>
+      <description><![CDATA[开源远程桌面，TeamViewer 的替代品。 语言：Rust 星星：63030 叉子：6884]]></description>
+      <guid>https://github.com/rustdesk/rustdesk</guid>
+      <pubDate>Sat, 27 Apr 2024 18:07:21 GMT</pubDate>
     </item>
     <item>
       <title>纸MC/纸</title>
       <link>https://github.com/PaperMC/Paper</link>
-      <description><![CDATA[使用最广泛的高性能 Minecraft 服务器，旨在修复游戏玩法和机制的不一致问题语言：Java 星星：8834 叉子：2132]]></description>
+      <description><![CDATA[使用最广泛的高性能 Minecraft 服务器，旨在修复游戏玩法和机制的不一致问题语言：Java 星星：8833 叉子：2132]]></description>
       <guid>https://github.com/PaperMC/Paper</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:35 GMT</pubDate>
+      <pubDate>Sat, 27 Apr 2024 18:07:20 GMT</pubDate>
     </item>
     <item>
       <title>AleoHQ/snarkOS</title>
       <link>https://github.com/AleoHQ/snarkOS</link>
-      <description><![CDATA[ZK应用的去中心化操作系统语言：Rust 星星：3862 叉子：2493]]></description>
+      <description><![CDATA[ZK应用的去中心化操作系统语言：Rust 星星：3863 叉子：2493]]></description>
       <guid>https://github.com/AleoHQ/snarkOS</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:35 GMT</pubDate>
+      <pubDate>Sat, 27 Apr 2024 18:07:20 GMT</pubDate>
     </item>
     <item>
-      <title>BuilderIO/建造者</title>
-      <link>https://github.com/BuilderIO/builder</link>
-      <description><![CDATA[拖放 React、Vue、Svelte、Qwik 等无头 CMS更多 语言：TypeScript 星星：6671 分叉：828]]></description>
-      <guid>https://github.com/BuilderIO/builder</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>匕首/匕首</title>
-      <link>https://github.com/dagger/dagger</link>
-      <description><![CDATA[应用程序交付为可在任何地方运行的代码语言：Go Stars : 10250 货叉: 544]]></description>
-      <guid>https://github.com/dagger/dagger</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:34 GMT</pubDate>
+      <title>布卢姆-ai/布卢姆</title>
+      <link>https://github.com/cvat-ai/cvat</link>
+      <description><![CDATA[使用行业领先的机器学习数据引擎 CVAT 更好地进行注释。任何规模的团队都可以使用和信任任何规模的数据。 语言：TypeScript 星星：11411 分叉：2833]]></description>
+      <guid>https://github.com/cvat-ai/cvat</guid>
+      <pubDate>Sat, 27 Apr 2024 18:07:20 GMT</pubDate>
     </item>
     <item>
       <title>SimplifyJobs/2024 年夏季-实习</title>
       <link>https://github.com/SimplifyJobs/Summer2024-Internships</link>
-      <description><![CDATA[2024年夏季技术实习合集！ 语言：未知星星：29856 叉子：2547]]></description>
+      <description><![CDATA[2024年夏季技术实习合集！ 语言：未知星星：29858 叉子：2547]]></description>
       <guid>https://github.com/SimplifyJobs/Summer2024-Internships</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:34 GMT</pubDate>
+      <pubDate>Sat, 27 Apr 2024 18:07:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>tranek/GAS文档</title>
+      <link>https://github.com/tranek/GASDocumentation</link>
+      <description><![CDATA[我通过一个简单的多人游戏示例项目对虚幻引擎 5 的 GameplayAbilitySystem 插件的理解。 语言：C++ 星星：3831 叉子：743]]></description>
+      <guid>https://github.com/tranek/GASDocumentation</guid>
+      <pubDate>Sat, 27 Apr 2024 18:07:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>公钥/rxdb</title>
+      <link>https://github.com/pubkey/rxdb</link>
+      <description><![CDATA[用于 JavaScript 应用程序的快速、本地优先、反应式数据库 https:// rxdb.info/ 语言：TypeScript 星星：20651 分叉：1007]]></description>
+      <guid>https://github.com/pubkey/rxdb</guid>
+      <pubDate>Sat, 27 Apr 2024 18:07:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>BuilderIO/构建器</title>
+      <link>https://github.com/BuilderIO/builder</link>
+      <description><![CDATA[拖放 React、Vue、Svelte、Qwik 等无头 CMS更多 语言：TypeScript 星星：6675 叉子：828]]></description>
+      <guid>https://github.com/BuilderIO/builder</guid>
+      <pubDate>Sat, 27 Apr 2024 18:07:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>匕首/匕首</title>
+      <link>https://github.com/dagger/dagger</link>
+      <description><![CDATA[以代码形式交付可在任何地方运行的应用程序语言：Go Stars：10248 Forks：544]]></description>
+      <guid>https://github.com/dagger/dagger</guid>
+      <pubDate>Sat, 27 Apr 2024 18:07:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>南乡总部/南乡</title>
+      <link>https://github.com/NangoHQ/nango</link>
+      <description><![CDATA[适用于所有集成的单个 API。 语言：TypeScript 星星：4149 分叉：362]]></description>
+      <guid>https://github.com/NangoHQ/nango</guid>
+      <pubDate>Sat, 27 Apr 2024 18:07:17 GMT</pubDate>
     </item>
     <item>
       <title>多尼/路径过滤器</title>
       <link>https://github.com/dorny/paths-filter</link>
       <description><![CDATA[根据 PR、功能分支或推送提交修改的文件有条件地运行操作语言：TypeScript 星星：1837 叉子：208]]></description>
       <guid>https://github.com/dorny/paths-filter</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:33 GMT</pubDate>
+      <pubDate>Sat, 27 Apr 2024 18:07:17 GMT</pubDate>
     </item>
     <item>
       <title>鲸鱼-io/etcher</title>
       <link>https://github.com/balena-io/etcher</link>
-      <description><![CDATA[将操作系统映像闪存到 SD 卡和USB 驱动器，安全、轻松。 语言：TypeScript 星星：27674 分叉：1987]]></description>
+      <description><![CDATA[将操作系统映像闪存到 SD 卡和USB 驱动器，安全、轻松。 语言：TypeScript 星星：27675 分叉：1987]]></description>
       <guid>https://github.com/balena-io/etcher</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>公钥/rxdb</title>
-      <link>https://github.com/pubkey/rxdb</link>
-      <description><![CDATA[用于 JavaScript 应用程序的快速、本地优先、反应式数据库 https:// rxdb.info/ 语言：TypeScript 星星：20649 分叉：1007]]></description>
-      <guid>https://github.com/pubkey/rxdb</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>InterviewReady/系统设计资源</title>
-      <link>https://github.com/InterviewReady/system-design-resources</link>
-      <description><![CDATA[这些是互联网上系统设计的最佳资源 语言：未知星星：14340 叉子：1723]]></description>
-      <guid>https://github.com/InterviewReady/system-design-resources</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>南乡总部/南乡</title>
-      <link>https://github.com/NangoHQ/nango</link>
-      <description><![CDATA[所有集成均使用单一 API。语言：TypeScriptStars：4146Forks：362]]></description>
-      <guid>https://github.com/NangoHQ/nango</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>bluenviron/mediamtx</title>
-      <link>https://github.com/bluenviron/mediamtx</link>
-      <description><![CDATA[即用型 SRT / WebRTC / RTSP / RTMP / LL-HLS 媒体服务器和媒体允许的代理读取、发布、代理、记录和播放视频和音频流。 语言：Go 星星：9997 叉子：1316]]></description>
-      <guid>https://github.com/bluenviron/mediamtx</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:31 GMT</pubDate>
+      <pubDate>Sat, 27 Apr 2024 18:07:17 GMT</pubDate>
     </item>
     <item>
       <title>阿帕奇/座位隧道</title>
       <link>https://github.com/apache/seatunnel</link>
-      <description><![CDATA[SeaTunnel是下一代超高性能、分布式、海量数据集成工具。 语言：Java 星星：7342 叉子：1581]]></description>
+      <description><![CDATA[SeaTunnel是下一代超高性能、分布式、海量数据集成工具。 语言：Java 星星：7341 叉子：1581]]></description>
       <guid>https://github.com/apache/seatunnel</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:31 GMT</pubDate>
+      <pubDate>Sat, 27 Apr 2024 18:07:16 GMT</pubDate>
     </item>
     <item>
       <title>karanpratapsingh/系统设计</title>
       <link>https://github.com/karanpratapsingh/system-design</link>
-      <description><![CDATA[了解如何大规模设计系统并为系统设计面试做好准备语言：未知星星：28870 叉子：2864]]></description>
+      <description><![CDATA[了解如何大规模设计系统并为系统设计面试做好准备语言：未知星星：28871 叉子：2864]]></description>
       <guid>https://github.com/karanpratapsingh/system-design</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:31 GMT</pubDate>
+      <pubDate>Sat, 27 Apr 2024 18:07:16 GMT</pubDate>
     </item>
     <item>
-      <title>panjf2000/gnet</title>
-      <link>https://github.com/panjf2000/gnet</link>
-      <description><![CDATA[🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。 Language: Go Stars: 9039 Forks: 997]]></description>
-      <guid>https://github.com/panjf2000/gnet</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:30 GMT</pubDate>
+      <title>InterviewReady/系统设计资源</title>
+      <link>https://github.com/InterviewReady/system-design-resources</link>
+      <description><![CDATA[这些是互联网上系统设计的最佳资源 语言：未知星星：14345 叉子：1724]]></description>
+      <guid>https://github.com/InterviewReady/system-design-resources</guid>
+      <pubDate>Sat, 27 Apr 2024 18:07:16 GMT</pubDate>
     </item>
     <item>
       <title>下一个云/服务器</title>
       <link>https://github.com/nextcloud/server</link>
-      <description><![CDATA[☁️ Nextcloud 服务器，所有数据的安全之家 语言：PHP 星星：25573 叉子：3839]]></description>
+      <description><![CDATA[☁️ Nextcloud 服务器，所有数据的安全之家 语言：PHP 星星：25572 叉子：3839]]></description>
       <guid>https://github.com/nextcloud/server</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:30 GMT</pubDate>
+      <pubDate>Sat, 27 Apr 2024 18:07:15 GMT</pubDate>
     </item>
     <item>
       <title>帕万奥斯曼/ChatGPT</title>
       <link>https://github.com/PawanOsman/ChatGPT</link>
-      <description><![CDATA[OpenAI API 免费反向代理语言：TypeScript 星星：4392 货叉：845]]></description>
+      <description><![CDATA[OpenAI API 免费反向代理语言：TypeScript &lt; br /&gt;星级：4398 货叉：846]]></description>
       <guid>https://github.com/PawanOsman/ChatGPT</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:30 GMT</pubDate>
+      <pubDate>Sat, 27 Apr 2024 18:07:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>bluenviron/mediamtx</title>
+      <link>https://github.com/bluenviron/mediamtx</link>
+      <description><![CDATA[  - MP / LL-HLS媒体服务器和媒体代理读取、发布、代理、记录和播放视频和音频流。 语言：Go 星星：9994 叉子：1316]]></description>
+      <guid>https://github.com/bluenviron/mediamtx</guid>
+      <pubDate>Sat, 27 Apr 2024 18:07:15 GMT</pubDate>
     </item>
     <item>
       <title>学术/很棒的数据科学</title>
       <link>https://github.com/academic/awesome-datascience</link>
-      <description><![CDATA[：备忘录：一个很棒的数据科学存储库，用于学习和应用解决现实世界问题。 语言：未知星星：23573 叉子：5741]]></description>
+      <description><![CDATA[：备忘录：一个很棒的数据科学存储库，用于学习和应用解决现实世界问题。 语言：未知星星：23590 叉子：5740]]></description>
       <guid>https://github.com/academic/awesome-datascience</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:29 GMT</pubDate>
+      <pubDate>Sat, 27 Apr 2024 18:07:14 GMT</pubDate>
     </item>
     <item>
-      <title>donnemartin/系统设计入门</title>
+      <title>唐内马丁/系统设计入门</title>
       <link>https://github.com/donnemartin/system-design-primer</link>
-      <description><![CDATA[了解如何设计大型系统。准备系统设计面试。包括 Anki 抽认卡。 语言：Python 星星：254694 叉子：43502]]></description>
+      <description><![CDATA[学习如何设计大型系统。为系统设计面试做准备。包括 Anki 抽认卡。语言：Python Stars：254715 Forks：43508]]></description>
       <guid>https://github.com/donnemartin/system-design-primer</guid>
-      <pubDate>Sat, 27 Apr 2024 15:02:29 GMT</pubDate>
+      <pubDate>Sat, 27 Apr 2024 18:07:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>panjf2000/gnet</title>
+      <link>https://github.com/panjf2000/gnet</link>
+      <description><![CDATA[🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。 Language: Go Stars: 9043 Forks: 997]]></description>
+      <guid>https://github.com/panjf2000/gnet</guid>
+      <pubDate>Sat, 27 Apr 2024 18:07:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
