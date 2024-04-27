@@ -3,8 +3,8 @@
   <channel>
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
-    <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 27 Apr 2024 18:08:00 GMT</lastBuildDate>
+    <description>Product Hunt 今日热门 - 由 RSSHub 精心制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Sat, 27 Apr 2024 21:03:15 GMT</lastBuildDate>
     <item>
       <title>dashcam - 面向开发人员的屏幕录像机</title>
       <link>https://www.producthunt.com/posts/dashcam</link>
@@ -29,7 +29,7 @@
     <item>
       <title>发票生成器-9bce3e1b-dab2-4a7a-ba7e-e315be868119 - 使用免费发票生成器更快地获得付款</title>
       <link>https://www.producthunt.com/posts/invoice-generator-9bce3e1b-dab2-4a7a-ba7e-e315be868119</link>
-      <description><![CDATA[该项目为自由职业者、小型企业和承包商提供了一个用户友好的发票生成工具。快速轻松地创建专业的定制发票，确保您每次都能按时收到付款。   ]]></description>
+      <description><![CDATA[该项目为自由职业者、小型企业和承包商提供了用户友好的发票生成工具。快速轻松地创建专业、定制的发票，以确保您每次都能按时收到付款。   ]]></description>
       <guid>https://www.producthunt.com/posts/invoice-generator-9bce3e1b-dab2-4a7a-ba7e-e315be868119</guid>
       <pubDate>Sat, 27 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -66,8 +66,15 @@
     <item>
       <title>vizbl - 与朋友分享您的 YouTube 视频活动</title>
       <link>https://www.producthunt.com/posts/vizbl</link>
-      <description><![CDATA[有没有想过您的朋友在 YouTube 上观看什么？好吧，ViZBL 扩展允许您分享！    ]]></description>
+      <description><![CDATA[有没有想过你的朋友在 YouTube 上观看了什么？好吧，ViZBL 扩展程序可以让你分享这些内容！    ]]></description>
       <guid>https://www.producthunt.com/posts/vizbl</guid>
+      <pubDate>Sat, 27 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assistena - 实现学术卓越的捷径</title>
+      <link>https://www.producthunt.com/posts/assistena</link>
+      <description><![CDATA[人工智能生成的抽认卡、单词解释和摘要以及组织工具。这些资源优化了学习时间，有助于理解和记忆。 Assistena 简化学习，帮助学生在学业上取得优异成绩。   ]]></description>
+      <guid>https://www.producthunt.com/posts/assistena</guid>
       <pubDate>Sat, 27 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -79,18 +86,11 @@
       <pubDate>Sat, 27 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>Assistena - 实现学术卓越的捷径</title>
-      <link>https://www.producthunt.com/posts/assistena</link>
-      <description><![CDATA[人工智能生成的抽认卡、单词解释和摘要以及组织工具。这些资源优化了学习时间，有助于理解和记忆。 Assistena 简化学习，帮助学生在学业上取得优异成绩。   ]]></description>
-      <guid>https://www.producthunt.com/posts/assistena</guid>
-      <pubDate>Sat, 27 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>acryl - 使用 AI 从纸质书创建有声读物</title>
       <link>https://www.producthunt.com/posts/acryl</link>
-      <description><![CDATA[介绍 Acryl - 用于从您已有的纸质书创建有声读物的移动应用程序！📚🎧
+      <description><![CDATA[隆重推出 Acryl - 移动应用程序，用于从您已有的纸质书创建有声读物！ 📚🎧
 
-这是一个 100% 用 Acryl 制作的有声读物示例：
+以下是 100% 用 Acryl 制作的有声读物示例：
 https://www.youtube.com/shorts/rkxRu4HG0PY     ]]></description>
       <guid>https://www.producthunt.com/posts/acryl</guid>
       <pubDate>Sat, 27 Apr 2024 07:01:00 GMT</pubDate>
@@ -129,9 +129,9 @@ https://www.youtube.com/shorts/rkxRu4HG0PY     ]]></description>
     <item>
       <title>resume-photo-ai - 适合所有人的专业头像</title>
       <link>https://www.producthunt.com/posts/resume-photo-ai</link>
-      <description><![CDATA[获得专业的头像是成功职业生涯的第一步。
-但获得专业的头像可能会很昂贵、耗时，有时甚至会带来压力。
-让我们帮助您。    ]]></description>
+      <description><![CDATA[拍摄一张专业的头像照片是事业成功的第一步。
+但拍摄一张专业的头像照片可能很昂贵、耗时，有时甚至会让人感到压力很大。
+让我们来帮助您。    ]]></description>
       <guid>https://www.producthunt.com/posts/resume-photo-ai</guid>
       <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
     </item>
