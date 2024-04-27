@@ -3,8 +3,8 @@
   <channel>
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
-    <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 26 Apr 2024 21:03:43 GMT</lastBuildDate>
+    <description>产品搜寻今日流行 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Sat, 27 Apr 2024 00:29:07 GMT</lastBuildDate>
     <item>
       <title>gems-3 - 从您的所有知识中获取现成可用的答案</title>
       <link>https://www.producthunt.com/posts/gems-3</link>
@@ -15,7 +15,7 @@
     <item>
       <title>高亮显示-fa915501-9da2-49ca-8d10-e6391f1c7c4c - 重新思考您使用 Kindle 高亮显示的方式</title>
       <link>https://www.producthunt.com/posts/highlights-fa915501-9da2-49ca-8d10-e6391f1c7c4c</link>
-      <description><![CDATA[使用 Highlights App 最大限度地利用 Kindle 的亮点：同步、专注阅读模式、搜索、每日评论、提醒、连续记录、目标、笔记、分享、导出等等！     ]]></description>
+      <description><![CDATA[使用“亮点应用程序”最大化 Kindle 亮点：同步、焦点阅读模式、搜索、每日回顾、提醒、连续记录、目标、笔记、共享、导出等等！     ]]></description>
       <guid>https://www.producthunt.com/posts/highlights-fa915501-9da2-49ca-8d10-e6391f1c7c4c</guid>
       <pubDate>Fri, 26 Apr 2024 09:10:05 GMT</pubDate>
     </item>
@@ -39,7 +39,7 @@
       <description><![CDATA[Langfuse 是开源法学硕士工程平台。
 
 它提供可观察性、跟踪、评估、提示管理、游乐场和指标来调试和改进 LLM 应用程序。
-朗福斯已开放。它适用于任何模型、框架，您可以导出所有数据。   ]]></description>
+朗福斯已开放。它适用于任何模型、框架，并且您可以导出所有数据。   ]]></description>
       <guid>https://www.producthunt.com/posts/langfuse-2-0</guid>
       <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -83,14 +83,14 @@
     <item>
       <title>Zombie-io-potato-shooting - 超级有趣的射击角色扮演游戏</title>
       <link>https://www.producthunt.com/posts/zombie-io-potato-shooting</link>
-      <description><![CDATA[沉浸在《Zombie.io》这款令人愉快的休闲射击手机游戏中，您将扮演可爱的土豆主角。       ]]></description>
+      <description><![CDATA[沉浸在 Zombie.io 这款令人愉快的休闲射击手机游戏中，您将扮演可爱的土豆主角。       ]]></description>
       <guid>https://www.producthunt.com/posts/zombie-io-potato-shooting</guid>
       <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
       <title>aliagents-ai - 创建情感丰富且富有表现力的链上人工智能代理并从中获利</title>
       <link>https://www.producthunt.com/posts/aliagents-ai</link>
-      <description><![CDATA[ALIagents.ai 是一个基于 AI 协议的 dApp，它通过区块链技术实现代理 AI 的创建、定制和货币化民主化。用户可以创建自定义的生成式和代理式 AI 系统。   ]]></description>
+      <description><![CDATA[ALIagents.ai 是 AI 协议上的 dApp，它通过区块链技术使代理 AI 的创建、定制和货币化民主化。用户可以创建自定义的生成和代理 AI 系统。   ]]></description>
       <guid>https://www.producthunt.com/posts/aliagents-ai</guid>
       <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -120,7 +120,7 @@
       <pubDate>Thu, 25 Apr 2024 08:32:52 GMT</pubDate>
     </item>
     <item>
-      <title>ai-clips-by-exemplary - 使用 AI 创建社交媒体剪辑，速度提高 12 倍</title>
+      <title>ai-clips-by-exemplary - 使用 AI 以 12 倍速度创建社交媒体剪辑</title>
       <link>https://www.producthunt.com/posts/ai-clips-by-exemplary</link>
       <description><![CDATA[使用 Exemplary AI Clips 将长视频立即转换为短片。使用动态布局、模板、字幕、副标题、幕后花絮等创建引人入胜的剪辑。使用基于人工智能的文本编辑器像专业人士一样编辑视频。提高参与度并节省时间。  &lt; img src=&quot;https://ph-files.imgix.net/a1fbbb3f-00c2-4260-bf86-17a635458e3b.jpeg?auto=format&amp;fit=crop&quot; /&gt;      ]]></description>
       <guid>https://www.producthunt.com/posts/ai-clips-by-exemplary</guid>
@@ -129,7 +129,7 @@
     <item>
       <title>明轮船 - 通过逼真的 AI 角色扮演完善您的销售宣传</title>
       <link>https://www.producthunt.com/posts/paddleboat</link>
-      <description><![CDATA[通过与现实的人工智能买家练习推销电话，提高你的推销能力！从人工智能买家列表中进行选择，或者根据您的业务环境，根据可定制的个性、反对意见和说明创建您自己的买家。    ]]></description>
+      <description><![CDATA[通过与现实的人工智能买家练习推销电话，提高你的销售说服力！从人工智能买家列表中进行选择，或者根据您的业务环境，根据可定制的个性、反对意见和说明创建您自己的买家。    ]]></description>
       <guid>https://www.producthunt.com/posts/paddleboat</guid>
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -168,10 +168,10 @@
       <pubDate>Wed, 17 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>speedlegal - 您的个人 AI 合同谈判员</title>
+      <title>speedlegal - 您的个人人工智能合同谈判者</title>
       <link>https://www.producthunt.com/posts/speedlegal</link>
       <description><![CDATA[SpeedLegal 是一款人工智能工具，可帮助您更好地理解和协商合同。它可以快速识别潜在风险，并用简单的语言解释复杂的法律术语。
-SpeedLegal 还会为您提供个性化建议，以改进您的合同。     ]]></description>
+SpeedLegal 还为您提供改进合同的个性化建议。     ]]></description>
       <guid>https://www.producthunt.com/posts/speedlegal</guid>
       <pubDate>Wed, 17 Apr 2024 07:01:00 GMT</pubDate>
     </item>
