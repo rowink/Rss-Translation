@@ -3,8 +3,8 @@
   <channel>
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
-    <description>Product Hunt 今日热门 - 由 RSSHub 精心制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 27 Apr 2024 21:03:15 GMT</lastBuildDate>
+    <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Sun, 28 Apr 2024 00:32:49 GMT</lastBuildDate>
     <item>
       <title>dashcam - 面向开发人员的屏幕录像机</title>
       <link>https://www.producthunt.com/posts/dashcam</link>
@@ -29,12 +29,12 @@
     <item>
       <title>发票生成器-9bce3e1b-dab2-4a7a-ba7e-e315be868119 - 使用免费发票生成器更快地获得付款</title>
       <link>https://www.producthunt.com/posts/invoice-generator-9bce3e1b-dab2-4a7a-ba7e-e315be868119</link>
-      <description><![CDATA[该项目为自由职业者、小型企业和承包商提供了用户友好的发票生成工具。快速轻松地创建专业、定制的发票，以确保您每次都能按时收到付款。   ]]></description>
+      <description><![CDATA[该项目为自由职业者、小型企业和承包商提供了一个用户友好的发票生成工具。快速轻松地创建专业的定制发票，确保您每次都能按时收到付款。   ]]></description>
       <guid>https://www.producthunt.com/posts/invoice-generator-9bce3e1b-dab2-4a7a-ba7e-e315be868119</guid>
       <pubDate>Sat, 27 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>animated-statistics-maker - 通过视觉上吸引人的统计数据吸引潜在客户的注意力</title>
+      <title>Animation-Statistics-Maker - 通过视觉上吸引人的统计数据吸引潜在客户的注意力</title>
       <link>https://www.producthunt.com/posts/animated-statistics-maker</link>
       <description><![CDATA[动画统计制作工具是一款 100% 免费的工具，可生成精美的动画统计数据，您可以在销售宣传和客户引导中分享这些统计数据，以保持观众的参与度
 
@@ -66,15 +66,8 @@
     <item>
       <title>vizbl - 与朋友分享您的 YouTube 视频活动</title>
       <link>https://www.producthunt.com/posts/vizbl</link>
-      <description><![CDATA[有没有想过你的朋友在 YouTube 上观看了什么？好吧，ViZBL 扩展程序可以让你分享这些内容！    ]]></description>
+      <description><![CDATA[有没有想过您的朋友在 YouTube 上观看什么？好吧，ViZBL 扩展允许您分享！    ]]></description>
       <guid>https://www.producthunt.com/posts/vizbl</guid>
-      <pubDate>Sat, 27 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assistena - 实现学术卓越的捷径</title>
-      <link>https://www.producthunt.com/posts/assistena</link>
-      <description><![CDATA[人工智能生成的抽认卡、单词解释和摘要以及组织工具。这些资源优化了学习时间，有助于理解和记忆。 Assistena 简化学习，帮助学生在学业上取得优异成绩。   ]]></description>
-      <guid>https://www.producthunt.com/posts/assistena</guid>
       <pubDate>Sat, 27 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -83,6 +76,13 @@
       <description><![CDATA[数字名片是传统纸质名片的电子替代品。他们提供了一种动态和互动的方式来共享联系信息，
 优惠券代码 40% 折扣：SUPPRMEDIA2024   ]]></description>
       <guid>https://www.producthunt.com/posts/digital-business-cards-3</guid>
+      <pubDate>Sat, 27 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assistena - 通往学术卓越的捷径</title>
+      <link>https://www.producthunt.com/posts/assistena</link>
+      <description><![CDATA[人工智能生成的抽认卡、单词解释和摘要以及组织工具。这些资源优化了学习时间，有助于理解和记忆。 Assistena 简化学习，帮助学生在学业上取得优异成绩。   ]]></description>
+      <guid>https://www.producthunt.com/posts/assistena</guid>
       <pubDate>Sat, 27 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -108,7 +108,7 @@ https://www.youtube.com/shorts/rkxRu4HG0PY     ]]></description>
       <description><![CDATA[Langfuse 是开源法学硕士工程平台。
 
 它提供可观察性、跟踪、评估、提示管理、游乐场和指标来调试和改进 LLM 应用程序。
-朗福斯已开放。它适用于任何模型、框架，并且您可以导出所有数据。   ]]></description>
+朗福斯已开放。它适用于任何模型、框架，您可以导出所有数据。   ]]></description>
       <guid>https://www.producthunt.com/posts/langfuse-2-0</guid>
       <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -129,16 +129,16 @@ https://www.youtube.com/shorts/rkxRu4HG0PY     ]]></description>
     <item>
       <title>resume-photo-ai - 适合所有人的专业头像</title>
       <link>https://www.producthunt.com/posts/resume-photo-ai</link>
-      <description><![CDATA[拍摄一张专业的头像照片是事业成功的第一步。
-但拍摄一张专业的头像照片可能很昂贵、耗时，有时甚至会让人感到压力很大。
-让我们来帮助您。    ]]></description>
+      <description><![CDATA[获得专业的头像是成功职业生涯的第一步。
+但获得专业的头像可能会很昂贵、耗时，有时甚至会带来压力。
+让我们帮助您。    ]]></description>
       <guid>https://www.producthunt.com/posts/resume-photo-ai</guid>
       <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
       <title>hyra - 适用于 Apple Vision Pro 的沉浸式 AI 阅读应用</title>
       <link>https://www.producthunt.com/posts/hyra</link>
-      <description><![CDATA[体验阅读的下一个前沿领域：首款专为 Apple Vision Pro 设计的应用程序，在 AI 的支持下，根据您正在阅读的书籍创建完全身临其境的场景。   &lt;img src=&quot;https://ph-files.imgix.net/281bd243-23ec-40af-ad76-ce906cb6adfa.png?auto=format&amp;amp;适合=作物“/&gt;]]></description>
+      <description><![CDATA[体验阅读的下一个前沿领域：首款专为 Apple Vision Pro 设计的应用程序，由 AI 提供支持，根据您正在阅读的书籍创建完全身临其境的场景。   &lt;img src=&quot;https://ph-files.imgix.net/281bd243-23ec-40af-ad76-ce906cb6adfa.png?auto=format&amp;amp;适合=作物“/&gt;]]></description>
       <guid>https://www.producthunt.com/posts/hyra</guid>
       <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -177,7 +177,7 @@ SpeedLegal 还为您提供改进合同的个性化建议。     ]]></description
       <pubDate>Tue, 16 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2 - Postgres 开发者平台现已全面推出</title>
+      <title>supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2 - Postgres 开发者平台现已普遍可用</title>
       <link>https://www.producthunt.com/posts/supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2</link>
       <description><![CDATA[经过 4 年测试期后，Supabase 现已全面上市。
 
