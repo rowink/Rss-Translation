@@ -3,8 +3,8 @@
   <channel>
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
-    <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 28 Apr 2024 00:32:49 GMT</lastBuildDate>
+    <description>Product Hunt 今日热门 - 由 RSSHub 精心制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Sun, 28 Apr 2024 06:08:38 GMT</lastBuildDate>
     <item>
       <title>dashcam - 面向开发人员的屏幕录像机</title>
       <link>https://www.producthunt.com/posts/dashcam</link>
@@ -13,7 +13,7 @@
       <pubDate>Sat, 27 Apr 2024 07:32:38 GMT</pubDate>
     </item>
     <item>
-      <title>警惕 - 适用于笔记本电脑的 Tesla Sentry 模式</title>
+      <title>watchful-eye - 适用于笔记本电脑的特斯拉哨兵模式</title>
       <link>https://www.producthunt.com/posts/watchful-eye</link>
       <description><![CDATA[使用 Watchful Eye 保护您的笔记本电脑，该软件可以警惕地监控您的设备是否存在未经授权的访问和潜在威胁。无论您身在何处，都保持警惕并受到保护，确保您的数据保持安全和私密。   ]]></description>
       <guid>https://www.producthunt.com/posts/watchful-eye</guid>
@@ -22,7 +22,7 @@
     <item>
       <title>clonemytrips - 受影响者启发的旅行计划应用程序</title>
       <link>https://www.producthunt.com/posts/clonemytrips</link>
-      <description><![CDATA[CloneMyTrips 是一个平台，允许旅行影响者创建旅行行程并与其关注者分享（然后他们可以通过唯一的链接预订相同的旅行），并在每次预订时赚取影响者佣金。     &lt; img src=&quot;https://ph-files.imgix.net/1029396d-ebb8-42bd-b950-927a6572cee1.png?auto=format&amp;fit=crop&quot; /&gt;      ]]></description>
+      <description><![CDATA[CloneMyTrips 是一个平台，允许旅行影响者创建和分享旅行行程与其粉丝（然后粉丝可以通过唯一链接预订相同的行程）并在每次预订中赚取影响者的佣金。           ]]></description>
       <guid>https://www.producthunt.com/posts/clonemytrips</guid>
       <pubDate>Sat, 27 Apr 2024 07:12:10 GMT</pubDate>
     </item>
@@ -34,7 +34,7 @@
       <pubDate>Sat, 27 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>Animation-Statistics-Maker - 通过视觉上吸引人的统计数据吸引潜在客户的注意力</title>
+      <title>animated-statistics-maker - 通过视觉上吸引人的统计数据吸引潜在客户的注意力</title>
       <link>https://www.producthunt.com/posts/animated-statistics-maker</link>
       <description><![CDATA[动画统计制作工具是一款 100% 免费的工具，可生成精美的动画统计数据，您可以在销售宣传和客户引导中分享这些统计数据，以保持观众的参与度
 
@@ -59,7 +59,7 @@
     <item>
       <title>eatlicious - 简化您的进餐流程 - 从创意到餐桌</title>
       <link>https://www.producthunt.com/posts/eatlicious</link>
-      <description><![CDATA[轻松掌控用餐时间！ Eatlicious 可帮助您决定要烹饪什么，为您创建购物清单，并通过清晰、易于遵循的食谱指导您获得美味的结果。使用 Eatlicious 简化您的膳食。  &lt; img src=&quot;https://ph-files.imgix.net/7b3a6508-624a-4523-ac11-0f11a6dc93da.png?auto=format&amp;fit=crop&quot; /&gt;  ]]></description>
+      <description><![CDATA[轻松掌控用餐时间！ Eatlicious 可帮助您决定烹饪什么，为您创建购物清单，并通过清晰、易于遵循的食谱指导您获得美味的结果。使用 Eatlicious 简化您的膳食。  &lt; img src=&quot;https://ph-files.imgix.net/7b3a6508-624a-4523-ac11-0f11a6dc93da.png?auto=format&amp;fit=crop&quot; /&gt;  ]]></description>
       <guid>https://www.producthunt.com/posts/eatlicious</guid>
       <pubDate>Sat, 27 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -79,13 +79,6 @@
       <pubDate>Sat, 27 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>Assistena - 通往学术卓越的捷径</title>
-      <link>https://www.producthunt.com/posts/assistena</link>
-      <description><![CDATA[人工智能生成的抽认卡、单词解释和摘要以及组织工具。这些资源优化了学习时间，有助于理解和记忆。 Assistena 简化学习，帮助学生在学业上取得优异成绩。   ]]></description>
-      <guid>https://www.producthunt.com/posts/assistena</guid>
-      <pubDate>Sat, 27 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>acryl - 使用 AI 从纸质书创建有声读物</title>
       <link>https://www.producthunt.com/posts/acryl</link>
       <description><![CDATA[隆重推出 Acryl - 移动应用程序，用于从您已有的纸质书创建有声读物！ 📚🎧
@@ -93,6 +86,13 @@
 以下是 100% 用 Acryl 制作的有声读物示例：
 https://www.youtube.com/shorts/rkxRu4HG0PY     ]]></description>
       <guid>https://www.producthunt.com/posts/acryl</guid>
+      <pubDate>Sat, 27 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assistena - 实现学术卓越的捷径</title>
+      <link>https://www.producthunt.com/posts/assistena</link>
+      <description><![CDATA[人工智能生成的抽认卡、单词解释和摘要以及组织工具。这些资源优化了学习时间，有助于理解和记忆。 Assistena 简化学习，帮助学生在学业上取得优异成绩。   ]]></description>
+      <guid>https://www.producthunt.com/posts/assistena</guid>
       <pubDate>Sat, 27 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -105,10 +105,10 @@ https://www.youtube.com/shorts/rkxRu4HG0PY     ]]></description>
     <item>
       <title>langfuse-2-0 - 开源 LLM 工程平台</title>
       <link>https://www.producthunt.com/posts/langfuse-2-0</link>
-      <description><![CDATA[Langfuse 是开源法学硕士工程平台。
+      <description><![CDATA[Langfuse 是开源的 LLM 工程平台。
 
-它提供可观察性、跟踪、评估、提示管理、游乐场和指标来调试和改进 LLM 应用程序。
-朗福斯已开放。它适用于任何模型、框架，您可以导出所有数据。   ]]></description>
+它提供可观察性、跟踪、评估、提示管理、操场和指标，用于调试和改进 LLM 应用程序。
+Langfuse 是开放的。它适用于任何模型、框架，您可以导出所有数据。   ]]></description>
       <guid>https://www.producthunt.com/posts/langfuse-2-0</guid>
       <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -122,7 +122,7 @@ https://www.youtube.com/shorts/rkxRu4HG0PY     ]]></description>
     <item>
       <title>Meeting-muse-by-beams - 识别无效的会议并使其变得有意义</title>
       <link>https://www.producthunt.com/posts/meeting-muse-by-beams</link>
-      <description><![CDATA[您是否也厌倦了不必要的会议？识别非增值会议并接收如何优化它们的建议。让我们确保您的团队将宝贵的时间花在最重要的地方。   ]]></description>
+      <description><![CDATA[您是否也厌倦了不必要的会议？识别没有增值价值的会议并获取优化建议。让我们确保您的团队将宝贵的时间花在最重要的地方。   ]]></description>
       <guid>https://www.producthunt.com/posts/meeting-muse-by-beams</guid>
       <pubDate>Fri, 26 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -177,7 +177,7 @@ SpeedLegal 还为您提供改进合同的个性化建议。     ]]></description
       <pubDate>Tue, 16 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2 - Postgres 开发者平台现已普遍可用</title>
+      <title>supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2 - Postgres 开发者平台现已全面推出</title>
       <link>https://www.producthunt.com/posts/supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2</link>
       <description><![CDATA[经过 4 年测试期后，Supabase 现已全面上市。
 
