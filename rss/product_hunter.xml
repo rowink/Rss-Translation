@@ -4,9 +4,79 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 29 Apr 2024 09:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 12:11:51 GMT</lastBuildDate>
     <item>
-      <title>notta-showcase - 通过人工智能翻译的视频吸引全球观众</title>
+      <title>clubistry - 管理你的俱乐部：网站、会员资格、续订等</title>
+      <link>https://www.producthunt.com/posts/clubistry</link>
+      <description><![CDATA[对于希望让经营俱乐部像在俱乐部一样有趣的俱乐部来说，Clubistry 是一个简单的解决方案。在一个统一平台中轻松处理会员管理、在线支付、网站建设和内容管理。     ]]></description>
+      <guid>https://www.producthunt.com/posts/clubistry</guid>
+      <pubDate>Mon, 29 Apr 2024 07:47:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>saasykit - 快速启动您的 SaaS！</title>
+      <link>https://www.producthunt.com/posts/saasykit</link>
+      <description><![CDATA[SaaSykit 是一个基于 Laravel 的样板，包含构建出色的 SaaS 所需的一切。   &lt; img src=&quot;https://ph-files.imgix.net/a4a326ec-d2c0-4758-8def-a1e0b0da6beb.png?auto=format&amp;fit=crop&quot; /&gt;         ]]></description>
+      <guid>https://www.producthunt.com/posts/saasykit</guid>
+      <pubDate>Mon, 29 Apr 2024 07:46:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>intellecta-2 - 人工智能驱动的客户体验</title>
+      <link>https://www.producthunt.com/posts/intellecta-2</link>
+      <description><![CDATA[Intellecta 根据您公司的数据进行培训，并使用 GPT 模型来响应跨各种平台（例如聊天、社交媒体和电子邮件）的客户询问。这就像拥有自己的聊天 gpt。    ]]></description>
+      <guid>https://www.producthunt.com/posts/intellecta-2</guid>
+      <pubDate>Mon, 29 Apr 2024 07:21:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>my-legacy-ai - 对话式、安全且经济实惠的遗产规划平台</title>
+      <link>https://www.producthunt.com/posts/my-legacy-ai</link>
+      <description><![CDATA[My-Legacy.ai 是一个为遗产规划相关服务而构建的专业平台。通过我们由 12 项待决专利支持的人工智能平台获得即时答案、个性化建议、可操作的工作流程和遗产律师参考。       &lt;img src=&quot;https://ph-files.imgix.net/bedd40a2-43c6-455a-af17-80a058d703a7.png?auto=format&amp;amp;fit=crop ” /&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/my-legacy-ai</guid>
+      <pubDate>Mon, 29 Apr 2024 07:16:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>stable-video - 最先进的生成人工智能视频模型</title>
+      <link>https://www.producthunt.com/posts/stable-video</link>
+      <description><![CDATA[Stable Video 是一种最先进的生成式 AI 视频模型。它旨在将图像转换为视频或文本转换为视频，从而扩展人工智能驱动的内容创作的视野。   ]]></description>
+      <guid>https://www.producthunt.com/posts/stable-video</guid>
+      <pubDate>Mon, 29 Apr 2024 07:03:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bright-60b17cda-fede-4d2f-8759-3f27988db55d - 您的超级健康应用程序</title>
+      <link>https://www.producthunt.com/posts/bright-60b17cda-fede-4d2f-8759-3f27988db55d</link>
+      <description><![CDATA[Bright 是您的超级健康应用程序。我们将身体重组计划、恢复/压力/运动评分、膳食记录、能量跟踪、睡眠跟踪、心脏监测、营养分析和 100m 营养状况整合到一个平台中。        ]]></description>
+      <guid>https://www.producthunt.com/posts/bright-60b17cda-fede-4d2f-8759-3f27988db55d</guid>
+      <pubDate>Mon, 29 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>play-ai - AI 语音界面</title>
+      <link>https://www.producthunt.com/posts/play-ai</link>
+      <description><![CDATA[PlayAI 是一个新的实时会话语音人工智能平台，用于创建类人语音代理。它使对话具有情境性，可处理轮流、中断、语音能量和情绪调制，以实现自然、流畅的实时人类对话。  ]]></description>
+      <guid>https://www.producthunt.com/posts/play-ai</guid>
+      <pubDate>Mon, 29 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>profolio-3 - 在数小时内创建自定义 UX/UI 设计组合</title>
+      <link>https://www.producthunt.com/posts/profolio-3</link>
+      <description><![CDATA[我们的预构建 Framer 组件库拥有 90 多个完全可定制的组件，可为您提供在数小时内轻松创建就业机会 UX/UI 设计组合所需的一切。    ]]></description>
+      <guid>https://www.producthunt.com/posts/profolio-3</guid>
+      <pubDate>Mon, 29 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>professai-2 - 用于标准化测试的个性化人工智能导师</title>
+      <link>https://www.producthunt.com/posts/professorai-2</link>
+      <description><![CDATA[ProfessorAI 是标准化考试的个性化人工智能导师。我们的初创公司通过定制的聊天机器人和图书馆系统解决了昂贵的导师费用和对课程材料理解不力的问题，以帮助学生在 AP 课程中表现更好。      ]]></description>
+      <guid>https://www.producthunt.com/posts/professorai-2</guid>
+      <pubDate>Mon, 29 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>标准 - 轻松衡量初创公司的基准和价值</title>
+      <link>https://www.producthunt.com/posts/yardstick</link>
+      <description><![CDATA[Yardstick 通过提供精确的 KPI 基准测试和估值工具，彻底改变了初创公司的承保。深入研究数据驱动的见解，以制定明智的投资和增长策略。   ]]></description>
+      <guid>https://www.producthunt.com/posts/yardstick</guid>
+      <pubDate>Mon, 29 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>notta-showcase - 通过 AI 翻译视频吸引全球观众</title>
       <link>https://www.producthunt.com/posts/notta-showcase</link>
       <description><![CDATA[Notta Showcase 是一款 AI 视频翻译器，使创作者和企业能够轻松地将视频翻译成 15 种以上语言。通过自然的配音，您的视频将能够引起全球观众的共鸣。简单、快速、实惠！      ]]></description>
       <guid>https://www.producthunt.com/posts/notta-showcase</guid>
@@ -20,20 +90,6 @@
       <pubDate>Sun, 28 Apr 2024 07:17:55 GMT</pubDate>
     </item>
     <item>
-      <title>boardroom-2 - 专业人士约会</title>
-      <link>https://www.producthunt.com/posts/boardroom-2</link>
-      <description><![CDATA[Boardroom 是一款专为忙碌的专业人士设计的约会应用程序。我们通过 LinkedIn 和手动审核流程验证用户。我们设计该应用程序是为了通过鼓励有意识的滑动和集中匹配来为那些寻求认真的长期关系的人提供服务。      ]]></description>
-      <guid>https://www.producthunt.com/posts/boardroom-2</guid>
-      <pubDate>Sun, 28 Apr 2024 07:15:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>payout - 美国股息投资者的股息分析器</title>
-      <link>https://www.producthunt.com/posts/payout</link>
-      <description><![CDATA[Payout 会生成一份投资组合报告，其中详细概述了您的股息投资。这包括对行业平衡和分配的洞察、月度和年度股息的估计以及对关键行业的完整分析。   ]]></description>
-      <guid>https://www.producthunt.com/posts/payout</guid>
-      <pubDate>Sun, 28 Apr 2024 07:15:06 GMT</pubDate>
-    </item>
-    <item>
       <title>rickcenter - AI 乐高生成器、定制小人仔和乐高创作</title>
       <link>https://www.producthunt.com/posts/brickcenter</link>
       <description><![CDATA[使用 BrickCenter 释放您的创造力！我们的人工智能乐高生成器将您的文本转换为自定义乐高套装。通过照片轻松创建您自己的小人仔，或浏览爱好者制作的独特乐高作品。今天就开始构建您梦想的乐高世界吧！    ]]></description>
@@ -41,33 +97,11 @@
       <pubDate>Sun, 28 Apr 2024 07:14:48 GMT</pubDate>
     </item>
     <item>
-      <title>消除好奇心——将你的兴趣转化为行动计划</title>
-      <link>https://www.producthunt.com/posts/curiosity-quench</link>
-      <description><![CDATA[Curiosity Quench 通过 1000 多个“好奇心”列表帮助您探索自己的独特兴趣。让您获得自定义的每日计划，针对您感兴趣的事情采取行动。更少的屏幕时间，更多的时间花在您真正喜欢的事情上。           ]]></description>
-      <guid>https://www.producthunt.com/posts/curiosity-quench</guid>
-      <pubDate>Sun, 28 Apr 2024 07:12:58 GMT</pubDate>
-    </item>
-    <item>
       <title>faq-generator - 输入网站 URL，获取人工智能生成的常见问题解答</title>
       <link>https://www.producthunt.com/posts/faq-generator</link>
       <description><![CDATA[此常见问题解答生成器使用人工智能技术来分析给定的网站 URL，并根据类似网站的常见查询自动生成常见问题和解答的综合列表。    ]]></description>
       <guid>https://www.producthunt.com/posts/faq-generator</guid>
       <pubDate>Sun, 28 Apr 2024 07:11:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>genai - 适合所有人的聊天机器人</title>
-      <link>https://www.producthunt.com/posts/genai</link>
-      <description><![CDATA[在几分钟内收集和混合来自网站、pdf、视频的数据，并构建聊天机器人。   &lt; img src=&quot;https://ph-files.imgix.net/24a3d46b-f2bc-4238-8ed4-7f9768756522.jpeg?auto=format&amp;fit=crop&quot; /&gt;    ]]></description>
-      <guid>https://www.producthunt.com/posts/genai</guid>
-      <pubDate>Sun, 28 Apr 2024 07:09:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Quickticks - 您的生产力伴侣</title>
-      <link>https://www.producthunt.com/posts/quickticks</link>
-      <description><![CDATA[🚀 Quickticks：您的个人生产力助手！
-轻松记下任务、轻松组织并设置提醒。安全地掌控您的日常待办事项！ #生产力 #quickticks          ]]></description>
-      <guid>https://www.producthunt.com/posts/quickticks</guid>
-      <pubDate>Sun, 28 Apr 2024 07:07:38 GMT</pubDate>
     </item>
     <item>
       <title>truva - 通过人工智能代理吸引并留住客户</title>
@@ -90,105 +124,46 @@ CrawlSpider 使流程自动化，优化长尾排名，同时节省您的时间�
       <pubDate>Sun, 28 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>dashcam - 面向开发人员的屏幕录像机</title>
-      <link>https://www.producthunt.com/posts/dashcam</link>
-      <description><![CDATA[Dashcam 是一款专为开发人员打造的屏幕录像机。它具有即时重播和错误检测功能，可帮助开发人员创建令人惊叹的错误报告，从而更快地修复问题。     ]]></description>
-      <guid>https://www.producthunt.com/posts/dashcam</guid>
-      <pubDate>Sat, 27 Apr 2024 07:32:38 GMT</pubDate>
+      <title>明轮船 - 通过逼真的 AI 角色扮演完善您的销售宣传</title>
+      <link>https://www.producthunt.com/posts/paddleboat</link>
+      <description><![CDATA[通过与现实的人工智能买家练习推销电话，提高你的销售说服力！从人工智能买家列表中进行选择，或者根据您的业务环境，根据可定制的个性、反对意见和说明创建您自己的买家。    ]]></description>
+      <guid>https://www.producthunt.com/posts/paddleboat</guid>
+      <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>clonemytrips - 受影响者启发的旅行计划应用程序</title>
-      <link>https://www.producthunt.com/posts/clonemytrips</link>
-      <description><![CDATA[CloneMyTrips 是一个平台，允许旅行影响者创建旅行行程并与其关注者分享（然后他们可以通过唯一的链接预订相同的旅行），并在每次预订时赚取影响者佣金。     &lt; img src=&quot;https://ph-files.imgix.net/1029396d-ebb8-42bd-b950-927a6572cee1.png?auto=format&amp;fit=crop&quot; /&gt;      ]]></description>
-      <guid>https://www.producthunt.com/posts/clonemytrips</guid>
-      <pubDate>Sat, 27 Apr 2024 07:12:10 GMT</pubDate>
+      <title>Assista-ai - 适用于所有生产力应用程序的中枢神经系统</title>
+      <link>https://www.producthunt.com/posts/assista-ai</link>
+      <description><![CDATA[Assista 通过人工智能转变企业生产力，支持对多个应用程序进行语音或文本命令控制。轻松简化任务、提高效率并缩短完成时间。     ]]></description>
+      <guid>https://www.producthunt.com/posts/assista-ai</guid>
+      <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>发票生成器-9bce3e1b-dab2-4a7a-ba7e-e315be868119 - 使用免费发票生成器更快地获得付款</title>
-      <link>https://www.producthunt.com/posts/invoice-generator-9bce3e1b-dab2-4a7a-ba7e-e315be868119</link>
-      <description><![CDATA[该项目为自由职业者、小型企业和承包商提供了一个用户友好的发票生成工具。快速轻松地创建专业的定制发票，确保您每次都能按时收到付款。   ]]></description>
-      <guid>https://www.producthunt.com/posts/invoice-generator-9bce3e1b-dab2-4a7a-ba7e-e315be868119</guid>
-      <pubDate>Sat, 27 Apr 2024 07:01:00 GMT</pubDate>
+      <title>oom-6 - 让您的 Zoom、Meet、Teams 会议更具吸引力和乐趣</title>
+      <link>https://www.producthunt.com/posts/boom-6</link>
+      <description><![CDATA[Boom 是一款 macOS 相机应用程序，适用于 Zoom、Meet、Teams 等。打造您的通话品牌、使用 GIF 并增强您的屏幕共享。 Boom 让您的通话更具吸引力、高效且有趣。    ]]></description>
+      <guid>https://www.producthunt.com/posts/boom-6</guid>
+      <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>Animation-Statistics-Maker - 通过视觉上吸引人的统计数据吸引潜在客户的注意力</title>
-      <link>https://www.producthunt.com/posts/animated-statistics-maker</link>
-      <description><![CDATA[动画统计制作工具是一款 100% 免费的工具，可生成精美的动画统计数据，您可以在销售宣传和客户引导中分享这些统计数据，以保持观众的参与度
-
-吸引潜在客户的注意力并转换速度更快   ]]></description>
-      <guid>https://www.producthunt.com/posts/animated-statistics-maker</guid>
-      <pubDate>Sat, 27 Apr 2024 07:01:00 GMT</pubDate>
+      <title>langwatch - 了解、衡量和提高您的法学硕士</title>
+      <link>https://www.producthunt.com/posts/langwatch</link>
+      <description><![CDATA[LangWatch 提供了一个简单的开源平台，可以改进和迭代您当前的 LLM 流程，并降低越狱、敏感数据泄露和幻觉等风险。      ]]></description>
+      <guid>https://www.producthunt.com/posts/langwatch</guid>
+      <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>use-based-spaghetti - 无限量按重量出售新鲜意大利面</title>
-      <link>https://www.producthunt.com/posts/usage-based-spaghetti</link>
-      <description><![CDATA[在此演示中尝试 Stripe 基于使用情况的计费。    ]]></description>
-      <guid>https://www.producthunt.com/posts/usage-based-spaghetti</guid>
-      <pubDate>Sat, 27 Apr 2024 07:01:00 GMT</pubDate>
+      <title>neurelo - 将您的数据库转换为 API</title>
+      <link>https://www.producthunt.com/posts/neurelo</link>
+      <description><![CDATA[使用 Neurelo 简化您的数据库体验。它通过为 MongoDB、Postgres 和 MySQL 提供即时 AI 驱动的 REST 和 GraphQL API、GitSchema、Observability 等，消除了许多数据库工具和复杂性。专注于重要的事情 - 您的代码。     &lt;img src=&quot;https://ph-files.imgix.net/fd6c4f16-5539-47cc-9176-00be031cb854.png?auto=format&amp;amp; ;适合=作物“/&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/neurelo</guid>
+      <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>Wonderplan-ai-2-0 - 在几分钟内用 AI 计划您的下一次旅行</title>
-      <link>https://www.producthunt.com/posts/wonderplan-ai-2-0</link>
-      <description><![CDATA[Wonderplan 可让您利用人工智能创建独特、无忧的旅行计划。重新开始或从博客开始视频，然后使用个性化选项进行微调。免费体验轻松的交互式聊天、基于日历的规划和地图行程预览！      &lt;img src=&quot;https://ph-files.imgix.net/1c8e2765-3d57-44ec-8097-4dec1032b059.jpeg?auto=format&amp;amp; ;适合=作物“/&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/wonderplan-ai-2-0</guid>
-      <pubDate>Sat, 27 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>reflex-6 - 用纯 Python 构建 Web 应用程序</title>
-      <link>https://www.producthunt.com/posts/reflex-6</link>
-      <description><![CDATA[在几分钟内用纯 Python 构建一个 Web 应用程序。
-
-使用单个命令进行部署。
-
-完全可定制的用户界面。
-
-从小型原型扩展到完整的生产网络应用程序。       ]]></description>
-      <guid>https://www.producthunt.com/posts/reflex-6</guid>
-      <pubDate>Wed, 17 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>speedlegal - 您的个人人工智能合同谈判者</title>
-      <link>https://www.producthunt.com/posts/speedlegal</link>
-      <description><![CDATA[SpeedLegal 是一款人工智能工具，可帮助您更好地理解和协商合同。它可以快速识别潜在风险，并用简单的语言解释复杂的法律术语。
-SpeedLegal 还为您提供改进合同的个性化建议。     ]]></description>
-      <guid>https://www.producthunt.com/posts/speedlegal</guid>
-      <pubDate>Wed, 17 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Draftboard - 每个人的推荐奖金</title>
-      <link>https://www.producthunt.com/posts/draftboard</link>
-      <description><![CDATA[公司为新员工支付推荐奖金，但仅限于其员工。
-
-为什么？
-
-草稿板是公司将其公开并可供任何人索取的地方。
-
-将您的网络推荐给工作并获得报酬 - 就这么简单。     ]]></description>
-      <guid>https://www.producthunt.com/posts/draftboard</guid>
-      <pubDate>Tue, 16 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2 - Postgres 开发者平台现已全面推出</title>
-      <link>https://www.producthunt.com/posts/supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2</link>
-      <description><![CDATA[经过 4 年测试期后，Supabase 现已全面上市。
-
-无论您是独立黑客还是财富 500 强公司，Supabase 现在都可以扩展到任何工作负载，目前超过三分之一的 YC 正在使用 Supabase 进行构建。    ]]></description>
-      <guid>https://www.producthunt.com/posts/supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2</guid>
-      <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>cal-com-platform - 使用 Atoms 打造像素完美的预订体验</title>
-      <link>https://www.producthunt.com/posts/cal-com-platform</link>
-      <description><![CDATA[Cal.com 平台是将日程安排功能嵌入到您的应用中的最快、最简单的方法。摆脱时区、日历和会议 API 以及日程安排逻辑的困扰 — 利用 Cal.com 强大的日程安排技术构建您的下一个产品。     ]]></description>
-      <guid>https://www.producthunt.com/posts/cal-com-platform</guid>
-      <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>airchat-6 - 社交对讲机</title>
-      <link>https://www.producthunt.com/posts/airchat-6</link>
-      <description><![CDATA[总有人可以倾诉。  &lt; img src=&quot;https://ph-files.imgix.net/997b5473-5791-48c0-83e5-328e60b9a309.png?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
-      <guid>https://www.producthunt.com/posts/airchat-6</guid>
-      <pubDate>Mon, 15 Apr 2024 07:01:00 GMT</pubDate>
+      <title>subframe - 快速构建 UI 的最佳方式</title>
+      <link>https://www.producthunt.com/posts/subframe</link>
+      <description><![CDATA[使用真实组件直观地构建 UI。从令人惊叹的模板开始。个性化您的主题。使用我们直观的拖放编辑器设计页面。然后，无需再次编写 CSS，从而节省时间。    ]]></description>
+      <guid>https://www.producthunt.com/posts/subframe</guid>
+      <pubDate>Tue, 23 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
