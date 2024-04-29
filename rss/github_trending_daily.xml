@@ -4,181 +4,181 @@
     <title>今日 GitHub 上的热门存储库 · GitHub</title>
     <link>https://github.com/trending/?since=daily&spoken_language_code=en</link>
     <description>今日 GitHub 上的热门存储库 · GitHub - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 29 Apr 2024 15:04:02 GMT</lastBuildDate>
-    <item>
-      <title>gothinkster/现实世界</title>
-      <link>https://github.com/gothinkster/realworld</link>
-      <description><![CDATA[“所有演示应用程序之母” — 由 React、Angular、Node 提供支持的示例性全栈 Medium.com 克隆， Django 以及更多语言：TypeScript 星星：78304 叉子：7174]]></description>
-      <guid>https://github.com/gothinkster/realworld</guid>
-      <pubDate>Mon, 29 Apr 2024 15:04:02 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Apr 2024 18:07:54 GMT</lastBuildDate>
     <item>
       <title>AleoHQ/snarkOS</title>
       <link>https://github.com/AleoHQ/snarkOS</link>
       <description><![CDATA[ZK应用的去中心化操作系统语言：Rust 星星：3873 叉子：2493]]></description>
       <guid>https://github.com/AleoHQ/snarkOS</guid>
-      <pubDate>Mon, 29 Apr 2024 15:04:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>langchain-ai/langchain</title>
-      <link>https://github.com/langchain-ai/langchain</link>
-      <description><![CDATA[🦜🔗 构建上下文感知推理应用程序语言：Python 星星：83620 叉子：12858]]></description>
-      <guid>https://github.com/langchain-ai/langchain</guid>
-      <pubDate>Mon, 29 Apr 2024 15:04:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>调用-ai/InvokeAI</title>
-      <link>https://github.com/invoke-ai/InvokeAI</link>
-      <description><![CDATA[InvokeAI 是稳定扩散模型的领先创意引擎，为专业人士、艺术家提供支持和爱好者使用最新的人工智能驱动技术生成和创建视觉媒体。该解决方案提供业界领先的WebUI，支持通过CLI进行终端使用，并作为多个商业产品的基础。 语言：TypeScript 星星：21299 分叉：2235]]></description>
-      <guid>https://github.com/invoke-ai/InvokeAI</guid>
-      <pubDate>Mon, 29 Apr 2024 15:04:01 GMT</pubDate>
+      <pubDate>Mon, 29 Apr 2024 18:07:54 GMT</pubDate>
     </item>
     <item>
       <title>sundowndev/phoneinfoga</title>
       <link>https://github.com/sundowndev/phoneinfoga</link>
-      <description><![CDATA[电话号码信息收集框架语言：Go 星星： 11968 货叉：3280]]></description>
+      <description><![CDATA[电话号码信息收集框架语言：Go 星星： 11972 货叉：3282]]></description>
       <guid>https://github.com/sundowndev/phoneinfoga</guid>
-      <pubDate>Mon, 29 Apr 2024 15:04:01 GMT</pubDate>
+      <pubDate>Mon, 29 Apr 2024 18:07:53 GMT</pubDate>
     </item>
     <item>
-      <title>算法/Rust</title>
-      <link>https://github.com/TheAlgorithms/Rust</link>
-      <description><![CDATA[所有算法均采用 Rust 实现语言：Rust 1996 0 前叉：1967]]></description>
-      <guid>https://github.com/TheAlgorithms/Rust</guid>
-      <pubDate>Mon, 29 Apr 2024 15:04:00 GMT</pubDate>
+      <title>gothinkster/现实世界</title>
+      <link>https://github.com/gothinkster/realworld</link>
+      <description><![CDATA[“所有演示应用程序之母” - 由 React、Angular、Node 提供支持的示例性全栈 Medium.com 克隆， Django 以及更多语言：TypeScript 星星：78307 叉子：7174]]></description>
+      <guid>https://github.com/gothinkster/realworld</guid>
+      <pubDate>Mon, 29 Apr 2024 18:07:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>langchain-ai/langchain</title>
+      <link>https://github.com/langchain-ai/langchain</link>
+      <description><![CDATA[星星：83636 叉子：12862]]></description>
+      <guid>https://github.com/langchain-ai/langchain</guid>
+      <pubDate>Mon, 29 Apr 2024 18:07:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>调用-ai/InvokeAI</title>
+      <link>https://github.com/invoke-ai/InvokeAI</link>
+      <description><![CDATA[InvokeAI 是稳定扩散模型的领先创意引擎，为专业人士、艺术家提供支持和爱好者使用最新的人工智能驱动技术生成和创建视觉媒体。该解决方案提供业界领先的WebUI，支持通过CLI进行终端使用，并作为多种商业产品的基础。 语言：TypeScript 星星：21303 分叉：2236]]></description>
+      <guid>https://github.com/invoke-ai/InvokeAI</guid>
+      <pubDate>Mon, 29 Apr 2024 18:07:52 GMT</pubDate>
     </item>
     <item>
       <title>NVIDIA/弯刀</title>
       <link>https://github.com/NVIDIA/cutlass</link>
-      <description><![CDATA[语言：C ++ 星星： 4554 货叉：794]]></description>
+      <description><![CDATA[线性代数子例程的 CUDA 模板语言：C++ 星星: 4555 货叉：794]]></description>
       <guid>https://github.com/NVIDIA/cutlass</guid>
-      <pubDate>Mon, 29 Apr 2024 15:04:00 GMT</pubDate>
+      <pubDate>Mon, 29 Apr 2024 18:07:51 GMT</pubDate>
     </item>
     <item>
       <title>埃米尔克/埃吉伊</title>
       <link>https://github.com/emilk/egui</link>
-      <description><![CDATA[egui：一个易于使用的 Rust 即时模式 GUI，可在 Web 和本机上运行 语言：Rust 星星：19799 叉子：1429]]></description>
+      <description><![CDATA[egui：一个易于使用的 Rust 即时模式 GUI，可在 Web 和本机上运行 语言：Rust 星星：19802 叉子：1429]]></description>
       <guid>https://github.com/emilk/egui</guid>
-      <pubDate>Mon, 29 Apr 2024 15:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>袖珍底座/袖珍底座</title>
-      <link>https://github.com/pocketbase/pocketbase</link>
-      <description><![CDATA[1 个文件中的开源实时后端语言：Go 星星：33283 叉子：1477]]></description>
-      <guid>https://github.com/pocketbase/pocketbase</guid>
-      <pubDate>Mon, 29 Apr 2024 15:03:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>DovAmir/很棒的设计模式</title>
-      <link>https://github.com/DovAmir/awesome-design-patterns</link>
-      <description><![CDATA[软件和架构相关设计模式的精选列表。 语言：未知星星：36092叉子：2691]]></description>
-      <guid>https://github.com/DovAmir/awesome-design-patterns</guid>
-      <pubDate>Mon, 29 Apr 2024 15:03:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>很棒的自我托管/很棒的自我托管</title>
-      <link>https://github.com/awesome-selfhosted/awesome-selfhosted</link>
-      <description><![CDATA[可以在您自己的服务器上托管的免费软件网络服务和 Web 应用程序的列表 &lt; br /&gt;语言：未知星星：178379 叉子：8989]]></description>
-      <guid>https://github.com/awesome-selfhosted/awesome-selfhosted</guid>
-      <pubDate>Mon, 29 Apr 2024 15:03:59 GMT</pubDate>
+      <pubDate>Mon, 29 Apr 2024 18:07:51 GMT</pubDate>
     </item>
     <item>
       <title>唐内马丁/系统设计入门</title>
       <link>https://github.com/donnemartin/system-design-primer</link>
-      <description><![CDATA[了解如何设计大型系统。准备系统设计面试。包括 Anki 抽认卡。 语言：Python 星星：255015 叉子：43541]]></description>
+      <description><![CDATA[了解如何设计大型系统。准备系统设计面试。包括 Anki 抽认卡。 语言：Python 星星：255042 叉子：43541]]></description>
       <guid>https://github.com/donnemartin/system-design-primer</guid>
-      <pubDate>Mon, 29 Apr 2024 15:03:59 GMT</pubDate>
+      <pubDate>Mon, 29 Apr 2024 18:07:50 GMT</pubDate>
     </item>
     <item>
-      <title>pingcap/TiDB</title>
-      <link>https://github.com/pingcap/tidb</link>
-      <description><![CDATA[TiDB 是一个开源、云原生、分布式、兼容 MySQL 的数据库，具有弹性规模和实时性时间分析。免费试用 AI 支持的 Chat2Query：https://tidbcloud.com/free-Trial 语言：Go 星星：36146 分叉：5716]]></description>
-      <guid>https://github.com/pingcap/tidb</guid>
-      <pubDate>Mon, 29 Apr 2024 15:03:58 GMT</pubDate>
+      <title>算法/Rust</title>
+      <link>https://github.com/TheAlgorithms/Rust</link>
+      <description><![CDATA[所有算法均采用 Rust 实现语言：Rust Stars : 19979 前叉：1967]]></description>
+      <guid>https://github.com/TheAlgorithms/Rust</guid>
+      <pubDate>Mon, 29 Apr 2024 18:07:50 GMT</pubDate>
     </item>
     <item>
-      <title>顶部-sh/面包</title>
-      <link>https://github.com/oven-sh/bun</link>
-      <description><![CDATA[令人难以置信的快速 JavaScript 运行时、捆绑器、测试运行器和包管理器 - 集于一身 语言：Zig 星星：70671 叉子：2437]]></description>
-      <guid>https://github.com/oven-sh/bun</guid>
-      <pubDate>Mon, 29 Apr 2024 15:03:58 GMT</pubDate>
+      <title>DovAmir/很棒的设计模式</title>
+      <link>https://github.com/DovAmir/awesome-design-patterns</link>
+      <description><![CDATA[软件和架构相关设计模式的精选列表。 语言：未知星星：36101 叉子：2692]]></description>
+      <guid>https://github.com/DovAmir/awesome-design-patterns</guid>
+      <pubDate>Mon, 29 Apr 2024 18:07:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>很棒的自我托管/很棒的自我托管</title>
+      <link>https://github.com/awesome-selfhosted/awesome-selfhosted</link>
+      <description><![CDATA[可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表 &lt; br /&gt;语言：未知星星：178403 叉子：8984]]></description>
+      <guid>https://github.com/awesome-selfhosted/awesome-selfhosted</guid>
+      <pubDate>Mon, 29 Apr 2024 18:07:49 GMT</pubDate>
     </item>
     <item>
       <title>鲸鱼-io/etcher</title>
       <link>https://github.com/balena-io/etcher</link>
-      <description><![CDATA[将操作系统映像闪存到 SD 卡和USB 驱动器，安全、轻松。 语言：TypeScript 星星：27714 分叉：1988]]></description>
+      <description><![CDATA[将操作系统映像闪存到 SD 卡和USB 驱动器，安全、轻松。 语言：TypeScript 星星：27715 分叉：1989]]></description>
       <guid>https://github.com/balena-io/etcher</guid>
-      <pubDate>Mon, 29 Apr 2024 15:03:58 GMT</pubDate>
+      <pubDate>Mon, 29 Apr 2024 18:07:48 GMT</pubDate>
     </item>
     <item>
-      <title>marticliment/WingetUI</title>
-      <link>https://github.com/marticliment/WingetUI</link>
-      <description><![CDATA[WingetUI：包管理器的图形界面语言：PowerShell 星星：8945 叉子：300]]></description>
-      <guid>https://github.com/marticliment/WingetUI</guid>
-      <pubDate>Mon, 29 Apr 2024 15:03:57 GMT</pubDate>
+      <title>袖珍底座/袖珍底座</title>
+      <link>https://github.com/pocketbase/pocketbase</link>
+      <description><![CDATA[1 个文件中的开源实时后端语言：Go 星星：33291 叉子：1478]]></description>
+      <guid>https://github.com/pocketbase/pocketbase</guid>
+      <pubDate>Mon, 29 Apr 2024 18:07:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>pingcap/TiDB</title>
+      <link>https://github.com/pingcap/tidb</link>
+      <description><![CDATA[TiDB 是一个开源、云原生、分布式、兼容 MySQL 的数据库，具有弹性规模和实时性时间分析。免费试用人工智能驱动的 Chat2Query：https://tidbcloud.com/free-Trial 语言：Go 星星：36148 分叉：5716]]></description>
+      <guid>https://github.com/pingcap/tidb</guid>
+      <pubDate>Mon, 29 Apr 2024 18:07:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>顶部-sh/面包</title>
+      <link>https://github.com/oven-sh/bun</link>
+      <description><![CDATA[速度极快的 JavaScript 运行时、捆绑器、测试运行器和包管理器 – 集于一身 语言：Zig 星星：70677 叉子：2438]]></description>
+      <guid>https://github.com/oven-sh/bun</guid>
+      <pubDate>Mon, 29 Apr 2024 18:07:47 GMT</pubDate>
     </item>
     <item>
       <title>riscv-软件-src/riscv-isa-sim</title>
       <link>https://github.com/riscv-software-src/riscv-isa-sim</link>
-      <description><![CDATA[Spike，RISC-V ISA 模拟器语言：C 星星：2199 前叉：785]]></description>
+      <description><![CDATA[Spike，RISC-V ISA 模拟器语言：C 星星：2201 前叉：785]]></description>
       <guid>https://github.com/riscv-software-src/riscv-isa-sim</guid>
-      <pubDate>Mon, 29 Apr 2024 15:03:57 GMT</pubDate>
+      <pubDate>Mon, 29 Apr 2024 18:07:46 GMT</pubDate>
     </item>
     <item>
       <title>简单图标/简单图标</title>
       <link>https://github.com/simple-icons/simple-icons</link>
-      <description><![CDATA[流行品牌的 SVG 图标语言： JavaScript 星星：18099 叉子：2458]]></description>
+      <description><![CDATA[流行品牌的 SVG 图标语言： JavaScript 星星：18101 叉子：2458]]></description>
       <guid>https://github.com/simple-icons/simple-icons</guid>
-      <pubDate>Mon, 29 Apr 2024 15:03:57 GMT</pubDate>
+      <pubDate>Mon, 29 Apr 2024 18:07:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>赫里德加德/ppsspp</title>
+      <link>https://github.com/hrydgard/ppsspp</link>
+      <description><![CDATA[适用于 Android、Windows、Mac 和 Linux 的 PSP 模拟器，用 C++ 编写。想做出贡献吗？通过 https://discord.gg/5NJB6dD 加入我们的 Discord 或仅发送拉取请求/问题。如需讨论，请使用 forums.ppsspp.org 上的论坛。 语言：C++ 星星：10402 叉子：2098]]></description>
+      <guid>https://github.com/hrydgard/ppsspp</guid>
+      <pubDate>Mon, 29 Apr 2024 18:07:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>marticliment/WingetUI</title>
+      <link>https://github.com/marticliment/WingetUI</link>
+      <description><![CDATA[WingetUI：包管理器的图形界面语言：PowerShell 星星：8955 叉子：301]]></description>
+      <guid>https://github.com/marticliment/WingetUI</guid>
+      <pubDate>Mon, 29 Apr 2024 18:07:45 GMT</pubDate>
     </item>
     <item>
       <title>天恩/KernelSU</title>
       <link>https://github.com/tiann/KernelSU</link>
-      <description><![CDATA[基于内核的 Android 根解决方案语言：Kotlin Stars : 8124 货叉: 1341]]></description>
+      <description><![CDATA[基于内核的 Android 根解决方案语言：Kotlin Stars : 8127 货叉: 1341]]></description>
       <guid>https://github.com/tiann/KernelSU</guid>
-      <pubDate>Mon, 29 Apr 2024 15:03:56 GMT</pubDate>
+      <pubDate>Mon, 29 Apr 2024 18:07:44 GMT</pubDate>
     </item>
     <item>
-      <title>复仇/文考特</title>
+      <title>维迪迪/维科德</title>
       <link>https://github.com/Vendicated/Vencord</link>
-      <description><![CDATA[最可爱的 Discord 客户端模组 语言：TypeScript 星星： 6701 货叉：948]]></description>
+      <description><![CDATA[最可爱的 Discord 客户端模组 语言：TypeScript 星星： 6705 货叉：949]]></description>
       <guid>https://github.com/Vendicated/Vencord</guid>
-      <pubDate>Mon, 29 Apr 2024 15:03:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>hrydgard/ppsspp</title>
-      <link>https://github.com/hrydgard/ppsspp</link>
-      <description><![CDATA[适用于 Android、Windows、Mac 和 Linux 的 PSP 模拟器，用 C++ 编写。想做出贡献吗？通过 https://discord.gg/5NJB6dD 加入我们的 Discord 或仅发送拉取请求/问题。如需讨论，请使用 forums.ppsspp.org 上的论坛。 语言：C++ 星星：10398 叉子：2098]]></description>
-      <guid>https://github.com/hrydgard/ppsspp</guid>
-      <pubDate>Mon, 29 Apr 2024 15:03:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>AUTOMATIC1111/稳定扩散-webui</title>
-      <link>https://github.com/AUTOMATIC1111/stable-diffusion-webui</link>
-      <description><![CDATA[稳定的 Diffusion Web UI 语言：Python &lt; br /&gt;星星：129842 叉子：24936]]></description>
-      <guid>https://github.com/AUTOMATIC1111/stable-diffusion-webui</guid>
-      <pubDate>Mon, 29 Apr 2024 15:03:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>SerenityOS/serenity</title>
-      <link>https://github.com/SerenityOS/serenity</link>
-      <description><![CDATA[Serenity 操作系统🐞 语言：C++ 星星：28754 货叉：3093]]></description>
-      <guid>https://github.com/SerenityOS/serenity</guid>
-      <pubDate>Mon, 29 Apr 2024 15:03:55 GMT</pubDate>
+      <pubDate>Mon, 29 Apr 2024 18:07:44 GMT</pubDate>
     </item>
     <item>
       <title>yt-dlp</title>
       <link>https://github.com/yt-dlp/yt-dlp</link>
-      <description><![CDATA[功能丰富的命令行音频/视频下载器 语言：Python 星星：70903 叉子：5642]]></description>
+      <description><![CDATA[功能丰富的命令行音频/视频下载器 语言：Python 星星：70921 叉子：5640]]></description>
       <guid>https://github.com/yt-dlp/yt-dlp</guid>
-      <pubDate>Mon, 29 Apr 2024 15:03:55 GMT</pubDate>
+      <pubDate>Mon, 29 Apr 2024 18:07:43 GMT</pubDate>
     </item>
     <item>
       <title>ggerganov/whisper.cpp</title>
       <link>https://github.com/ggerganov/whisper.cpp</link>
-      <description><![CDATA[OpenAI Whisper 模型的 C/C++ 移植语言：C 星星：31253 叉子：3089]]></description>
+      <description><![CDATA[OpenAI Whisper 模型的 C/C++ 移植语言：C 星星：31258 叉子：3089]]></description>
       <guid>https://github.com/ggerganov/whisper.cpp</guid>
-      <pubDate>Mon, 29 Apr 2024 15:03:55 GMT</pubDate>
+      <pubDate>Mon, 29 Apr 2024 18:07:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>AUTOMATIC1111/稳定扩散-webui</title>
+      <link>https://github.com/AUTOMATIC1111/stable-diffusion-webui</link>
+      <description><![CDATA[稳定扩散网页 UI Lang使用：Python 星星：129872 叉子：24941]]></description>
+      <guid>https://github.com/AUTOMATIC1111/stable-diffusion-webui</guid>
+      <pubDate>Mon, 29 Apr 2024 18:07:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>SerenityOS/serenity</title>
+      <link>https://github.com/SerenityOS/serenity</link>
+      <description><![CDATA[Serenity 操作系统🐞 语言：C++ &lt; br /&gt;星星：28759 货叉：3094]]></description>
+      <guid>https://github.com/SerenityOS/serenity</guid>
+      <pubDate>Mon, 29 Apr 2024 18:07:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
