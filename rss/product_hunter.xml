@@ -4,7 +4,7 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 29 Apr 2024 12:11:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 15:04:34 GMT</lastBuildDate>
     <item>
       <title>clubistry - 管理你的俱乐部：网站、会员资格、续订等</title>
       <link>https://www.producthunt.com/posts/clubistry</link>
@@ -13,7 +13,7 @@
       <pubDate>Mon, 29 Apr 2024 07:47:58 GMT</pubDate>
     </item>
     <item>
-      <title>saasykit - 快速启动您的 SaaS！</title>
+      <title>saasykit - 快速启动您的 SaaS</title>
       <link>https://www.producthunt.com/posts/saasykit</link>
       <description><![CDATA[SaaSykit 是一个基于 Laravel 的样板，包含构建出色的 SaaS 所需的一切。   &lt; img src=&quot;https://ph-files.imgix.net/a4a326ec-d2c0-4758-8def-a1e0b0da6beb.png?auto=format&amp;fit=crop&quot; /&gt;         ]]></description>
       <guid>https://www.producthunt.com/posts/saasykit</guid>
@@ -64,19 +64,33 @@
     <item>
       <title>professai-2 - 用于标准化测试的个性化人工智能导师</title>
       <link>https://www.producthunt.com/posts/professorai-2</link>
-      <description><![CDATA[ProfessorAI 是标准化考试的个性化人工智能导师。我们的初创公司通过定制的聊天机器人和图书馆系统解决了昂贵的导师费用和对课程材料理解不力的问题，以帮助学生在 AP 课程中表现更好。      ]]></description>
+      <description><![CDATA[ProfessorAI 是标准化考试的个性化人工智能导师。我们的初创公司通过自定义聊天机器人和图书馆系统解决了导师费用昂贵和课程材料理解不力的问题，帮助学生在 AP 课程中取得更好的成绩。      ]]></description>
       <guid>https://www.producthunt.com/posts/professorai-2</guid>
       <pubDate>Mon, 29 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>标准 - 轻松衡量初创公司的基准和价值</title>
+      <title>标尺 - 轻松对初创企业进行基准测试和估值</title>
       <link>https://www.producthunt.com/posts/yardstick</link>
       <description><![CDATA[Yardstick 通过提供精确的 KPI 基准测试和估值工具，彻底改变了初创公司的承保。深入研究数据驱动的见解，以制定明智的投资和增长策略。   ]]></description>
       <guid>https://www.producthunt.com/posts/yardstick</guid>
       <pubDate>Mon, 29 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>notta-showcase - 通过 AI 翻译视频吸引全球观众</title>
+      <title>tracy-2 - 使用 YouTube AI 双语字幕进行语言学习</title>
+      <link>https://www.producthunt.com/posts/trancy-2</link>
+      <description><![CDATA[Trancy App不仅提供YouTube AI双语字幕，还可以让您将个人YouTube频道与Trancy同步，让观看双语视频更加轻松。此外，它还提供了一种通过观看视频来学习语言的方法。     ]]></description>
+      <guid>https://www.producthunt.com/posts/trancy-2</guid>
+      <pubDate>Mon, 29 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>dokploy - Heroku、Vercel 和 Netlify 的开源替代品</title>
+      <link>https://www.producthunt.com/posts/dokploy</link>
+      <description><![CDATA[Dokploy 简化了 VPS 上的应用程序部署，将用户友好的界面与强大的 Docker 和 Traefik 集成相结合，以实现最佳性能和安全性，并通过实时监控进行增强。   ]]></description>
+      <guid>https://www.producthunt.com/posts/dokploy</guid>
+      <pubDate>Mon, 29 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>notta-showcase - 通过人工智能翻译的视频吸引全球观众</title>
       <link>https://www.producthunt.com/posts/notta-showcase</link>
       <description><![CDATA[Notta Showcase 是一款 AI 视频翻译器，使创作者和企业能够轻松地将视频翻译成 15 种以上语言。通过自然的配音，您的视频将能够引起全球观众的共鸣。简单、快速、实惠！      ]]></description>
       <guid>https://www.producthunt.com/posts/notta-showcase</guid>
