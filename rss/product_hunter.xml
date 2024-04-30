@@ -3,8 +3,8 @@
   <channel>
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
-    <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 29 Apr 2024 21:03:26 GMT</lastBuildDate>
+    <description>产品搜寻今日流行 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Tue, 30 Apr 2024 00:29:01 GMT</lastBuildDate>
     <item>
       <title>saasykit - 快速启动您的 SaaS</title>
       <link>https://www.producthunt.com/posts/saasykit</link>
@@ -29,7 +29,7 @@
     <item>
       <title>stable-video - 最先进的生成人工智能视频模型</title>
       <link>https://www.producthunt.com/posts/stable-video</link>
-      <description><![CDATA[Stable Video 是一种最先进的生成式 AI 视频模型。它旨在将图像转换为视频或将文本转换为视频，从而扩展人工智能驱动的内容创建的视野。   ]]></description>
+      <description><![CDATA[Stable Video 是一种最先进的生成式 AI 视频模型。它旨在将图像转换为视频或文本转换为视频，从而扩展人工智能驱动的内容创作的视野。   ]]></description>
       <guid>https://www.producthunt.com/posts/stable-video</guid>
       <pubDate>Mon, 29 Apr 2024 07:03:42 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>标准 - 轻松衡量初创公司的基准和价值</title>
       <link>https://www.producthunt.com/posts/yardstick</link>
-      <description><![CDATA[Yardstick 通过提供精确的 KPI 基准测试和估值工具，彻底改变了初创公司承保业务。深入研究数据驱动的见解，以制定明智的投资和增长策略。   ]]></description>
+      <description><![CDATA[Yardstick 通过提供精确的 KPI 基准测试和估值工具，彻底改变了初创公司的承保。深入研究数据驱动的见解，以制定明智的投资和增长策略。   ]]></description>
       <guid>https://www.producthunt.com/posts/yardstick</guid>
       <pubDate>Mon, 29 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>rickcenter - AI 乐高生成器、定制小人仔和乐高创作</title>
       <link>https://www.producthunt.com/posts/brickcenter</link>
-      <description><![CDATA[使用 BrickCenter 释放您的创造力！我们的人工智能乐高生成器将您的文本转换为自定义乐高套装。通过照片轻松创建您自己的小人仔，或浏览爱好者制作的独特乐高作品。今天就开始构建您梦想的乐高世界吧！    ]]></description>
+      <description><![CDATA[使用 BrickCenter 释放您的创造力！我们的人工智能乐高生成器将您的文本转换为自定义乐高套装。从照片中轻松创建您自己的小人仔，或浏览爱好者制作的独特乐高作品。从今天开始构建您梦想的乐高世界！    ]]></description>
       <guid>https://www.producthunt.com/posts/brickcenter</guid>
       <pubDate>Sun, 28 Apr 2024 07:14:48 GMT</pubDate>
     </item>
@@ -133,7 +133,7 @@ CrawlSpider 使流程自动化，优化长尾排名，同时节省您的时间�
     <item>
       <title>明轮船 - 通过逼真的 AI 角色扮演完善您的销售宣传</title>
       <link>https://www.producthunt.com/posts/paddleboat</link>
-      <description><![CDATA[通过与现实的人工智能买家练习推销电话，提高你的推销能力！从人工智能买家列表中进行选择，或者根据您的业务环境，根据可定制的个性、反对意见和说明创建您自己的买家。    ]]></description>
+      <description><![CDATA[通过与现实的 AI 买家练习电话销售，提高您的销售能力！从 AI 买家列表中进行选择，或根据您的业务环境定制自己的个性、反对意见和说明。    ]]></description>
       <guid>https://www.producthunt.com/posts/paddleboat</guid>
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -161,7 +161,7 @@ CrawlSpider 使流程自动化，优化长尾排名，同时节省您的时间�
     <item>
       <title>neurelo - 将您的数据库转换为 API</title>
       <link>https://www.producthunt.com/posts/neurelo</link>
-      <description><![CDATA[使用 Neurelo 简化您的数据库体验。它通过为 MongoDB、Postgres 和 MySQL 提供即时 AI 驱动的 REST 和 GraphQL API、GitSchema、Observability 等，消除了许多数据库工具和复杂性。专注于重要的事情 - 您的代码。     &lt;img src=&quot;https://ph-files.imgix.net/fd6c4f16-5539-47cc-9176-00be031cb854.png?auto=format&amp;amp; ;适合=作物“/&gt;]]></description>
+      <description><![CDATA[使用 Neurelo 简化您的数据库体验。它为 MongoDB、Postgres 和 MySQL 提供即时 AI 驱动的 REST 和 GraphQL API、GitSchema、可观察性等，从而消除了许多数据库工具和复杂性。专注于重要的事情 - 您的代码。     ]]></description>
       <guid>https://www.producthunt.com/posts/neurelo</guid>
       <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
     </item>
