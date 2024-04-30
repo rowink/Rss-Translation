@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt 今日热门</title>
+    <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
-    <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 30 Apr 2024 03:07:45 GMT</lastBuildDate>
+    <description>产品搜寻今日流行 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Tue, 30 Apr 2024 06:09:59 GMT</lastBuildDate>
     <item>
       <title>saasykit - 快速启动您的 SaaS</title>
       <link>https://www.producthunt.com/posts/saasykit</link>
@@ -15,14 +15,14 @@
     <item>
       <title>intellecta-2 - 人工智能驱动的客户体验</title>
       <link>https://www.producthunt.com/posts/intellecta-2</link>
-      <description><![CDATA[Intellecta 根据您公司的数据进行训练，并使用 GPT 模型通过聊天、社交媒体和电子邮件等各种平台响应客户的询问。就像拥有自己的聊天 gpt 一样。   ]]></description>
+      <description><![CDATA[Intellecta 根据您公司的数据进行培训，并使用 GPT 模型来响应跨各种平台（例如聊天、社交媒体和电子邮件）的客户询问。这就像拥有自己的聊天 gpt。    ]]></description>
       <guid>https://www.producthunt.com/posts/intellecta-2</guid>
       <pubDate>Mon, 29 Apr 2024 07:21:32 GMT</pubDate>
     </item>
     <item>
       <title>my-legacy-ai - 对话式、安全且经济实惠的遗产规划平台</title>
       <link>https://www.producthunt.com/posts/my-legacy-ai</link>
-      <description><![CDATA[My-Legacy.ai 是一个专为遗产规划相关服务而构建的平台。通过我们由 12 项正在申请的专利支持的 AI 平台，获得即时答案、个性化建议、可操作的工作流程和房地产律师参考。       ]]></description>
+      <description><![CDATA[My-Legacy.ai 是一个为遗产规划相关服务而构建的专业平台。通过我们由 12 项待决专利支持的人工智能平台获得即时答案、个性化建议、可操作的工作流程和遗产律师参考。       &lt;img src=&quot;https://ph-files.imgix.net/bedd40a2-43c6-455a-af17-80a058d703a7.png?auto=format&amp;amp;fit=crop ” /&gt;]]></description>
       <guid>https://www.producthunt.com/posts/my-legacy-ai</guid>
       <pubDate>Mon, 29 Apr 2024 07:16:18 GMT</pubDate>
     </item>
@@ -34,7 +34,7 @@
       <pubDate>Mon, 29 Apr 2024 07:03:42 GMT</pubDate>
     </item>
     <item>
-      <title>Bright-60b17cda-fede-4d2f-8759-3f27988db55d - 您的超级健康应用程序</title>
+      <title>Bright-60b17cda-fede-4d2f-8759-3f27988db55d - 您的超级健康应用程序（抢先体验）</title>
       <link>https://www.producthunt.com/posts/bright-60b17cda-fede-4d2f-8759-3f27988db55d</link>
       <description><![CDATA[Bright 是您的超级健康应用程序。我们将身体重组计划、恢复/压力/运动评分、膳食记录、能量跟踪、睡眠跟踪、心脏监测、营养分析和 100m 营养状况整合到一个平台中。        ]]></description>
       <guid>https://www.producthunt.com/posts/bright-60b17cda-fede-4d2f-8759-3f27988db55d</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>play-ai - AI 语音界面</title>
       <link>https://www.producthunt.com/posts/play-ai</link>
-      <description><![CDATA[PlayAI 是一个全新的实时对话语音 AI 平台，用于创建类似人类的语音代理。它使对话具有情境性，处理轮流、打断、语音能量和情绪调节，以实现自然、流畅和人性化的实时对话。  ]]></description>
+      <description><![CDATA[PlayAI 是一个新的实时会话语音人工智能平台，用于创建类人语音代理。它使对话具有情境性，可处理轮流、中断、语音能量和情绪调制，以实现自然、流畅的实时人类对话。  ]]></description>
       <guid>https://www.producthunt.com/posts/play-ai</guid>
       <pubDate>Mon, 29 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>标准 - 轻松衡量初创公司的基准和价值</title>
       <link>https://www.producthunt.com/posts/yardstick</link>
-      <description><![CDATA[Yardstick 通过提供精确的 KPI 基准和估值工具，彻底改变了初创企业承保方式。深入了解数据驱动的见解，制定明智的投资和增长策略。   ]]></description>
+      <description><![CDATA[Yardstick 通过提供精确的 KPI 基准测试和估值工具，彻底改变了初创公司的承保。深入研究数据驱动的见解，以制定明智的投资和增长策略。   ]]></description>
       <guid>https://www.producthunt.com/posts/yardstick</guid>
       <pubDate>Mon, 29 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>dokploy - Heroku、Vercel 和 Netlify 的开源替代品</title>
       <link>https://www.producthunt.com/posts/dokploy</link>
-      <description><![CDATA[Dokploy 简化了 VPS 上的应用程序部署，将用户友好的界面与强大的 Docker 和 Traefik 集成相结合，以实现最佳性能和安全性，并通过实时监控进行增强。    ]]></description>
+      <description><![CDATA[Dokploy 简化了 VPS 上的应用程序部署，将用户友好的界面与强大的 Docker 和 Traefik 集成相结合，以实现最佳性能和安全性，并通过实时监控进行增强。   ]]></description>
       <guid>https://www.producthunt.com/posts/dokploy</guid>
       <pubDate>Mon, 29 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>rickcenter - AI 乐高生成器、定制小人仔和乐高创作</title>
       <link>https://www.producthunt.com/posts/brickcenter</link>
-      <description><![CDATA[使用 BrickCenter 释放您的创造力！我们的人工智能乐高生成器将您的文本转换为自定义乐高套装。通过照片轻松创建您自己的小人仔，或浏览爱好者制作的独特乐高作品。今天就开始构建您梦想的乐高世界吧！    ]]></description>
+      <description><![CDATA[使用 BrickCenter 释放您的创造力！我们的人工智能乐高生成器将您的文本转换为自定义乐高套装。从照片中轻松创建您自己的小人仔，或浏览爱好者制作的独特乐高作品。从今天开始构建您梦想的乐高世界！    ]]></description>
       <guid>https://www.producthunt.com/posts/brickcenter</guid>
       <pubDate>Sun, 28 Apr 2024 07:14:48 GMT</pubDate>
     </item>
@@ -152,7 +152,7 @@ CrawlSpider 使流程自动化，优化长尾排名，同时节省您的时间�
       <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>langwatch - 理解、衡量和提高你的法学硕士学位</title>
+      <title>langwatch - 了解、衡量和提高您的法学硕士</title>
       <link>https://www.producthunt.com/posts/langwatch</link>
       <description><![CDATA[LangWatch 提供了一个简单的开源平台，可以改进和迭代您当前的 LLM 流程，并降低越狱、敏感数据泄露和幻觉等风险。      ]]></description>
       <guid>https://www.producthunt.com/posts/langwatch</guid>
