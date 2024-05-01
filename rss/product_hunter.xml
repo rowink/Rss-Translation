@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt 今日热门</title>
+    <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 01 May 2024 15:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 18:09:25 GMT</lastBuildDate>
+    <item>
+      <title>claude-for-ios - Anthropic 的官方 AI 助手，在你的后口袋里</title>
+      <link>https://www.producthunt.com/posts/claude-for-ios</link>
+      <description><![CDATA[Anthropic 打造的 AI 助手 Claude 现在可在您的 iPhone 上使用。每当灵感来袭时，通过拍摄或上传照片或开始聊天，即可立即获得有关一系列任务的帮助（从集思广益、写作到编码等）。      ]]></description>
+      <guid>https://www.producthunt.com/posts/claude-for-ios</guid>
+      <pubDate>Wed, 01 May 2024 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>mano - 用你最喜欢的地方和时刻打造你的世界</title>
       <link>https://www.producthunt.com/posts/mano</link>
-      <description><![CDATA[使用 Mano 探索、标记和分享您的旅行！🌍 拍摄并保存宝丽来照片，与朋友聊天，并规划未来的冒险。沉浸在充满乐趣、联系和发现的世界。立即开始使用 Mano 的旅程！ ✈️📌       ]]></description>
+      <description><![CDATA[与 Mano 一起探索、标记并分享您的旅行！ 🌍 拍摄并固定宝丽来瞬间，与朋友聊天，并计划未来的冒险。潜入一个充满乐趣、联系和发现的世界。今天就开始您与 Mano 的旅程吧！ ✈️📌       ]]></description>
       <guid>https://www.producthunt.com/posts/mano</guid>
       <pubDate>Wed, 01 May 2024 11:49:37 GMT</pubDate>
     </item>
     <item>
       <title>talevideo-2 - 只需点击一下即可将流畅的屏幕录制转为 3D</title>
       <link>https://www.producthunt.com/posts/talevideo-2</link>
-      <description><![CDATA[使用流畅的鼠标录制您的屏幕，然后一键将其转换为 3D。让您的视频脱颖而出，同时使用预设模板和场景节省编辑时间。   ]]></description>
+      <description><![CDATA[使用流畅的鼠标录制屏幕，一键将其转换为 3D。使用预设模板和场景让您的视频脱颖而出，同时节省编辑时间。   ]]></description>
       <guid>https://www.producthunt.com/posts/talevideo-2</guid>
       <pubDate>Wed, 01 May 2024 11:46:18 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>arc-for-windows - 不再有等待名单，不再有测试版</title>
       <link>https://www.producthunt.com/posts/arc-for-windows</link>
-      <description><![CDATA[这并不是我们 Windows 之旅的结束 —— 这只是第一天。现在真正的工作才刚刚开始。预计性能改进、新功能、对 Windows 10 的支持等将在未来几周和几个月内推出。   ]]></description>
+      <description><![CDATA[这并不是我们的 Windows 之旅的结束 — 这只是第一天。现在真正的工作开始了。预计性能改进、新功能、对 Windows 10 的支持等将在未来几周和几个月内下降。   ]]></description>
       <guid>https://www.producthunt.com/posts/arc-for-windows</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
@@ -78,19 +85,19 @@
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
+      <title>noodle4-ai - 使用 AI 审查 UGC 和影响者内容的速度提高了 70%</title>
+      <link>https://www.producthunt.com/posts/noodle4-ai</link>
+      <description><![CDATA[通过为品牌/机构提供插件和服务，我们可以将内容审核减少高达 70%。玩AI平台。我们定制的法学硕士允许您上传摘要文档和所有相关内容，Noodle4 将在简单的用户体验中根据摘要分析内容。   ]]></description>
+      <guid>https://www.producthunt.com/posts/noodle4-ai</guid>
+      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
       <title>stables-money - 用你的稳定币做更多事情</title>
       <link>https://www.producthunt.com/posts/stables-money</link>
       <description><![CDATA[在 Stables，我们不仅仅是稳定币的粉丝。我们非常着迷。我们相信它们是通往财务自由的大门。
 
 这就是为什么我们的使命是让它们在任何地方都能访问和接受。   &lt; img src=&quot;https://ph-files.imgix.net/39b96322-d41a-47b4-a8cb-67d24ef01915.png?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
       <guid>https://www.producthunt.com/posts/stables-money</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>noodle4-ai - 使用 AI 审查 UGC 和影响者内容的速度提高了 70%</title>
-      <link>https://www.producthunt.com/posts/noodle4-ai</link>
-      <description><![CDATA[通过为品牌/机构提供插件和服务，我们可以将内容审核减少高达 70%。玩AI平台。我们定制的法学硕士允许您上传摘要文档和所有相关内容，Noodle4 将在简单的用户体验中根据摘要分析内容。   ]]></description>
-      <guid>https://www.producthunt.com/posts/noodle4-ai</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -110,7 +117,7 @@
     <item>
       <title>Channels-by-dovetail - 将用户反馈转化为实时见解</title>
       <link>https://www.producthunt.com/posts/channels-by-dovetail</link>
-      <description><![CDATA[Channels 使用机器学习对大量的支持请求、应用程序评论和用户反馈进行自动分类，提供实时见解以促进产品决策。这是 Dovetail（全球产品团队使用的客户洞察中心）的最新版本。   &lt; img src=&quot;https://ph-files.imgix.net/4ecee705-930a-4417-be82-ae5c5b250f76.png?auto=format&amp;fit=crop&quot; /&gt;   &lt;img src=&quot;https://ph-files.imgix.net/47ec3f97-3c65-4828-a424-7d1a3f50cf09.png?auto=format&amp;amp;fit =作物”/&gt;]]></description>
+      <description><![CDATA[Channels 使用 ML 自动对大量支持票、应用评论和用户反馈进行分类，提供实时见解以支持产品决策。这是 Dovetail 的最新版本，Dovetail 是全球产品团队使用的客户洞察中心。      ]]></description>
       <guid>https://www.producthunt.com/posts/channels-by-dovetail</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
@@ -152,11 +159,11 @@
     <item>
       <title>产品团队的会议记录器 - AI 转录，无呼叫机器人 - 适用于 Zoom、Teams 和 Meet</title>
       <link>https://www.producthunt.com/posts/meeting-recorder-for-product-teams</link>
-      <description><![CDATA[记录用户访谈，而无需奇怪的机器人加入您的通话（适用于 Zoom、Teams 和 Meet）。
+      <description><![CDATA[记录用户访谈，无需奇怪的机器人加入您的通话（适用于 Zoom、Teams 和 Meet）。
 
-通过一流的 AI 转录和自定义 AI 摘要集中所有录音。
+使用一流的 AI 转录和自定义 AI 摘要集中所有录音。
 
-与您的团队分享一切。  &lt; img src=&quot;https://ph-files.imgix.net/0b26aa9d-e316-466c-99d8-05159eae91af.png?auto=format&amp;fit=crop&quot; /&gt;      ]]></description>
+与您的团队分享一切。        ]]></description>
       <guid>https://www.producthunt.com/posts/meeting-recorder-for-product-teams</guid>
       <pubDate>Tue, 30 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -193,12 +200,12 @@
     <item>
       <title>langwatch - 了解、衡量和提高您的法学硕士</title>
       <link>https://www.producthunt.com/posts/langwatch</link>
-      <description><![CDATA[LangWatch 提供了一个简单的开源平台，可以改进和迭代您当前的 LLM 流程，并降低越狱、敏感数据泄露和幻觉等风险。      ]]></description>
+      <description><![CDATA[LangWatch 提供了一个简单的开源平台来改进和迭代您当前的 LLM 管道，以及降低越狱、敏感数据泄露和幻觉等风险。      ]]></description>
       <guid>https://www.producthunt.com/posts/langwatch</guid>
       <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>neurelo - 将您的数据库转换为 API</title>
+      <title>neurelo - 将你的数据库转换为 API</title>
       <link>https://www.producthunt.com/posts/neurelo</link>
       <description><![CDATA[使用 Neurelo 简化您的数据库体验。它通过为 MongoDB、Postgres 和 MySQL 提供即时 AI 驱动的 REST 和 GraphQL API、GitSchema、Observability 等，消除了许多数据库工具和复杂性。专注于重要的事情 - 您的代码。     &lt;img src=&quot;https://ph-files.imgix.net/fd6c4f16-5539-47cc-9176-00be031cb854.png?auto=format&amp;amp; ;适合=作物“/&gt;]]></description>
       <guid>https://www.producthunt.com/posts/neurelo</guid>
