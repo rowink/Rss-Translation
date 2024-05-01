@@ -1,50 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>今日热门产品搜寻</title>
+    <title>Product Hunt 今日热门</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 01 May 2024 12:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 15:04:07 GMT</lastBuildDate>
     <item>
-      <title>arc-for-windows - 不再有等待名单，不再有测试版</title>
-      <link>https://www.producthunt.com/posts/arc-for-windows</link>
-      <description><![CDATA[这并不是我们的 Windows 之旅的结束 — 这只是第一天。现在真正的工作开始了。预计性能改进、新功能、对 Windows 10 的支持等将在未来几周和几个月内下降。   ]]></description>
-      <guid>https://www.producthunt.com/posts/arc-for-windows</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
+      <title>mano - 用你最喜欢的地方和时刻打造你的世界</title>
+      <link>https://www.producthunt.com/posts/mano</link>
+      <description><![CDATA[使用 Mano 探索、标记和分享您的旅行！🌍 拍摄并保存宝丽来照片，与朋友聊天，并规划未来的冒险。沉浸在充满乐趣、联系和发现的世界。立即开始使用 Mano 的旅程！ ✈️📌       ]]></description>
+      <guid>https://www.producthunt.com/posts/mano</guid>
+      <pubDate>Wed, 01 May 2024 11:49:37 GMT</pubDate>
     </item>
     <item>
-      <title>datashake-hub - 无代码数据聚合和导出</title>
-      <link>https://www.producthunt.com/posts/datashake-hub</link>
-      <description><![CDATA[Datashake Hub 是一个无代码用户界面，使分析师和数据科学家能够轻松聚合大量数据，并将其导出到 BI/社交监听工具中。例如：收集 30k 多个地点的所有麦当劳评论进行分析。     ]]></description>
-      <guid>https://www.producthunt.com/posts/datashake-hub</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
+      <title>talevideo-2 - 只需点击一下即可将流畅的屏幕录制转为 3D</title>
+      <link>https://www.producthunt.com/posts/talevideo-2</link>
+      <description><![CDATA[使用流畅的鼠标录制您的屏幕，然后一键将其转换为 3D。让您的视频脱颖而出，同时使用预设模板和场景节省编辑时间。   ]]></description>
+      <guid>https://www.producthunt.com/posts/talevideo-2</guid>
+      <pubDate>Wed, 01 May 2024 11:46:18 GMT</pubDate>
     </item>
     <item>
-      <title>rankify - 即时 AI SEO 关键词研究生成器</title>
-      <link>https://www.producthunt.com/posts/rankify</link>
-      <description><![CDATA[真正有效的人工智能 SEO 关键字研究 - 描述您的业务，输入种子关键字，或从语义上描述您想要查找的关键字，Rankify 将为您的网站找到完美的关键字。     ]]></description>
-      <guid>https://www.producthunt.com/posts/rankify</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
+      <title>jslog - JavaScript 和 TypeScript 游乐场</title>
+      <link>https://www.producthunt.com/posts/jslog</link>
+      <description><![CDATA[简单的 JavaScript 和 TypeScript 游乐场。  &lt; img src=&quot;https://ph-files.imgix.net/fa4db318-07cd-4a09-8af2-bca372f6ecb2.png?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
+      <guid>https://www.producthunt.com/posts/jslog</guid>
+      <pubDate>Wed, 01 May 2024 10:57:03 GMT</pubDate>
     </item>
     <item>
-      <title>noodle4-ai - 使用 AI 审查 UGC 和影响者内容的速度提高了 70%</title>
-      <link>https://www.producthunt.com/posts/noodle4-ai</link>
-      <description><![CDATA[通过为品牌/机构提供插件和服务，我们可以将内容审核减少高达 70%。玩AI平台。我们定制的法学硕士允许您上传摘要文档和所有相关内容，Noodle4 将在简单的用户体验中根据摘要分析内容。   ]]></description>
-      <guid>https://www.producthunt.com/posts/noodle4-ai</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Channels-by-dovetail - 将用户反馈转化为实时见解</title>
-      <link>https://www.producthunt.com/posts/channels-by-dovetail</link>
-      <description><![CDATA[Channels 使用机器学习对大量的支持请求、应用程序评论和用户反馈进行自动分类，提供实时见解以促进产品决策。这是 Dovetail（全球产品团队使用的客户洞察中心）的最新版本。   &lt; img src=&quot;https://ph-files.imgix.net/4ecee705-930a-4417-be82-ae5c5b250f76.png?auto=format&amp;fit=crop&quot; /&gt;   &lt;img src=&quot;https://ph-files.imgix.net/47ec3f97-3c65-4828-a424-7d1a3f50cf09.png?auto=format&amp;amp;fit =作物”/&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/channels-by-dovetail</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>gridlite - 自动分摊水电费的最简单方法</title>
-      <link>https://www.producthunt.com/posts/gridlite</link>
-      <description><![CDATA[GridLite 是一款自动与室友分摊每月水电费的应用程序。立即注册即可轻松分摊费用并更清楚地了解您的分摊账单。最多 3 名室友免费。目前在纽约市提供。    ]]></description>
-      <guid>https://www.producthunt.com/posts/gridlite</guid>
+      <title>stackradar - 精选的互联网上最好的工具</title>
+      <link>https://www.producthunt.com/posts/stackradar</link>
+      <description><![CDATA[Stackradar 是经过审查的技术工具，可帮助各种个人和企业了解、构建、集成和扩展其技术堆栈 🚀     ]]></description>
+      <guid>https://www.producthunt.com/posts/stackradar</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -52,6 +38,27 @@
       <link>https://www.producthunt.com/posts/loom-ai-workflows</link>
       <description><![CDATA[如果您的工作流程以 Loom 视频开始和结束怎么办？现在您可以说出来、展示出来，然后让 Loom 为您编写：最好、最简单的视频消息软件现在可以实现有效的视频和书面沟通。介绍 Loom AI 工作流程。    ]]></description>
       <guid>https://www.producthunt.com/posts/loom-ai-workflows</guid>
+      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>arc-for-windows - 不再有等待名单，不再有测试版</title>
+      <link>https://www.producthunt.com/posts/arc-for-windows</link>
+      <description><![CDATA[这并不是我们 Windows 之旅的结束 —— 这只是第一天。现在真正的工作才刚刚开始。预计性能改进、新功能、对 Windows 10 的支持等将在未来几周和几个月内推出。   ]]></description>
+      <guid>https://www.producthunt.com/posts/arc-for-windows</guid>
+      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>mindtrip - 人工智能旅行平台，为您提供个性化服务</title>
+      <link>https://www.producthunt.com/posts/mindtrip</link>
+      <description><![CDATA[Mindtrip 是一个旅行平台，它将对话式人工智能与专有的旅行知识库相结合，提供准确、可操作且一站式的个性化旅行体验。       ]]></description>
+      <guid>https://www.producthunt.com/posts/mindtrip</guid>
+      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>idea-spark-4 - 帮助个体企业家验证想法的便捷工具</title>
+      <link>https://www.producthunt.com/posts/idea-spark-4</link>
+      <description><![CDATA[Idea Spark 是通过智能验证系统发现和评估新应用创意的完美工具。         ]]></description>
+      <guid>https://www.producthunt.com/posts/idea-spark-4</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -64,21 +71,14 @@
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>stackradar - 精选互联网上最好的工具</title>
-      <link>https://www.producthunt.com/posts/stackradar</link>
-      <description><![CDATA[Stackradar 是经过审查的技术工具，可帮助各种个人和企业了解、构建、集成和扩展其技术堆栈 🚀     ]]></description>
-      <guid>https://www.producthunt.com/posts/stackradar</guid>
+      <title>datashake-hub - 无代码数据聚合和导出</title>
+      <link>https://www.producthunt.com/posts/datashake-hub</link>
+      <description><![CDATA[Datashake Hub 是一个无代码用户界面，使分析师和数据科学家能够轻松聚合大量数据，并将其导出到 BI/社交监听工具中。例如：收集 30k 多个地点的所有麦当劳评论进行分析。     ]]></description>
+      <guid>https://www.producthunt.com/posts/datashake-hub</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>mindtrip - 人工智能旅行平台，为您提供个性化服务</title>
-      <link>https://www.producthunt.com/posts/mindtrip</link>
-      <description><![CDATA[Mindtrip 是一个旅行平台，它将对话式人工智能与专有的旅行知识库相结合，提供准确、可操作且一站式的个性化旅行体验。       ]]></description>
-      <guid>https://www.producthunt.com/posts/mindtrip</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>stables-money - 使用稳定币做更多事情</title>
+      <title>stables-money - 用你的稳定币做更多事情</title>
       <link>https://www.producthunt.com/posts/stables-money</link>
       <description><![CDATA[在 Stables，我们不仅仅是稳定币的粉丝。我们非常着迷。我们相信它们是通往财务自由的大门。
 
@@ -87,10 +87,38 @@
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>idea-spark-4 - 帮助个体企业家验证想法的便捷工具</title>
-      <link>https://www.producthunt.com/posts/idea-spark-4</link>
-      <description><![CDATA[Idea Spark 是通过智能验证系统发现和评估新应用创意的完美工具。         ]]></description>
-      <guid>https://www.producthunt.com/posts/idea-spark-4</guid>
+      <title>noodle4-ai - 使用 AI 审查 UGC 和影响者内容的速度提高了 70%</title>
+      <link>https://www.producthunt.com/posts/noodle4-ai</link>
+      <description><![CDATA[通过为品牌/机构提供插件和服务，我们可以将内容审核减少高达 70%。玩AI平台。我们定制的法学硕士允许您上传摘要文档和所有相关内容，Noodle4 将在简单的用户体验中根据摘要分析内容。   ]]></description>
+      <guid>https://www.producthunt.com/posts/noodle4-ai</guid>
+      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>rankify - 即时 AI SEO 关键词研究生成器</title>
+      <link>https://www.producthunt.com/posts/rankify</link>
+      <description><![CDATA[真正有效的人工智能 SEO 关键字研究 - 描述您的业务，输入种子关键字，或从语义上描述您想要查找的关键字，Rankify 将为您的网站找到完美的关键字。     ]]></description>
+      <guid>https://www.producthunt.com/posts/rankify</guid>
+      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>gridlite - 自动分摊水电费的最简单方法</title>
+      <link>https://www.producthunt.com/posts/gridlite</link>
+      <description><![CDATA[GridLite 是一款自动与室友分摊每月水电费的应用程序。立即注册即可轻松分摊费用并更清楚地了解您的分摊账单。最多 3 名室友免费。目前在纽约市提供。    ]]></description>
+      <guid>https://www.producthunt.com/posts/gridlite</guid>
+      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Channels-by-dovetail - 将用户反馈转化为实时见解</title>
+      <link>https://www.producthunt.com/posts/channels-by-dovetail</link>
+      <description><![CDATA[Channels 使用机器学习对大量的支持请求、应用程序评论和用户反馈进行自动分类，提供实时见解以促进产品决策。这是 Dovetail（全球产品团队使用的客户洞察中心）的最新版本。   &lt; img src=&quot;https://ph-files.imgix.net/4ecee705-930a-4417-be82-ae5c5b250f76.png?auto=format&amp;fit=crop&quot; /&gt;   &lt;img src=&quot;https://ph-files.imgix.net/47ec3f97-3c65-4828-a424-7d1a3f50cf09.png?auto=format&amp;amp;fit =作物”/&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/channels-by-dovetail</guid>
+      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>sprig-feedback - 在您的产品或网站中捕获持续反馈</title>
+      <link>https://www.producthunt.com/posts/sprig-feedback</link>
+      <description><![CDATA[通过 Sprig Feedback 始终了解用户的想法。首先，在您的产品或网站中轻松捕获持续的用户反馈。然后，立即使用 AI 分析响应并获取建议，以释放产品的全部潜力。   &lt; img src=&quot;https://ph-files.imgix.net/dc7f4bff-7d9a-4c30-8c15-341bd80ba931.png?auto=format&amp;fit=crop&quot; /&gt;  ]]></description>
+      <guid>https://www.producthunt.com/posts/sprig-feedback</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -108,7 +136,7 @@
       <pubDate>Tue, 30 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>otterly-ai - 您的品牌和内容在人工智能搜索中的可见度如何？</title>
+      <title>otterly-ai - 您的品牌和内容在 AI 搜索中的可见度如何？</title>
       <link>https://www.producthunt.com/posts/otterly-ai</link>
       <description><![CDATA[Otterly.AI 是内容和内容的新方式。人工智能驱动的搜索体验的品牌监控。监控您的品牌、内容、竞争对手或任何其他提示。       ]]></description>
       <guid>https://www.producthunt.com/posts/otterly-ai</guid>
@@ -117,7 +145,7 @@
     <item>
       <title>outerbase-2-0 - 使用 AI 导航您的数据</title>
       <link>https://www.producthunt.com/posts/outerbase-2-0</link>
-      <description><![CDATA[Outerbase 是您的数据库的 AI 驱动界面。允许您和您的团队使用 SQL 或自然语言查看、查询和可视化您的数据。 Outerbase 2.0 引入了许多令人兴奋的新功能，包括原生应用程序、移动体验等......    ]]></description>
+      <description><![CDATA[Outerbase 是由人工智能驱动的数据库界面。允许您和您的团队使用 SQL 或自然语言查看、查询和可视化您的数据。 Outerbase 2.0 引入了许多令人兴奋的新功能，包括本机应用程序、移动体验以及...    ]]></description>
       <guid>https://www.producthunt.com/posts/outerbase-2-0</guid>
       <pubDate>Tue, 30 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -126,7 +154,7 @@
       <link>https://www.producthunt.com/posts/meeting-recorder-for-product-teams</link>
       <description><![CDATA[记录用户访谈，而无需奇怪的机器人加入您的通话（适用于 Zoom、Teams 和 Meet）。
 
-使用一流的 AI 转录和自定义 AI 摘要集中所有录音。
+通过一流的 AI 转录和自定义 AI 摘要集中所有录音。
 
 与您的团队分享一切。  &lt; img src=&quot;https://ph-files.imgix.net/0b26aa9d-e316-466c-99d8-05159eae91af.png?auto=format&amp;fit=crop&quot; /&gt;      ]]></description>
       <guid>https://www.producthunt.com/posts/meeting-recorder-for-product-teams</guid>
@@ -144,14 +172,14 @@
     <item>
       <title>明轮船 - 通过逼真的 AI 角色扮演完善您的销售宣传</title>
       <link>https://www.producthunt.com/posts/paddleboat</link>
-      <description><![CDATA[通过与现实的 AI 买家练习电话销售，提高您的销售能力！从 AI 买家列表中进行选择，或根据您的业务环境定制自己的个性、反对意见和说明。    ]]></description>
+      <description><![CDATA[通过与现实的人工智能买家练习推销电话，提高你的销售说服力！从人工智能买家列表中进行选择，或者根据您的业务环境，根据可定制的个性、反对意见和说明创建您自己的买家。    ]]></description>
       <guid>https://www.producthunt.com/posts/paddleboat</guid>
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
       <title>Assista-ai - 适用于所有生产力应用程序的中枢神经系统</title>
       <link>https://www.producthunt.com/posts/assista-ai</link>
-      <description><![CDATA[Assista 利用人工智能改变企业生产力，实现对多个应用程序的语音或文本命令控制。简化任务，提高效率，轻松缩短完成时间。     ]]></description>
+      <description><![CDATA[Assista 通过人工智能转变企业生产力，支持对多个应用程序进行语音或文本命令控制。轻松简化任务、提高效率并缩短完成时间。     ]]></description>
       <guid>https://www.producthunt.com/posts/assista-ai</guid>
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
