@@ -3,12 +3,12 @@
   <channel>
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
-    <description>Product Hunt 今日热门 - 由 RSSHub 精心制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 30 Apr 2024 21:03:29 GMT</lastBuildDate>
+    <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Wed, 01 May 2024 00:32:06 GMT</lastBuildDate>
     <item>
       <title>bigma - 展示您的作品集的新方式</title>
       <link>https://www.producthunt.com/posts/bigma</link>
-      <description><![CDATA[如果您想以一种前所未有的方式展示您的作品集，那么 Bigma 方法就是您的最佳选择：portfolio-as-a-canvas。     ]]></description>
+      <description><![CDATA[如果您想以一种前所未有的方式展示您的作品集，Bigma 方法就是您的最佳选择：将作品集作为画布。     ]]></description>
       <guid>https://www.producthunt.com/posts/bigma</guid>
       <pubDate>Tue, 30 Apr 2024 11:12:41 GMT</pubDate>
     </item>
@@ -22,21 +22,21 @@
     <item>
       <title>microns-v2 - 发现可盈利的待售微型初创公司</title>
       <link>https://www.producthunt.com/posts/microns-v2</link>
-      <description><![CDATA[Microns.io 是一个精心挑选的、用于买卖盈利的自力更生型初创企业的市场。加入 6,000 多名企业家和投资者，寻找下一个初创企业收购机会。     ]]></description>
+      <description><![CDATA[Microns.io 是一个精心策划的市场，用于买卖盈利的自力更生的初创公司。与 6,000 多名企业家和投资者一起寻找下一个创业收购机会。     ]]></description>
       <guid>https://www.producthunt.com/posts/microns-v2</guid>
       <pubDate>Tue, 30 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
       <title>otterly-ai - 您的品牌和内容在人工智能搜索中的可见度如何？</title>
       <link>https://www.producthunt.com/posts/otterly-ai</link>
-      <description><![CDATA[Otterly.AI 是内容和内容的新方式。人工智能驱动的搜索体验的品牌监控。监控您的品牌、内容、竞争对手或任何其他提示。       ]]></description>
+      <description><![CDATA[Otterly.AI 是针对人工智能搜索体验进行内容和品牌监控的新方式。监控您的品牌、内容、竞争对手或任何其他提示。       ]]></description>
       <guid>https://www.producthunt.com/posts/otterly-ai</guid>
       <pubDate>Tue, 30 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
       <title>outerbase-2-0 - 使用 AI 导航您的数据</title>
       <link>https://www.producthunt.com/posts/outerbase-2-0</link>
-      <description><![CDATA[Outerbase 是您的数据库的 AI 驱动界面。允许您和您的团队使用 SQL 或自然语言查看、查询和可视化您的数据。 Outerbase 2.0 引入了许多令人兴奋的新功能，包括原生应用程序、移动体验等......    ]]></description>
+      <description><![CDATA[Outerbase 是由人工智能驱动的数据库界面。允许您和您的团队使用 SQL 或自然语言查看、查询和可视化您的数据。 Outerbase 2.0 引入了许多令人兴奋的新功能，包括本机应用程序、移动体验以及...    ]]></description>
       <guid>https://www.producthunt.com/posts/outerbase-2-0</guid>
       <pubDate>Tue, 30 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -61,19 +61,19 @@
       <pubDate>Tue, 30 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
+      <title>Turnip - 自由职业者的时间跟踪</title>
+      <link>https://www.producthunt.com/posts/turnip</link>
+      <description><![CDATA[使用专为自由职业者和小型企业设计的时间跟踪应用程序来重新利用您的时间。
+
+Turnip 可让您轻松跟踪您的工作时间，并自动与您已使用的服务同步。      ]]></description>
+      <guid>https://www.producthunt.com/posts/turnip</guid>
+      <pubDate>Tue, 30 Apr 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
       <title>survei - 您的用户有发言权 - 倾听、学习、改进</title>
       <link>https://www.producthunt.com/posts/survei</link>
       <description><![CDATA[调查：轻量级反馈和反馈网站的主要工具。没有膨胀，只有结果。轻松集成，可操作的见解。提供免费计划。立即开始！       ]]></description>
       <guid>https://www.producthunt.com/posts/survei</guid>
-      <pubDate>Tue, 30 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Turnip - 自由职业者的时间跟踪</title>
-      <link>https://www.producthunt.com/posts/turnip</link>
-      <description><![CDATA[使用专为自由职业者和小型企业设计的时间跟踪应用程序来重新掌控您的时间。
-
-Turnip 可让您在工作时轻松跟踪时间，并自动与您已使用的服务同步。      ]]></description>
-      <guid>https://www.producthunt.com/posts/turnip</guid>
       <pubDate>Tue, 30 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -86,7 +86,7 @@ Turnip 可让您在工作时轻松跟踪时间，并自动与您已使用的服�
       <pubDate>Tue, 30 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>credible-3986ea0e-b2b5-4dd8-b910-b949366c3a09 - 使用实时警报停止说“喜欢”和其他填充词</title>
+      <title>credible-3986ea0e-b2b5-4dd8-b910-b949366c3a09 - 停止说“喜欢”和其他具有实时警报的填充物</title>
       <link>https://www.producthunt.com/posts/credible-3986ea0e-b2b5-4dd8-b910-b949366c3a09</link>
       <description><![CDATA[Credible 是一款个人演讲教练，可以帮助您停止说“喜欢”、“嗯”、“你知道”和其他填充词，从而更自信、更有效地说话。该应用程序会检测填充词并立即通过手机或手表上的通知提醒您。   &lt; img src=&quot;https://ph-files.imgix.net/6b6ea15b-23d2-4149-965e-38d036c10ed6.png?auto=format&amp;fit=crop&quot; /&gt;  ]]></description>
       <guid>https://www.producthunt.com/posts/credible-3986ea0e-b2b5-4dd8-b910-b949366c3a09</guid>
@@ -95,7 +95,7 @@ Turnip 可让您在工作时轻松跟踪时间，并自动与您已使用的服�
     <item>
       <title>vidgenesis - 一键将您的想法变成专业视频</title>
       <link>https://www.producthunt.com/posts/vidgenesis</link>
-      <description><![CDATA[VidGenesis（测试版）是一款先进的文本转视频平台，只需在手机上单击一下，即可生成由人工智能驱动的、可随时分享的任何主题的短视频。100 多种精选风格供您选择，为您的视频增添艺术气息！现在就试试吧！    ]]></description>
+      <description><![CDATA[VidGenesis（测试版）是一款尖端的文本到视频平台，可生成人工智能驱动的视频，只需直接在手机上点击一下即可分享任何主题的短视频。有 100 多种精选风格可供选择，为您的视频增添艺术气息！立即尝试！    ]]></description>
       <guid>https://www.producthunt.com/posts/vidgenesis</guid>
       <pubDate>Tue, 30 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -142,9 +142,9 @@ Turnip 可让您在工作时轻松跟踪时间，并自动与您已使用的服�
       <pubDate>Mon, 29 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>明轮船 - 通过逼真的 AI 角色扮演完善您的销售宣传</title>
+      <title>paddleboat - 通过逼真的 AI 角色扮演完善你的销售宣传</title>
       <link>https://www.producthunt.com/posts/paddleboat</link>
-      <description><![CDATA[通过与现实的人工智能买家练习推销电话，提高你的销售说服力！从人工智能买家列表中进行选择，或者根据您的业务环境，根据可定制的个性、反对意见和说明创建您自己的买家。    ]]></description>
+      <description><![CDATA[通过与现实的人工智能买家练习推销电话，提高你的推销能力！从人工智能买家列表中进行选择，或者根据您的业务环境，根据可定制的个性、反对意见和说明创建您自己的买家。    ]]></description>
       <guid>https://www.producthunt.com/posts/paddleboat</guid>
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -170,9 +170,9 @@ Turnip 可让您在工作时轻松跟踪时间，并自动与您已使用的服�
       <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>neurelo - 将你的数据库转换为 API</title>
+      <title>neurelo - 将您的数据库转换为 API</title>
       <link>https://www.producthunt.com/posts/neurelo</link>
-      <description><![CDATA[使用 Neurelo 简化您的数据库体验。它通过为 MongoDB、Postgres 和 MySQL 提供即时 AI 驱动的 REST 和 GraphQL API、GitSchema、Observability 等，消除了许多数据库工具和复杂性。专注于重要的事情 - 您的代码。     &lt;img src=&quot;https://ph-files.imgix.net/fd6c4f16-5539-47cc-9176-00be031cb854.png?auto=format&amp;amp; ;适合=作物“/&gt;]]></description>
+      <description><![CDATA[使用 Neurelo 简化您的数据库体验。它为 MongoDB、Postgres 和 MySQL 提供即时 AI 驱动的 REST 和 GraphQL API、GitSchema、可观察性等，从而消除了许多数据库工具和复杂性。专注于重要的事情 - 您的代码。     ]]></description>
       <guid>https://www.producthunt.com/posts/neurelo</guid>
       <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
     </item>
