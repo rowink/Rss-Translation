@@ -1,184 +1,184 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>GitHub 上当今最热门的存储库 · GitHub</title>
+    <title>今日 GitHub 上的热门存储库 · GitHub</title>
     <link>https://github.com/trending/?since=daily&spoken_language_code=en</link>
     <description>今日 GitHub 上的热门存储库 · GitHub - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 01 May 2024 06:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 09:05:54 GMT</lastBuildDate>
+    <item>
+      <title>hagezi/dns 阻止列表</title>
+      <link>https://github.com/hagezi/dns-blocklists</link>
+      <description><![CDATA[DNS 阻止列表：为了更好的互联网 - 保持互联网清洁！ 语言：文字星星：3971 叉子：121]]></description>
+      <guid>https://github.com/hagezi/dns-blocklists</guid>
+      <pubDate>Wed, 01 May 2024 09:05:53 GMT</pubDate>
+    </item>
     <item>
       <title>直接/直接</title>
       <link>https://github.com/directus/directus</link>
-      <description><![CDATA[现代数据堆栈 🐰 — Directus 是一个即时 REST+GraphQL API，适用于任何 SQL 数据库的直观无代码数据协作应用程序。 语言：TypeScript 星星：25461 分叉：3538]]></description>
+      <description><![CDATA[现代数据堆栈 🐰 — Directus 是一个即时 REST+GraphQL API，适用于任何 SQL 数据库的直观无代码数据协作应用程序。 语言：TypeScript 星星：25461 叉子：3538]]></description>
       <guid>https://github.com/directus/directus</guid>
-      <pubDate>Wed, 01 May 2024 06:10:22 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:05:53 GMT</pubDate>
     </item>
     <item>
       <title>GreptimeTeam/greptimedb</title>
       <link>https://github.com/GreptimeTeam/greptimedb</link>
-      <description><![CDATA[开源、云原生、分布式时序数据库，支持 PromQL/SQL/Python。在 GreptimeCloud 上可用。 语言：Rust 星星：3777 叉子：273]]></description>
+      <description><![CDATA[语言：Rust 星星：3777 叉子：273]]></description>
       <guid>https://github.com/GreptimeTeam/greptimedb</guid>
-      <pubDate>Wed, 01 May 2024 06:10:21 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:05:52 GMT</pubDate>
     </item>
     <item>
       <title>codecrafters-io/构建你自己的-x</title>
       <link>https://github.com/codecrafters-io/build-your-own-x</link>
-      <description><![CDATA[通过从头开始重新创建您最喜欢的技术来掌握编程。 语言：未知星星：258382 叉子：24518]]></description>
+      <description><![CDATA[通过从头开始重新创建您喜欢的技术来掌握编程。 语言：未知星星：258390 叉子：24518]]></description>
       <guid>https://github.com/codecrafters-io/build-your-own-x</guid>
-      <pubDate>Wed, 01 May 2024 06:10:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>hagezi/dns 阻止列表</title>
-      <link>https://github.com/hagezi/dns-blocklists</link>
-      <description><![CDATA[DNS-Blocklists：为了更好的互联网 - 保持互联网清洁！ 语言：文字星星：3970 叉子：120]]></description>
-      <guid>https://github.com/hagezi/dns-blocklists</guid>
-      <pubDate>Wed, 01 May 2024 06:10:21 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:05:52 GMT</pubDate>
     </item>
     <item>
       <title>服务/服务</title>
       <link>https://github.com/servo/servo</link>
-      <description><![CDATA[Servo，嵌入式、独立、内存安全、模块化、并行网页渲染引擎语言：未知星星：26073 叉子：2912]]></description>
+      <description><![CDATA[Servo，嵌入式、独立、内存安全、模块化、并行网页渲染引擎语言：未知星星：26074 叉子：2912]]></description>
       <guid>https://github.com/servo/servo</guid>
-      <pubDate>Wed, 01 May 2024 06:10:20 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:05:51 GMT</pubDate>
     </item>
     <item>
-      <title>硒基/SeleniumBase</title>
+      <title>seleniumbase/SeleniumBase</title>
       <link>https://github.com/seleniumbase/SeleniumBase</link>
-      <description><![CDATA[📊 Python 的一体化框架，用于网络爬行、抓取、测试，并进行报告。支持pytest。 UC 模式提供隐秘性。包括许多工具。 语言：Python 星星：4266 叉子：891]]></description>
+      <description><![CDATA[📊 Python 的一体化框架，用于网络爬行、抓取、测试，并进行报告。支持pytest。 UC 模式提供隐秘性。包括许多工具。 语言：Python 星星：4268 叉子：891]]></description>
       <guid>https://github.com/seleniumbase/SeleniumBase</guid>
-      <pubDate>Wed, 01 May 2024 06:10:20 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:05:51 GMT</pubDate>
     </item>
     <item>
-      <title>扩增/扩增</title>
+      <title>放大/放大</title>
       <link>https://github.com/amplication/amplication</link>
       <description><![CDATA[🔥🔥🔥 开源后端开发平台。构建可投入生产的服务，而无需在重复编码上浪费时间。 语言：TypeScript 星星：13375 分叉：1361]]></description>
       <guid>https://github.com/amplication/amplication</guid>
-      <pubDate>Wed, 01 May 2024 06:10:19 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:05:50 GMT</pubDate>
     </item>
     <item>
       <title>算法/Rust</title>
       <link>https://github.com/TheAlgorithms/Rust</link>
-      <description><![CDATA[ 所有算法均采用 Rust 实现语言： Rust 星星：第0069章前叉：1975年]]></description>
+      <description><![CDATA[所有算法均采用 Rust 实现语言：Rust 星星： 20071 前叉：1975年]]></description>
       <guid>https://github.com/TheAlgorithms/Rust</guid>
-      <pubDate>Wed, 01 May 2024 06:10:19 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:05:50 GMT</pubDate>
     </item>
     <item>
       <title>很棒的自我托管/很棒的自我托管</title>
       <link>https://github.com/awesome-selfhosted/awesome-selfhosted</link>
-      <description><![CDATA[可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表&lt; br /&gt;语言：未知星星：178600 叉子：8996]]></description>
+      <description><![CDATA[可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表 &lt; br /&gt;语言：未知星星：178605 叉子：8995]]></description>
       <guid>https://github.com/awesome-selfhosted/awesome-selfhosted</guid>
-      <pubDate>Wed, 01 May 2024 06:10:19 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:05:50 GMT</pubDate>
     </item>
     <item>
       <title>大猩猩/网络套接字</title>
       <link>https://github.com/gorilla/websocket</link>
       <description><![CDATA[包 gorilla/websocket 是一个快速、经过充分测试且广泛使用的 Go WebSocket 实现。 语言：Go 星星：21187 叉子：3432]]></description>
       <guid>https://github.com/gorilla/websocket</guid>
-      <pubDate>Wed, 01 May 2024 06:10:18 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:05:49 GMT</pubDate>
     </item>
     <item>
       <title>微软/类型规范</title>
       <link>https://github.com/microsoft/typespec</link>
-      <description><![CDATA[null 语言：TypeScript 星星：2718 货叉：144]]></description>
+      <description><![CDATA[null 语言：TypeScript 星星：2727 货叉：144]]></description>
       <guid>https://github.com/microsoft/typespec</guid>
-      <pubDate>Wed, 01 May 2024 06:10:18 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:05:49 GMT</pubDate>
     </item>
     <item>
       <title>诺科数据库/诺科数据库</title>
       <link>https://github.com/nocodb/nocodb</link>
-      <description><![CDATA[🔥 🔥 🔥 开源 Airtable 替代方案 语言：TypeScript 星星：42525 叉子：2938]]></description>
+      <description><![CDATA[🔥 🔥 🔥 开源 Airtable 替代方案 语言：TypeScript 星星：42527 叉子：2938]]></description>
       <guid>https://github.com/nocodb/nocodb</guid>
-      <pubDate>Wed, 01 May 2024 06:10:17 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:05:48 GMT</pubDate>
     </item>
     <item>
       <title>鹡鸰</title>
       <link>https://github.com/wagtail/wagtail</link>
-      <description><![CDATA[一款专注于灵活性和用户体验的 Django 内容管理系统语言：Python Stars：17227 Forks：3671]]></description>
+      <description><![CDATA[专注于灵活性和用户体验的 Django 内容管理系统 语言：Python 星星：17228 叉子：3671]]></description>
       <guid>https://github.com/wagtail/wagtail</guid>
-      <pubDate>Wed, 01 May 2024 06:10:17 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:05:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿达普/花</title>
+      <link>https://github.com/adap/flower</link>
+      <description><![CDATA[Flower：友好的联邦学习框架语言：Python 星星：4199 分叉：749]]></description>
+      <guid>https://github.com/adap/flower</guid>
+      <pubDate>Wed, 01 May 2024 09:05:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>sherlockchou86/VideoPipe</title>
+      <link>https://github.com/sherlockchou86/VideoPipe</link>
+      <description><![CDATA[跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星：）。 Language: C++ Stars: 778 Forks: 123]]></description>
+      <guid>https://github.com/sherlockchou86/VideoPipe</guid>
+      <pubDate>Wed, 01 May 2024 09:05:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>gitleaks/gitleaks</title>
+      <link>https://github.com/gitleaks/gitleaks</link>
+      <description><![CDATA[使用 Gitleaks 保护和发现秘密 🔑 语言：Go 星星: 15274 货叉: 1312]]></description>
+      <guid>https://github.com/gitleaks/gitleaks</guid>
+      <pubDate>Wed, 01 May 2024 09:05:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>PSF/黑色</title>
+      <link>https://github.com/psf/black</link>
+      <description><![CDATA[不折不扣的 Python 代码格式化程序语言： Python 星星：37417 叉子：2369]]></description>
+      <guid>https://github.com/psf/black</guid>
+      <pubDate>Wed, 01 May 2024 09:05:46 GMT</pubDate>
     </item>
     <item>
       <title>苹果/swift 语法</title>
       <link>https://github.com/apple/swift-syntax</link>
       <description><![CDATA[一组用于解析、检查、生成和转换 Swift 源代码的 Swift 库。 语言：Swift 星星：3020 叉子：376]]></description>
       <guid>https://github.com/apple/swift-syntax</guid>
-      <pubDate>Wed, 01 May 2024 06:10:16 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:05:46 GMT</pubDate>
     </item>
     <item>
-      <title>阿达普/花</title>
-      <link>https://github.com/adap/flower</link>
-      <description><![CDATA[Flower：友好的联邦学习框架语言：Python 星星：4198 分叉：749]]></description>
-      <guid>https://github.com/adap/flower</guid>
-      <pubDate>Wed, 01 May 2024 06:10:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>sherlockchou86/VideoPipe</title>
-      <link>https://github.com/sherlockchou86/VideoPipe</link>
-      <description><![CDATA[跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星：）。 Language: C++ Stars: 775 Forks: 123]]></description>
-      <guid>https://github.com/sherlockchou86/VideoPipe</guid>
-      <pubDate>Wed, 01 May 2024 06:10:16 GMT</pubDate>
+      <title>派丹提克</title>
+      <link>https://github.com/pydantic/pydantic</link>
+      <description><![CDATA[使用 Python 类型提示进行数据验证语言：Python Stars：18709 Forks：1651]]></description>
+      <guid>https://github.com/pydantic/pydantic</guid>
+      <pubDate>Wed, 01 May 2024 09:05:45 GMT</pubDate>
     </item>
     <item>
       <title>sdmg15/程序员应该访问的最佳网站</title>
       <link>https://github.com/sdmg15/Best-websites-a-programmer-should-visit</link>
-      <description><![CDATA[:link：一些对程序员有用的网站。 语言：未知星星：56290 叉子：7228]]></description>
+      <description><![CDATA[:link：一些对程序员有用的网站。 语言：未知星星：56294 叉子：7228]]></description>
       <guid>https://github.com/sdmg15/Best-websites-a-programmer-should-visit</guid>
-      <pubDate>Wed, 01 May 2024 06:10:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>gitleaks/gitleaks</title>
-      <link>https://github.com/gitleaks/gitleaks</link>
-      <description><![CDATA[使用 Gitleaks 保护和发现秘密 🔑 语言：Go 星星: 15271 货叉: 1312]]></description>
-      <guid>https://github.com/gitleaks/gitleaks</guid>
-      <pubDate>Wed, 01 May 2024 06:10:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>PSF/黑色</title>
-      <link>https://github.com/psf/black</link>
-      <description><![CDATA[不妥协的 Python 代码格式化程序语言：Python Stars：37416 Forks：2369]]></description>
-      <guid>https://github.com/psf/black</guid>
-      <pubDate>Wed, 01 May 2024 06:10:15 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:05:45 GMT</pubDate>
     </item>
     <item>
       <title>开发人员-Y/cs-视频课程</title>
       <link>https://github.com/Developer-Y/cs-video-courses</link>
-      <description><![CDATA[包含视频讲座的计算机科学课程列表。 语言：未知星星：64932 叉子：8941]]></description>
+      <description><![CDATA[包含视频讲座的计算机科学课程列表。 语言：未知星星：64934叉子：8941]]></description>
       <guid>https://github.com/Developer-Y/cs-video-courses</guid>
-      <pubDate>Wed, 01 May 2024 06:10:14 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:05:44 GMT</pubDate>
     </item>
     <item>
       <title>狙击/狙击它</title>
       <link>https://github.com/snipe/snipe-it</link>
       <description><![CDATA[免费的开源 IT 资产/许可证管理系统&lt; br /&gt;语言：PHP 星星：9713 叉子：2957]]></description>
       <guid>https://github.com/snipe/snipe-it</guid>
-      <pubDate>Wed, 01 May 2024 06:10:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>派丹提克</title>
-      <link>https://github.com/pydantic/pydantic</link>
-      <description><![CDATA[使用 Python 类型提示进行数据验证语言：Python Stars：18706 Forks：1651]]></description>
-      <guid>https://github.com/pydantic/pydantic</guid>
-      <pubDate>Wed, 01 May 2024 06:10:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>SerenityOS/serenity</title>
-      <link>https://github.com/SerenityOS/serenity</link>
-      <description><![CDATA[Serenity 操作系统 🐞 语言：C++ 星星： 8792 货叉：3095]]></description>
-      <guid>https://github.com/SerenityOS/serenity</guid>
-      <pubDate>Wed, 01 May 2024 06:10:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>langchain-ai/langchain</title>
-      <link>https://github.com/langchain-ai/langchain</link>
-      <description><![CDATA[🦜🔗 构建上下文感知推理应用程序语言：蟒蛇星星：83759 叉子：12880]]></description>
-      <guid>https://github.com/langchain-ai/langchain</guid>
-      <pubDate>Wed, 01 May 2024 06:10:13 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:05:44 GMT</pubDate>
     </item>
     <item>
       <title>水母</title>
       <link>https://github.com/jellyfin/jellyfin</link>
-      <description><![CDATA[自由软件媒体系统语言：C# 星星：2981 7 货叉：2775]]></description>
+      <description><![CDATA[自由软件媒体系统语言：C# 星星： 818 货叉：2775]]></description>
       <guid>https://github.com/jellyfin/jellyfin</guid>
-      <pubDate>Wed, 01 May 2024 06:10:12 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:05:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>SerenityOS/serenity</title>
+      <link>https://github.com/SerenityOS/serenity</link>
+      <description><![CDATA[Serenity 操作系统🐞 语言：C++ 星星：28794 货叉：3095]]></description>
+      <guid>https://github.com/SerenityOS/serenity</guid>
+      <pubDate>Wed, 01 May 2024 09:05:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>langchain-ai/langchain</title>
+      <link>https://github.com/langchain-ai/langchain</link>
+      <description><![CDATA[🦜🔗 构建上下文感知推理应用语言：Python 星星：83768 叉子：12882]]></description>
+      <guid>https://github.com/langchain-ai/langchain</guid>
+      <pubDate>Wed, 01 May 2024 09:05:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
