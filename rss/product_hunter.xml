@@ -4,34 +4,141 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 02 May 2024 09:07:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 12:11:47 GMT</lastBuildDate>
     <item>
-      <title>claude-for-ios - Anthropic 官方 AI 助手，就在你的口袋里</title>
+      <title>1flow - 使用人工智能在几秒钟内启动有针对性的产品内调查</title>
+      <link>https://www.producthunt.com/posts/1flow</link>
+      <description><![CDATA[1Flow 可让您在正确的时间发送正确的调查问卷，操作非常简单。产品经理和用户研究团队喜欢它，因为它能提供快速、可操作的反馈，缩短研究时间。创始人喜欢它，因为它能提供更好的洞察力来打造人们想要的产品。       ]]></description>
+      <guid>https://www.producthunt.com/posts/1flow</guid>
+      <pubDate>Thu, 02 May 2024 07:46:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>querypal-2 - 从您的公司知识中立即获得人工智能驱动的答案</title>
+      <link>https://www.producthunt.com/posts/querypal-2</link>
+      <description><![CDATA[使用 Slack 的 AI 聊天助手 QueryPal 节省工作时间。它使用来自 Google Drive、Notion、Jira、Confluence 等的公司数据自动回答问题。它易于定制且安全。
+免费试用！  &lt; img src=&quot;https://ph-files.imgix.net/3589c4ba-5ff8-4daa-9004-839a861abb03.png?auto=format&amp;fit=crop&quot; /&gt;  ]]></description>
+      <guid>https://www.producthunt.com/posts/querypal-2</guid>
+      <pubDate>Thu, 02 May 2024 07:39:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>playbook-x-gpt - 使用 GPT 搜索图像和视频</title>
+      <link>https://www.producthunt.com/posts/playbook-x-gpt</link>
+      <description><![CDATA[Playbook x GPT 就像与您的媒体库交谈。我们去年开展的活动是什么？我们有任何带有秋天树叶的营销图片吗？
+
+GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适用于 Playbook Teams。  &lt; img src=&quot;https://ph-files.imgix.net/b1c47e59-bcc8-44b7-8e13-5b5a73266e87.jpeg?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
+      <guid>https://www.producthunt.com/posts/playbook-x-gpt</guid>
+      <pubDate>Thu, 02 May 2024 07:37:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>blocksurvey-token-gate-forms-surveys - 令牌门控表格和调查</title>
+      <link>https://www.producthunt.com/posts/blocksurvey-token-gated-forms-surveys</link>
+      <description><![CDATA[为 Web3 受众创建引人入胜的表单和调查。
+
+由于我们与 10 多个区块链的本机集成，只需一键点击即可收集经过验证的钱包地址和社交资料的诚实反馈。
+
+只需几秒钟即可构建您的 Web3 受众群体列表。    ]]></description>
+      <guid>https://www.producthunt.com/posts/blocksurvey-token-gated-forms-surveys</guid>
+      <pubDate>Thu, 02 May 2024 07:34:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>mockey-ai-pro - 5k+ 酷炫的 AI 模型模板，告别无聊的模型</title>
+      <link>https://www.producthunt.com/posts/mockey-ai-pro</link>
+      <description><![CDATA[Mockey 是一款 AI 模型生成器，拥有 25 多个类别的 5000 多个免费模型模板。借助 Mockey Pro，解锁优质 AI 影响者模型捆绑包、可编辑背景、高质量下载、无广告体验等等！    ]]></description>
+      <guid>https://www.producthunt.com/posts/mockey-ai-pro</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>fullwindcss - Tailwind CSS 的额外色调</title>
+      <link>https://www.producthunt.com/posts/fullwindcss</link>
+      <description><![CDATA[有没有觉得 Tailwind 的 11 种色调还不够？希望有灰色 975 或蓝色 550 吗？看看免费工具！
+
+想要轻松访问每种 Tailwind 颜色从 0 到 1000 的每种色调吗？看看付费插件！   ]]></description>
+      <guid>https://www.producthunt.com/posts/fullwindcss</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>featurepanel - 让客户知道所请求的功能何时启动</title>
+      <link>https://www.producthunt.com/posts/featurepanel</link>
+      <description><![CDATA[不要让您的用户在项目的早期阶段离开，让他们订阅更新，并在您提供他们所需的内容后再次让他们使用您的产品。   &lt;img src=&quot;https://ph-files.imgix.net/8413bfcc-1ed5-453a-99de-ba263a5d0064.png?auto=format&amp;amp;fit =作物”/&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/featurepanel</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>y-gy - 一个简单的链接缩短器和 QR 码创建器</title>
+      <link>https://www.producthunt.com/posts/y-gy</link>
+      <description><![CDATA[缩短链接。制作二维码。分析流量。停止机器人。一切都通过 API 完成。邀请你的团队。使用您的域名。如果您愿意，链接将永远存在。     ]]></description>
+      <guid>https://www.producthunt.com/posts/y-gy</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>wizpr-ring - 智能 AI 环，用于即时语音访问 AI</title>
+      <link>https://www.producthunt.com/posts/wizpr-ring</link>
+      <description><![CDATA[最先进的AI环。让人工智能工具和智能家居控制触手可及，无需拿起智能手机即可即时语音访问人工智能。接收窃窃私语以保密您的命令。 WIZPR RING 是基于语音的 AI 交互的未来。      ]]></description>
+      <guid>https://www.producthunt.com/posts/wizpr-ring</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>vitae - 让您使用 AI 创建简历和求职信</title>
+      <link>https://www.producthunt.com/posts/vitae</link>
+      <description><![CDATA[创建自定义简历和求职信，具体到工作描述，只需几分钟（甚至几秒）  ]]></description>
+      <guid>https://www.producthunt.com/posts/vitae</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>airbnb-icons - 来自世界上最伟大偶像的非凡体验</title>
+      <link>https://www.producthunt.com/posts/airbnb-icons</link>
+      <description><![CDATA[Airbnb 正在推出 Icons，这是一种全新的非凡体验类别，由音乐、电影、电视、艺术、体育等领域最伟大的人物主持。图标让您步入梦想的世界。   ]]></description>
+      <guid>https://www.producthunt.com/posts/airbnb-icons</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>nextcommit - 找到你梦想的远程技术工作</title>
+      <link>https://www.producthunt.com/posts/nextcommit</link>
+      <description><![CDATA[该平台为技术候选人在寻找远程工作的整个过程中提供支持，从分析简历到实现获得职位的最终目标。     ]]></description>
+      <guid>https://www.producthunt.com/posts/nextcommit</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>monterey-ai-2-0 - 产品洞察副驾驶</title>
+      <link>https://www.producthunt.com/posts/monterey-ai-2-0</link>
+      <description><![CDATA[Monterey AI 通过支持请求、销售电话和访谈来汇总、分类和分析用户反馈。它触手可及，提供深入、实时和迭代的见解。快速发现需求、开展调查并关闭反馈循环。      &lt;img src=&quot;https://ph-files.imgix.net/ed0cf7b6-ff89-496c-8015-f54ac5a2e9d2.png?auto=format&amp;amp;fit=crop ” /&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/monterey-ai-2-0</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>太平鸟 - 每项营销任务的人工智能副驾驶</title>
+      <link>https://www.producthunt.com/posts/waxwing</link>
+      <description><![CDATA[Waxwing 通过为正确的任务提供正确的背景，将每个营销人员转变为专家级人工智能用户。我们的 MarketingGPT 可以获取数千个案例研究、行业趋势和您的见解，以推荐策略、制定计划并帮助您执行。哇！        ]]></description>
+      <guid>https://www.producthunt.com/posts/waxwing</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>aaread - 快速阅读网页而不累眼睛</title>
+      <link>https://www.producthunt.com/posts/aaread</link>
+      <description><![CDATA[AaRead是您眼睛和大脑的阅读帮手。它使一些字母变得更加粗体，以加快阅读速度并降低工作量。这对于患有多动症、诵读困难症或任何阅读时大脑容易感到无聊的人来说非常有用。    ]]></description>
+      <guid>https://www.producthunt.com/posts/aaread</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>job-boardly - 在几分钟内启动一个功能齐全、SEO 友好的工作板</title>
+      <link>https://www.producthunt.com/posts/job-boardly</link>
+      <description><![CDATA[Job Boardly 允许任何人在几分钟内启动功能齐全、SEO 友好的工作板。使用简单的无代码界面轻松自定义您的工作板，并定制您的板以满足您的利基或行业的需求。支付一次，永久拥有。    ]]></description>
+      <guid>https://www.producthunt.com/posts/job-boardly</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>autopilot-for-slack - Slack 中的即时 AI 从您的所有应用程序中进行解答</title>
+      <link>https://www.producthunt.com/posts/autopilot-for-slack</link>
+      <description><![CDATA[通过所有应用程序在 Slack 中即时获得 AI 答案。     ]]></description>
+      <guid>https://www.producthunt.com/posts/autopilot-for-slack</guid>
+      <pubDate>Thu, 02 May 2024 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>claude-for-ios - Anthropic 的官方 AI 助手，在你的后口袋里</title>
       <link>https://www.producthunt.com/posts/claude-for-ios</link>
       <description><![CDATA[Anthropic 打造的 AI 助手 Claude 现在可在您的 iPhone 上使用。每当灵感来袭时，通过拍摄或上传照片或开始聊天，即可立即获得有关一系列任务的帮助（从集思广益、写作到编码等）。      ]]></description>
       <guid>https://www.producthunt.com/posts/claude-for-ios</guid>
       <pubDate>Wed, 01 May 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>mano - 用你最喜欢的地方和时刻打造你的世界</title>
-      <link>https://www.producthunt.com/posts/mano</link>
-      <description><![CDATA[与 Mano 一起探索、标记并分享您的旅行！ 🌍 拍摄并固定宝丽来瞬间，与朋友聊天，并计划未来的冒险。潜入一个充满乐趣、联系和发现的世界。今天就开始您与 Mano 的旅程吧！ ✈️📌       ]]></description>
-      <guid>https://www.producthunt.com/posts/mano</guid>
-      <pubDate>Wed, 01 May 2024 11:49:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>talevideo-2 - 只需点击一下，流畅的屏幕录制即可转为 3D</title>
-      <link>https://www.producthunt.com/posts/talevideo-2</link>
-      <description><![CDATA[使用流畅的鼠标录制您的屏幕，然后一键将其转换为 3D。让您的视频脱颖而出，同时使用预设模板和场景节省编辑时间。   ]]></description>
-      <guid>https://www.producthunt.com/posts/talevideo-2</guid>
-      <pubDate>Wed, 01 May 2024 11:46:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>jslog - JavaScript 和 TypeScript 游乐场</title>
-      <link>https://www.producthunt.com/posts/jslog</link>
-      <description><![CDATA[简单的 JavaScript 和 TypeScript 游乐场。  &lt; img src=&quot;https://ph-files.imgix.net/fa4db318-07cd-4a09-8af2-bca372f6ecb2.png?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
-      <guid>https://www.producthunt.com/posts/jslog</guid>
-      <pubDate>Wed, 01 May 2024 10:57:03 GMT</pubDate>
     </item>
     <item>
       <title>loom-ai-workflows - 您记录它，Loom 编写它 - 单击即可共享就绪文档</title>
@@ -48,7 +155,7 @@
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>arc-for-windows - 不再有等待名单，不再有测试版</title>
+      <title>arc-for-windows - 您一直在等待的 Chrome 替代品</title>
       <link>https://www.producthunt.com/posts/arc-for-windows</link>
       <description><![CDATA[这并不是我们的 Windows 之旅的结束 — 这只是第一天。现在真正的工作开始了。预计性能改进、新功能、对 Windows 10 的支持等将在未来几周和几个月内下降。   ]]></description>
       <guid>https://www.producthunt.com/posts/arc-for-windows</guid>
@@ -67,114 +174,6 @@
       <description><![CDATA[Idea Spark 是通过智能验证系统发现和评估新应用创意的完美工具。         ]]></description>
       <guid>https://www.producthunt.com/posts/idea-spark-4</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>noodle4-ai - 使用 AI 审查 UGC 和影响者内容的速度提高了 70%</title>
-      <link>https://www.producthunt.com/posts/noodle4-ai</link>
-      <description><![CDATA[通过为品牌/机构提供插件和服务，我们可以将内容审核减少高达 70%。玩AI平台。我们定制的法学硕士允许您上传摘要文档和所有相关内容，Noodle4 将在简单的用户体验中根据摘要分析内容。   ]]></description>
-      <guid>https://www.producthunt.com/posts/noodle4-ai</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>rankify - 即时 AI SEO 关键词研究生成器</title>
-      <link>https://www.producthunt.com/posts/rankify</link>
-      <description><![CDATA[真正有效的人工智能 SEO 关键字研究 - 描述您的业务，输入种子关键字，或从语义上描述您想要查找的关键字，Rankify 将为您的网站找到完美的关键字。     ]]></description>
-      <guid>https://www.producthunt.com/posts/rankify</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>jourable - 用聊天的方式了解健康和健身：人工智能跟踪</title>
-      <link>https://www.producthunt.com/posts/journable</link>
-      <description><![CDATA[人工智能驱动的基于聊天的食物和食物运动卡路里计数器 - 专注于简单、高效和健康功能。
-
-它适用于各种类型的食物、饮料和运动：您祖母的最佳食谱、国际菜肴、饮料和运动。你最喜欢的运动。      ]]></description>
-      <guid>https://www.producthunt.com/posts/journable</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>sprig-feedback - 在您的产品或网站中捕获持续反馈</title>
-      <link>https://www.producthunt.com/posts/sprig-feedback</link>
-      <description><![CDATA[通过 Sprig Feedback 始终了解用户的想法。首先，在您的产品或网站中轻松捕获持续的用户反馈。然后，立即使用 AI 分析响应并获取建议，以释放产品的全部潜力。   &lt; img src=&quot;https://ph-files.imgix.net/dc7f4bff-7d9a-4c30-8c15-341bd80ba931.png?auto=format&amp;fit=crop&quot; /&gt;  ]]></description>
-      <guid>https://www.producthunt.com/posts/sprig-feedback</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>datashake-hub - 无代码数据聚合和导出</title>
-      <link>https://www.producthunt.com/posts/datashake-hub</link>
-      <description><![CDATA[Datashake Hub 是一个无代码用户界面，使分析师和数据科学家能够轻松聚合大量数据，并将其导出到 BI/社交监听工具中。例如：收集 30k 多个地点的所有麦当劳评论进行分析。     ]]></description>
-      <guid>https://www.producthunt.com/posts/datashake-hub</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Channels-by-dovetail - 将用户反馈转化为实时见解</title>
-      <link>https://www.producthunt.com/posts/channels-by-dovetail</link>
-      <description><![CDATA[Channels 使用机器学习对大量的支持请求、应用程序评论和用户反馈进行自动分类，提供实时见解以促进产品决策。这是 Dovetail（全球产品团队使用的客户洞察中心）的最新版本。   &lt; img src=&quot;https://ph-files.imgix.net/4ecee705-930a-4417-be82-ae5c5b250f76.png?auto=format&amp;fit=crop&quot; /&gt;   &lt;img src=&quot;https://ph-files.imgix.net/47ec3f97-3c65-4828-a424-7d1a3f50cf09.png?auto=format&amp;amp;fit =作物”/&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/channels-by-dovetail</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>gridlite - 自动分摊水电费的最简单方法</title>
-      <link>https://www.producthunt.com/posts/gridlite</link>
-      <description><![CDATA[GridLite 是一款自动与室友分摊每月水电费的应用程序。立即注册即可轻松分摊费用并更清楚地了解您的分摊账单。最多 3 名室友免费。目前在纽约市提供。    ]]></description>
-      <guid>https://www.producthunt.com/posts/gridlite</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>stables-money - 用你的稳定币做更多事情</title>
-      <link>https://www.producthunt.com/posts/stables-money</link>
-      <description><![CDATA[在 Stables，我们不仅仅是稳定币的粉丝。我们非常痴迷。我们相信它们是通往财务自由的大门。
-
-这就是为什么我们要让它们在任何地方都可以访问和接受。    ]]></description>
-      <guid>https://www.producthunt.com/posts/stables-money</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>linckr - Linkedin 到 Notion 变得简单</title>
-      <link>https://www.producthunt.com/posts/linckr</link>
-      <description><![CDATA[Linckr 是一个结合了勘探工具和数据丰富的销售运营平台。可根据您的环境轻松定制。  &lt; img src=&quot;https://ph-files.imgix.net/5f1c8de4-6e0a-4498-9310-58a074a86241.png?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
-      <guid>https://www.producthunt.com/posts/linckr</guid>
-      <pubDate>Tue, 30 Apr 2024 09:53:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>microns-v2 - 发现可盈利的待售微型初创公司</title>
-      <link>https://www.producthunt.com/posts/microns-v2</link>
-      <description><![CDATA[Microns.io 是一个精心策划的市场，用于买卖盈利的自力更生的初创公司。与 6,000 多名企业家和投资者一起寻找下一个创业收购机会。     ]]></description>
-      <guid>https://www.producthunt.com/posts/microns-v2</guid>
-      <pubDate>Tue, 30 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>otterly-ai - 您的品牌和内容在人工智能搜索中的可见度如何？</title>
-      <link>https://www.producthunt.com/posts/otterly-ai</link>
-      <description><![CDATA[Otterly.AI 是内容和内容的新方式。人工智能驱动的搜索体验的品牌监控。监控您的品牌、内容、竞争对手或任何其他提示。       ]]></description>
-      <guid>https://www.producthunt.com/posts/otterly-ai</guid>
-      <pubDate>Tue, 30 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>outerbase-2-0 - 使用 AI 导航您的数据</title>
-      <link>https://www.producthunt.com/posts/outerbase-2-0</link>
-      <description><![CDATA[Outerbase 是由人工智能驱动的数据库界面。允许您和您的团队使用 SQL 或自然语言查看、查询和可视化您的数据。 Outerbase 2.0 引入了许多令人兴奋的新功能，包括本机应用程序、移动体验以及...    ]]></description>
-      <guid>https://www.producthunt.com/posts/outerbase-2-0</guid>
-      <pubDate>Tue, 30 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>产品团队的会议记录器 - AI 转录，无呼叫机器人 - 适用于 Zoom、Teams 和 Meet</title>
-      <link>https://www.producthunt.com/posts/meeting-recorder-for-product-teams</link>
-      <description><![CDATA[记录用户访谈，而无需奇怪的机器人加入您的通话（适用于 Zoom、Teams 和 Meet）。
-
-使用一流的 AI 转录和自定义 AI 摘要集中所有录音。
-
-与您的团队分享一切。  &lt; img src=&quot;https://ph-files.imgix.net/0b26aa9d-e316-466c-99d8-05159eae91af.png?auto=format&amp;fit=crop&quot; /&gt;      ]]></description>
-      <guid>https://www.producthunt.com/posts/meeting-recorder-for-product-teams</guid>
-      <pubDate>Tue, 30 Apr 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>沙发-4-0 - 创建观看、阅读、玩耍等内容的列表</title>
-      <link>https://www.producthunt.com/posts/sofa-4-0</link>
-      <description><![CDATA[Sofa 通过创建要观看、阅读、玩耍等的内容列表，帮助您更加有意识地度过休息时间。
-
-使用 4.0，您基本上可以添加任何内容，并通过自定义类别、成分和智能列表扩展 Sofa 以满足您的具体需求。       &lt;img src=&quot;https://ph-files.imgix.net/6817f505-e5e9-4a98-ad73-87977d1f1832.jpeg?auto=format&amp;amp;fit=作物”/&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/sofa-4-0</guid>
-      <pubDate>Tue, 30 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
       <title>明轮船 - 通过逼真的 AI 角色扮演完善您的销售宣传</title>
