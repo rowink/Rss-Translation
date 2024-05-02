@@ -4,7 +4,7 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 02 May 2024 18:08:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 21:03:51 GMT</lastBuildDate>
     <item>
       <title>1flow - 使用人工智能在几秒钟内启动有针对性的产品内调查</title>
       <link>https://www.producthunt.com/posts/1flow</link>
@@ -21,7 +21,7 @@
       <pubDate>Thu, 02 May 2024 07:39:36 GMT</pubDate>
     </item>
     <item>
-      <title>playbook-x-gpt - 使用 GPT 搜索图像和视频</title>
+      <title>playbook-x-gpt - 使用 GPT 搜索您的图像和视频</title>
       <link>https://www.producthunt.com/posts/playbook-x-gpt</link>
       <description><![CDATA[Playbook x GPT 就像与您的媒体库交谈。我们去年开展的活动是什么？我们有任何带有秋天树叶的营销图片吗？
 
@@ -32,16 +32,16 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
     <item>
       <title>blocksurvey-token-gate-forms-surveys - 令牌门控表格和调查</title>
       <link>https://www.producthunt.com/posts/blocksurvey-token-gated-forms-surveys</link>
-      <description><![CDATA[为 Web3 受众创建引人入胜的表单和调查。
+      <description><![CDATA[为 Web3 受众创建引人入胜的表格和调查。
 
-由于我们与 10 多个区块链的本机集成，只需一键点击即可收集经过验证的钱包地址和社交资料的诚实反馈。
+得益于我们与 10 多个区块链的原生集成，只需单击一下即可通过经过验证的钱包地址和社交资料收集诚实的反馈。
 
-只需几秒钟即可构建您的 Web3 受众群体列表。    ]]></description>
+只需几秒钟即可建立您的 Web3 受众列表。    ]]></description>
       <guid>https://www.producthunt.com/posts/blocksurvey-token-gated-forms-surveys</guid>
       <pubDate>Thu, 02 May 2024 07:34:37 GMT</pubDate>
     </item>
     <item>
-      <title>ai-assistant-and-bot-builder - 无需代码，直观构建自定义 AI 助手</title>
+      <title>ai-assistant-and-bot-builder - 无需代码即可直观地构建自定义 AI 助手</title>
       <link>https://www.producthunt.com/posts/ai-assistant-and-bot-builder</link>
       <description><![CDATA[在您选择的任何模型（OpenAI、Azure、Claude）上创建 AI 助手，连接到您的工具和数据库（Firebase、Supabase、Notion、Google Sheets + 使用 AI 生成的自定义工具）。让 AI 在您的产品和网站上为您的用户采取行动。       ]]></description>
       <guid>https://www.producthunt.com/posts/ai-assistant-and-bot-builder</guid>
@@ -50,8 +50,15 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
     <item>
       <title>太平鸟 - 每项营销任务的人工智能副驾驶</title>
       <link>https://www.producthunt.com/posts/waxwing</link>
-      <description><![CDATA[Waxwing 通过为正确的任务提供正确的背景，将每个营销人员变成专业的 AI 用户。我们的 MarketingGPT 可以访问数千个案例研究、行业趋势和您的见解，以推荐策略、制定计划并帮助您执行。哇！        ]]></description>
+      <description><![CDATA[Waxwing 通过为正确的任务提供正确的背景，将每个营销人员转变为专家级人工智能用户。我们的 MarketingGPT 可以获取数千个案例研究、行业趋势和您的见解，以推荐策略、制定计划并帮助您执行。哇！        ]]></description>
       <guid>https://www.producthunt.com/posts/waxwing</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>monterey-ai-2-0 - 产品洞察副驾驶</title>
+      <link>https://www.producthunt.com/posts/monterey-ai-2-0</link>
+      <description><![CDATA[Monterey AI 通过支持请求、销售电话和访谈来汇总、分类和分析用户反馈。它触手可及，提供深入、实时和迭代的见解。快速发现需求、开展调查并关闭反馈循环。      &lt;img src=&quot;https://ph-files.imgix.net/ed0cf7b6-ff89-496c-8015-f54ac5a2e9d2.png?auto=format&amp;amp;fit=crop ” /&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/monterey-ai-2-0</guid>
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -64,31 +71,10 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>monterey-ai-2-0 - 产品洞察副驾驶</title>
-      <link>https://www.producthunt.com/posts/monterey-ai-2-0</link>
-      <description><![CDATA[Monterey AI 通过支持请求、销售电话和访谈来汇总、分类和分析用户反馈。它触手可及，提供深入、实时和迭代的见解。快速发现需求、开展调查并关闭反馈循环。      &lt;img src=&quot;https://ph-files.imgix.net/ed0cf7b6-ff89-496c-8015-f54ac5a2e9d2.png?auto=format&amp;amp;fit=crop ” /&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/monterey-ai-2-0</guid>
-      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>wizpr-ring - 智能 AI 环，用于即时语音访问 AI</title>
       <link>https://www.producthunt.com/posts/wizpr-ring</link>
       <description><![CDATA[最先进的AI环。让人工智能工具和智能家居控制触手可及，无需拿起智能手机即可即时语音访问人工智能。接收窃窃私语以保密您的命令。 WIZPR RING 是基于语音的 AI 交互的未来。      ]]></description>
       <guid>https://www.producthunt.com/posts/wizpr-ring</guid>
-      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>aaread - 快速阅读网页并保持注意力</title>
-      <link>https://www.producthunt.com/posts/aaread</link>
-      <description><![CDATA[AaRead是您眼睛和大脑的阅读帮手。它使一些字母变得更加粗体，以加快阅读速度并降低工作量。这对于患有多动症、诵读困难症或任何阅读时大脑容易感到无聊的人来说非常有用。    ]]></description>
-      <guid>https://www.producthunt.com/posts/aaread</guid>
-      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>mockey-ai-pro - 5k+ 酷炫的 AI 模型模板，再见无聊的模型</title>
-      <link>https://www.producthunt.com/posts/mockey-ai-pro</link>
-      <description><![CDATA[Mockey 是一个 AI 模型生成器，拥有 25 多个类别的 5000 多个免费模型模板。使用 Mockey Pro，解锁高级 AI Influencer 模型包、可编辑背景、高质量下载、无广告体验等等！    ]]></description>
-      <guid>https://www.producthunt.com/posts/mockey-ai-pro</guid>
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -99,7 +85,21 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>y-gy - 一个简单的链接缩短器和 QR 码创建器</title>
+      <title>mockey-ai-pro - 超过 25 个类别的免费 AI 模型</title>
+      <link>https://www.producthunt.com/posts/mockey-ai-pro</link>
+      <description><![CDATA[Mockey 是一款 AI 模型生成器，拥有 25 多个类别的 5000 多个免费模型模板。借助 Mockey Pro，解锁优质 AI 影响者模型捆绑包、可编辑背景、高质量下载、无广告体验等等！    ]]></description>
+      <guid>https://www.producthunt.com/posts/mockey-ai-pro</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>aaread - 快速阅读网页并保持注意力</title>
+      <link>https://www.producthunt.com/posts/aaread</link>
+      <description><![CDATA[AaRead是您眼睛和大脑的阅读帮手。它使一些字母变得更加粗体，以加快阅读速度并降低工作量。这对于患有多动症、诵读困难症或任何阅读时大脑容易感到无聊的人来说非常有用。    ]]></description>
+      <guid>https://www.producthunt.com/posts/aaread</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>y-gy - 一个简单的链接缩短器和二维码创建器</title>
       <link>https://www.producthunt.com/posts/y-gy</link>
       <description><![CDATA[缩短链接。制作二维码。分析流量。停止机器人。一切都通过 API 完成。邀请你的团队。使用您的域名。如果您愿意，链接将永远存在。     ]]></description>
       <guid>https://www.producthunt.com/posts/y-gy</guid>
@@ -113,21 +113,21 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>featurepanel - 让客户知道所请求的功能何时推出</title>
+      <title>nextcommit - 实现您梦想的远程技术工作</title>
+      <link>https://www.producthunt.com/posts/nextcommit</link>
+      <description><![CDATA[该平台为技术候选人在寻找远程工作的整个过程中提供支持，从分析简历到实现获得职位的最终目标。     ]]></description>
+      <guid>https://www.producthunt.com/posts/nextcommit</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>featurepanel - 让客户知道所请求的功能何时启动</title>
       <link>https://www.producthunt.com/posts/featurepanel</link>
       <description><![CDATA[不要让您的用户在项目的早期阶段离开，让他们订阅更新，并在您提供他们所需的内容后再次让他们使用您的产品。   &lt;img src=&quot;https://ph-files.imgix.net/8413bfcc-1ed5-453a-99de-ba263a5d0064.png?auto=format&amp;amp;fit =作物”/&gt;]]></description>
       <guid>https://www.producthunt.com/posts/featurepanel</guid>
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>nextcommit - 实现您梦想的远程技术工作</title>
-      <link>https://www.producthunt.com/posts/nextcommit</link>
-      <description><![CDATA[一个支持技术候选人在寻找远程工作的整个过程中的平台，从分析简历到实现获得职位的最终目标。     ]]></description>
-      <guid>https://www.producthunt.com/posts/nextcommit</guid>
-      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>autopilot-for-slack - 所有应用程序均可通过 Slack 获得即时 AI 答案</title>
+      <title>autopilot-for-slack - Slack 中的即时 AI 从您的所有应用程序中进行解答</title>
       <link>https://www.producthunt.com/posts/autopilot-for-slack</link>
       <description><![CDATA[即时 AI 在 Slack 中从您的所有应用程序中进行解答。     ]]></description>
       <guid>https://www.producthunt.com/posts/autopilot-for-slack</guid>
@@ -141,7 +141,7 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
       <pubDate>Wed, 01 May 2024 15:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>loom-ai-workflows - 您记录，Loom 编写 - 一键即可共享文档</title>
+      <title>loom-ai-workflows - 您记录它，Loom 编写它 - 单击即可共享就绪文档</title>
       <link>https://www.producthunt.com/posts/loom-ai-workflows</link>
       <description><![CDATA[如果您的工作流程以 Loom 视频开始和结束怎么办？现在您可以说出来、展示出来，然后让 Loom 为您编写：最好、最简单的视频消息软件现在可以实现有效的视频和书面沟通。介绍 Loom AI 工作流程。    ]]></description>
       <guid>https://www.producthunt.com/posts/loom-ai-workflows</guid>
@@ -171,7 +171,7 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
     <item>
       <title>idea-spark-4 - 帮助个体企业家验证想法的便捷工具</title>
       <link>https://www.producthunt.com/posts/idea-spark-4</link>
-      <description><![CDATA[Idea Spark 是通过智能验证系统发现和评估新应用创意的完美工具。         ]]></description>
+      <description><![CDATA[Idea Spark 是一款完美的工具，可通过智能验证系统发现和评估新的应用创意。         ]]></description>
       <guid>https://www.producthunt.com/posts/idea-spark-4</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
@@ -183,14 +183,14 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>assista-ai - 所有生产力应用程序的中枢神经系统</title>
+      <title>Assista-ai - 适用于所有生产力应用程序的中枢神经系统</title>
       <link>https://www.producthunt.com/posts/assista-ai</link>
       <description><![CDATA[Assista 通过人工智能转变企业生产力，支持对多个应用程序进行语音或文本命令控制。轻松简化任务、提高效率并缩短完成时间。     ]]></description>
       <guid>https://www.producthunt.com/posts/assista-ai</guid>
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>boom-6 - 让您的 Zoom、Meet、Teams 会议更具吸引力和趣味性</title>
+      <title>oom-6 - 让您的 Zoom、Meet、Teams 会议更具吸引力和乐趣</title>
       <link>https://www.producthunt.com/posts/boom-6</link>
       <description><![CDATA[Boom 是一款 macOS 相机应用程序，适用于 Zoom、Meet、Teams 等。打造您的通话品牌、使用 GIF 并增强您的屏幕共享。 Boom 让您的通话更具吸引力、高效且有趣。    ]]></description>
       <guid>https://www.producthunt.com/posts/boom-6</guid>
