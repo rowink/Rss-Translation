@@ -3,8 +3,8 @@
   <channel>
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
-    <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 01 May 2024 21:03:38 GMT</lastBuildDate>
+    <description>Product Hunt 今日热门 - 由 RSSHub 精心制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Thu, 02 May 2024 00:29:17 GMT</lastBuildDate>
     <item>
       <title>claude-for-ios - Anthropic 的官方 AI 助手，在你的后口袋里</title>
       <link>https://www.producthunt.com/posts/claude-for-ios</link>
@@ -34,17 +34,17 @@
       <pubDate>Wed, 01 May 2024 10:57:03 GMT</pubDate>
     </item>
     <item>
-      <title>stackradar - 精选的互联网上最好的工具</title>
-      <link>https://www.producthunt.com/posts/stackradar</link>
-      <description><![CDATA[Stackradar 是经过审查的技术工具，可帮助各种个人和企业了解、构建、集成和扩展其技术堆栈 🚀     ]]></description>
-      <guid>https://www.producthunt.com/posts/stackradar</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>loom-ai-workflows - 您记录它，Loom 编写它 - 单击即可共享就绪文档</title>
       <link>https://www.producthunt.com/posts/loom-ai-workflows</link>
       <description><![CDATA[如果您的工作流程以 Loom 视频开始和结束怎么办？现在您可以说出来、展示出来，然后让 Loom 为您编写：最好、最简单的视频消息软件现在可以实现有效的视频和书面沟通。介绍 Loom AI 工作流程。    ]]></description>
       <guid>https://www.producthunt.com/posts/loom-ai-workflows</guid>
+      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>stackradar - 精选的互联网上最好的工具</title>
+      <link>https://www.producthunt.com/posts/stackradar</link>
+      <description><![CDATA[Stackradar 是经过审查的技术工具，可帮助各种个人和企业了解、构建、集成和扩展其技术堆栈 🚀     ]]></description>
+      <guid>https://www.producthunt.com/posts/stackradar</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -64,7 +64,7 @@
     <item>
       <title>idea-spark-4 - 帮助个体企业家验证想法的便捷工具</title>
       <link>https://www.producthunt.com/posts/idea-spark-4</link>
-      <description><![CDATA[Idea Spark 是通过智能验证系统发现和评估新应用创意的完美工具。         ]]></description>
+      <description><![CDATA[Idea Spark 是一款完美的工具，可通过智能验证系统发现和评估新的应用创意。         ]]></description>
       <guid>https://www.producthunt.com/posts/idea-spark-4</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
@@ -85,16 +85,9 @@
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>noodle4-ai - 使用 AI 审查 UGC 和影响者内容的速度提高了 70%</title>
-      <link>https://www.producthunt.com/posts/noodle4-ai</link>
-      <description><![CDATA[通过为品牌/机构提供插件和服务，我们可以将内容审核减少高达 70%。玩AI平台。我们定制的法学硕士允许您上传摘要文档和所有相关内容，Noodle4 将在简单的用户体验中根据摘要分析内容。   ]]></description>
-      <guid>https://www.producthunt.com/posts/noodle4-ai</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>sprig-feedback - 在您的产品或网站中捕获持续反馈</title>
       <link>https://www.producthunt.com/posts/sprig-feedback</link>
-      <description><![CDATA[通过 Sprig Feedback 始终了解用户的想法。首先，在您的产品或网站中轻松捕获持续的用户反馈。然后，立即使用 AI 分析响应并获取建议，以释放产品的全部潜力。   &lt; img src=&quot;https://ph-files.imgix.net/dc7f4bff-7d9a-4c30-8c15-341bd80ba931.png?auto=format&amp;fit=crop&quot; /&gt;  ]]></description>
+      <description><![CDATA[使用 Sprig Feedback 始终了解用户的想法。首先，轻松在您的产品或网站中捕获持续的用户反馈。然后，立即使用 AI 分析响应并获得建议，以充分发挥产品潜力。     ]]></description>
       <guid>https://www.producthunt.com/posts/sprig-feedback</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
@@ -103,6 +96,13 @@
       <link>https://www.producthunt.com/posts/datashake-hub</link>
       <description><![CDATA[Datashake Hub 是一个无代码用户界面，使分析师和数据科学家能够轻松聚合大量数据，并将其导出到 BI/社交监听工具中。例如：收集 30k 多个地点的所有麦当劳评论进行分析。     ]]></description>
       <guid>https://www.producthunt.com/posts/datashake-hub</guid>
+      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>noodle4-ai - 使用 AI 审查 UGC 和影响者内容的速度提高了 70%</title>
+      <link>https://www.producthunt.com/posts/noodle4-ai</link>
+      <description><![CDATA[通过为品牌/机构提供插件和服务，我们可以将内容审核减少高达 70%。玩AI平台。我们定制的法学硕士允许您上传摘要文档和所有相关内容，Noodle4 将在简单的用户体验中根据摘要分析内容。   ]]></description>
+      <guid>https://www.producthunt.com/posts/noodle4-ai</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -157,7 +157,7 @@
       <pubDate>Tue, 30 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>产品团队会议记录器 - AI 记录，无需呼叫机器人 - 适用于 Zoom、Teams 和 Meet</title>
+      <title>产品团队的会议记录器 - AI 转录，无呼叫机器人 - 适用于 Zoom、Teams 和 Meet</title>
       <link>https://www.producthunt.com/posts/meeting-recorder-for-product-teams</link>
       <description><![CDATA[记录用户访谈，而无需奇怪的机器人加入您的通话（适用于 Zoom、Teams 和 Meet）。
 
@@ -186,7 +186,7 @@
     <item>
       <title>Assista-ai - 适用于所有生产力应用程序的中枢神经系统</title>
       <link>https://www.producthunt.com/posts/assista-ai</link>
-      <description><![CDATA[Assista 通过人工智能转变企业生产力，支持对多个应用程序进行语音或文本命令控制。轻松简化任务、提高效率并缩短完成时间。     ]]></description>
+      <description><![CDATA[Assista 利用人工智能改变企业生产力，实现对多个应用程序的语音或文本命令控制。简化任务，提高效率，轻松缩短完成时间。     ]]></description>
       <guid>https://www.producthunt.com/posts/assista-ai</guid>
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -200,7 +200,7 @@
     <item>
       <title>langwatch - 了解、衡量和提高您的法学硕士</title>
       <link>https://www.producthunt.com/posts/langwatch</link>
-      <description><![CDATA[LangWatch 提供了一个简单的开源平台来改进和迭代您当前的 LLM 管道，以及降低越狱、敏感数据泄露和幻觉等风险。      ]]></description>
+      <description><![CDATA[LangWatch 提供了一个简单的开源平台，可以改进和迭代您当前的 LLM 流程，并降低越狱、敏感数据泄露和幻觉等风险。      ]]></description>
       <guid>https://www.producthunt.com/posts/langwatch</guid>
       <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
     </item>
