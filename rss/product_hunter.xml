@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>今日热门产品搜寻</title>
+    <title>Product Hunt 今日热门</title>
     <link>https://www.producthunt.com/</link>
-    <description>Product Hunt 今日热门 - 由 RSSHub 精心制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 02 May 2024 00:29:17 GMT</lastBuildDate>
+    <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Thu, 02 May 2024 03:09:52 GMT</lastBuildDate>
     <item>
-      <title>claude-for-ios - Anthropic 的官方 AI 助手，在你的后口袋里</title>
+      <title>claude-for-ios - Anthropic 官方 AI 助手，就在你的口袋里</title>
       <link>https://www.producthunt.com/posts/claude-for-ios</link>
       <description><![CDATA[Anthropic 打造的 AI 助手 Claude 现在可在您的 iPhone 上使用。每当灵感来袭时，通过拍摄或上传照片或开始聊天，即可立即获得有关一系列任务的帮助（从集思广益、写作到编码等）。      ]]></description>
       <guid>https://www.producthunt.com/posts/claude-for-ios</guid>
@@ -64,8 +64,15 @@
     <item>
       <title>idea-spark-4 - 帮助个体企业家验证想法的便捷工具</title>
       <link>https://www.producthunt.com/posts/idea-spark-4</link>
-      <description><![CDATA[Idea Spark 是一款完美的工具，可通过智能验证系统发现和评估新的应用创意。         ]]></description>
+      <description><![CDATA[Idea Spark 是通过智能验证系统发现和评估新应用创意的完美工具。         ]]></description>
       <guid>https://www.producthunt.com/posts/idea-spark-4</guid>
+      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>noodle4-ai - 使用 AI 审查 UGC 和影响者内容的速度提高了 70%</title>
+      <link>https://www.producthunt.com/posts/noodle4-ai</link>
+      <description><![CDATA[通过为品牌/机构提供插件和服务，我们可以将内容审核减少高达 70%。玩AI平台。我们定制的法学硕士允许您上传摘要文档和所有相关内容，Noodle4 将在简单的用户体验中根据摘要分析内容。   ]]></description>
+      <guid>https://www.producthunt.com/posts/noodle4-ai</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -99,10 +106,10 @@
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>noodle4-ai - 使用 AI 审查 UGC 和影响者内容的速度提高了 70%</title>
-      <link>https://www.producthunt.com/posts/noodle4-ai</link>
-      <description><![CDATA[通过为品牌/机构提供插件和服务，我们可以将内容审核减少高达 70%。玩AI平台。我们定制的法学硕士允许您上传摘要文档和所有相关内容，Noodle4 将在简单的用户体验中根据摘要分析内容。   ]]></description>
-      <guid>https://www.producthunt.com/posts/noodle4-ai</guid>
+      <title>gridlite - 自动分摊水电费的最简单方法</title>
+      <link>https://www.producthunt.com/posts/gridlite</link>
+      <description><![CDATA[GridLite 是一款自动与室友分摊每月水电费的应用程序。立即注册即可轻松分摊费用并更清楚地了解您的分摊账单。最多 3 名室友免费。目前在纽约市提供。    ]]></description>
+      <guid>https://www.producthunt.com/posts/gridlite</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -112,13 +119,6 @@
 
 这就是为什么我们的使命是让它们在任何地方都能访问和接受。   &lt; img src=&quot;https://ph-files.imgix.net/39b96322-d41a-47b4-a8cb-67d24ef01915.png?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
       <guid>https://www.producthunt.com/posts/stables-money</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>gridlite - 自动分摊水电费的最简单方法</title>
-      <link>https://www.producthunt.com/posts/gridlite</link>
-      <description><![CDATA[GridLite 是一款自动与室友分摊每月水电费的应用程序。立即注册即可轻松分摊费用并更清楚地了解您的分摊账单。最多 3 名室友免费。目前在纽约市提供。    ]]></description>
-      <guid>https://www.producthunt.com/posts/gridlite</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -145,7 +145,7 @@
     <item>
       <title>otterly-ai - 您的品牌和内容在人工智能搜索中的可见度如何？</title>
       <link>https://www.producthunt.com/posts/otterly-ai</link>
-      <description><![CDATA[Otterly.AI 是内容和内容的新方式。人工智能驱动的搜索体验的品牌监控。监控您的品牌、内容、竞争对手或任何其他提示。       ]]></description>
+      <description><![CDATA[Otterly.AI 是针对人工智能搜索体验进行内容和品牌监控的新方式。监控您的品牌、内容、竞争对手或任何其他提示。       ]]></description>
       <guid>https://www.producthunt.com/posts/otterly-ai</guid>
       <pubDate>Tue, 30 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -184,9 +184,9 @@
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>Assista-ai - 适用于所有生产力应用程序的中枢神经系统</title>
+      <title>assista-ai - 所有生产力应用程序的中枢神经系统</title>
       <link>https://www.producthunt.com/posts/assista-ai</link>
-      <description><![CDATA[Assista 利用人工智能改变企业生产力，实现对多个应用程序的语音或文本命令控制。简化任务，提高效率，轻松缩短完成时间。     ]]></description>
+      <description><![CDATA[Assista 通过人工智能转变企业生产力，支持对多个应用程序进行语音或文本命令控制。轻松简化任务、提高效率并缩短完成时间。     ]]></description>
       <guid>https://www.producthunt.com/posts/assista-ai</guid>
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -205,7 +205,7 @@
       <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>neurelo - 将您的数据库转换为 API</title>
+      <title>neurelo - 将你的数据库转换为 API</title>
       <link>https://www.producthunt.com/posts/neurelo</link>
       <description><![CDATA[使用 Neurelo 简化您的数据库体验。它通过为 MongoDB、Postgres 和 MySQL 提供即时 AI 驱动的 REST 和 GraphQL API、GitSchema、Observability 等，消除了许多数据库工具和复杂性。专注于重要的事情 - 您的代码。     &lt;img src=&quot;https://ph-files.imgix.net/fd6c4f16-5539-47cc-9176-00be031cb854.png?auto=format&amp;amp; ;适合=作物“/&gt;]]></description>
       <guid>https://www.producthunt.com/posts/neurelo</guid>

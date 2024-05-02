@@ -4,181 +4,181 @@
     <title>今日 GitHub 上的热门存储库 · GitHub</title>
     <link>https://github.com/trending/?since=daily&spoken_language_code=en</link>
     <description>今日 GitHub 上的热门存储库 · GitHub - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 02 May 2024 00:28:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 03:07:54 GMT</lastBuildDate>
+    <item>
+      <title>微软/typespec</title>
+      <link>https://github.com/microsoft/typespec</link>
+      <description><![CDATA[null 语言：TypeScript 星星：2773 货叉：144]]></description>
+      <guid>https://github.com/microsoft/typespec</guid>
+      <pubDate>Thu, 02 May 2024 03:07:54 GMT</pubDate>
+    </item>
     <item>
       <title>FreeRTOS/FreeRTOS-内核</title>
       <link>https://github.com/FreeRTOS/FreeRTOS-Kernel</link>
       <description><![CDATA[仅 FreeRTOS 内核文件，子模块到 https://github.com/ FreeRTOS/FreeRTOS 和各种其他存储库。 语言：C 星星：2345 前叉：990]]></description>
       <guid>https://github.com/FreeRTOS/FreeRTOS-Kernel</guid>
-      <pubDate>Thu, 02 May 2024 00:28:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>pg向量/pg向量</title>
-      <link>https://github.com/pgvector/pgvector</link>
-      <description><![CDATA[Postgres 的开源向量相似性搜索语言：C Stars：9316 Forks：411]]></description>
-      <guid>https://github.com/pgvector/pgvector</guid>
-      <pubDate>Thu, 02 May 2024 00:28:43 GMT</pubDate>
+      <pubDate>Thu, 02 May 2024 03:07:54 GMT</pubDate>
     </item>
     <item>
       <title>狙击/狙击它</title>
       <link>https://github.com/snipe/snipe-it</link>
       <description><![CDATA[免费的开源 IT 资产/许可证管理系统&lt; br /&gt;语言：PHP 星星：9721 叉子：2957]]></description>
       <guid>https://github.com/snipe/snipe-it</guid>
-      <pubDate>Thu, 02 May 2024 00:28:43 GMT</pubDate>
+      <pubDate>Thu, 02 May 2024 03:07:53 GMT</pubDate>
     </item>
     <item>
       <title>风车实验室</title>
       <link>https://github.com/windmill-labs/windmill</link>
-      <description><![CDATA[开源开发者平台，用于将脚本转换为工作流程和 UI。最快的工作流程引擎（5 倍于 Airflow）。 Airplane 和 Retool 的开源替代品。 语言：Svelte 星星：8587 前叉：365]]></description>
+      <description><![CDATA[开源开发者平台，用于将脚本转换为工作流程和 UI。最快的工作流程引擎（5 倍于 Airflow）。 Airplane 和 Retool 的开源替代品。 语言：Svelte 星星：8591 前叉：365]]></description>
       <guid>https://github.com/windmill-labs/windmill</guid>
-      <pubDate>Thu, 02 May 2024 00:28:43 GMT</pubDate>
+      <pubDate>Thu, 02 May 2024 03:07:53 GMT</pubDate>
     </item>
     <item>
-      <title>微软/typespec</title>
-      <link>https://github.com/microsoft/typespec</link>
-      <description><![CDATA[null 语言：TypeScript 星星：2767 货叉：144]]></description>
-      <guid>https://github.com/microsoft/typespec</guid>
-      <pubDate>Thu, 02 May 2024 00:28:43 GMT</pubDate>
+      <title>pg向量/pg向量</title>
+      <link>https://github.com/pgvector/pgvector</link>
+      <description><![CDATA[Postgres 的开源向量相似度搜索语言：C 星星：9318 叉子：411]]></description>
+      <guid>https://github.com/pgvector/pgvector</guid>
+      <pubDate>Thu, 02 May 2024 03:07:52 GMT</pubDate>
     </item>
     <item>
       <title>摩尔/molevpn 应用程序</title>
       <link>https://github.com/mullvad/mullvadvpn-app</link>
-      <description><![CDATA[适用于桌面和移动设备的 Mullvad VPN 客户端应用程序语言：Rust Stars：4435 Forks：328]]></description>
+      <description><![CDATA[适用于桌面和移动设备的 Mullvad VPN 客户端应用语言：Rust &lt; br /&gt;星星：4436 叉子：328]]></description>
       <guid>https://github.com/mullvad/mullvadvpn-app</guid>
-      <pubDate>Thu, 02 May 2024 00:28:42 GMT</pubDate>
+      <pubDate>Thu, 02 May 2024 03:07:51 GMT</pubDate>
     </item>
     <item>
       <title>开发人员-Y/cs-视频课程</title>
       <link>https://github.com/Developer-Y/cs-video-courses</link>
-      <description><![CDATA[包含视频讲座的计算机科学课程列表。 语言：未知星星：64948 叉子：8941]]></description>
+      <description><![CDATA[包含视频讲座的计算机科学课程列表。 语言：未知星星：64949 叉子：8941]]></description>
       <guid>https://github.com/Developer-Y/cs-video-courses</guid>
-      <pubDate>Thu, 02 May 2024 00:28:42 GMT</pubDate>
+      <pubDate>Thu, 02 May 2024 03:07:51 GMT</pubDate>
     </item>
     <item>
       <title>gitleaks/gitleaks</title>
       <link>https://github.com/gitleaks/gitleaks</link>
-      <description><![CDATA[使用 Gitleaks 保护和发现秘密 🔑 语言：Go &lt; br /&gt;明星: 15281 货叉: 1313]]></description>
+      <description><![CDATA[使用 Gitleaks 保护和发现秘密 🔑 Langu年龄：Go明星: 15284 货叉: 1313]]></description>
       <guid>https://github.com/gitleaks/gitleaks</guid>
-      <pubDate>Thu, 02 May 2024 00:28:42 GMT</pubDate>
+      <pubDate>Thu, 02 May 2024 03:07:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>sdmg15/程序员应该访问的最佳网站</title>
+      <link>https://github.com/sdmg15/Best-websites-a-programmer-should-visit</link>
+      <description><![CDATA[:link：一些对程序员有用的网站。 语言：未知星星：56312叉子：7228]]></description>
+      <guid>https://github.com/sdmg15/Best-websites-a-programmer-should-visit</guid>
+      <pubDate>Thu, 02 May 2024 03:07:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>简单图标/简单图标</title>
+      <link>https://github.com/simple-icons/simple-icons</link>
+      <description><![CDATA[热门品牌的 SVG 图标语言：JavaScript Stars：18148 Forks：2461]]></description>
+      <guid>https://github.com/simple-icons/simple-icons</guid>
+      <pubDate>Thu, 02 May 2024 03:07:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>n8n-io/n8n</title>
+      <link>https://github.com/n8n-io/n8n</link>
+      <description><![CDATA[免费且源可用的公平代码许可工作流自动化工具。轻松自动化跨不同服务的任务。 语言：TypeScript 星星：40852 分叉：5062]]></description>
+      <guid>https://github.com/n8n-io/n8n</guid>
+      <pubDate>Thu, 02 May 2024 03:07:49 GMT</pubDate>
     </item>
     <item>
       <title>直接/直接</title>
       <link>https://github.com/directus/directus</link>
       <description><![CDATA[现代数据堆栈 🐰 — Directus 是一个即时 REST+GraphQL API，适用于任何 SQL 数据库的直观无代码数据协作应用程序。 语言：TypeScript 星星：25471 叉子：3539]]></description>
       <guid>https://github.com/directus/directus</guid>
-      <pubDate>Thu, 02 May 2024 00:28:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>sdmg15/程序员应该访问的最佳网站</title>
-      <link>https://github.com/sdmg15/Best-websites-a-programmer-should-visit</link>
-      <description><![CDATA[:link：一些对程序员有用的网站。 语言：未知星星：56311 叉子：7228]]></description>
-      <guid>https://github.com/sdmg15/Best-websites-a-programmer-should-visit</guid>
-      <pubDate>Thu, 02 May 2024 00:28:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单图标/简单图标</title>
-      <link>https://github.com/simple-icons/simple-icons</link>
-      <description><![CDATA[流行品牌的 SVG 图标语言： JavaScript 星星：18146 叉子：2461]]></description>
-      <guid>https://github.com/simple-icons/simple-icons</guid>
-      <pubDate>Thu, 02 May 2024 00:28:41 GMT</pubDate>
+      <pubDate>Thu, 02 May 2024 03:07:49 GMT</pubDate>
     </item>
     <item>
       <title>openxla/xla</title>
       <link>https://github.com/openxla/xla</link>
       <description><![CDATA[适用于 GPU、CPU 和 ML 加速器的机器学习编译器语言：C++ 星星：2223 叉子：329]]></description>
       <guid>https://github.com/openxla/xla</guid>
-      <pubDate>Thu, 02 May 2024 00:28:40 GMT</pubDate>
+      <pubDate>Thu, 02 May 2024 03:07:48 GMT</pubDate>
     </item>
     <item>
       <title>codecrafters-io/构建你自己的-x</title>
       <link>https://github.com/codecrafters-io/build-your-own-x</link>
-      <description><![CDATA[通过从头开始重新创建您最喜欢的技术来掌握编程。语言：未知Stars：258499 Forks：24530]]></description>
+      <description><![CDATA[通过从头开始重新创建您最喜欢的技术来掌握编程。语言：未知Stars：258519 Forks：24532]]></description>
       <guid>https://github.com/codecrafters-io/build-your-own-x</guid>
-      <pubDate>Thu, 02 May 2024 00:28:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>n8n-io/n8n</title>
-      <link>https://github.com/n8n-io/n8n</link>
-      <description><![CDATA[免费且源可用的公平代码许可工作流自动化工具。轻松自动化跨不同服务的任务。 语言：TypeScript 星星：40851 分叉：5061]]></description>
-      <guid>https://github.com/n8n-io/n8n</guid>
-      <pubDate>Thu, 02 May 2024 00:28:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>SunWeb3Sec/DeFiHackLabs</title>
-      <link>https://github.com/SunWeb3Sec/DeFiHackLabs</link>
-      <description><![CDATA[使用 Foundry 重现 DeFi 黑客攻击事件。 语言：Solidity 星星：4765 叉子：1017]]></description>
-      <guid>https://github.com/SunWeb3Sec/DeFiHackLabs</guid>
-      <pubDate>Thu, 02 May 2024 00:28:39 GMT</pubDate>
+      <pubDate>Thu, 02 May 2024 03:07:48 GMT</pubDate>
     </item>
     <item>
       <title>fastfetch-cli/fastfetch</title>
       <link>https://github.com/fastfetch-cli/fastfetch</link>
-      <description><![CDATA[与neofetch类似，但速度更快，因为主要是用C编写的。 语言：C 星星：2536 前叉：123]]></description>
+      <description><![CDATA[与neofetch类似，但速度更快，因为主要是用C编写的。 语言：C 星星：2587 前叉：122]]></description>
       <guid>https://github.com/fastfetch-cli/fastfetch</guid>
-      <pubDate>Thu, 02 May 2024 00:28:39 GMT</pubDate>
+      <pubDate>Thu, 02 May 2024 03:07:47 GMT</pubDate>
     </item>
     <item>
       <title>Coollabsio/coolify</title>
       <link>https://github.com/coollabsio/coolify</link>
-      <description><![CDATA[一个开源&amp;自托管 Heroku / Netlify / Vercel 替代方案。 语言：PHP 星星：14375 叉子：755]]></description>
+      <description><![CDATA[一个开源&amp;自托管 Heroku / Netlify / Vercel 替代方案。 语言：PHP 星星：14388 叉子：756]]></description>
       <guid>https://github.com/coollabsio/coolify</guid>
-      <pubDate>Thu, 02 May 2024 00:28:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿斯特罗</title>
-      <link>https://github.com/withastro/astro</link>
-      <description><![CDATA[内容驱动型网站的 Web 框架。 ⭐️ Star 支持我们的工作！ 语言：TypeScript 星星：42533 分叉：2211]]></description>
-      <guid>https://github.com/withastro/astro</guid>
-      <pubDate>Thu, 02 May 2024 00:28:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>yjs/yjs</title>
-      <link>https://github.com/yjs/yjs</link>
-      <description><![CDATA[用于构建协作软件的共享数据类型语言：JavaScript 星星：15224 分叉：556]]></description>
-      <guid>https://github.com/yjs/yjs</guid>
-      <pubDate>Thu, 02 May 2024 00:28:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>EthicalML/awesome-生产-机器学习</title>
-      <link>https://github.com/EthicalML/awesome-production-machine-learning</link>
-      <description><![CDATA[精选的开源库列表，用于部署、监控、版本控制和扩展您的机器学习语言：未知星星：16057 叉子：2141]]></description>
-      <guid>https://github.com/EthicalML/awesome-production-machine-learning</guid>
-      <pubDate>Thu, 02 May 2024 00:28:38 GMT</pubDate>
+      <pubDate>Thu, 02 May 2024 03:07:47 GMT</pubDate>
     </item>
     <item>
       <title>vlang/v</title>
       <link>https://github.com/vlang/v</link>
       <description><![CDATA[简单、快速、安全的编译语言，用于开发可维护的软件。在不到 1 秒内编译自身，库依赖性为零。支持自动C=&gt; V 翻译. https://vlang.io 语言：V 星星：35297 叉子：2117]]></description>
       <guid>https://github.com/vlang/v</guid>
-      <pubDate>Thu, 02 May 2024 00:28:38 GMT</pubDate>
+      <pubDate>Thu, 02 May 2024 03:07:46 GMT</pubDate>
     </item>
     <item>
-      <title>算法/Rust</title>
-      <link>https://github.com/TheAlgorithms/Rust</link>
-      <description><![CDATA[ 所有算法均采用 Rust 实现语言： Rust 星星：第0151章前叉：1978]]></description>
-      <guid>https://github.com/TheAlgorithms/Rust</guid>
-      <pubDate>Thu, 02 May 2024 00:28:37 GMT</pubDate>
+      <title>SunWeb3Sec/DeFiHackLabs</title>
+      <link>https://github.com/SunWeb3Sec/DeFiHackLabs</link>
+      <description><![CDATA[使用 Foundry 重现 DeFi 黑客攻击事件。 语言：Solidity 星星：4766 叉子：1017]]></description>
+      <guid>https://github.com/SunWeb3Sec/DeFiHackLabs</guid>
+      <pubDate>Thu, 02 May 2024 03:07:46 GMT</pubDate>
     </item>
     <item>
-      <title>阿帕奇/超集</title>
-      <link>https://github.com/apache/superset</link>
-      <description><![CDATA[Apache Superset 是一个数据可视化和数据探索平台&lt; br /&gt;语言：TypeScript 星星：58914 叉子：12597]]></description>
-      <guid>https://github.com/apache/superset</guid>
-      <pubDate>Thu, 02 May 2024 00:28:37 GMT</pubDate>
+      <title>yjs/yjs</title>
+      <link>https://github.com/yjs/yjs</link>
+      <description><![CDATA[用于构建协作软件的共享数据类型语言：JavaScript 星星：15225 分叉：556]]></description>
+      <guid>https://github.com/yjs/yjs</guid>
+      <pubDate>Thu, 02 May 2024 03:07:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>EthicalML/awesome-生产-机器学习</title>
+      <link>https://github.com/EthicalML/awesome-production-machine-learning</link>
+      <description><![CDATA[精选的优秀开源库列表，用于部署、监控、版本控制和扩展您的机器学习语言：未知星星：16059 叉子：2142]]></description>
+      <guid>https://github.com/EthicalML/awesome-production-machine-learning</guid>
+      <pubDate>Thu, 02 May 2024 03:07:45 GMT</pubDate>
     </item>
     <item>
       <title>派丹提克</title>
       <link>https://github.com/pydantic/pydantic</link>
-      <description><![CDATA[使用 Python 类型提示进行数据验证语言：Python 星星：18728 叉子：1652]]></description>
+      <description><![CDATA[使用 Python 类型提示进行数据验证语言：Python 星星：18730 叉子：1652]]></description>
       <guid>https://github.com/pydantic/pydantic</guid>
-      <pubDate>Thu, 02 May 2024 00:28:37 GMT</pubDate>
+      <pubDate>Thu, 02 May 2024 03:07:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿斯特罗</title>
+      <link>https://github.com/withastro/astro</link>
+      <description><![CDATA[内容驱动网站的 Web 框架。⭐️ 点赞支持我们的工作！语言：TypeScript Stars：42536 Forks：2211]]></description>
+      <guid>https://github.com/withastro/astro</guid>
+      <pubDate>Thu, 02 May 2024 03:07:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>算法/Rust</title>
+      <link>https://github.com/TheAlgorithms/Rust</link>
+      <description><![CDATA[所有算法均采用 Rust 实现语言：Rust 20 星： 161 前叉：1978]]></description>
+      <guid>https://github.com/TheAlgorithms/Rust</guid>
+      <pubDate>Thu, 02 May 2024 03:07:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿帕奇/超集</title>
+      <link>https://github.com/apache/superset</link>
+      <description><![CDATA[Apache Superset 是一个数据可视化和数据探索平台语言：TypeScriptStars：58916Forks：12598]]></description>
+      <guid>https://github.com/apache/superset</guid>
+      <pubDate>Thu, 02 May 2024 03:07:43 GMT</pubDate>
     </item>
     <item>
       <title>Orange-开源/投掷</title>
       <link>https://github.com/Orange-OpenSource/hurl</link>
-      <description><![CDATA[使用纯文本发出、运行和测试 HTTP 请求。 语言：Rust 星星：11010 叉子：398]]></description>
+      <description><![CDATA[使用纯文本发出、运行和测试 HTTP 请求。 语言：Rust 星星：11022 叉子：398]]></description>
       <guid>https://github.com/Orange-OpenSource/hurl</guid>
-      <pubDate>Thu, 02 May 2024 00:28:36 GMT</pubDate>
+      <pubDate>Thu, 02 May 2024 03:07:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
