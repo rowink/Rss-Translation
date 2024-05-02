@@ -4,7 +4,7 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 02 May 2024 15:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 18:08:57 GMT</lastBuildDate>
     <item>
       <title>1flow - 使用人工智能在几秒钟内启动有针对性的产品内调查</title>
       <link>https://www.producthunt.com/posts/1flow</link>
@@ -41,7 +41,7 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
       <pubDate>Thu, 02 May 2024 07:34:37 GMT</pubDate>
     </item>
     <item>
-      <title>ai-assistant-and-bot-builder - 无需代码即可直观地构建自定义 AI 助手</title>
+      <title>ai-assistant-and-bot-builder - 无需代码，直观构建自定义 AI 助手</title>
       <link>https://www.producthunt.com/posts/ai-assistant-and-bot-builder</link>
       <description><![CDATA[在您选择的任何模型（OpenAI、Azure、Claude）上创建 AI 助手，连接到您的工具和数据库（Firebase、Supabase、Notion、Google Sheets + 使用 AI 生成的自定义工具）。让 AI 在您的产品和网站上为您的用户采取行动。       ]]></description>
       <guid>https://www.producthunt.com/posts/ai-assistant-and-bot-builder</guid>
@@ -50,7 +50,7 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
     <item>
       <title>太平鸟 - 每项营销任务的人工智能副驾驶</title>
       <link>https://www.producthunt.com/posts/waxwing</link>
-      <description><![CDATA[Waxwing 通过为正确的任务提供正确的上下文，将每个营销人员转变为专家级人工智能用户。我们的 MarketingGPT 可以获取数千个案例研究、行业趋势和您的见解，以推荐策略、制定计划并帮助您执行。哇！        ]]></description>
+      <description><![CDATA[Waxwing 通过为正确的任务提供正确的背景，将每个营销人员变成专业的 AI 用户。我们的 MarketingGPT 可以访问数千个案例研究、行业趋势和您的见解，以推荐策略、制定计划并帮助您执行。哇！        ]]></description>
       <guid>https://www.producthunt.com/posts/waxwing</guid>
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
@@ -78,24 +78,17 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>mockey-ai-pro - 5k+ 酷炫的 AI 模型模板，再见无聊的模型</title>
-      <link>https://www.producthunt.com/posts/mockey-ai-pro</link>
-      <description><![CDATA[Mockey 是一个 AI 模型生成器，拥有 25 多个类别的 5000 多个免费模型模板。使用 Mockey Pro，解锁高级 AI Influencer 模型包、可编辑背景、高质量下载、无广告体验等等！    ]]></description>
-      <guid>https://www.producthunt.com/posts/mockey-ai-pro</guid>
-      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>aaread - 快速阅读网页而不累眼睛</title>
+      <title>aaread - 快速阅读网页并保持注意力</title>
       <link>https://www.producthunt.com/posts/aaread</link>
-      <description><![CDATA[AaRead是您眼睛和大脑的阅读帮手。它使一些字母变得更加粗体，以加快阅读速度并降低工作量。这对于患有注意力缺陷多动症、阅读障碍或任何阅读时大脑容易感到无聊的人来说非常有用。    ]]></description>
+      <description><![CDATA[AaRead是您眼睛和大脑的阅读帮手。它使一些字母变得更加粗体，以加快阅读速度并降低工作量。这对于患有多动症、诵读困难症或任何阅读时大脑容易感到无聊的人来说非常有用。    ]]></description>
       <guid>https://www.producthunt.com/posts/aaread</guid>
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>y-gy - 一个简单的链接缩短器和 QR 码创建器</title>
-      <link>https://www.producthunt.com/posts/y-gy</link>
-      <description><![CDATA[缩短链接。制作二维码。分析流量。停止机器人。一切都通过 API 完成。邀请你的团队。使用您的域名。如果您愿意，链接将永远存在。     ]]></description>
-      <guid>https://www.producthunt.com/posts/y-gy</guid>
+      <title>mockey-ai-pro - 5k+ 酷炫的 AI 模型模板，再见无聊的模型</title>
+      <link>https://www.producthunt.com/posts/mockey-ai-pro</link>
+      <description><![CDATA[Mockey 是一个 AI 模型生成器，拥有 25 多个类别的 5000 多个免费模型模板。使用 Mockey Pro，解锁高级 AI Influencer 模型包、可编辑背景、高质量下载、无广告体验等等！    ]]></description>
+      <guid>https://www.producthunt.com/posts/mockey-ai-pro</guid>
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -106,35 +99,35 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>vitae - 让您使用 AI 创建简历和求职信</title>
-      <link>https://www.producthunt.com/posts/vitae</link>
-      <description><![CDATA[创建自定义简历和求职信，具体到工作描述，只需几分钟（甚至几秒）  ]]></description>
-      <guid>https://www.producthunt.com/posts/vitae</guid>
+      <title>y-gy - 一个简单的链接缩短器和 QR 码创建器</title>
+      <link>https://www.producthunt.com/posts/y-gy</link>
+      <description><![CDATA[缩短链接。制作二维码。分析流量。停止机器人。一切都通过 API 完成。邀请你的团队。使用您的域名。如果您愿意，链接将永远存在。     ]]></description>
+      <guid>https://www.producthunt.com/posts/y-gy</guid>
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>featurepanel - 让客户知道所请求的功能何时启动</title>
+      <title>airbnb-icons - 来自世界上最伟大偶像的非凡体验</title>
+      <link>https://www.producthunt.com/posts/airbnb-icons</link>
+      <description><![CDATA[Airbnb 正在推出 Icons，这是一种全新的非凡体验类别，由音乐、电影、电视、艺术、体育等领域最伟大的人物主持。图标让您步入梦想的世界。   ]]></description>
+      <guid>https://www.producthunt.com/posts/airbnb-icons</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>featurepanel - 让客户知道所请求的功能何时推出</title>
       <link>https://www.producthunt.com/posts/featurepanel</link>
       <description><![CDATA[不要让您的用户在项目的早期阶段离开，让他们订阅更新，并在您提供他们所需的内容后再次让他们使用您的产品。   &lt;img src=&quot;https://ph-files.imgix.net/8413bfcc-1ed5-453a-99de-ba263a5d0064.png?auto=format&amp;amp;fit =作物”/&gt;]]></description>
       <guid>https://www.producthunt.com/posts/featurepanel</guid>
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>airbnb-icons - 来自世界上最伟大偶像的非凡体验</title>
-      <link>https://www.producthunt.com/posts/airbnb-icons</link>
-      <description><![CDATA[Airbnb 正在推出“Icons”，这是由音乐、电影、电视、艺术、体育等领域的杰出人物主持的全新非凡体验类别。图标让您进入您梦寐以求的世界。   ]]></description>
-      <guid>https://www.producthunt.com/posts/airbnb-icons</guid>
-      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>nextcommit - 实现您梦想的远程技术工作</title>
       <link>https://www.producthunt.com/posts/nextcommit</link>
-      <description><![CDATA[一个支持技术候选人寻找远程工作的整个过程的平台，从分析简历到实现获得职位的最终目标。     ]]></description>
+      <description><![CDATA[一个支持技术候选人在寻找远程工作的整个过程中的平台，从分析简历到实现获得职位的最终目标。     ]]></description>
       <guid>https://www.producthunt.com/posts/nextcommit</guid>
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>autopilot-for-slack - Slack 中的即时 AI 从您的所有应用程序中进行解答</title>
+      <title>autopilot-for-slack - 所有应用程序均可通过 Slack 获得即时 AI 答案</title>
       <link>https://www.producthunt.com/posts/autopilot-for-slack</link>
       <description><![CDATA[即时 AI 在 Slack 中从您的所有应用程序中进行解答。     ]]></description>
       <guid>https://www.producthunt.com/posts/autopilot-for-slack</guid>
@@ -143,12 +136,12 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
     <item>
       <title>claude-for-ios - Anthropic 的官方 AI 助手，在你的后口袋里</title>
       <link>https://www.producthunt.com/posts/claude-for-ios</link>
-      <description><![CDATA[Anthropic 打造的 AI 助手 Claude 现已在您的 iPhone 上使用。每当灵感迸发时，通过拍摄或上传照片或开始聊天，即可立即获得一系列任务的帮助 - 从头脑风暴和写作到编码等等。      ]]></description>
+      <description><![CDATA[Anthropic 打造的 AI 助手 Claude 现在可在您的 iPhone 上使用。每当灵感来袭时，通过拍摄或上传照片或开始聊天，即可立即获得有关一系列任务的帮助（从集思广益、写作到编码等）。      ]]></description>
       <guid>https://www.producthunt.com/posts/claude-for-ios</guid>
       <pubDate>Wed, 01 May 2024 15:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>loom-ai-workflows - 您记录它，Loom 编写它 - 单击即可共享就绪文档</title>
+      <title>loom-ai-workflows - 您记录，Loom 编写 - 一键即可共享文档</title>
       <link>https://www.producthunt.com/posts/loom-ai-workflows</link>
       <description><![CDATA[如果您的工作流程以 Loom 视频开始和结束怎么办？现在您可以说出来、展示出来，然后让 Loom 为您编写：最好、最简单的视频消息软件现在可以实现有效的视频和书面沟通。介绍 Loom AI 工作流程。    ]]></description>
       <guid>https://www.producthunt.com/posts/loom-ai-workflows</guid>
@@ -164,7 +157,7 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
     <item>
       <title>arc-for-windows - 您一直在等待的 Chrome 替代品</title>
       <link>https://www.producthunt.com/posts/arc-for-windows</link>
-      <description><![CDATA[这并不是我们的 Windows 之旅的结束 — 这只是第一天。现在真正的工作开始了。预计性能改进、新功能、对 Windows 10 的支持等将在未来几周和几个月内下降。   ]]></description>
+      <description><![CDATA[这并不是我们 Windows 之旅的结束 —— 这只是第一天。现在真正的工作才刚刚开始。预计性能改进、新功能、对 Windows 10 的支持等将在未来几周和几个月内推出。   ]]></description>
       <guid>https://www.producthunt.com/posts/arc-for-windows</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
@@ -190,14 +183,14 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>Assista-ai - 适用于所有生产力应用程序的中枢神经系统</title>
+      <title>assista-ai - 所有生产力应用程序的中枢神经系统</title>
       <link>https://www.producthunt.com/posts/assista-ai</link>
-      <description><![CDATA[Assista 利用人工智能改变企业生产力，实现对多个应用程序的语音或文本命令控制。简化任务，提高效率，轻松缩短完成时间。     ]]></description>
+      <description><![CDATA[Assista 通过人工智能转变企业生产力，支持对多个应用程序进行语音或文本命令控制。轻松简化任务、提高效率并缩短完成时间。     ]]></description>
       <guid>https://www.producthunt.com/posts/assista-ai</guid>
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>oom-6 - 让您的 Zoom、Meet、Teams 会议更具吸引力和乐趣</title>
+      <title>boom-6 - 让您的 Zoom、Meet、Teams 会议更具吸引力和趣味性</title>
       <link>https://www.producthunt.com/posts/boom-6</link>
       <description><![CDATA[Boom 是一款 macOS 相机应用程序，适用于 Zoom、Meet、Teams 等。打造您的通话品牌、使用 GIF 并增强您的屏幕共享。 Boom 让您的通话更具吸引力、高效且有趣。    ]]></description>
       <guid>https://www.producthunt.com/posts/boom-6</guid>
