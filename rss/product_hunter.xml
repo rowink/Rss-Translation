@@ -4,11 +4,11 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 02 May 2024 12:11:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 15:08:00 GMT</lastBuildDate>
     <item>
       <title>1flow - 使用人工智能在几秒钟内启动有针对性的产品内调查</title>
       <link>https://www.producthunt.com/posts/1flow</link>
-      <description><![CDATA[1Flow 可让您在正确的时间发送正确的调查问卷，操作非常简单。产品经理和用户研究团队喜欢它，因为它能提供快速、可操作的反馈，缩短研究时间。创始人喜欢它，因为它能提供更好的洞察力来打造人们想要的产品。       ]]></description>
+      <description><![CDATA[1Flow 让您可以非常轻松地在正确的时间发送正确的调查。产品经理和用户研究团队喜欢它快速、可操作的反馈，从而缩短研究时间。创始人喜欢通过它获得更好的见解来构建人们想要的产品。       ]]></description>
       <guid>https://www.producthunt.com/posts/1flow</guid>
       <pubDate>Thu, 02 May 2024 07:46:59 GMT</pubDate>
     </item>
@@ -41,10 +41,17 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
       <pubDate>Thu, 02 May 2024 07:34:37 GMT</pubDate>
     </item>
     <item>
-      <title>mockey-ai-pro - 5k+ 酷炫的 AI 模型模板，告别无聊的模型</title>
-      <link>https://www.producthunt.com/posts/mockey-ai-pro</link>
-      <description><![CDATA[Mockey 是一款 AI 模型生成器，拥有 25 多个类别的 5000 多个免费模型模板。借助 Mockey Pro，解锁优质 AI 影响者模型捆绑包、可编辑背景、高质量下载、无广告体验等等！    ]]></description>
-      <guid>https://www.producthunt.com/posts/mockey-ai-pro</guid>
+      <title>ai-assistant-and-bot-builder - 无需代码即可直观地构建自定义 AI 助手</title>
+      <link>https://www.producthunt.com/posts/ai-assistant-and-bot-builder</link>
+      <description><![CDATA[在您选择的任何模型（OpenAI、Azure、Claude）上创建 AI 助手，连接到您的工具和数据库（Firebase、Supabase、Notion、Google Sheets + 使用 AI 生成的自定义工具）。让 AI 在您的产品和网站上为您的用户采取行动。       ]]></description>
+      <guid>https://www.producthunt.com/posts/ai-assistant-and-bot-builder</guid>
+      <pubDate>Thu, 02 May 2024 07:20:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>太平鸟 - 每项营销任务的人工智能副驾驶</title>
+      <link>https://www.producthunt.com/posts/waxwing</link>
+      <description><![CDATA[Waxwing 通过为正确的任务提供正确的上下文，将每个营销人员转变为专家级人工智能用户。我们的 MarketingGPT 可以获取数千个案例研究、行业趋势和您的见解，以推荐策略、制定计划并帮助您执行。哇！        ]]></description>
+      <guid>https://www.producthunt.com/posts/waxwing</guid>
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -57,17 +64,10 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>featurepanel - 让客户知道所请求的功能何时启动</title>
-      <link>https://www.producthunt.com/posts/featurepanel</link>
-      <description><![CDATA[不要让您的用户在项目的早期阶段离开，让他们订阅更新，并在您提供他们所需的内容后再次让他们使用您的产品。   &lt;img src=&quot;https://ph-files.imgix.net/8413bfcc-1ed5-453a-99de-ba263a5d0064.png?auto=format&amp;amp;fit =作物”/&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/featurepanel</guid>
-      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>y-gy - 一个简单的链接缩短器和 QR 码创建器</title>
-      <link>https://www.producthunt.com/posts/y-gy</link>
-      <description><![CDATA[缩短链接。制作二维码。分析流量。停止机器人。一切都通过 API 完成。邀请你的团队。使用您的域名。如果您愿意，链接将永远存在。     ]]></description>
-      <guid>https://www.producthunt.com/posts/y-gy</guid>
+      <title>monterey-ai-2-0 - 产品洞察副驾驶</title>
+      <link>https://www.producthunt.com/posts/monterey-ai-2-0</link>
+      <description><![CDATA[Monterey AI 通过支持请求、销售电话和访谈来汇总、分类和分析用户反馈。它触手可及，提供深入、实时和迭代的见解。快速发现需求、开展调查并关闭反馈循环。      &lt;img src=&quot;https://ph-files.imgix.net/ed0cf7b6-ff89-496c-8015-f54ac5a2e9d2.png?auto=format&amp;amp;fit=crop ” /&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/monterey-ai-2-0</guid>
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -78,6 +78,34 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
+      <title>mockey-ai-pro - 5k+ 酷炫的 AI 模型模板，再见无聊的模型</title>
+      <link>https://www.producthunt.com/posts/mockey-ai-pro</link>
+      <description><![CDATA[Mockey 是一个 AI 模型生成器，拥有 25 多个类别的 5000 多个免费模型模板。使用 Mockey Pro，解锁高级 AI Influencer 模型包、可编辑背景、高质量下载、无广告体验等等！    ]]></description>
+      <guid>https://www.producthunt.com/posts/mockey-ai-pro</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>aaread - 快速阅读网页而不累眼睛</title>
+      <link>https://www.producthunt.com/posts/aaread</link>
+      <description><![CDATA[AaRead是您眼睛和大脑的阅读帮手。它使一些字母变得更加粗体，以加快阅读速度并降低工作量。这对于患有注意力缺陷多动症、阅读障碍或任何阅读时大脑容易感到无聊的人来说非常有用。    ]]></description>
+      <guid>https://www.producthunt.com/posts/aaread</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>y-gy - 一个简单的链接缩短器和 QR 码创建器</title>
+      <link>https://www.producthunt.com/posts/y-gy</link>
+      <description><![CDATA[缩短链接。制作二维码。分析流量。停止机器人。一切都通过 API 完成。邀请你的团队。使用您的域名。如果您愿意，链接将永远存在。     ]]></description>
+      <guid>https://www.producthunt.com/posts/y-gy</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>job-boardly - 在几分钟内启动一个功能齐全、SEO 友好的工作板</title>
+      <link>https://www.producthunt.com/posts/job-boardly</link>
+      <description><![CDATA[Job Boardly 允许任何人在几分钟内启动功能齐全、搜索引擎友好的招聘板。使用简单的无代码界面轻松自定义您的招聘板，并定制您的招聘板以满足您的利基市场或行业的需求。一次付款，永久拥有。    ]]></description>
+      <guid>https://www.producthunt.com/posts/job-boardly</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
       <title>vitae - 让您使用 AI 创建简历和求职信</title>
       <link>https://www.producthunt.com/posts/vitae</link>
       <description><![CDATA[创建自定义简历和求职信，具体到工作描述，只需几分钟（甚至几秒）  ]]></description>
@@ -85,58 +113,37 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
+      <title>featurepanel - 让客户知道所请求的功能何时启动</title>
+      <link>https://www.producthunt.com/posts/featurepanel</link>
+      <description><![CDATA[不要让您的用户在项目的早期阶段离开，让他们订阅更新，并在您提供他们所需的内容后再次让他们使用您的产品。   &lt;img src=&quot;https://ph-files.imgix.net/8413bfcc-1ed5-453a-99de-ba263a5d0064.png?auto=format&amp;amp;fit =作物”/&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/featurepanel</guid>
+      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
       <title>airbnb-icons - 来自世界上最伟大偶像的非凡体验</title>
       <link>https://www.producthunt.com/posts/airbnb-icons</link>
-      <description><![CDATA[Airbnb 正在推出 Icons，这是一种全新的非凡体验类别，由音乐、电影、电视、艺术、体育等领域最伟大的人物主持。图标让您步入梦想的世界。   ]]></description>
+      <description><![CDATA[Airbnb 正在推出“Icons”，这是由音乐、电影、电视、艺术、体育等领域的杰出人物主持的全新非凡体验类别。图标让您进入您梦寐以求的世界。   ]]></description>
       <guid>https://www.producthunt.com/posts/airbnb-icons</guid>
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>nextcommit - 找到你梦想的远程技术工作</title>
+      <title>nextcommit - 实现您梦想的远程技术工作</title>
       <link>https://www.producthunt.com/posts/nextcommit</link>
-      <description><![CDATA[该平台为技术候选人在寻找远程工作的整个过程中提供支持，从分析简历到实现获得职位的最终目标。     ]]></description>
+      <description><![CDATA[一个支持技术候选人寻找远程工作的整个过程的平台，从分析简历到实现获得职位的最终目标。     ]]></description>
       <guid>https://www.producthunt.com/posts/nextcommit</guid>
-      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>monterey-ai-2-0 - 产品洞察副驾驶</title>
-      <link>https://www.producthunt.com/posts/monterey-ai-2-0</link>
-      <description><![CDATA[Monterey AI 通过支持请求、销售电话和访谈来汇总、分类和分析用户反馈。它触手可及，提供深入、实时和迭代的见解。快速发现需求、开展调查并关闭反馈循环。      &lt;img src=&quot;https://ph-files.imgix.net/ed0cf7b6-ff89-496c-8015-f54ac5a2e9d2.png?auto=format&amp;amp;fit=crop ” /&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/monterey-ai-2-0</guid>
-      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>太平鸟 - 每项营销任务的人工智能副驾驶</title>
-      <link>https://www.producthunt.com/posts/waxwing</link>
-      <description><![CDATA[Waxwing 通过为正确的任务提供正确的背景，将每个营销人员转变为专家级人工智能用户。我们的 MarketingGPT 可以获取数千个案例研究、行业趋势和您的见解，以推荐策略、制定计划并帮助您执行。哇！        ]]></description>
-      <guid>https://www.producthunt.com/posts/waxwing</guid>
-      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>aaread - 快速阅读网页而不累眼睛</title>
-      <link>https://www.producthunt.com/posts/aaread</link>
-      <description><![CDATA[AaRead是您眼睛和大脑的阅读帮手。它使一些字母变得更加粗体，以加快阅读速度并降低工作量。这对于患有多动症、诵读困难症或任何阅读时大脑容易感到无聊的人来说非常有用。    ]]></description>
-      <guid>https://www.producthunt.com/posts/aaread</guid>
-      <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>job-boardly - 在几分钟内启动一个功能齐全、SEO 友好的工作板</title>
-      <link>https://www.producthunt.com/posts/job-boardly</link>
-      <description><![CDATA[Job Boardly 允许任何人在几分钟内启动功能齐全、SEO 友好的工作板。使用简单的无代码界面轻松自定义您的工作板，并定制您的板以满足您的利基或行业的需求。支付一次，永久拥有。    ]]></description>
-      <guid>https://www.producthunt.com/posts/job-boardly</guid>
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
       <title>autopilot-for-slack - Slack 中的即时 AI 从您的所有应用程序中进行解答</title>
       <link>https://www.producthunt.com/posts/autopilot-for-slack</link>
-      <description><![CDATA[通过所有应用程序在 Slack 中即时获得 AI 答案。     ]]></description>
+      <description><![CDATA[即时 AI 在 Slack 中从您的所有应用程序中进行解答。     ]]></description>
       <guid>https://www.producthunt.com/posts/autopilot-for-slack</guid>
       <pubDate>Thu, 02 May 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
       <title>claude-for-ios - Anthropic 的官方 AI 助手，在你的后口袋里</title>
       <link>https://www.producthunt.com/posts/claude-for-ios</link>
-      <description><![CDATA[Anthropic 打造的 AI 助手 Claude 现在可在您的 iPhone 上使用。每当灵感来袭时，通过拍摄或上传照片或开始聊天，即可立即获得有关一系列任务的帮助（从集思广益、写作到编码等）。      ]]></description>
+      <description><![CDATA[Anthropic 打造的 AI 助手 Claude 现已在您的 iPhone 上使用。每当灵感迸发时，通过拍摄或上传照片或开始聊天，即可立即获得一系列任务的帮助 - 从头脑风暴和写作到编码等等。      ]]></description>
       <guid>https://www.producthunt.com/posts/claude-for-ios</guid>
       <pubDate>Wed, 01 May 2024 15:00:00 GMT</pubDate>
     </item>
@@ -185,7 +192,7 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
     <item>
       <title>Assista-ai - 适用于所有生产力应用程序的中枢神经系统</title>
       <link>https://www.producthunt.com/posts/assista-ai</link>
-      <description><![CDATA[Assista 通过人工智能转变企业生产力，支持对多个应用程序进行语音或文本命令控制。轻松简化任务、提高效率并缩短完成时间。     ]]></description>
+      <description><![CDATA[Assista 利用人工智能改变企业生产力，实现对多个应用程序的语音或文本命令控制。简化任务，提高效率，轻松缩短完成时间。     ]]></description>
       <guid>https://www.producthunt.com/posts/assista-ai</guid>
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
