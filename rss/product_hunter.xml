@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt 今日热门</title>
+    <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 02 May 2024 03:09:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 09:07:02 GMT</lastBuildDate>
     <item>
       <title>claude-for-ios - Anthropic 官方 AI 助手，就在你的口袋里</title>
       <link>https://www.producthunt.com/posts/claude-for-ios</link>
@@ -20,7 +20,7 @@
       <pubDate>Wed, 01 May 2024 11:49:37 GMT</pubDate>
     </item>
     <item>
-      <title>talevideo-2 - 只需点击一下即可将流畅的屏幕录制转为 3D</title>
+      <title>talevideo-2 - 只需点击一下，流畅的屏幕录制即可转为 3D</title>
       <link>https://www.producthunt.com/posts/talevideo-2</link>
       <description><![CDATA[使用流畅的鼠标录制您的屏幕，然后一键将其转换为 3D。让您的视频脱颖而出，同时使用预设模板和场景节省编辑时间。   ]]></description>
       <guid>https://www.producthunt.com/posts/talevideo-2</guid>
@@ -76,7 +76,14 @@
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>journable - 通过聊天实现健康和健身：人工智能支持的跟踪</title>
+      <title>rankify - 即时 AI SEO 关键词研究生成器</title>
+      <link>https://www.producthunt.com/posts/rankify</link>
+      <description><![CDATA[真正有效的人工智能 SEO 关键字研究 - 描述您的业务，输入种子关键字，或从语义上描述您想要查找的关键字，Rankify 将为您的网站找到完美的关键字。     ]]></description>
+      <guid>https://www.producthunt.com/posts/rankify</guid>
+      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>jourable - 用聊天的方式了解健康和健身：人工智能跟踪</title>
       <link>https://www.producthunt.com/posts/journable</link>
       <description><![CDATA[人工智能驱动的基于聊天的食物和食物运动卡路里计数器 - 专注于简单、高效和健康功能。
 
@@ -85,16 +92,9 @@
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>rankify - 即时 AI SEO 关键词研究生成器</title>
-      <link>https://www.producthunt.com/posts/rankify</link>
-      <description><![CDATA[真正有效的人工智能 SEO 关键字研究 - 描述您的业务，输入种子关键字，或从语义上描述您想要查找的关键字，Rankify 将为您的网站找到完美的关键字。     ]]></description>
-      <guid>https://www.producthunt.com/posts/rankify</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>sprig-feedback - 在您的产品或网站中捕获持续反馈</title>
       <link>https://www.producthunt.com/posts/sprig-feedback</link>
-      <description><![CDATA[使用 Sprig Feedback 始终了解用户的想法。首先，轻松在您的产品或网站中捕获持续的用户反馈。然后，立即使用 AI 分析响应并获得建议，以充分发挥产品潜力。     ]]></description>
+      <description><![CDATA[通过 Sprig Feedback 始终了解用户的想法。首先，在您的产品或网站中轻松捕获持续的用户反馈。然后，立即使用 AI 分析响应并获取建议，以释放产品的全部潜力。   &lt; img src=&quot;https://ph-files.imgix.net/dc7f4bff-7d9a-4c30-8c15-341bd80ba931.png?auto=format&amp;fit=crop&quot; /&gt;  ]]></description>
       <guid>https://www.producthunt.com/posts/sprig-feedback</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
@@ -103,6 +103,13 @@
       <link>https://www.producthunt.com/posts/datashake-hub</link>
       <description><![CDATA[Datashake Hub 是一个无代码用户界面，使分析师和数据科学家能够轻松聚合大量数据，并将其导出到 BI/社交监听工具中。例如：收集 30k 多个地点的所有麦当劳评论进行分析。     ]]></description>
       <guid>https://www.producthunt.com/posts/datashake-hub</guid>
+      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Channels-by-dovetail - 将用户反馈转化为实时见解</title>
+      <link>https://www.producthunt.com/posts/channels-by-dovetail</link>
+      <description><![CDATA[Channels 使用机器学习对大量的支持请求、应用程序评论和用户反馈进行自动分类，提供实时见解以促进产品决策。这是 Dovetail（全球产品团队使用的客户洞察中心）的最新版本。   &lt; img src=&quot;https://ph-files.imgix.net/4ecee705-930a-4417-be82-ae5c5b250f76.png?auto=format&amp;fit=crop&quot; /&gt;   &lt;img src=&quot;https://ph-files.imgix.net/47ec3f97-3c65-4828-a424-7d1a3f50cf09.png?auto=format&amp;amp;fit =作物”/&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/channels-by-dovetail</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -115,17 +122,10 @@
     <item>
       <title>stables-money - 用你的稳定币做更多事情</title>
       <link>https://www.producthunt.com/posts/stables-money</link>
-      <description><![CDATA[在 Stables，我们不仅仅是稳定币的粉丝。我们非常着迷。我们相信它们是通往财务自由的大门。
+      <description><![CDATA[在 Stables，我们不仅仅是稳定币的粉丝。我们非常痴迷。我们相信它们是通往财务自由的大门。
 
-这就是为什么我们的使命是让它们在任何地方都能访问和接受。   &lt; img src=&quot;https://ph-files.imgix.net/39b96322-d41a-47b4-a8cb-67d24ef01915.png?auto=format&amp;fit=crop&quot; /&gt; ]]></description>
+这就是为什么我们要让它们在任何地方都可以访问和接受。    ]]></description>
       <guid>https://www.producthunt.com/posts/stables-money</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Channels-by-dovetail - 将用户反馈转化为实时见解</title>
-      <link>https://www.producthunt.com/posts/channels-by-dovetail</link>
-      <description><![CDATA[Channels 使用机器学习对大量的支持请求、应用程序评论和用户反馈进行自动分类，提供实时见解以促进产品决策。这是 Dovetail（全球产品团队使用的客户洞察中心）的最新版本。   &lt; img src=&quot;https://ph-files.imgix.net/4ecee705-930a-4417-be82-ae5c5b250f76.png?auto=format&amp;fit=crop&quot; /&gt;   &lt;img src=&quot;https://ph-files.imgix.net/47ec3f97-3c65-4828-a424-7d1a3f50cf09.png?auto=format&amp;amp;fit =作物”/&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/channels-by-dovetail</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -145,7 +145,7 @@
     <item>
       <title>otterly-ai - 您的品牌和内容在人工智能搜索中的可见度如何？</title>
       <link>https://www.producthunt.com/posts/otterly-ai</link>
-      <description><![CDATA[Otterly.AI 是针对人工智能搜索体验进行内容和品牌监控的新方式。监控您的品牌、内容、竞争对手或任何其他提示。       ]]></description>
+      <description><![CDATA[Otterly.AI 是内容和内容的新方式。人工智能驱动的搜索体验的品牌监控。监控您的品牌、内容、竞争对手或任何其他提示。       ]]></description>
       <guid>https://www.producthunt.com/posts/otterly-ai</guid>
       <pubDate>Tue, 30 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -184,7 +184,7 @@
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>assista-ai - 所有生产力应用程序的中枢神经系统</title>
+      <title>Assista-ai - 适用于所有生产力应用程序的中枢神经系统</title>
       <link>https://www.producthunt.com/posts/assista-ai</link>
       <description><![CDATA[Assista 通过人工智能转变企业生产力，支持对多个应用程序进行语音或文本命令控制。轻松简化任务、提高效率并缩短完成时间。     ]]></description>
       <guid>https://www.producthunt.com/posts/assista-ai</guid>
@@ -205,7 +205,7 @@
       <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>neurelo - 将你的数据库转换为 API</title>
+      <title>neurelo - 将您的数据库转换为 API</title>
       <link>https://www.producthunt.com/posts/neurelo</link>
       <description><![CDATA[使用 Neurelo 简化您的数据库体验。它通过为 MongoDB、Postgres 和 MySQL 提供即时 AI 驱动的 REST 和 GraphQL API、GitSchema、Observability 等，消除了许多数据库工具和复杂性。专注于重要的事情 - 您的代码。     &lt;img src=&quot;https://ph-files.imgix.net/fd6c4f16-5539-47cc-9176-00be031cb854.png?auto=format&amp;amp; ;适合=作物“/&gt;]]></description>
       <guid>https://www.producthunt.com/posts/neurelo</guid>
