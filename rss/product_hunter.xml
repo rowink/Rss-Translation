@@ -4,7 +4,30 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 03 May 2024 09:05:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 12:11:05 GMT</lastBuildDate>
+    <item>
+      <title>办公室懒鬼 - 愚蠢的应用程序帮助办公室懒鬼假装忙于工作</title>
+      <link>https://www.producthunt.com/posts/office-slacker</link>
+      <description><![CDATA[Office Slacker 是一款异想天开的网页游戏，可以帮助人们在玩有趣的游戏的同时模拟办公室的忙碌，并配有虚假的通知声音。   ]]></description>
+      <guid>https://www.producthunt.com/posts/office-slacker</guid>
+      <pubDate>Fri, 03 May 2024 10:23:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>echoduck - 从任何地方私密共享文件</title>
+      <link>https://www.producthunt.com/posts/echoduck</link>
+      <description><![CDATA[EchoDuck 可让您直接从笔记本电脑共享静态网站和大文件。没有安装，没有上传，没有跟踪！
+
+只需单击一个按钮即可建立一个临时的私有静态 Web 服务器。   &lt; img src=&quot;https://ph-files.imgix.net/d4a04d7c-e51d-45d5-b6e2-ac0f17002aef.png?auto=format&amp;fit=crop&quot; /&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/echoduck</guid>
+      <pubDate>Fri, 03 May 2024 10:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>prompo-3 - 在浏览器中与各种 LLM 交互</title>
+      <link>https://www.producthunt.com/posts/prompto-3</link>
+      <description><![CDATA[Prompto 是一款开源 Web 应用程序，可轻松与不同的大型语言模型进行交互。微调结果、聊天或查询、保存提示和信息更多。   ]]></description>
+      <guid>https://www.producthunt.com/posts/prompto-3</guid>
+      <pubDate>Fri, 03 May 2024 07:33:52 GMT</pubDate>
+    </item>
     <item>
       <title>Braintrust-air - 世界上第一个人工智能招聘人员</title>
       <link>https://www.producthunt.com/posts/braintrust-air</link>
@@ -15,7 +38,7 @@
       <pubDate>Fri, 03 May 2024 07:14:54 GMT</pubDate>
     </item>
     <item>
-      <title>condens - 增强你的用户体验研究分析</title>
+      <title>condens - 增强您的用户体验研究分析</title>
       <link>https://www.producthunt.com/posts/condens</link>
       <description><![CDATA[Condens 是一个集中式平台，用于存储、构建和分析用户研究数据并在整个组织内共享见解。它对于企业来说是可扩展的，但对于小型团队来说也易于使用。     ]]></description>
       <guid>https://www.producthunt.com/posts/condens</guid>
@@ -33,13 +56,6 @@
       <pubDate>Fri, 03 May 2024 07:03:43 GMT</pubDate>
     </item>
     <item>
-      <title>Wizardshot - 使用 AI 自动创建分步教程（免费）</title>
-      <link>https://www.producthunt.com/posts/wizardshot</link>
-      <description><![CDATA[只需录制屏幕即可自动创建分步教程。我们的扩展程序会了解您正在做什么，截取屏幕截图并将其全部转换为简单的分步指南。导出为 PDF/DOC，或将其嵌入到知识库中。   ]]></description>
-      <guid>https://www.producthunt.com/posts/wizardshot</guid>
-      <pubDate>Fri, 03 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>github-copilot-workspace - Copilot 原生开发环境，专为日常任务而设计</title>
       <link>https://www.producthunt.com/posts/github-copilot-workspace</link>
       <description><![CDATA[在 Copilot Workspace 中，开发人员可以用自然语言集思广益、计划、构建、测试和运行代码。这种以任务为中心的新体验从头到尾利用不同的 Copilot 支持的代理，同时让开发人员完全控制流程。      ]]></description>
@@ -47,10 +63,24 @@
       <pubDate>Fri, 03 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>querypal-2 - 从您的公司知识中立即获得人工智能驱动的答案</title>
+      <title>Wizardshot - 使用 AI 自动创建分步教程（免费）</title>
+      <link>https://www.producthunt.com/posts/wizardshot</link>
+      <description><![CDATA[只需录制屏幕即可自动创建分步教程。我们的扩展程序会弄清楚您在做什么，截取屏幕截图并将其全部转化为简单的分步指南。导出为 PDF/DOC，或将其嵌入知识库。   ]]></description>
+      <guid>https://www.producthunt.com/posts/wizardshot</guid>
+      <pubDate>Fri, 03 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>rompolo-2 - 使用二维码/链接创建和共享数字相册</title>
+      <link>https://www.producthunt.com/posts/rompolo-2</link>
+      <description><![CDATA[使用二维码或链接轻松创建和共享任何活动的数字相册。来宾还可以查看回忆并将其上传到实时照片墙，无需应用程序或注册。    ]]></description>
+      <guid>https://www.producthunt.com/posts/rompolo-2</guid>
+      <pubDate>Fri, 03 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>querypal-2 - 从您的公司知识中获取即时、人工智能驱动的答案</title>
       <link>https://www.producthunt.com/posts/querypal-2</link>
-      <description><![CDATA[使用 Slack 的 AI 聊天助手 QueryPal 节省工作时间。它使用来自 Google Drive、Notion、Jira、Confluence 等的公司数据自动回答问题。它易于定制且安全。
-免费试用！  &lt; img src=&quot;https://ph-files.imgix.net/3589c4ba-5ff8-4daa-9004-839a861abb03.png?auto=format&amp;fit=crop&quot; /&gt;  ]]></description>
+      <description><![CDATA[使用 QueryPal（Slack 的 AI 聊天助手）节省工作时间。它使用来自 Google Drive、Notion、Jira、Confluence 等的公司数据自动回答问题。它易于定制且安全。
+免费试用！    ]]></description>
       <guid>https://www.producthunt.com/posts/querypal-2</guid>
       <pubDate>Thu, 02 May 2024 07:39:36 GMT</pubDate>
     </item>
@@ -75,7 +105,7 @@
     <item>
       <title>monterey-ai-2-0 - 产品洞察副驾驶</title>
       <link>https://www.producthunt.com/posts/monterey-ai-2-0</link>
-      <description><![CDATA[Monterey AI 汇总、分类和分析用户反馈，包括支持单、销售电话和访谈。它可为您提供深入、实时和迭代的见解。发现需求，开展调查，并关闭反馈循环，速度极快。      ]]></description>
+      <description><![CDATA[Monterey AI 通过支持请求、销售电话和访谈来汇总、分类和分析用户反馈。它触手可及，提供深入、实时和迭代的见解。快速发现需求、开展调查并关闭反馈循环。      &lt;img src=&quot;https://ph-files.imgix.net/ed0cf7b6-ff89-496c-8015-f54ac5a2e9d2.png?auto=format&amp;amp;fit=crop ” /&gt;]]></description>
       <guid>https://www.producthunt.com/posts/monterey-ai-2-0</guid>
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
@@ -98,14 +128,14 @@
     <item>
       <title>明轮船 - 通过逼真的 AI 角色扮演完善您的销售宣传</title>
       <link>https://www.producthunt.com/posts/paddleboat</link>
-      <description><![CDATA[通过与现实的人工智能买家练习推销电话，提高你的销售说服力！从人工智能买家列表中进行选择，或者根据您的业务环境，根据可定制的个性、反对意见和说明创建您自己的买家。    ]]></description>
+      <description><![CDATA[通过与现实的人工智能买家练习推销电话，提高你的销售能力！从人工智能买家列表中进行选择，或者根据您的业务环境，根据可定制的个性、反对意见和说明创建您自己的买家。    ]]></description>
       <guid>https://www.producthunt.com/posts/paddleboat</guid>
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>Assista-ai - 适用于所有生产力应用程序的中枢神经系统</title>
+      <title>assista-ai - 所有生产力应用程序的中枢神经系统</title>
       <link>https://www.producthunt.com/posts/assista-ai</link>
-      <description><![CDATA[Assista 通过人工智能转变企业生产力，支持对多个应用程序进行语音或文本命令控制。轻松简化任务、提高效率并缩短完成时间。     ]]></description>
+      <description><![CDATA[Assista 利用人工智能改变企业生产力，实现对多个应用程序的语音或文本命令控制。简化任务，提高效率，并轻松缩短完成时间。     ]]></description>
       <guid>https://www.producthunt.com/posts/assista-ai</guid>
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
@@ -124,7 +154,7 @@
       <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>neurelo - 将你的数据库转换为 API</title>
+      <title>neurelo - 将您的数据库转换为 API</title>
       <link>https://www.producthunt.com/posts/neurelo</link>
       <description><![CDATA[使用 Neurelo 简化您的数据库体验。它通过为 MongoDB、Postgres 和 MySQL 提供即时 AI 驱动的 REST 和 GraphQL API、GitSchema、Observability 等，消除了许多数据库工具和复杂性。专注于重要的事情 - 您的代码。     &lt;img src=&quot;https://ph-files.imgix.net/fd6c4f16-5539-47cc-9176-00be031cb854.png?auto=format&amp;amp; ;适合=作物“/&gt;]]></description>
       <guid>https://www.producthunt.com/posts/neurelo</guid>
