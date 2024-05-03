@@ -3,8 +3,8 @@
   <channel>
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
-    <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 02 May 2024 21:03:51 GMT</lastBuildDate>
+    <description>Product Hunt 今日热门 - 由 RSSHub 精心制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Fri, 03 May 2024 00:31:16 GMT</lastBuildDate>
     <item>
       <title>1flow - 使用人工智能在几秒钟内启动有针对性的产品内调查</title>
       <link>https://www.producthunt.com/posts/1flow</link>
@@ -15,8 +15,8 @@
     <item>
       <title>querypal-2 - 从您的公司知识中立即获得人工智能驱动的答案</title>
       <link>https://www.producthunt.com/posts/querypal-2</link>
-      <description><![CDATA[使用 Slack 的 AI 聊天助手 QueryPal 节省工作时间。它使用来自 Google Drive、Notion、Jira、Confluence 等的公司数据自动回答问题。它易于定制且安全。
-免费试用！  &lt; img src=&quot;https://ph-files.imgix.net/3589c4ba-5ff8-4daa-9004-839a861abb03.png?auto=format&amp;fit=crop&quot; /&gt;  ]]></description>
+      <description><![CDATA[使用 QueryPal（Slack 的 AI 聊天助手）节省工作时间。它使用来自 Google Drive、Notion、Jira、Confluence 等的公司数据自动回答问题。它易于定制且安全。
+免费试用！    ]]></description>
       <guid>https://www.producthunt.com/posts/querypal-2</guid>
       <pubDate>Thu, 02 May 2024 07:39:36 GMT</pubDate>
     </item>
@@ -32,11 +32,11 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
     <item>
       <title>blocksurvey-token-gate-forms-surveys - 令牌门控表格和调查</title>
       <link>https://www.producthunt.com/posts/blocksurvey-token-gated-forms-surveys</link>
-      <description><![CDATA[为 Web3 受众创建引人入胜的表格和调查。
+      <description><![CDATA[为 Web3 受众创建引人入胜的表单和调查。
 
-得益于我们与 10 多个区块链的原生集成，只需单击一下即可通过经过验证的钱包地址和社交资料收集诚实的反馈。
+由于我们与 10 多个区块链的本机集成，只需一键点击即可收集经过验证的钱包地址和社交资料的诚实反馈。
 
-只需几秒钟即可建立您的 Web3 受众列表。    ]]></description>
+只需几秒钟即可构建您的 Web3 受众群体列表。    ]]></description>
       <guid>https://www.producthunt.com/posts/blocksurvey-token-gated-forms-surveys</guid>
       <pubDate>Thu, 02 May 2024 07:34:37 GMT</pubDate>
     </item>
@@ -80,7 +80,7 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
     <item>
       <title>job-boardly - 在几分钟内启动一个功能齐全、SEO 友好的工作板</title>
       <link>https://www.producthunt.com/posts/job-boardly</link>
-      <description><![CDATA[Job Boardly 允许任何人在几分钟内启动功能齐全、搜索引擎友好的招聘板。使用简单的无代码界面轻松自定义您的招聘板，并定制您的招聘板以满足您的利基市场或行业的需求。一次付款，永久拥有。    ]]></description>
+      <description><![CDATA[Job Boardly 允许任何人在几分钟内启动功能齐全、SEO 友好的工作板。使用简单的无代码界面轻松自定义您的工作板，并定制您的板以满足您的利基或行业的需求。支付一次，永久拥有。    ]]></description>
       <guid>https://www.producthunt.com/posts/job-boardly</guid>
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
@@ -99,9 +99,9 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>y-gy - 一个简单的链接缩短器和二维码创建器</title>
+      <title>y-gy - 一个简单的链接缩短器和 QR 码创建器</title>
       <link>https://www.producthunt.com/posts/y-gy</link>
-      <description><![CDATA[缩短链接。制作二维码。分析流量。停止机器人。一切都通过 API 完成。邀请你的团队。使用您的域名。如果您愿意，链接将永远存在。     ]]></description>
+      <description><![CDATA[缩短链接。制作二维码。分析流量。停止机器人。一切都通过 API 完成。邀请你的团队。使用您的域名。如果您愿意，链接将永远存在。    ]]></description>
       <guid>https://www.producthunt.com/posts/y-gy</guid>
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
@@ -136,7 +136,7 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
     <item>
       <title>claude-for-ios - Anthropic 的官方 AI 助手，在你的后口袋里</title>
       <link>https://www.producthunt.com/posts/claude-for-ios</link>
-      <description><![CDATA[Anthropic 打造的 AI 助手 Claude 现在可在您的 iPhone 上使用。每当灵感来袭时，通过拍摄或上传照片或开始聊天，即可立即获得有关一系列任务的帮助（从集思广益、写作到编码等）。      ]]></description>
+      <description><![CDATA[Anthropic 打造的 AI 助手 Claude 现在可在您的 iPhone 上使用。每当灵感袭来时，通过拍摄或上传照片或开始聊天，即可立即获得一系列任务的帮助（从集思广益、写作到编码等）。      ]]></description>
       <guid>https://www.producthunt.com/posts/claude-for-ios</guid>
       <pubDate>Wed, 01 May 2024 15:00:00 GMT</pubDate>
     </item>
@@ -157,7 +157,7 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
     <item>
       <title>arc-for-windows - 您一直在等待的 Chrome 替代品</title>
       <link>https://www.producthunt.com/posts/arc-for-windows</link>
-      <description><![CDATA[这并不是我们 Windows 之旅的结束 —— 这只是第一天。现在真正的工作才刚刚开始。预计性能改进、新功能、对 Windows 10 的支持等将在未来几周和几个月内推出。   ]]></description>
+      <description><![CDATA[这并不是我们的 Windows 之旅的结束 — 这只是第一天。现在真正的工作开始了。预计性能改进、新功能、对 Windows 10 的支持等将在未来几周和几个月内下降。   ]]></description>
       <guid>https://www.producthunt.com/posts/arc-for-windows</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
@@ -171,12 +171,12 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
     <item>
       <title>idea-spark-4 - 帮助个体企业家验证想法的便捷工具</title>
       <link>https://www.producthunt.com/posts/idea-spark-4</link>
-      <description><![CDATA[Idea Spark 是一款完美的工具，可通过智能验证系统发现和评估新的应用创意。         ]]></description>
+      <description><![CDATA[Idea Spark 是通过智能验证系统发现和评估新应用创意的完美工具。         ]]></description>
       <guid>https://www.producthunt.com/posts/idea-spark-4</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>明轮船 - 通过逼真的 AI 角色扮演完善您的销售宣传</title>
+      <title>paddleboat - 通过逼真的 AI 角色扮演完善你的销售宣传</title>
       <link>https://www.producthunt.com/posts/paddleboat</link>
       <description><![CDATA[通过与现实的人工智能买家练习推销电话，提高你的销售说服力！从人工智能买家列表中进行选择，或者根据您的业务环境，根据可定制的个性、反对意见和说明创建您自己的买家。    ]]></description>
       <guid>https://www.producthunt.com/posts/paddleboat</guid>
@@ -204,7 +204,7 @@ GPT 搜索将找到结果并通过建议的后续行动缩小范围。现已适�
       <pubDate>Wed, 24 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>neurelo - 将您的数据库转换为 API</title>
+      <title>neurelo - 将你的数据库转换为 API</title>
       <link>https://www.producthunt.com/posts/neurelo</link>
       <description><![CDATA[使用 Neurelo 简化您的数据库体验。它通过为 MongoDB、Postgres 和 MySQL 提供即时 AI 驱动的 REST 和 GraphQL API、GitSchema、Observability 等，消除了许多数据库工具和复杂性。专注于重要的事情 - 您的代码。     &lt;img src=&quot;https://ph-files.imgix.net/fd6c4f16-5539-47cc-9176-00be031cb854.png?auto=format&amp;amp; ;适合=作物“/&gt;]]></description>
       <guid>https://www.producthunt.com/posts/neurelo</guid>
