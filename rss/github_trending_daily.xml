@@ -4,181 +4,181 @@
     <title>今日 GitHub 上的热门存储库 · GitHub</title>
     <link>https://github.com/trending/?since=daily&spoken_language_code=en</link>
     <description>今日 GitHub 上的热门存储库 · GitHub - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 04 May 2024 15:03:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 18:07:45 GMT</lastBuildDate>
+    <item>
+      <title>电子/电子</title>
+      <link>https://github.com/electron/electron</link>
+      <description><![CDATA[: Electron：使用 JavaScript、HTML 和 CSS 构建跨平台桌面应用语言：C++ 星星：112044 叉子：14938]]></description>
+      <guid>https://github.com/electron/electron</guid>
+      <pubDate>Sat, 04 May 2024 18:07:45 GMT</pubDate>
+    </item>
     <item>
       <title>terraform-aws-模块/terraform-aws-eks</title>
       <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
       <description><![CDATA[用于创建 AWS Elastic Kubernetes (EKS) 资源的 Terraform 模块 🇺 🇦语言：HCL 星星：4178 叉子：3927]]></description>
       <guid>https://github.com/terraform-aws-modules/terraform-aws-eks</guid>
-      <pubDate>Sat, 04 May 2024 15:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>脸书研究/faiss</title>
-      <link>https://github.com/facebookresearch/faiss</link>
-      <description><![CDATA[用于高效相似性搜索和密集向量聚类的库。 语言：C++ 星星：28303 叉子：3406]]></description>
-      <guid>https://github.com/facebookresearch/faiss</guid>
-      <pubDate>Sat, 04 May 2024 15:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子/电子</title>
-      <link>https://github.com/electron/electron</link>
-      <description><![CDATA[: Electron：使用 JavaScript、HTML 和 CSS 构建跨平台桌面应用语言：C++ 星星：112045 叉子：14937]]></description>
-      <guid>https://github.com/electron/electron</guid>
-      <pubDate>Sat, 04 May 2024 15:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>爱彼迎/javascript</title>
-      <link>https://github.com/airbnb/javascript</link>
-      <description><![CDATA[JavaScript 样式指南语言：JavaScript 星星：141991 货叉：26160]]></description>
-      <guid>https://github.com/airbnb/javascript</guid>
-      <pubDate>Sat, 04 May 2024 15:02:58 GMT</pubDate>
+      <pubDate>Sat, 04 May 2024 18:07:45 GMT</pubDate>
     </item>
     <item>
       <title>rui314/模具</title>
       <link>https://github.com/rui314/mold</link>
-      <description><![CDATA[Mold：现代链接器🦠 语言：C++ Star s: 13337 货叉：443]]></description>
+      <description><![CDATA[Mold：现代链接器🦠 语言：C++ 星星： 13339 货叉：442]]></description>
       <guid>https://github.com/rui314/mold</guid>
-      <pubDate>Sat, 04 May 2024 15:02:58 GMT</pubDate>
+      <pubDate>Sat, 04 May 2024 18:07:44 GMT</pubDate>
     </item>
     <item>
-      <title>sqlfluff/sqlfluff</title>
-      <link>https://github.com/sqlfluff/sqlfluff</link>
-      <description><![CDATA[模块化 SQL linter 和自动格式化程序，支持多种方言和模板代码。语言：Python Stars：7234 Forks：639]]></description>
-      <guid>https://github.com/sqlfluff/sqlfluff</guid>
-      <pubDate>Sat, 04 May 2024 15:02:57 GMT</pubDate>
+      <title>脸书研究/faiss</title>
+      <link>https://github.com/facebookresearch/faiss</link>
+      <description><![CDATA[用于高效相似性搜索和密集向量聚类的库。 语言：C++ 星星：28307 叉子：3407]]></description>
+      <guid>https://github.com/facebookresearch/faiss</guid>
+      <pubDate>Sat, 04 May 2024 18:07:44 GMT</pubDate>
     </item>
     <item>
       <title>GrapesJS/grapesjs</title>
       <link>https://github.com/GrapesJS/grapesjs</link>
-      <description><![CDATA[免费开源 Web 构建器框架。无需编码即可构建模板的下一代工具语言：TypeScript 星星：20102 分叉：3806]]></description>
+      <description><![CDATA[免费开源 Web 构建器框架。无需编码即可构建模板的下一代工具语言：TypeScript 星星：20106 分叉：3806]]></description>
       <guid>https://github.com/GrapesJS/grapesjs</guid>
-      <pubDate>Sat, 04 May 2024 15:02:57 GMT</pubDate>
+      <pubDate>Sat, 04 May 2024 18:07:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>airbnb/javascript</title>
+      <link>https://github.com/airbnb/javascript</link>
+      <description><![CDATA[JavaScript 样式指南语言：JavaScript 星星：141996 货叉：26161]]></description>
+      <guid>https://github.com/airbnb/javascript</guid>
+      <pubDate>Sat, 04 May 2024 18:07:43 GMT</pubDate>
     </item>
     <item>
       <title>typecode/json-服务器</title>
       <link>https://github.com/typicode/json-server</link>
-      <description><![CDATA[在 30 秒内（认真地）获得零编码的完整假 REST API  语言：JavaScript 星星：71272 叉子：6873]]></description>
+      <description><![CDATA[在 30 秒内（认真地）获得零编码的完整假 REST API  语言：JavaScript 星星：71278 叉子：6873]]></description>
       <guid>https://github.com/typicode/json-server</guid>
-      <pubDate>Sat, 04 May 2024 15:02:56 GMT</pubDate>
+      <pubDate>Sat, 04 May 2024 18:07:42 GMT</pubDate>
     </item>
     <item>
       <title>星光/ruff</title>
       <link>https://github.com/astral-sh/ruff</link>
-      <description><![CDATA[一个非常快的 Python linter 和代码格式化程序，用 Rust 编写。 语言：Rust 星星：26795 叉子：854]]></description>
+      <description><![CDATA[一个极其快速的 Python linter 和代码格式化程序，用 Rust 编写。 语言：Rust 星星：26802 叉子：854]]></description>
       <guid>https://github.com/astral-sh/ruff</guid>
-      <pubDate>Sat, 04 May 2024 15:02:56 GMT</pubDate>
+      <pubDate>Sat, 04 May 2024 18:07:42 GMT</pubDate>
     </item>
     <item>
-      <title>普莱斯利/鹅</title>
-      <link>https://github.com/pressly/goose</link>
-      <description><![CDATA[数据库迁移工具。支持SQL迁移和Go函数。 语言：Go 星星：5731 叉子：487]]></description>
-      <guid>https://github.com/pressly/goose</guid>
-      <pubDate>Sat, 04 May 2024 15:02:55 GMT</pubDate>
+      <title>sqlfluff/sqlfluff</title>
+      <link>https://github.com/sqlfluff/sqlfluff</link>
+      <description><![CDATA[模块化 SQL linter 和自动格式化程序，支持多种方言和模板代码。 语言：Python 星星：7235 叉子：639]]></description>
+      <guid>https://github.com/sqlfluff/sqlfluff</guid>
+      <pubDate>Sat, 04 May 2024 18:07:42 GMT</pubDate>
     </item>
     <item>
       <title>命令行界面/命令行界面</title>
       <link>https://github.com/cli/cli</link>
-      <description><![CDATA[GitHub官方命令行工具语言：去 星星：35463 叉子：5219]]></description>
+      <description><![CDATA[GitHub官方命令行工具语言：去 星星：35467 叉子：5219]]></description>
       <guid>https://github.com/cli/cli</guid>
-      <pubDate>Sat, 04 May 2024 15:02:55 GMT</pubDate>
+      <pubDate>Sat, 04 May 2024 18:07:41 GMT</pubDate>
     </item>
     <item>
       <title>冰-RS/冰</title>
       <link>https://github.com/iced-rs/iced</link>
-      <description><![CDATA[受 Elm 启发的 Rust 跨平台 GUI 库 语言：铁锈星星：22824叉子：1050]]></description>
+      <description><![CDATA[受 Elm 启发的 Rust 跨平台 GUI 库 语言：铁锈星星：22828叉子：1050]]></description>
       <guid>https://github.com/iced-rs/iced</guid>
-      <pubDate>Sat, 04 May 2024 15:02:55 GMT</pubDate>
+      <pubDate>Sat, 04 May 2024 18:07:41 GMT</pubDate>
     </item>
     <item>
-      <title>编码器/编码器</title>
+      <title>编码员/编码员</title>
       <link>https://github.com/coder/coder</link>
-      <description><![CDATA[通过 Terraform 配置远程开发环境语言：Go 星星： 6957 货叉：557]]></description>
+      <description><![CDATA[通过 Terraform 提供远程开发环境语言：Go Stars：6962 Forks：557]]></description>
       <guid>https://github.com/coder/coder</guid>
-      <pubDate>Sat, 04 May 2024 15:02:54 GMT</pubDate>
+      <pubDate>Sat, 04 May 2024 18:07:40 GMT</pubDate>
     </item>
     <item>
       <title>类型/类型</title>
       <link>https://github.com/typeorm/typeorm</link>
-      <description><![CDATA[适用于 TypeScript 和 JavaScript 的 ORM。支持 MySQL、PostgreSQL、MariaDB、SQLite、MS SQL Server、Oracle、SAP Hana、WebSQL 数据库。适用于 NodeJS、浏览器、Ionic、Cordova 和 Electron 平台。 语言：TypeScript 星星：33391 分叉：6197]]></description>
+      <description><![CDATA[适用于 TypeScript 和 JavaScript 的 ORM。支持 MySQL、PostgreSQL、MariaDB、SQLite、MS SQL Server、Oracle、SAP Hana、WebSQL 数据库。适用于 NodeJS、浏览器、Ionic、Cordova 和 Electron 平台。 语言：TypeScript 星星：33394 分叉：6197]]></description>
       <guid>https://github.com/typeorm/typeorm</guid>
-      <pubDate>Sat, 04 May 2024 15:02:54 GMT</pubDate>
+      <pubDate>Sat, 04 May 2024 18:07:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>普莱斯利/鹅</title>
+      <link>https://github.com/pressly/goose</link>
+      <description><![CDATA[数据库迁移工具。支持SQL迁移和Go函数。 语言：Go 星星：5735 叉子：488]]></description>
+      <guid>https://github.com/pressly/goose</guid>
+      <pubDate>Sat, 04 May 2024 18:07:40 GMT</pubDate>
     </item>
     <item>
       <title>液体基地</title>
       <link>https://github.com/liquibase/liquibase</link>
       <description><![CDATA[主要Liquibase源语言：Java 星星： 00叉子：1783]]></description>
       <guid>https://github.com/liquibase/liquibase</guid>
-      <pubDate>Sat, 04 May 2024 15:02:53 GMT</pubDate>
+      <pubDate>Sat, 04 May 2024 18:07:39 GMT</pubDate>
     </item>
     <item>
       <title>谷歌/平面缓冲区</title>
       <link>https://github.com/google/flatbuffers</link>
-      <description><![CDATA[FlatBuffers：内存高效序列化库语言：C++星星：22063叉子：3158]]></description>
+      <description><![CDATA[FlatBuffers：内存高效序列化库语言: C++ 星星：22065 叉子：3158]]></description>
       <guid>https://github.com/google/flatbuffers</guid>
-      <pubDate>Sat, 04 May 2024 15:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>无纸化-ngx/无纸化-ngx</title>
-      <link>https://github.com/paperless-ngx/paperless-ngx</link>
-      <description><![CDATA[社区支持的无纸化增强版本：扫描、索引和归档所有物理文档&lt; br /&gt;语言：Python 星星：16931 叉子：889]]></description>
-      <guid>https://github.com/paperless-ngx/paperless-ngx</guid>
-      <pubDate>Sat, 04 May 2024 15:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>pypa/pipx</title>
-      <link>https://github.com/pypa/pipx</link>
-      <description><![CDATA[在隔离环境中安装和运行 Python 应用程序语言：Python 星星：8920 叉子：374]]></description>
-      <guid>https://github.com/pypa/pipx</guid>
-      <pubDate>Sat, 04 May 2024 15:02:52 GMT</pubDate>
+      <pubDate>Sat, 04 May 2024 18:07:39 GMT</pubDate>
     </item>
     <item>
       <title>斯韦尔特岛</title>
       <link>https://github.com/sveltejs/svelte</link>
-      <description><![CDATA[网络增强型网络应用语言：JavaScript 星星：76611 叉子：3959]]></description>
+      <description><![CDATA[通过网络增强的 Web 应用程序语言：JavaScript Stars：76618 Forks：3959]]></description>
       <guid>https://github.com/sveltejs/svelte</guid>
-      <pubDate>Sat, 04 May 2024 15:02:51 GMT</pubDate>
+      <pubDate>Sat, 04 May 2024 18:07:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>无纸化-ngx/无纸化-ngx</title>
+      <link>https://github.com/paperless-ngx/paperless-ngx</link>
+      <description><![CDATA[社区支持的无纸化增强版本：扫描、索引和归档所有物理文档&lt; br /&gt;语言：Python 星星：16940 叉子：889]]></description>
+      <guid>https://github.com/paperless-ngx/paperless-ngx</guid>
+      <pubDate>Sat, 04 May 2024 18:07:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>pypa/pipx</title>
+      <link>https://github.com/pypa/pipx</link>
+      <description><![CDATA[在隔离环境中安装并运行 Python 应用程序语言：Python Stars：8925 Forks：374]]></description>
+      <guid>https://github.com/pypa/pipx</guid>
+      <pubDate>Sat, 04 May 2024 18:07:38 GMT</pubDate>
     </item>
     <item>
       <title>Orange-开源/投掷</title>
       <link>https://github.com/Orange-OpenSource/hurl</link>
-      <description><![CDATA[使用纯文本 Hurl、运行和测试 HTTP 请求。语言：Rust Stars：11354 Forks：458]]></description>
+      <description><![CDATA[使用纯文本发出、运行和测试 HTTP 请求。 语言：Rust 星星：11377 叉子：458]]></description>
       <guid>https://github.com/Orange-OpenSource/hurl</guid>
-      <pubDate>Sat, 04 May 2024 15:02:50 GMT</pubDate>
+      <pubDate>Sat, 04 May 2024 18:07:37 GMT</pubDate>
     </item>
     <item>
       <title>新总部</title>
       <link>https://github.com/novuhq/novu</link>
-      <description><![CDATA[🔥 具有功能齐全的嵌入式通知中心的开源通知基础架构 🚀🚀 🚀 语言：TypeScript 星星：32600 叉子：3395]]></description>
+      <description><![CDATA[🔥 具有功能齐全的嵌入式通知中心的开源通知基础架构 🚀🚀 🚀 语言：TypeScript 星星：32632 叉子：3396]]></description>
       <guid>https://github.com/novuhq/novu</guid>
-      <pubDate>Sat, 04 May 2024 15:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Coollabsio/coolify</title>
-      <link>https://github.com/coollabsio/coolify</link>
-      <description><![CDATA[一个开源&amp;自托管 Heroku / Netlify / Vercel 替代方案。 语言：PHP 星星：15114 叉子：822]]></description>
-      <guid>https://github.com/coollabsio/coolify</guid>
-      <pubDate>Sat, 04 May 2024 15:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>codecrafters-io/构建你自己的-x</title>
-      <link>https://github.com/codecrafters-io/build-your-own-x</link>
-      <description><![CDATA[通过从头开始重新创建您最喜欢的技术来掌握编程。 语言：未知星星：259223 叉子：24586]]></description>
-      <guid>https://github.com/codecrafters-io/build-your-own-x</guid>
-      <pubDate>Sat, 04 May 2024 15:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>fastfetch-cli/fastfetch</title>
-      <link>https://github.com/fastfetch-cli/fastfetch</link>
-      <description><![CDATA[与 neofetch 类似，但速度更快，因为主要是用 C 编写的。 语言：C 星星：3780 前叉：217]]></description>
-      <guid>https://github.com/fastfetch-cli/fastfetch</guid>
-      <pubDate>Sat, 04 May 2024 15:02:48 GMT</pubDate>
+      <pubDate>Sat, 04 May 2024 18:07:37 GMT</pubDate>
     </item>
     <item>
       <title>freeCodeCamp/freeCodeCamp</title>
       <link>https://github.com/freeCodeCamp/freeCodeCamp</link>
-      <description><![CDATA[freeCodeCamp.org 的开源代码库和课程。免费学习编码。语言：TypeScript Stars：389409 Forks：35582]]></description>
+      <description><![CDATA[freeCodeCamp.org 的开源代码库和课程。免费学习编码。语言：TypeScript Stars：389439 Forks：35590]]></description>
       <guid>https://github.com/freeCodeCamp/freeCodeCamp</guid>
-      <pubDate>Sat, 04 May 2024 15:02:48 GMT</pubDate>
+      <pubDate>Sat, 04 May 2024 18:07:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Coollabsio/coolify</title>
+      <link>https://github.com/coollabsio/coolify</link>
+      <description><![CDATA[一个开源&amp;自托管 Heroku / Netlify / Vercel 替代方案。 语言：PHP 星星：15165 叉子：824]]></description>
+      <guid>https://github.com/coollabsio/coolify</guid>
+      <pubDate>Sat, 04 May 2024 18:07:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>codecrafters-io/构建你自己的-x</title>
+      <link>https://github.com/codecrafters-io/build-your-own-x</link>
+      <description><![CDATA[通过从头开始重新创建您喜欢的技术来掌握编程。 语言：未知星星：259305 叉子：24594]]></description>
+      <guid>https://github.com/codecrafters-io/build-your-own-x</guid>
+      <pubDate>Sat, 04 May 2024 18:07:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>fastfetch-cli/fastfetch</title>
+      <link>https://github.com/fastfetch-cli/fastfetch</link>
+      <description><![CDATA[类似 neofetch，但速度更快，因为主要用 C 编写。语言：C Stars：3977 Forks：226]]></description>
+      <guid>https://github.com/fastfetch-cli/fastfetch</guid>
+      <pubDate>Sat, 04 May 2024 18:07:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
