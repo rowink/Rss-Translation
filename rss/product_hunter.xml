@@ -4,9 +4,9 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 04 May 2024 18:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 21:04:22 GMT</lastBuildDate>
     <item>
-      <title>creatoor-ai - 使用简单的文本提示创建社交媒体视频</title>
+      <title>creatoor-ai - 使用简单的文本提示为社交媒体创建视频</title>
       <link>https://www.producthunt.com/posts/creatoor-ai</link>
       <description><![CDATA[只需一个简单的提示，Creatoor AI 就能用您的 AI 头像制作出高质量的 Instagram Reels。   ]]></description>
       <guid>https://www.producthunt.com/posts/creatoor-ai</guid>
@@ -34,9 +34,16 @@
       <pubDate>Sat, 04 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
+      <title>callbud-ai - 为您预约打电话的人工智能！</title>
+      <link>https://www.producthunt.com/posts/callbud-ai</link>
+      <description><![CDATA[这款革命性的应用程序旨在处理您的预约电话。不再担心打电话，也不再浪费时间打电话预订餐厅、预约理发师或看医生。 CallBud AI 将为您拨打电话。      ]]></description>
+      <guid>https://www.producthunt.com/posts/callbud-ai</guid>
+      <pubDate>Sat, 04 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
       <title>inforida - 简化学校绩效</title>
       <link>https://www.producthunt.com/posts/inforida</link>
-      <description><![CDATA[Inforida 是一款现代学校管理应用程序，通过出勤、费用管理和通讯工具等功能提高教育和行政效率。它用户友好，非常适合旨在改善运营和成果的现代学校。     ]]></description>
+      <description><![CDATA[Inforida 是一款现代学校管理应用程序，具有出勤、费用管理和通信工具等功能，可提高教育和管理效率。它用户友好，非常适合旨在改善运营和成果的现代学校。     ]]></description>
       <guid>https://www.producthunt.com/posts/inforida</guid>
       <pubDate>Sat, 04 May 2024 07:01:00 GMT</pubDate>
     </item>
@@ -45,13 +52,6 @@
       <link>https://www.producthunt.com/posts/meaning</link>
       <description><![CDATA[Meaning 是世界上第一个人工智能屏幕时间教练。当您需要时通过聊天来解锁应用程序，但请保持有意且简短的使用方式。阻止应用程序、安排课程并定制您的教练。深受创始人、学生和任何拥有手机的人的喜爱！      ]]></description>
       <guid>https://www.producthunt.com/posts/meaning</guid>
-      <pubDate>Sat, 04 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>callbud-ai - 为您预约打电话的人工智能！</title>
-      <link>https://www.producthunt.com/posts/callbud-ai</link>
-      <description><![CDATA[这款革命性的应用程序旨在处理您的预约电话。不再担心打电话，也不再浪费时间打电话预订餐厅、预约理发师或看医生。 CallBud AI 将为您拨打电话。      ]]></description>
-      <guid>https://www.producthunt.com/posts/callbud-ai</guid>
       <pubDate>Sat, 04 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -71,7 +71,7 @@
     <item>
       <title>prompo-3 - 在浏览器中与各种 LLM 交互</title>
       <link>https://www.producthunt.com/posts/prompto-3</link>
-      <description><![CDATA[Prompto 是一款开源 Web 应用，可轻松与不同的大型语言模型进行交互。微调结果、聊天或查询、保存提示等等。  ]]></description>
+      <description><![CDATA[Prompto 是一款开源 Web 应用程序，可轻松与不同的大型语言模型进行交互。微调结果、聊天或查询、保存提示和信息更多。   ]]></description>
       <guid>https://www.producthunt.com/posts/prompto-3</guid>
       <pubDate>Fri, 03 May 2024 07:33:52 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
       <pubDate>Fri, 03 May 2024 07:08:07 GMT</pubDate>
     </item>
     <item>
-      <title>expressive-ai-avatars-by-synthesia - 在几分钟内使用 AI 头像创建栩栩如生的视频</title>
+      <title>expressive-ai-avatars-by-synthesia - 几分钟内使用 AI Avatars 创建逼真的视频</title>
       <link>https://www.producthunt.com/posts/expressive-ai-avatars-by-synthesia</link>
       <description><![CDATA[AI 头像现在已经学会了解释文本 😬
 
@@ -105,7 +105,7 @@
     <item>
       <title>Wizardshot - 使用 AI 自动创建分步教程（免费）</title>
       <link>https://www.producthunt.com/posts/wizardshot</link>
-      <description><![CDATA[只需录制屏幕即可自动创建分步教程。我们的扩展程序会找出您在做什么，截取屏幕截图并将其全部转化为简单的分步指南。导出为 PDF/DOC，或将其嵌入知识库。   ]]></description>
+      <description><![CDATA[只需录制屏幕即可自动创建分步教程。我们的扩展程序会弄清楚您在做什么，截取屏幕截图并将其全部转化为简单的分步指南。导出为 PDF/DOC，或将其嵌入知识库。   ]]></description>
       <guid>https://www.producthunt.com/posts/wizardshot</guid>
       <pubDate>Fri, 03 May 2024 07:01:00 GMT</pubDate>
     </item>
@@ -117,7 +117,7 @@
       <pubDate>Fri, 03 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>paddleboat - 通过逼真的 AI 角色扮演完善你的销售宣传</title>
+      <title>明轮船 - 通过逼真的 AI 角色扮演完善您的销售宣传</title>
       <link>https://www.producthunt.com/posts/paddleboat</link>
       <description><![CDATA[通过与现实的人工智能买家练习推销电话，提高你的推销能力！从人工智能买家列表中进行选择，或者根据您的业务环境，根据可定制的个性、反对意见和说明创建您自己的买家。    ]]></description>
       <guid>https://www.producthunt.com/posts/paddleboat</guid>
