@@ -4,7 +4,14 @@
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
     <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 04 May 2024 09:03:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 12:10:32 GMT</lastBuildDate>
+    <item>
+      <title>creatoor-ai - 使用简单的文本提示创建社交媒体视频</title>
+      <link>https://www.producthunt.com/posts/creatoor-ai</link>
+      <description><![CDATA[只需一个简单的提示，Creatoor AI 即可使用您的 AI 头像制作高质量的 Instagram Reels。   ]]></description>
+      <guid>https://www.producthunt.com/posts/creatoor-ai</guid>
+      <pubDate>Sat, 04 May 2024 07:44:36 GMT</pubDate>
+    </item>
     <item>
       <title>pressmaster-ai - 人工智能驱动的一体化公共关系软件</title>
       <link>https://www.producthunt.com/posts/pressmaster-ai</link>
@@ -20,24 +27,10 @@
       <pubDate>Sat, 04 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>历史上的今天 - 事件按时间顺序从现在到过去列出。</title>
-      <link>https://www.producthunt.com/posts/today-in-history</link>
-      <description><![CDATA[“历史上的今天”是一款每日发送通知的应用程序，其中包含前几年同一日期的历史事件。它按科学、艺术和技术等类别组织活动。    ]]></description>
-      <guid>https://www.producthunt.com/posts/today-in-history</guid>
-      <pubDate>Sat, 04 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>logoit - 徽标变得简单</title>
       <link>https://www.producthunt.com/posts/logoit</link>
       <description><![CDATA[适合所有人的简单愚蠢的徽标制作器。想要为您的副项目或应用程序获得一个快速徽标吗？ Logoit 生成简单的徽标，您可以免费下载各种格式的徽标。    ]]></description>
       <guid>https://www.producthunt.com/posts/logoit</guid>
-      <pubDate>Sat, 04 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>callbud-ai - 为您预约打电话的人工智能！</title>
-      <link>https://www.producthunt.com/posts/callbud-ai</link>
-      <description><![CDATA[这款革命性的应用程序旨在处理您的预约电话。不再担心打电话，也不再浪费时间打电话预订餐厅、预约理发师或看医生。 CallBud AI 将为您拨打电话。      ]]></description>
-      <guid>https://www.producthunt.com/posts/callbud-ai</guid>
       <pubDate>Sat, 04 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
@@ -48,16 +41,30 @@
       <pubDate>Sat, 04 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>含义 - 人工智能屏幕时间教练和应用程序拦截器。聊天以解锁应用程序。</title>
+      <title>含义 - AI 屏幕时间教练和应用程序拦截器，聊天以解锁应用程序</title>
       <link>https://www.producthunt.com/posts/meaning</link>
-      <description><![CDATA[Meaning 是世界上第一个人工智能屏幕时间教练。当您需要时通过聊天来解锁应用程序，但请保持有意且简短的使用方式。阻止应用程序、安排课程并定制您的教练。深受创始人、学生和任何拥有手机的人的喜爱！      ]]></description>
+      <description><![CDATA[Meaning 是世界上第一个 AI 屏幕时间教练。在需要时通过聊天解锁应用程序，但要保持使用时有目的且简短。屏蔽应用程序、安排会话并自定义您的教练。深受创始人、学生以及任何拥有手机的人的喜爱！      ]]></description>
       <guid>https://www.producthunt.com/posts/meaning</guid>
+      <pubDate>Sat, 04 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>callbud-ai - 为您预约打电话的人工智能！</title>
+      <link>https://www.producthunt.com/posts/callbud-ai</link>
+      <description><![CDATA[这款革命性的应用程序旨在处理您的预约电话。您再也不用担心打电话或浪费时间打电话预订餐厅、预约理发店或看医生了。 CallBud AI 将为您拨打电话。      ]]></description>
+      <guid>https://www.producthunt.com/posts/callbud-ai</guid>
+      <pubDate>Sat, 04 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>历史上的今天 - 事件按时间顺序从现在到过去列出</title>
+      <link>https://www.producthunt.com/posts/today-in-history</link>
+      <description><![CDATA[“历史上的今天”是一款每日发送通知的应用程序，其中包含前几年同一日期的历史事件。它按科学、艺术和技术等类别组织活动。    ]]></description>
+      <guid>https://www.producthunt.com/posts/today-in-history</guid>
       <pubDate>Sat, 04 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
       <title>nanito-minimalist-launcher - 最小的 Android 启动器，可帮助您减少屏幕时间</title>
       <link>https://www.producthunt.com/posts/nanito-minimalist-launcher</link>
-      <description><![CDATA[一款简约的 Android 启动器，可帮助您仅专注于重要的应用程序，并停止无意识地打开无限滚动的应用程序，从而提高您的健康和工作效率。 ]]></description>
+      <description><![CDATA[极简主义的 Android 启动器，可帮助您仅关注重要的应用程序，并停止无意识地打开无限滚动的应用程序，从而改善您的健康和工作效率。 ]]></description>
       <guid>https://www.producthunt.com/posts/nanito-minimalist-launcher</guid>
       <pubDate>Sat, 04 May 2024 07:01:00 GMT</pubDate>
     </item>
@@ -80,7 +87,7 @@
     <item>
       <title>condens - 增强您的用户体验研究分析</title>
       <link>https://www.producthunt.com/posts/condens</link>
-      <description><![CDATA[Condens 是一个集中式平台，用于存储、构建和分析用户研究数据，并在整个组织内共享见解。它适用于企业，但对于小型团队来说也很容易使用。     ]]></description>
+      <description><![CDATA[Condens 是一个集中式平台，用于存储、构建和分析用户研究数据并在整个组织内共享见解。它对于企业来说是可扩展的，但对于小型团队来说也易于使用。     ]]></description>
       <guid>https://www.producthunt.com/posts/condens</guid>
       <pubDate>Fri, 03 May 2024 07:08:07 GMT</pubDate>
     </item>
@@ -98,26 +105,26 @@
     <item>
       <title>Wizardshot - 使用 AI 自动创建分步教程（免费）</title>
       <link>https://www.producthunt.com/posts/wizardshot</link>
-      <description><![CDATA[只需录制屏幕即可自动创建分步教程。我们的扩展程序会了解您正在做什么，截取屏幕截图并将其全部转换为简单的分步指南。导出为 PDF/DOC，或将其嵌入到知识库中。   ]]></description>
+      <description><![CDATA[只需录制屏幕即可自动创建分步教程。我们的扩展程序会找出您在做什么，截取屏幕截图并将其全部转化为简单的分步指南。导出为 PDF/DOC，或将其嵌入知识库。   ]]></description>
       <guid>https://www.producthunt.com/posts/wizardshot</guid>
       <pubDate>Fri, 03 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
       <title>github-copilot-workspace - Copilot 原生开发环境，专为日常任务而设计</title>
       <link>https://www.producthunt.com/posts/github-copilot-workspace</link>
-      <description><![CDATA[在 Copilot Workspace 中，开发人员可以用自然语言集思广益、计划、构建、测试和运行代码。这种以任务为中心的新体验从头到尾利用不同的 Copilot 支持的代理，同时让开发人员完全控制流程。      ]]></description>
+      <description><![CDATA[在 Copilot Workspace 中，开发人员可以用自然语言集思广益、规划、构建、测试和运行代码。这种以任务为中心的新体验从头到尾利用不同的 Copilot 支持的代理，同时让开发人员完全控制流程。      ]]></description>
       <guid>https://www.producthunt.com/posts/github-copilot-workspace</guid>
       <pubDate>Fri, 03 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
       <title>明轮船 - 通过逼真的 AI 角色扮演完善您的销售宣传</title>
       <link>https://www.producthunt.com/posts/paddleboat</link>
-      <description><![CDATA[通过与现实的人工智能买家练习推销电话，提高你的销售能力！从人工智能买家列表中进行选择，或者根据您的业务环境，根据可定制的个性、反对意见和说明创建您自己的买家。    ]]></description>
+      <description><![CDATA[通过与现实的 AI 买家练习电话销售，提高您的销售能力！从 AI 买家列表中进行选择，或根据您的业务环境定制自己的个性、反对意见和说明。    ]]></description>
       <guid>https://www.producthunt.com/posts/paddleboat</guid>
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>Assista-ai - 适用于所有生产力应用程序的中枢神经系统</title>
+      <title>assista-ai - 所有生产力应用程序的中枢神经系统</title>
       <link>https://www.producthunt.com/posts/assista-ai</link>
       <description><![CDATA[Assista 通过人工智能转变企业生产力，支持对多个应用程序进行语音或文本命令控制。轻松简化任务、提高效率并缩短完成时间。     ]]></description>
       <guid>https://www.producthunt.com/posts/assista-ai</guid>
