@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>今日热门产品搜寻</title>
+    <title>Product Hunt 今日热门</title>
     <link>https://www.producthunt.com/</link>
-    <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 05 May 2024 12:10:13 GMT</lastBuildDate>
+    <description>Product Hunt 今日热门 - 由 RSSHub 精心制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Sun, 05 May 2024 15:04:07 GMT</lastBuildDate>
     <item>
       <title>iconbuddy-figma-plugin - 在 Figma 中浏览 226,377 个 SVG 图标</title>
       <link>https://www.producthunt.com/posts/iconbuddy-figma-plugin</link>
@@ -20,7 +20,7 @@
       <pubDate>Sun, 05 May 2024 07:15:21 GMT</pubDate>
     </item>
     <item>
-      <title>contentpie - 利用人工智能驱动的内容创作增加自然流量</title>
+      <title>contentpie - 通过人工智能驱动的内容创建来增加自然流量</title>
       <link>https://www.producthunt.com/posts/contentpie</link>
       <description><![CDATA[ContentPie 可以轻松创建引起共鸣的内容。它提供 SEO 优化的文章、引人入胜的视觉效果以及多种语言的选项。快速增加自然流量并保持一致的品牌形象。      ]]></description>
       <guid>https://www.producthunt.com/posts/contentpie</guid>
@@ -50,14 +50,14 @@
       <pubDate>Sun, 05 May 2024 07:09:19 GMT</pubDate>
     </item>
     <item>
-      <title>piips - 一款超本地化社交应用</title>
+      <title>piips - 超本地化社交应用</title>
       <link>https://www.producthunt.com/posts/piips</link>
       <description><![CDATA[与您周围的人和场所进行实时交流。     ]]></description>
       <guid>https://www.producthunt.com/posts/piips</guid>
       <pubDate>Sun, 05 May 2024 07:07:54 GMT</pubDate>
     </item>
     <item>
-      <title>Hammer-3 - ⌘+C ⌘+V 之间缺失的部分</title>
+      <title>hammer-3 - ⌘+C ⌘+V 之间缺失的部分</title>
       <link>https://www.producthunt.com/posts/hammer-3</link>
       <description><![CDATA[Hammer 将您的剪贴板数据转换为其他内容。不再需要搜索 Base64 转换、加密/解密、QR 到文本……这样的例子不胜枚举。
 
@@ -66,11 +66,18 @@
       <pubDate>Sun, 05 May 2024 07:05:08 GMT</pubDate>
     </item>
     <item>
-      <title>agentcrew - 100% 免费工具，可利用 AI 自动化您的任务</title>
+      <title>agentcrew - 100% 免费工具，可利用当今的 AI 自动执行您的任务</title>
       <link>https://www.producthunt.com/posts/agentcrew</link>
       <description><![CDATA[跳过学习曲线。立即开始使用 AgentCrew 精心策划的一套免费、出色的 AI 工作流程，利用 AI 来自动化您的任务，这些工作流程涵盖您企业中的不同职能部门。生产力立即提高 20 倍！ 🚀   ]]></description>
       <guid>https://www.producthunt.com/posts/agentcrew</guid>
       <pubDate>Sun, 05 May 2024 07:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>微型资产 - 专注于微型收购的市场</title>
+      <link>https://www.producthunt.com/posts/microassets</link>
+      <description><![CDATA[MicroAssets 将买家与自力更生的创始人联系起来，这些创始人出售 10 万美元以下的高潜力项目。     ]]></description>
+      <guid>https://www.producthunt.com/posts/microassets</guid>
+      <pubDate>Sun, 05 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
       <title>copilot-workspace-raycast-extension - 从任何地方获取想法并将其转化为代码</title>
@@ -87,16 +94,9 @@
       <pubDate>Sun, 05 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>微型资产 - 专注于微型收购的市场</title>
-      <link>https://www.producthunt.com/posts/microassets</link>
-      <description><![CDATA[MicroAssets 将买家与自力更生的创始人联系起来，这些创始人出售 10 万美元以下的高潜力项目。     ]]></description>
-      <guid>https://www.producthunt.com/posts/microassets</guid>
-      <pubDate>Sun, 05 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>creatoor-ai - 使用简单的文本提示创建社交媒体视频</title>
+      <title>creatoor-ai - 使用简单的文本提示为社交媒体创建视频</title>
       <link>https://www.producthunt.com/posts/creatoor-ai</link>
-      <description><![CDATA[只需一个简单的提示，Creatoor AI 即可使用您的 AI 头像制作高质量的 Instagram Reels。   ]]></description>
+      <description><![CDATA[只需一个简单的提示，Creatoor AI 就能用您的 AI 头像制作出高质量的 Instagram Reels。   ]]></description>
       <guid>https://www.producthunt.com/posts/creatoor-ai</guid>
       <pubDate>Sat, 04 May 2024 07:44:36 GMT</pubDate>
     </item>
@@ -122,14 +122,14 @@
       <pubDate>Sat, 04 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>callbud-ai - 为您拨打预约电话的 AI</title>
+      <title>callbud-ai - 为您拨打预约电话的人工智能</title>
       <link>https://www.producthunt.com/posts/callbud-ai</link>
       <description><![CDATA[这款革命性的应用程序旨在处理您的预约电话。不再担心打电话，也不再浪费时间打电话预订餐厅、预约理发师或看医生。 CallBud AI 将为您拨打电话。      ]]></description>
       <guid>https://www.producthunt.com/posts/callbud-ai</guid>
       <pubDate>Sat, 04 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>inforida - 简化学校绩效</title>
+      <title>inforida - 简化学校表现</title>
       <link>https://www.producthunt.com/posts/inforida</link>
       <description><![CDATA[Inforida 是一款现代学校管理应用程序，具有出勤、费用管理和通信工具等功能，可提高教育和管理效率。它用户友好，非常适合旨在改善运营和成果的现代学校。     ]]></description>
       <guid>https://www.producthunt.com/posts/inforida</guid>
@@ -138,14 +138,14 @@
     <item>
       <title>明轮船 - 通过逼真的 AI 角色扮演完善您的销售宣传</title>
       <link>https://www.producthunt.com/posts/paddleboat</link>
-      <description><![CDATA[通过与现实的人工智能买家练习推销电话，提高你的销售能力！从人工智能买家列表中进行选择，或者根据您的业务环境，根据可定制的个性、反对意见和说明创建您自己的买家。    ]]></description>
+      <description><![CDATA[通过与现实的 AI 买家练习电话销售，提高您的销售能力！从 AI 买家列表中进行选择，或根据您的业务环境定制自己的个性、反对意见和说明。    ]]></description>
       <guid>https://www.producthunt.com/posts/paddleboat</guid>
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>assista-ai - 所有生产力应用程序的中枢神经系统</title>
+      <title>Assista-ai - 适用于所有生产力应用程序的中枢神经系统</title>
       <link>https://www.producthunt.com/posts/assista-ai</link>
-      <description><![CDATA[Assista 利用人工智能改变企业生产力，实现对多个应用程序的语音或文本命令控制。简化任务，提高效率，轻松缩短完成时间。     ]]></description>
+      <description><![CDATA[Assista 通过人工智能转变企业生产力，支持对多个应用程序进行语音或文本命令控制。轻松简化任务、提高效率并缩短完成时间。     ]]></description>
       <guid>https://www.producthunt.com/posts/assista-ai</guid>
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
