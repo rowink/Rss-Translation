@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt 今日热门</title>
+    <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
-    <description>Product Hunt 今日热门 - 由 RSSHub 精心制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 06 May 2024 12:11:53 GMT</lastBuildDate>
+    <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Mon, 06 May 2024 15:05:05 GMT</lastBuildDate>
     <item>
-      <title>hexn-io - 加密货币投资组合管理工具。赚取 BTC、ETH 利息。</title>
+      <title>ai-illustration-generator - 在几分钟内获得风格一致的插图</title>
+      <link>https://www.producthunt.com/posts/ai-illustration-generator</link>
+      <description><![CDATA[AI 插图生成器专为快速轻松地创建插图而设计。它提供预先设计的模型以快速生成插图，还允许用户上传插图以开发独特的自定义模型。 ]]></description>
+      <guid>https://www.producthunt.com/posts/ai-illustration-generator</guid>
+      <pubDate>Mon, 06 May 2024 13:13:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>qrev - Salesforce 的开源人工智能优先替代方案</title>
+      <link>https://www.producthunt.com/posts/qrev</link>
+      <description><![CDATA[如果 Salesforce 今天是用人工智能构建的，那么 QRev 就相当于 Salesforce。 QRev 为公司提供开源人工智能代理，以无限扩展其销售组织。每个销售代表每周可节省 25 个小时以上的时间用于研究、规划和勘探。    ]]></description>
+      <guid>https://www.producthunt.com/posts/qrev</guid>
+      <pubDate>Mon, 06 May 2024 11:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>hexn-io - 无压力增加财富</title>
       <link>https://www.producthunt.com/posts/hexn-io</link>
       <description><![CDATA[Hexn 是一个加密货币保险库，您可以：
 - 安全地存储您的加密货币，
@@ -43,7 +57,7 @@
       <pubDate>Mon, 06 May 2024 07:10:42 GMT</pubDate>
     </item>
     <item>
-      <title>Branding-archtypes-generator - 解锁您的品牌故事：发现您的原型</title>
+      <title>branding-archtypes-generator - 解锁你的品牌故事：发现你的原型</title>
       <link>https://www.producthunt.com/posts/branding-archtypes-generator</link>
       <description><![CDATA[该工具旨在帮助您了解和定义品牌的独特个性和身份。通过探索品牌原型，您可以深入了解品牌的独特之处，并制定能引起受众共鸣的叙事。    ]]></description>
       <guid>https://www.producthunt.com/posts/branding-archtypes-generator</guid>
@@ -64,7 +78,7 @@
       <pubDate>Mon, 06 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>logome - 使用 AI 在几秒钟内制作您理想的徽标和品牌套件。</title>
+      <title>logome - 使用 AI 在几秒钟内制作您理想的徽标和品牌套件</title>
       <link>https://www.producthunt.com/posts/logome</link>
       <description><![CDATA[使用 Logome 的 AI 轻松设计您的徽标！选择定制，使用我们的品牌套件增强您的品牌。即时制作品牌素材，简化品牌建设。捕捉您的本质，与世界分享您的身份，并被记住！     ]]></description>
       <guid>https://www.producthunt.com/posts/logome</guid>
@@ -80,7 +94,7 @@
     <item>
       <title>iconbuddy-figma-plugin - 在 Figma 中浏览 226,377 个 SVG 图标</title>
       <link>https://www.producthunt.com/posts/iconbuddy-figma-plugin</link>
-      <description><![CDATA[在您的 Figma 项目中轻松发现超过 200,000 个开源 SVG 图标，将图标管理到您的收藏夹中。     ]]></description>
+      <description><![CDATA[在 Figma 项目中轻松发现超过 200,000 个开源 SVG 图标，将图标管理到您的集合中。     ]]></description>
       <guid>https://www.producthunt.com/posts/iconbuddy-figma-plugin</guid>
       <pubDate>Sun, 05 May 2024 07:17:22 GMT</pubDate>
     </item>
@@ -124,9 +138,9 @@
     <item>
       <title>expressive-ai-avatars-by-synthesia - 在几分钟内使用 AI 头像创建栩栩如生的视频</title>
       <link>https://www.producthunt.com/posts/expressive-ai-avatars-by-synthesia</link>
-      <description><![CDATA[AI 头像现在已经学会了解释文本 😬
+      <description><![CDATA[AI 化身现在已经学会了解读文本 😬
 
-他们理解剧本并自动调整自己的表演，呈现出悲伤、快乐、乐观、兴奋、愤怒等富有表现力的表演。
+他们理解剧本并自动调整自己的表演，提供富有表现力的表演，包括悲伤、快乐、乐观、兴奋、愤怒……应有尽有。
 
 立即免费制作 AI 视频！   ]]></description>
       <guid>https://www.producthunt.com/posts/expressive-ai-avatars-by-synthesia</guid>
@@ -140,17 +154,17 @@
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>stackradar - 精选的互联网上最好的工具</title>
-      <link>https://www.producthunt.com/posts/stackradar</link>
-      <description><![CDATA[Stackradar 是经过审查的技术工具，可帮助各种个人和企业了解、构建、集成和扩展其技术堆栈 🚀     ]]></description>
-      <guid>https://www.producthunt.com/posts/stackradar</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>loom-ai-workflows - 只需点击一下即可将任何 loom 视频转换为可共享的文档</title>
       <link>https://www.producthunt.com/posts/loom-ai-workflows</link>
       <description><![CDATA[如果您的工作流程以 Loom 视频开始和结束怎么办？现在您可以说出来、展示出来，然后让 Loom 为您编写：最好、最简单的视频消息软件现在可以实现有效的视频和书面沟通。介绍 Loom AI 工作流程。    ]]></description>
       <guid>https://www.producthunt.com/posts/loom-ai-workflows</guid>
+      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>stackradar - 精选的互联网上最好的工具</title>
+      <link>https://www.producthunt.com/posts/stackradar</link>
+      <description><![CDATA[Stackradar 是经过审查的技术工具，可帮助各种个人和企业了解、构建、集成和扩展其技术堆栈 🚀     ]]></description>
+      <guid>https://www.producthunt.com/posts/stackradar</guid>
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
