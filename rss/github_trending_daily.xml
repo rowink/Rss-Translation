@@ -1,184 +1,184 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>GitHub 上当今最热门的存储库 · GitHub</title>
+    <title>今日 GitHub 上的热门存储库 · GitHub</title>
     <link>https://github.com/trending/?since=daily&spoken_language_code=en</link>
-    <description>GitHub 上当今流行的存储库 · GitHub - 由 RSSHub 精心制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 06 May 2024 00:29:40 GMT</lastBuildDate>
+    <description>今日 GitHub 上的热门存储库 · GitHub - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Mon, 06 May 2024 03:07:49 GMT</lastBuildDate>
+    <item>
+      <title>WebAssembly/wabt</title>
+      <link>https://github.com/WebAssembly/wabt</link>
+      <description><![CDATA[WebAssembly 二进制工具包语言：C++ 星星： 6412 &lt; br /&gt;货叉：653]]></description>
+      <guid>https://github.com/WebAssembly/wabt</guid>
+      <pubDate>Mon, 06 May 2024 03:07:48 GMT</pubDate>
+    </item>
     <item>
       <title>热0/热0</title>
       <link>https://github.com/risc0/risc0</link>
       <description><![CDATA[RISC Zero是一个基于zk-STARKs和RISC-V微架构的零知识可验证通用计算平台结构。 语言：C++ 星星：1445 叉子：319]]></description>
       <guid>https://github.com/risc0/risc0</guid>
-      <pubDate>Mon, 06 May 2024 00:29:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>libp2p/rust-libp2p</title>
-      <link>https://github.com/libp2p/rust-libp2p</link>
-      <description><![CDATA[libp2p 网络堆栈的 Rust 实现。 语言：Rust 星星：4179 叉子：871]]></description>
-      <guid>https://github.com/libp2p/rust-libp2p</guid>
-      <pubDate>Mon, 06 May 2024 00:29:39 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 03:07:48 GMT</pubDate>
     </item>
     <item>
       <title>海普鲁姆/海普兰</title>
       <link>https://github.com/hyprwm/Hyprland</link>
-      <description><![CDATA[Hyprland 是一个高度可定制的动态平铺 Wayland 合成器，不会牺牲它的外观。 语言：C++ 星星：16792 叉子：689]]></description>
+      <description><![CDATA[Hyprland 是一个高度可定制的动态平铺 Wayland 合成器，不会牺牲它的外观。 语言：C++ 星星：16793 叉子：689]]></description>
       <guid>https://github.com/hyprwm/Hyprland</guid>
-      <pubDate>Mon, 06 May 2024 00:29:39 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 03:07:47 GMT</pubDate>
     </item>
     <item>
       <title>termux/termux 包</title>
       <link>https://github.com/termux/termux-packages</link>
-      <description><![CDATA[Termux 的软件包构建系统。语言：Shell Stars：12253 Forks：2838]]></description>
+      <description><![CDATA[Termux 的软件包构建系统。 语言：Shell 星星：12257 前叉：2838]]></description>
       <guid>https://github.com/termux/termux-packages</guid>
-      <pubDate>Mon, 06 May 2024 00:29:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>WebAssembly/wabt</title>
-      <link>https://github.com/WebAssembly/wabt</link>
-      <description><![CDATA[WebAssembly 二进制工具包语言：C++ 星星：6409 &lt; br /&gt;货叉：653]]></description>
-      <guid>https://github.com/WebAssembly/wabt</guid>
-      <pubDate>Mon, 06 May 2024 00:29:39 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 03:07:47 GMT</pubDate>
     </item>
     <item>
       <title>尾鳞/尾鳞</title>
       <link>https://github.com/tailscale/tailscale</link>
       <description><![CDATA[使用 WireGuard 和 2FA 的最简单、最安全的方法。 语言：Go 星星：16666 叉子：1249]]></description>
       <guid>https://github.com/tailscale/tailscale</guid>
-      <pubDate>Mon, 06 May 2024 00:29:38 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 03:07:46 GMT</pubDate>
     </item>
     <item>
       <title>冰-RS/冰</title>
       <link>https://github.com/iced-rs/iced</link>
-      <description><![CDATA[受 Elm 启发的 Rust 跨平台 GUI 库 语言：铁锈星星：22837叉子：1051]]></description>
+      <description><![CDATA[受 Elm 启发的 Rust 跨平台 GUI 库语言：铁锈星星：22838叉子：1051]]></description>
       <guid>https://github.com/iced-rs/iced</guid>
-      <pubDate>Mon, 06 May 2024 00:29:38 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 03:07:46 GMT</pubDate>
     </item>
     <item>
-      <title>itzg/docker-minecraft-服务器</title>
-      <link>https://github.com/itzg/docker-minecraft-server</link>
-      <description><![CDATA[提供 Minecraft 服务器的 Docker 镜像，该服务器将在启动时自动下载选定的版本 语言：Shell 星星：8432 前叉：1426]]></description>
-      <guid>https://github.com/itzg/docker-minecraft-server</guid>
-      <pubDate>Mon, 06 May 2024 00:29:37 GMT</pubDate>
+      <title>libp2p/rust-libp2p</title>
+      <link>https://github.com/libp2p/rust-libp2p</link>
+      <description><![CDATA[libp2p 网络堆栈的 Rust 实现。语言：Rust Stars：4181 Forks：871]]></description>
+      <guid>https://github.com/libp2p/rust-libp2p</guid>
+      <pubDate>Mon, 06 May 2024 03:07:46 GMT</pubDate>
     </item>
     <item>
       <title>水母</title>
       <link>https://github.com/jellyfin/jellyfin</link>
-      <description><![CDATA[自由软件媒体系统语言：C# 星星：2993 6 货叉：2783]]></description>
+      <description><![CDATA[自由软件媒体系统语言：C# 星星：2993 7 货叉：2783]]></description>
       <guid>https://github.com/jellyfin/jellyfin</guid>
-      <pubDate>Mon, 06 May 2024 00:29:37 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 03:07:45 GMT</pubDate>
     </item>
     <item>
       <title>f/awesome-chatgpt-提示</title>
       <link>https://github.com/f/awesome-chatgpt-prompts</link>
-      <description><![CDATA[此存储库包含 ChatGPT 提示管理，以便更好地使用 ChatGPT。 语言：HTML 星星：103997 叉子：14054]]></description>
+      <description><![CDATA[此存储库包含 ChatGPT 提示管理，以便更好地使用 ChatGPT。 语言：HTML 星星：104002 叉子：14056]]></description>
       <guid>https://github.com/f/awesome-chatgpt-prompts</guid>
-      <pubDate>Mon, 06 May 2024 00:29:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>龙神克斯/龙神克斯</title>
-      <link>https://github.com/Ryujinx/Ryujinx</link>
-      <description><![CDATA[用 C# 编写的实验性 Nintendo Switch 模拟器 语言：C# &lt; br /&gt;星星: 32307 货叉: 3749]]></description>
-      <guid>https://github.com/Ryujinx/Ryujinx</guid>
-      <pubDate>Mon, 06 May 2024 00:29:36 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 03:07:45 GMT</pubDate>
     </item>
     <item>
       <title>奥塞利亚</title>
       <link>https://github.com/authelia/authelia</link>
-      <description><![CDATA[网络应用的单点登录多因素门户语言：Go 星星：19646 叉子：1032]]></description>
+      <description><![CDATA[网络应用的单点登录多因素门户语言：Go 星星：19647 叉子：1032]]></description>
       <guid>https://github.com/authelia/authelia</guid>
-      <pubDate>Mon, 06 May 2024 00:29:36 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 03:07:44 GMT</pubDate>
     </item>
     <item>
       <title>苏帕巴塞</title>
       <link>https://github.com/supabase/supabase</link>
-      <description><![CDATA[开源 Firebase 替代方案。 语言：TypeScript 星星：66350 分叉：6212]]></description>
+      <description><![CDATA[开源 Firebase 替代方案。 语言：TypeScript 星星：66351 分叉：6212]]></description>
       <guid>https://github.com/supabase/supabase</guid>
-      <pubDate>Mon, 06 May 2024 00:29:36 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 03:07:44 GMT</pubDate>
     </item>
     <item>
-      <title>埃米尔克/埃吉伊</title>
-      <link>https://github.com/emilk/egui</link>
-      <description><![CDATA[egui：一个易于使用的 Rust 即时模式 GUI，可在 Web 和本机上运行 语言：Rust 星星：19889 叉子：1439]]></description>
-      <guid>https://github.com/emilk/egui</guid>
-      <pubDate>Mon, 06 May 2024 00:29:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>史蒂文·布莱克/主持人</title>
-      <link>https://github.com/StevenBlack/hosts</link>
-      <description><![CDATA[🔒 整合和扩展来自多个精心策划的来源的主机文件。可以选择色情、社交媒体和其他类别的扩展。 语言：Python 星星：25536 叉子：2133]]></description>
-      <guid>https://github.com/StevenBlack/hosts</guid>
-      <pubDate>Mon, 06 May 2024 00:29:35 GMT</pubDate>
+      <title>itzg/docker-minecraft-服务器</title>
+      <link>https://github.com/itzg/docker-minecraft-server</link>
+      <description><![CDATA[提供 Minecraft 服务器的 Docker 映像，该服务器将在启动时自动下载选定的版本 语言：Shell 星星：8434 叉子：1426]]></description>
+      <guid>https://github.com/itzg/docker-minecraft-server</guid>
+      <pubDate>Mon, 06 May 2024 03:07:44 GMT</pubDate>
     </item>
     <item>
       <title>Tracel-ai/burn</title>
       <link>https://github.com/tracel-ai/burn</link>
-      <description><![CDATA[Burn 是使用 Rust 构建的全新综合动态深度学习框架，其主要目标是实现极高的灵活性、计算效率和可移植性。语言：Rust Stars：7134 Forks：325]]></description>
+      <description><![CDATA[Burn 是一个使用 Rust 构建的新型综合动态深度学习框架，具有极高的灵活性、计算效率和可移植性它的主要目标。 语言：Rust 星星：7134 叉子：325]]></description>
       <guid>https://github.com/tracel-ai/burn</guid>
-      <pubDate>Mon, 06 May 2024 00:29:35 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 03:07:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>龙神克斯/龙神克斯</title>
+      <link>https://github.com/Ryujinx/Ryujinx</link>
+      <description><![CDATA[用 C# 编写的实验性 Nintendo Switch 模拟器语言：C #星星: 32308 货叉: 3749]]></description>
+      <guid>https://github.com/Ryujinx/Ryujinx</guid>
+      <pubDate>Mon, 06 May 2024 03:07:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃米尔克/埃吉伊</title>
+      <link>https://github.com/emilk/egui</link>
+      <description><![CDATA[egui：一个易于使用的 Rust 即时模式 GUI，可在 Web 和本机上运行 语言：Rust 星星：19891 叉子：1439]]></description>
+      <guid>https://github.com/emilk/egui</guid>
+      <pubDate>Mon, 06 May 2024 03:07:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>史蒂文·布莱克/主持人</title>
+      <link>https://github.com/StevenBlack/hosts</link>
+      <description><![CDATA[🔒 整合和扩展来自多个精心策划的来源的主机文件。可以选择色情、社交媒体和其他类别的扩展。 语言：Python 星星：25537 叉子：2133]]></description>
+      <guid>https://github.com/StevenBlack/hosts</guid>
+      <pubDate>Mon, 06 May 2024 03:07:42 GMT</pubDate>
     </item>
     <item>
       <title>这样-rs/这样</title>
       <link>https://github.com/tokio-rs/tokio</link>
       <description><![CDATA[使用 Rust 编写可靠的异步应用程序的运行时。提供 I/O、网络、调度、计时器... 语言：Rust 星星：24807 分叉：2253]]></description>
       <guid>https://github.com/tokio-rs/tokio</guid>
-      <pubDate>Mon, 06 May 2024 00:29:34 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 03:07:41 GMT</pubDate>
     </item>
     <item>
       <title>yt-dlp</title>
       <link>https://github.com/yt-dlp/yt-dlp</link>
-      <description><![CDATA[功能丰富的命令行音频/视频下载器 语言：Python 星星：71274 叉子：5679]]></description>
+      <description><![CDATA[功能丰富的命令行音频/视频下载器 语言：Python 星星：71278 叉子：5680]]></description>
       <guid>https://github.com/yt-dlp/yt-dlp</guid>
-      <pubDate>Mon, 06 May 2024 00:29:34 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 03:07:41 GMT</pubDate>
     </item>
     <item>
       <title>solana-labs/solana-web3.js</title>
       <link>https://github.com/solana-labs/solana-web3.js</link>
-      <description><![CDATA[Solana JavaScript SDK 语言：TypeScript 星星：1847 前叉：733]]></description>
+      <description><![CDATA[Solana JavaScript SDK 语言：TypeScript 星星：1848 前叉：733]]></description>
       <guid>https://github.com/solana-labs/solana-web3.js</guid>
-      <pubDate>Mon, 06 May 2024 00:29:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>新总部</title>
-      <link>https://github.com/novuhq/novu</link>
-      <description><![CDATA[🔥 具有功能齐全的嵌入式通知中心的开源通知基础设施🚀🚀 🚀 语言：TypeScript 星星：32767 叉子：3407]]></description>
-      <guid>https://github.com/novuhq/novu</guid>
-      <pubDate>Mon, 06 May 2024 00:29:33 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 03:07:41 GMT</pubDate>
     </item>
     <item>
       <title>太鼓物</title>
       <link>https://github.com/taikoxyz/taiko-mono</link>
-      <description><![CDATA[基于汇总。 🥁 语言：Svelte 星星：4028 前叉：1942]]></description>
+      <description><![CDATA[基于汇总。 🥁 语言：Svelte 星星：4028 叉子：1942]]></description>
       <guid>https://github.com/taikoxyz/taiko-mono</guid>
-      <pubDate>Mon, 06 May 2024 00:29:33 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 03:07:40 GMT</pubDate>
     </item>
     <item>
       <title>KRTirtho/spotube</title>
       <link>https://github.com/KRTirtho/spotube</link>
-      <description><![CDATA[🎧 开源 Spotify 客户端，不需要 Premium 也不使用 Electron！适用于台式机和平板电脑移动的！ 语言：Dart 星星：24564 叉子：995]]></description>
+      <description><![CDATA[🎧 开源 Spotify 客户端，无需 Premium 也无需使用 Electron！桌面和移动设备均可使用！语言：Dart Stars：24567 Forks：995]]></description>
       <guid>https://github.com/KRTirtho/spotube</guid>
-      <pubDate>Mon, 06 May 2024 00:29:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>fastfetch-cli/fastfetch</title>
-      <link>https://github.com/fastfetch-cli/fastfetch</link>
-      <description><![CDATA[与neofetch类似，但速度更快，因为主要是用C编写的。 语言：C 星星：4848 叉子：258]]></description>
-      <guid>https://github.com/fastfetch-cli/fastfetch</guid>
-      <pubDate>Mon, 06 May 2024 00:29:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>codecrafters-io/构建你自己的-x</title>
-      <link>https://github.com/codecrafters-io/build-your-own-x</link>
-      <description><![CDATA[通过从头开始重新创建您喜欢的技术来掌握编程。 语言：未知星星：259769 叉子：24630]]></description>
-      <guid>https://github.com/codecrafters-io/build-your-own-x</guid>
-      <pubDate>Mon, 06 May 2024 00:29:32 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 03:07:40 GMT</pubDate>
     </item>
     <item>
       <title>文托伊/文托伊</title>
       <link>https://github.com/ventoy/Ventoy</link>
-      <description><![CDATA[全新的可启动 USB 解决方案。 语言：C 星星：57943 前叉：3845]]></description>
+      <description><![CDATA[全新的可启动 USB 解决方案。 语言：C 星星：57948 前叉：3845]]></description>
       <guid>https://github.com/ventoy/Ventoy</guid>
-      <pubDate>Mon, 06 May 2024 00:29:32 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 03:07:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>新总部</title>
+      <link>https://github.com/novuhq/novu</link>
+      <description><![CDATA[🔥 具有功能齐全的嵌入式通知中心的开源通知基础设施 🚀🚀🚀 语言：TypeScript Stars：32767 Forks：3407]]></description>
+      <guid>https://github.com/novuhq/novu</guid>
+      <pubDate>Mon, 06 May 2024 03:07:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>fastfetch-cli/fastfetch</title>
+      <link>https://github.com/fastfetch-cli/fastfetch</link>
+      <description><![CDATA[与 neofetch 类似，但速度更快，因为主要是用 C 编写的。 语言：C 星星：4872 前叉：258]]></description>
+      <guid>https://github.com/fastfetch-cli/fastfetch</guid>
+      <pubDate>Mon, 06 May 2024 03:07:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>codecrafters-io/构建您自己的-x</title>
+      <link>https://github.com/codecrafters-io/build-your-own-x</link>
+      <description><![CDATA[通过从头开始重新创建您最喜欢的技术来掌握编程。 语言：未知星星：259792 叉子：24635]]></description>
+      <guid>https://github.com/codecrafters-io/build-your-own-x</guid>
+      <pubDate>Mon, 06 May 2024 03:07:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
