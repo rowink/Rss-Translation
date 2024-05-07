@@ -3,14 +3,95 @@
   <channel>
     <title>今日热门产品搜寻</title>
     <link>https://www.producthunt.com/</link>
-    <description>Product Hunt 今日热门 - 由 RSSHub 精心制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 07 May 2024 06:10:03 GMT</lastBuildDate>
+    <description>今天流行的产品搜寻 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Tue, 07 May 2024 09:06:51 GMT</lastBuildDate>
     <item>
-      <title>ai-illustration-generator - 在几分钟内获得风格一致的插图</title>
-      <link>https://www.producthunt.com/posts/ai-illustration-generator</link>
-      <description><![CDATA[AI 插图生成器专为快速轻松地创建插图而设计。它提供预先设计的模型以快速生成插图，还允许用户上传插图以开发独特的自定义模型。 ]]></description>
-      <guid>https://www.producthunt.com/posts/ai-illustration-generator</guid>
-      <pubDate>Mon, 06 May 2024 13:13:53 GMT</pubDate>
+      <title>qaing - 在 3 秒内完成错误报告</title>
+      <link>https://www.producthunt.com/posts/qaing</link>
+      <description><![CDATA[QAing 是一种无缝的错误报告工具，可以节省团队资源并提高效率。
+具有在录制、重播和调试数据时自动保存错误的功能，
+我们提供“错误报告，不重现错误”的价值观
+通过 QAing 改变您的 QA 流程🚀   ]]></description>
+      <guid>https://www.producthunt.com/posts/qaing</guid>
+      <pubDate>Tue, 07 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>affine-ai - 您的人工智能合作伙伴帮助您更好地写作、绘画和演示</title>
+      <link>https://www.producthunt.com/posts/affine-ai</link>
+      <description><![CDATA[通过神奇的思维导图和演示幻灯片获得即时见解、完美内容并扩展思维。 AFFiNE AI 让您思考更大、更快地创造、更智能地工作并为每个项目节省时间。     ]]></description>
+      <guid>https://www.producthunt.com/posts/affine-ai</guid>
+      <pubDate>Tue, 07 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Guardey - Duolingo 提高安全意识</title>
+      <link>https://www.producthunt.com/posts/guardey</link>
+      <description><![CDATA[95% 的黑客攻击和数据泄露是由人为错误造成的。 Guardey 使用游戏化来培训您的员工识别和报告网络威胁。   ]]></description>
+      <guid>https://www.producthunt.com/posts/guardey</guid>
+      <pubDate>Tue, 07 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>studio-neiro-ai-x-adobe-express - 使用 AI 从您的设计中制作很酷的视频</title>
+      <link>https://www.producthunt.com/posts/studio-neiro-ai-x-adobe-express</link>
+      <description><![CDATA[制作具有逼真特征和微妙表情的视频头像，完美传达您的品牌信息或口头内容。个性化 AI 头像的声音以匹配说话者的风格。     ]]></description>
+      <guid>https://www.producthunt.com/posts/studio-neiro-ai-x-adobe-express</guid>
+      <pubDate>Tue, 07 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>flownote-4 - 通过手机即时转录和总结会议</title>
+      <link>https://www.producthunt.com/posts/flownote-4</link>
+      <description><![CDATA[Flownote 是您的移动会议助手。录制或上传任何音频，Flownote 会对其进行转录和总结，以便您可以专注于会议，而不是笔记。将文字记录、音频或摘要导出为 PDF 或文本，或与您的团队或客户共享。        ]]></description>
+      <guid>https://www.producthunt.com/posts/flownote-4</guid>
+      <pubDate>Tue, 07 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>bloombeaver - 您友好的潜在客户管理平台</title>
+      <link>https://www.producthunt.com/posts/bloombeaver</link>
+      <description><![CDATA[在快速迭代中将冷淡的潜在客户转化为已达成的交易。 Bloombeaver 可以帮助您发现新客户、撰写超级个性化的电子邮件、总结会议录音、发送提案等等。       ]]></description>
+      <guid>https://www.producthunt.com/posts/bloombeaver</guid>
+      <pubDate>Tue, 07 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>回归游戏 - Unity 中的自动烟雾测试</title>
+      <link>https://www.producthunt.com/posts/regression-games</link>
+      <description><![CDATA[为 Unity 游戏构建自动化测试。我们的录制回放方法、自动游戏状态提取和功能测试 UI 非常注重易于集成和易用性，这意味着您无需任何代码即可启动并运行第一个测试。    ]]></description>
+      <guid>https://www.producthunt.com/posts/regression-games</guid>
+      <pubDate>Tue, 07 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Storyville - 为您的孩子提供个性化睡前故事</title>
+      <link>https://www.producthunt.com/posts/storyville</link>
+      <description><![CDATA[利用人工智能的魔力创作个性化的儿童故事。通过根据孩子兴趣量身定制的故事，激发想象力并灌输宝贵的课程。     ]]></description>
+      <guid>https://www.producthunt.com/posts/storyville</guid>
+      <pubDate>Tue, 07 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>alpaca-options-api - 通过 API 免佣金交易期权</title>
+      <link>https://www.producthunt.com/posts/alpaca-options-api</link>
+      <description><![CDATA[Alpaca 现在通过他们的 API 提供选项。从今天开始，开发商和交易者都可以购买、出售和行使。最好的部分？免佣金。     &lt;img src=&quot;https://ph-files.imgix.net/f42c71bf-1a95-4f7f-877e-fd76afd58746.png?auto=format&amp;amp;fit=作物”/&gt;]]></description>
+      <guid>https://www.producthunt.com/posts/alpaca-options-api</guid>
+      <pubDate>Tue, 07 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>bardar - 充分利用每个夜晚</title>
+      <link>https://www.producthunt.com/posts/bardar</link>
+      <description><![CDATA[Bardar 是一款新的地图应用，可将夜生活顾客与场所和活动实时联系起来。最初总部位于悉尼，我们展示了 350 多家酒吧、酒馆和夜总会，以及有关这些场所的信息，例如正在上演的活动、售票活动和实时繁忙度数据。    ]]></description>
+      <guid>https://www.producthunt.com/posts/bardar</guid>
+      <pubDate>Tue, 07 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>the-new-sonos-app - 终极聆听体验的关键</title>
+      <link>https://www.producthunt.com/posts/the-new-sonos-app</link>
+      <description><![CDATA[Sonos 应用程序将您的所有内容和设置集中在一处，以便轻松控制。新的 Sonos 应用程序带来了新的外观和感觉。更快地欣赏您喜爱的音乐。享受更轻松的系统控制。并个性化您的体验。    ]]></description>
+      <guid>https://www.producthunt.com/posts/the-new-sonos-app</guid>
+      <pubDate>Tue, 07 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pushbeacon - 轻松向您的所有设备发送自定义通知</title>
+      <link>https://www.producthunt.com/posts/pushbeacon</link>
+      <description><![CDATA[PushBeacon 允许您仅通过 HTTP 请求向任何设备发送自定义通知。最好的部分？设置仅需 2 分钟。
+添加您想要的所有设备（Android、iPhone、iPad ...），然后在我们的端点上发送 HTTP POST 即可开始    ]]></description>
+      <guid>https://www.producthunt.com/posts/pushbeacon</guid>
+      <pubDate>Tue, 07 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
       <title>qrev - Salesforce 的开源人工智能优先替代方案</title>
@@ -20,34 +101,11 @@
       <pubDate>Mon, 06 May 2024 11:48:00 GMT</pubDate>
     </item>
     <item>
-      <title>hexn-io - 轻松增加财富</title>
-      <link>https://www.producthunt.com/posts/hexn-io</link>
-      <description><![CDATA[Hexn 是一个加密货币保险库，您可以：
-- 安全地存储您的加密货币，
-- 购买比特币和加密货币，
-- 持有您的加密货币并赚取高达 22% 的利息，
-- 以高达 12% 的利息兑换您的加密货币，
-- 获得加密货币支持的贷款，
-- 每周付款，
-- 即时首次付款   ]]></description>
-      <guid>https://www.producthunt.com/posts/hexn-io</guid>
-      <pubDate>Mon, 06 May 2024 07:33:32 GMT</pubDate>
-    </item>
-    <item>
       <title>touch-ai - 用于销售的人工智能电子邮件</title>
       <link>https://www.producthunt.com/posts/touch-ai</link>
       <description><![CDATA[Touch AI 通过从超过 1 亿个经过验证的美国业务联系人中筛选有针对性的潜在客户，帮助销售人员达成更多交易。 Touch AI 使用贝叶斯模型实现高转化率，通过 Gmail 制作并发送个性化电子邮件，确保高送达率。   ]]></description>
       <guid>https://www.producthunt.com/posts/touch-ai</guid>
       <pubDate>Mon, 06 May 2024 07:28:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>breadcrumbs-3 - 通过区块链关系提高销售额和知名度</title>
-      <link>https://www.producthunt.com/posts/breadcrumbs-3</link>
-      <description><![CDATA[通过联属网络营销和推荐营销来推广您的产品。
-创建活动并用加密货币奖励您的会员。
-将每个用户变成销售推动力，传播您的品牌         ]]></description>
-      <guid>https://www.producthunt.com/posts/breadcrumbs-3</guid>
-      <pubDate>Mon, 06 May 2024 07:20:12 GMT</pubDate>
     </item>
     <item>
       <title>snaplet-seed - 种子数据变得简单</title>
@@ -64,13 +122,6 @@
       <pubDate>Mon, 06 May 2024 07:08:20 GMT</pubDate>
     </item>
     <item>
-      <title>timeframe-2 - 具有超能力的生产力日历</title>
-      <link>https://www.producthunt.com/posts/timeframe-2</link>
-      <description><![CDATA[您是否曾因无休无止的待办事项清单而感到不知所措，并且难以掌控自己的日程安排？时间管理不应该成为压力的来源。隆重推出 Timeframe，您可以轻松地重新掌控时间并提高工作效率      &lt;img src=&quot;https://ph-files.imgix.net/f774d619-8b0e-4bbd-8daa-526d80675a53.png?auto=format&amp;amp;fit=crop ” /&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/timeframe-2</guid>
-      <pubDate>Mon, 06 May 2024 07:06:37 GMT</pubDate>
-    </item>
-    <item>
       <title>eraser-ai - 技术设计的第一位副驾驶</title>
       <link>https://www.producthunt.com/posts/eraser-ai</link>
       <description><![CDATA[Eraser AI是技术设计的第一副驾驶。使用 Eraser AI 创建和编辑图表和文档。编写自然语言提示，输出图表代码，您可以使用橡皮擦保存和编辑。   &lt; img src=&quot;https://ph-files.imgix.net/510c3de3-f6ed-48f2-a4a7-f9c6cbfcf75b.png?auto=format&amp;fit=crop&quot; /&gt;  ]]></description>
@@ -80,60 +131,9 @@
     <item>
       <title>logome - 使用 AI 在几秒钟内制作您理想的徽标和品牌套件</title>
       <link>https://www.producthunt.com/posts/logome</link>
-      <description><![CDATA[使用 Logome 的 AI 轻松设计您的徽标！选择自定义，使用我们的品牌套件增强您的品牌。即时制作品牌材料，简化品牌建设。捕捉您的精髓，与世界分享您的身份，并被铭记！     ]]></description>
+      <description><![CDATA[使用 Logome 的 AI 轻松设计您的徽标！选择定制，使用我们的品牌套件增强您的品牌。即时制作品牌素材，简化品牌建设。捕捉您的本质，与世界分享您的身份，并被记住！     ]]></description>
       <guid>https://www.producthunt.com/posts/logome</guid>
       <pubDate>Mon, 06 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>amazon-q-developer - 亚马逊对 Github 副驾驶的回应</title>
-      <link>https://www.producthunt.com/posts/amazon-q-developer</link>
-      <description><![CDATA[Amazon Q 生成代码、测试、调试，并具有多步骤规划和推理功能，可以转换和实施根据开发人员请求生成的新代码。    &lt; img src=&quot;https://ph-files.imgix.net/0392487a-f0d7-4e96-901e-654360f9c6e0.png?auto=format&amp;fit=crop&quot; /&gt;   &lt;img src=&quot;https://ph-files.imgix.net/8f4fcd8a-911c-4e28-888b-19054816d677.png?auto=format&amp;amp;fit =作物”/&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/amazon-q-developer</guid>
-      <pubDate>Mon, 06 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>iconbuddy-figma-plugin - 在 Figma 中浏览 226,377 个 SVG 图标</title>
-      <link>https://www.producthunt.com/posts/iconbuddy-figma-plugin</link>
-      <description><![CDATA[在 Figma 项目中轻松发现超过 200,000 个开源 SVG 图标，将图标管理到您的集合中。     ]]></description>
-      <guid>https://www.producthunt.com/posts/iconbuddy-figma-plugin</guid>
-      <pubDate>Sun, 05 May 2024 07:17:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>easyfrontend - 700 多个带有编辑器的 UI 组件</title>
-      <link>https://www.producthunt.com/posts/easyfrontend</link>
-      <description><![CDATA[使用 HTML、React、Bootstrap 和 TailwindCSS 构建的 700 多个 UI 组件的免费集合。您可以复制粘贴代码或利用强大的编辑器来创建、编辑、下载或共享完整的网站和登录页面，而无需从头开始编码。       &lt;img src=&quot;https://ph-files.imgix.net/175c28aa-1c4a-4493-8053-e9b1b72cf5e7.png?auto=format&amp;amp; ;适合=作物“/&gt;]]></description>
-      <guid>https://www.producthunt.com/posts/easyfrontend</guid>
-      <pubDate>Sun, 05 May 2024 07:15:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>actionize-ai - 自定义 GPT 操作，简单</title>
-      <link>https://www.producthunt.com/posts/actionize-ai</link>
-      <description><![CDATA[Actionize 使用无代码工具简化了创建自定义 GPT 操作。它通过 Zapier 和 Make.com 等自动化平台将 GPT 与各种应用程序连接起来，简化集成过程。    ]]></description>
-      <guid>https://www.producthunt.com/posts/actionize-ai</guid>
-      <pubDate>Sun, 05 May 2024 07:11:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hammer-3 - ⌘+C ⌘+V 之间缺失的部分</title>
-      <link>https://www.producthunt.com/posts/hammer-3</link>
-      <description><![CDATA[Hammer 将您的剪贴板数据转换为其他内容。不再需要搜索 Base64 转换、加密/解密、QR 到文本……这样的列表还在继续。
-
-选择一把锤子并敲击它。然后您的剪贴板数据将被转换。简单。   ]]></description>
-      <guid>https://www.producthunt.com/posts/hammer-3</guid>
-      <pubDate>Sun, 05 May 2024 07:05:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>agentcrew - 100% 免费工具，可利用 AI 自动化您的任务</title>
-      <link>https://www.producthunt.com/posts/agentcrew</link>
-      <description><![CDATA[跳过学习曲线。立即开始使用 AgentCrew 精心策划的一套免费、出色的 AI 工作流程，利用 AI 来自动化您的任务，这些工作流程涵盖您企业中的不同职能部门。生产力立即提高 20 倍！ 🚀   ]]></description>
-      <guid>https://www.producthunt.com/posts/agentcrew</guid>
-      <pubDate>Sun, 05 May 2024 07:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>微型资产 - 专注于微型收购的市场</title>
-      <link>https://www.producthunt.com/posts/microassets</link>
-      <description><![CDATA[MicroAssets 将买家与自力更生的创始人联系起来，这些创始人出售 10 万美元以下的高潜力项目。     ]]></description>
-      <guid>https://www.producthunt.com/posts/microassets</guid>
-      <pubDate>Sun, 05 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
       <title>expressive-ai-avatars-by-synthesia - 在几分钟内使用 AI 头像创建栩栩如生的视频</title>
@@ -154,13 +154,6 @@
       <pubDate>Thu, 02 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>loom-ai-workflows - 只需点击一下即可将任何 loom 视频转换为可共享的文档</title>
-      <link>https://www.producthunt.com/posts/loom-ai-workflows</link>
-      <description><![CDATA[如果您的工作流程以 Loom 视频开始和结束怎么办？现在您可以说出来、展示出来，然后让 Loom 为您编写：最好、最简单的视频消息软件现在可以实现有效的视频和书面沟通。介绍 Loom AI 工作流程。    ]]></description>
-      <guid>https://www.producthunt.com/posts/loom-ai-workflows</guid>
-      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>stackradar - 精选的互联网上最好的工具</title>
       <link>https://www.producthunt.com/posts/stackradar</link>
       <description><![CDATA[Stackradar 是经过审查的技术工具，可帮助各种个人和企业了解、构建、集成和扩展其技术堆栈 🚀     ]]></description>
@@ -168,23 +161,30 @@
       <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>microns-v2 - 发现可盈利的待售微型初创公司</title>
+      <title>loom-ai-workflows - 只需点击一下即可将任何 loom 视频转换为可共享的文档</title>
+      <link>https://www.producthunt.com/posts/loom-ai-workflows</link>
+      <description><![CDATA[如果您的工作流程以 Loom 视频开始和结束怎么办？现在您可以说出来、展示出来，然后让 Loom 为您编写：最好、最简单的视频消息软件现在可以实现有效的视频和书面沟通。介绍 Loom AI 工作流程。    ]]></description>
+      <guid>https://www.producthunt.com/posts/loom-ai-workflows</guid>
+      <pubDate>Wed, 01 May 2024 07:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>microns-v2 - 发现可盈利的微型创业公司并出售</title>
       <link>https://www.producthunt.com/posts/microns-v2</link>
       <description><![CDATA[Microns.io 是一个精心策划的市场，用于买卖盈利的自力更生的初创公司。与 6,000 多名企业家和投资者一起寻找下一个创业收购机会。     ]]></description>
       <guid>https://www.producthunt.com/posts/microns-v2</guid>
       <pubDate>Tue, 30 Apr 2024 07:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>my-legacy-ai - 对话式、安全且价格合理的遗产规划平台</title>
+      <title>my-legacy-ai - 对话式、安全且经济实惠的遗产规划平台</title>
       <link>https://www.producthunt.com/posts/my-legacy-ai</link>
-      <description><![CDATA[My-Legacy.ai 是一个专为遗产规划相关服务而构建的平台。通过我们由 12 项正在申请的专利支持的 AI 平台，获得即时答案、个性化建议、可操作的工作流程和房地产律师参考。       ]]></description>
+      <description><![CDATA[My-Legacy.ai 是一个为遗产规划相关服务而构建的专业平台。通过我们由 12 项待决专利支持的人工智能平台获得即时答案、个性化建议、可操作的工作流程和遗产律师参考。       &lt;img src=&quot;https://ph-files.imgix.net/bedd40a2-43c6-455a-af17-80a058d703a7.png?auto=format&amp;amp;fit=crop ” /&gt;]]></description>
       <guid>https://www.producthunt.com/posts/my-legacy-ai</guid>
       <pubDate>Mon, 29 Apr 2024 07:16:18 GMT</pubDate>
     </item>
     <item>
       <title>明轮船 - 通过逼真的 AI 角色扮演完善您的销售宣传</title>
       <link>https://www.producthunt.com/posts/paddleboat</link>
-      <description><![CDATA[通过与现实的人工智能买家练习推销电话，提高你的销售说服力！从人工智能买家列表中进行选择，或者根据您的业务环境，根据可定制的个性、反对意见和说明创建您自己的买家。    ]]></description>
+      <description><![CDATA[通过与现实的人工智能买家练习推销电话，提高你的推销能力！从人工智能买家列表中进行选择，或者根据您的业务环境，根据可定制的个性、反对意见和说明创建您自己的买家。    ]]></description>
       <guid>https://www.producthunt.com/posts/paddleboat</guid>
       <pubDate>Thu, 25 Apr 2024 07:01:00 GMT</pubDate>
     </item>
