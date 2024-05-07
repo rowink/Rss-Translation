@@ -3,182 +3,182 @@
   <channel>
     <title>今日 GitHub 上的热门存储库 · GitHub</title>
     <link>https://github.com/trending/?since=daily&spoken_language_code=en</link>
-    <description>GitHub 上当今流行的存储库 · GitHub - 由 RSSHub 精心制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 07 May 2024 00:29:13 GMT</lastBuildDate>
+    <description>今日 GitHub 上的热门存储库 · GitHub - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Tue, 07 May 2024 03:08:29 GMT</lastBuildDate>
     <item>
-      <title>这样-rs/这样</title>
-      <link>https://github.com/tokio-rs/tokio</link>
-      <description><![CDATA[使用 Rust 编写可靠的异步应用程序的运行时。提供 I/O、网络、调度、计时器... 语言：Rust 星星：24827 分叉：2253]]></description>
-      <guid>https://github.com/tokio-rs/tokio</guid>
-      <pubDate>Tue, 07 May 2024 00:29:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>cotes2020/jekyll-主题-chirpy</title>
-      <link>https://github.com/cotes2020/jekyll-theme-chirpy</link>
-      <description><![CDATA[用于技术写作的最小、响应式且功能丰富的 Jekyll 主题。 语言：HTML 星星：6344 叉子：5175]]></description>
-      <guid>https://github.com/cotes2020/jekyll-theme-chirpy</guid>
-      <pubDate>Tue, 07 May 2024 00:29:12 GMT</pubDate>
+      <title>NixOS/nixpkgs</title>
+      <link>https://github.com/NixOS/nixpkgs</link>
+      <description><![CDATA[Nix 软件包集合 &amp; NixOS 语言：Nix Stars：15815 Forks：12448]]></description>
+      <guid>https://github.com/NixOS/nixpkgs</guid>
+      <pubDate>Tue, 07 May 2024 03:08:28 GMT</pubDate>
     </item>
     <item>
       <title>KRTirtho/spotube</title>
       <link>https://github.com/KRTirtho/spotube</link>
-      <description><![CDATA[🎧 开源 Spotify 客户端，不需要 Premium 也不使用 Electron！适用于台式机和平板电脑移动的！ 语言：Dart 星星：24606 叉子：997]]></description>
+      <description><![CDATA[🎧 开源 Spotify 客户端，不需要 Premium 也不使用 Electron！适用于台式机和平板电脑移动的！ 语言：Dart 星星：24613 叉子：997]]></description>
       <guid>https://github.com/KRTirtho/spotube</guid>
-      <pubDate>Tue, 07 May 2024 00:29:11 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 03:08:28 GMT</pubDate>
     </item>
     <item>
-      <title>enaqx/awesome-react</title>
-      <link>https://github.com/enaqx/awesome-react</link>
-      <description><![CDATA[关于 React 生态系统的精彩内容合集语言：未知Stars：62066 Forks：7052]]></description>
-      <guid>https://github.com/enaqx/awesome-react</guid>
-      <pubDate>Tue, 07 May 2024 00:29:10 GMT</pubDate>
+      <title>这样-rs/这样</title>
+      <link>https://github.com/tokio-rs/tokio</link>
+      <description><![CDATA[使用 Rust 编写可靠的异步应用程序的运行时。提供 I/O、网络、调度、计时器... 语言：Rust 星星：24831 分叉：2253]]></description>
+      <guid>https://github.com/tokio-rs/tokio</guid>
+      <pubDate>Tue, 07 May 2024 03:08:28 GMT</pubDate>
     </item>
     <item>
-      <title>NixOS/nixpkgs</title>
-      <link>https://github.com/NixOS/nixpkgs</link>
-      <description><![CDATA[Nix 软件包集合 &amp; NixOS 语言：Nix 星星：15815 叉子：12449]]></description>
-      <guid>https://github.com/NixOS/nixpkgs</guid>
-      <pubDate>Tue, 07 May 2024 00:29:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>tzapu/WiFi管理器</title>
-      <link>https://github.com/tzapu/WiFiManager</link>
-      <description><![CDATA[带有 Web 强制门户的 ESP8266 WiFi 连接管理器语言：C++ 星星：6373 前叉：1918]]></description>
-      <guid>https://github.com/tzapu/WiFiManager</guid>
-      <pubDate>Tue, 07 May 2024 00:29:09 GMT</pubDate>
+      <title>cotes2020/jekyll-主题-chirpy</title>
+      <link>https://github.com/cotes2020/jekyll-theme-chirpy</link>
+      <description><![CDATA[用于技术写作的最小、响应式且功能丰富的 Jekyll 主题。 语言：HTML 星星：6347 叉子：5175]]></description>
+      <guid>https://github.com/cotes2020/jekyll-theme-chirpy</guid>
+      <pubDate>Tue, 07 May 2024 03:08:28 GMT</pubDate>
     </item>
     <item>
       <title>贝普InEx/贝普InEx</title>
       <link>https://github.com/BepInEx/BepInEx</link>
-      <description><![CDATA[Unity / XNA 游戏补丁和插件框架语言： 星星：4348 叉子：557]]></description>
+      <description><![CDATA[Unity / XNA 游戏修补程序和插件框架语言：C# Stars：4348 Forks：557]]></description>
       <guid>https://github.com/BepInEx/BepInEx</guid>
-      <pubDate>Tue, 07 May 2024 00:29:09 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 03:08:27 GMT</pubDate>
     </item>
     <item>
       <title>无纸化-ngx/无纸化-ngx</title>
       <link>https://github.com/paperless-ngx/paperless-ngx</link>
-      <description><![CDATA[社区支持的无纸化增强版本：扫描、索引和归档所有物理文档&lt; br /&gt;语言：Python 星星：17030 叉子：892]]></description>
+      <description><![CDATA[社区支持的无纸化增强版本：扫描、索引和归档所有物理文档&lt; br /&gt;语言：Python 星星：17034 叉子：892]]></description>
       <guid>https://github.com/paperless-ngx/paperless-ngx</guid>
-      <pubDate>Tue, 07 May 2024 00:29:09 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 03:08:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>enaqx/awesome-react</title>
+      <link>https://github.com/enaqx/awesome-react</link>
+      <description><![CDATA[有关 React 生态系统的精彩内容集合语言：未知 星星：62069 叉子：7052]]></description>
+      <guid>https://github.com/enaqx/awesome-react</guid>
+      <pubDate>Tue, 07 May 2024 03:08:27 GMT</pubDate>
     </item>
     <item>
       <title>伊米奇应用程序/伊米奇</title>
       <link>https://github.com/immich-app/immich</link>
-      <description><![CDATA[高性能自托管照片和视频管理解决方案。 语言：TypeScript 星星：32428 分叉：1544]]></description>
+      <description><![CDATA[高性能自托管照片和视频管理解决方案。语言：TypeScript Stars：32431 Forks：1544]]></description>
       <guid>https://github.com/immich-app/immich</guid>
-      <pubDate>Tue, 07 May 2024 00:29:08 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 03:08:26 GMT</pubDate>
     </item>
     <item>
       <title>机器学习工具/最好的机器学习Python</title>
       <link>https://github.com/ml-tooling/best-of-ml-python</link>
-      <description><![CDATA[🏆 一份出色的机器学习 Python 库排名列表。每周更新。语言：未知Stars：15518 Forks：2276]]></description>
+      <description><![CDATA[🏆 很棒的机器学习 Python 库的排名列表。每周更新。 语言：未知星星：15523 叉子：2277]]></description>
       <guid>https://github.com/ml-tooling/best-of-ml-python</guid>
-      <pubDate>Tue, 07 May 2024 00:29:08 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 03:08:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>tzapu/WiFi管理器</title>
+      <link>https://github.com/tzapu/WiFiManager</link>
+      <description><![CDATA[带有 Web 强制门户的 ESP8266 WiFi 连接管理器语言：C++ 星星：6374 前叉：1918]]></description>
+      <guid>https://github.com/tzapu/WiFiManager</guid>
+      <pubDate>Tue, 07 May 2024 03:08:26 GMT</pubDate>
     </item>
     <item>
       <title>微软/PowerToys</title>
       <link>https://github.com/microsoft/PowerToys</link>
-      <description><![CDATA[可最大限度提高工作效率的 Windows 系统实用程序语言：C# 星星：104646 叉子：6167]]></description>
+      <description><![CDATA[可最大限度提高工作效率的 Windows 系统实用程序语言：C# 星星：104651 叉子：6167]]></description>
       <guid>https://github.com/microsoft/PowerToys</guid>
-      <pubDate>Tue, 07 May 2024 00:29:07 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 03:08:25 GMT</pubDate>
     </item>
     <item>
       <title>小现金/小现金</title>
       <link>https://github.com/zcash/zcash</link>
-      <description><![CDATA[Zcash - 互联网货币语言：C++ 星星： 4909&lt; br /&gt;前叉：2025]]></description>
+      <description><![CDATA[Zcash - 互联网货币语言：C++ Stars：4910 Forks：2025]]></description>
       <guid>https://github.com/zcash/zcash</guid>
-      <pubDate>Tue, 07 May 2024 00:29:07 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 03:08:25 GMT</pubDate>
     </item>
     <item>
-      <title>乐鑫/arduino-esp32</title>
+      <title>espressif/arduino-esp32</title>
       <link>https://github.com/espressif/arduino-esp32</link>
-      <description><![CDATA[ESP32 的 Arduino 内核语言：C++ 星星: 12662 货叉: 7203]]></description>
+      <description><![CDATA[ESP32 的 Arduino 内核语言：C++ Star s : 12662 货叉: 7203]]></description>
       <guid>https://github.com/espressif/arduino-esp32</guid>
-      <pubDate>Tue, 07 May 2024 00:29:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>neovim/nvim-lspconfig</title>
-      <link>https://github.com/neovim/nvim-lspconfig</link>
-      <description><![CDATA[Nvim LSP 的快速启动配置语言：Lua Stars：9568 Forks：2003]]></description>
-      <guid>https://github.com/neovim/nvim-lspconfig</guid>
-      <pubDate>Tue, 07 May 2024 00:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>海普鲁姆/海普兰</title>
-      <link>https://github.com/hyprwm/Hyprland</link>
-      <description><![CDATA[Hyprland 是一个高度可定制的动态平铺 Wayland 合成器，同时不会牺牲其外观。语言：C++ Stars：16815 Forks：691]]></description>
-      <guid>https://github.com/hyprwm/Hyprland</guid>
-      <pubDate>Tue, 07 May 2024 00:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>yt-dlp</title>
-      <link>https://github.com/yt-dlp/yt-dlp</link>
-      <description><![CDATA[功能丰富的命令行音频/视频下载器语言：Python Stars：71359 Forks：5684]]></description>
-      <guid>https://github.com/yt-dlp/yt-dlp</guid>
-      <pubDate>Tue, 07 May 2024 00:29:05 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 03:08:25 GMT</pubDate>
     </item>
     <item>
       <title>文托伊/文托伊</title>
       <link>https://github.com/ventoy/Ventoy</link>
-      <description><![CDATA[全新的可启动 USB 解决方案。 语言：C 星星：57984 叉子：3846]]></description>
+      <description><![CDATA[全新的可启动 USB 解决方案。 语言：C 星星：57986 前叉：3846]]></description>
       <guid>https://github.com/ventoy/Ventoy</guid>
-      <pubDate>Tue, 07 May 2024 00:29:05 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 03:08:24 GMT</pubDate>
     </item>
     <item>
-      <title>opa334/TrollStore</title>
-      <link>https://github.com/opa334/TrollStore</link>
-      <description><![CDATA[被监禁的 iOS 应用程序可以使用任意权限和 root 帮助程序永久安装 IPA，因为它会欺骗 Apple &lt; br/&gt;&lt; br /&gt;语言：Objective-C 星星：16252 叉子：991]]></description>
-      <guid>https://github.com/opa334/TrollStore</guid>
-      <pubDate>Tue, 07 May 2024 00:29:04 GMT</pubDate>
+      <title>neovim/nvim-lspconfig</title>
+      <link>https://github.com/neovim/nvim-lspconfig</link>
+      <description><![CDATA[Nvim LSP 快速入门配置语言：Lua 星星: 9569 前叉: 2003]]></description>
+      <guid>https://github.com/neovim/nvim-lspconfig</guid>
+      <pubDate>Tue, 07 May 2024 03:08:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>海普鲁姆/海普兰</title>
+      <link>https://github.com/hyprwm/Hyprland</link>
+      <description><![CDATA[Hyprland 是一个高度可定制的动态平铺 Wayland 合成器，不会牺牲它的外观。 语言：C++ 星星：16819 叉子：691]]></description>
+      <guid>https://github.com/hyprwm/Hyprland</guid>
+      <pubDate>Tue, 07 May 2024 03:08:24 GMT</pubDate>
     </item>
     <item>
       <title>Tracel-ai/burn</title>
       <link>https://github.com/tracel-ai/burn</link>
-      <description><![CDATA[Burn 是使用 Rust 构建的全新综合动态深度学习框架，其主要目标是实现极高的灵活性、计算效率和可移植性。语言：Rust Stars：7151 Forks：331]]></description>
+      <description><![CDATA[Burn 是一个使用 Rust 构建的新型综合动态深度学习框架，具有极高的灵活性、计算效率和可移植性它的主要目标。 语言：Rust 星星：7155 叉子：332]]></description>
       <guid>https://github.com/tracel-ai/burn</guid>
-      <pubDate>Tue, 07 May 2024 00:29:04 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 03:08:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>yt-dlp/yt-dlp</title>
+      <link>https://github.com/yt-dlp/yt-dlp</link>
+      <description><![CDATA[功能丰富的命令行音频/视频下载器 语言：Python 星星：71370 叉子：5686]]></description>
+      <guid>https://github.com/yt-dlp/yt-dlp</guid>
+      <pubDate>Tue, 07 May 2024 03:08:23 GMT</pubDate>
     </item>
     <item>
       <title>lencx/ChatGPT</title>
       <link>https://github.com/lencx/ChatGPT</link>
-      <description><![CDATA[🔮 ChatGPT 桌面应用程序（Mac、Windows 和 Linux）Lang尺寸：Rust &lt; br /&gt;星星：47091 叉子：5413]]></description>
+      <description><![CDATA[🔮 ChatGPT 桌面应用程序（Mac、Windows 和 Linux）语言：铁锈&lt; br /&gt;星星：47110 叉子：5414]]></description>
       <guid>https://github.com/lencx/ChatGPT</guid>
-      <pubDate>Tue, 07 May 2024 00:29:03 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 03:08:22 GMT</pubDate>
     </item>
     <item>
       <title>新总部</title>
       <link>https://github.com/novuhq/novu</link>
-      <description><![CDATA[🔥 具有功能齐全的嵌入式通知中心的开源通知基础设施🚀🚀 🚀 语言：TypeScript 星星：32867 叉子：3410]]></description>
+      <description><![CDATA[🔥 具有功能齐全的嵌入式通知中心的开源通知基础设施 🚀🚀🚀 语言：TypeScript Stars：32892 Forks：3410]]></description>
       <guid>https://github.com/novuhq/novu</guid>
-      <pubDate>Tue, 07 May 2024 00:29:03 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 03:08:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>opa334/TrollStore</title>
+      <link>https://github.com/opa334/TrollStore</link>
+      <description><![CDATA[被监禁的 iOS 应用程序可以使用任意权限和根助手永久安装 IPA，因为它会欺骗 Apple &lt; br /&gt;语言：Objective-C 星星：16254 叉子：991]]></description>
+      <guid>https://github.com/opa334/TrollStore</guid>
+      <pubDate>Tue, 07 May 2024 03:08:22 GMT</pubDate>
     </item>
     <item>
       <title>fastfetch-cli/fastfetch</title>
       <link>https://github.com/fastfetch-cli/fastfetch</link>
-      <description><![CDATA[与 neofetch 类似，但速度更快，因为主要是用 C 编写的。 语言：C 星星：5201 叉子：268]]></description>
+      <description><![CDATA[与neofetch类似，但速度更快，因为主要是用C编写的。 语言：C 星星：5257 前叉：269]]></description>
       <guid>https://github.com/fastfetch-cli/fastfetch</guid>
-      <pubDate>Tue, 07 May 2024 00:29:02 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 03:08:21 GMT</pubDate>
     </item>
     <item>
       <title>龙神克斯/龙神克斯</title>
       <link>https://github.com/Ryujinx/Ryujinx</link>
-      <description><![CDATA[用 C# 编写的实验性 Nintendo Switch 模拟器 语言：C# 星星: 32375 货叉: 3752]]></description>
+      <description><![CDATA[用 C# 编写的实验性 Nintendo Switch 模拟器 语言：C# &lt; br /&gt;星星: 32396 货叉: 3752]]></description>
       <guid>https://github.com/Ryujinx/Ryujinx</guid>
-      <pubDate>Tue, 07 May 2024 00:29:02 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 03:08:21 GMT</pubDate>
     </item>
     <item>
       <title>dev-xo/remix-saas</title>
       <link>https://github.com/dev-xo/remix-saas</link>
-      <description><![CDATA[适用于您下一个 SaaS 应用程序的轻量级、生产就绪的 Remix Stack。语言：TypeScript Stars：688 Forks：45]]></description>
+      <description><![CDATA[适用于您的下一个 SaaS 应用程序的轻量级、生产就绪的 Remix 堆栈。 语言：TypeScript 星星：724 叉子：47]]></description>
       <guid>https://github.com/dev-xo/remix-saas</guid>
-      <pubDate>Tue, 07 May 2024 00:29:01 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 03:08:20 GMT</pubDate>
     </item>
     <item>
-      <title>codecrafters-io/构建您自己的-x</title>
+      <title>codecrafters-io/构建你自己的-x</title>
       <link>https://github.com/codecrafters-io/build-your-own-x</link>
-      <description><![CDATA[通过从头开始重新创建您喜欢的技术来掌握编程。 语言：未知星星：260135 叉子：24665]]></description>
+      <description><![CDATA[通过从头开始重新创建您喜欢的技术来掌握编程。 语言：未知星星：260187 叉子：24671]]></description>
       <guid>https://github.com/codecrafters-io/build-your-own-x</guid>
-      <pubDate>Tue, 07 May 2024 00:29:01 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 03:08:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
