@@ -4,12 +4,12 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Mon, 03 Jun 2024 03:09:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:10:15 GMT</lastBuildDate>
     <item>
       <title>您如何看待 Rocketpages 这个新的旅行社模板？</title>
       <link>https://feed.indiehackers.world/post/c777ef9a3b</link>
       <description><![CDATA[嘿，独立黑客们！
-我们正在为所有类别创建各种模板，这只是我们即将推出的网站构建器 RocketPages 的旅行社设计之一！查看上面的屏幕截图并分享您的想法和反馈！
+我们正在为所有类别创建各种模板，这只是我们为即将推出的网站构建器 RocketPages 设计的旅行社模板之一！查看上面的屏幕截图并分享您的想法和反馈！
 Discord Indiehackers 聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/c777ef9a3b</guid>
       <pubDate>Thu, 30 May 2024 12:27:06 GMT</pubDate>
@@ -419,7 +419,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <link>https://feed.indiehackers.world/post/1344013035</link>
       <description><![CDATA[
 分享您的想法：在下面留下您的诚实反馈。具有微服务架构的模块化 Java 样板的概念对您有吸引力吗？在开发过程中，哪些功能对您最有价值？您在 Java 开发中面临的样板可以解决哪些特定挑战？
-加入对话：让我们讨论一下！分享您在 Java 开发方面的经验和遇到的问题。
+加入对话：让我们讨论一下！分享您在 Java 开发方面的经验以及您遇到的问题。
 
 我非常感谢您的时间和见解。
 附注：欢迎与您网络中可能感兴趣的任何其他 Java 开发人员分享本文。反馈越多越好！
@@ -720,7 +720,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Wed, 20 Mar 2024 05:47:37 GMT</pubDate>
     </item>
     <item>
-      <title>平衡副业与全职工作和个人生活的 6 个（超级简单）技巧</title>
+      <title>平衡副业与全职工作和个人生活的 6 个（非常简单）技巧</title>
       <link>https://feed.indiehackers.world/post/14cd874ed3</link>
       <description><![CDATA[您是否感受到了兼顾朝九晚五的工作和副业的压力，同时还试图维持个人生活？
 别担心，您并不孤单。
@@ -744,7 +744,7 @@ Discord Indiehackers Chat广告这里]]></description>
     <item>
       <title>适用于 iPhone 的极简启动器</title>
       <link>https://feed.indiehackers.world/post/9a64352982</link>
-      <description><![CDATA[我正处于为 iPhone 创建极简主义“傻瓜手机”启动器的最后阶段。我称之为 Dumbify。
+      <description><![CDATA[我正处于为 iPhone 创建极简主义“傻瓜手机”启动器的最后阶段。我把它叫做 Dumbify。
 手机成瘾是一个日益严重的问题，Dumbify 旨在通过将您的 iPhone 变成傻瓜手机来解决这一问题。
 它将于今年 4 月推出，我迫不及待了！
 如果您想成为第一批获悉发布的人，我已经创建了一个候补名单：
@@ -817,7 +817,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <title>Hacker News 如何导致我们的服务崩溃，服务器点击量达 283 万次（不要这么做！）</title>
       <link>https://feed.indiehackers.world/post/f530696999</link>
       <description><![CDATA[即使有这样的限制，用户一天内还是在 PrettyPolly 上使用了 2300 万个 token（单词，类似）（附图片）！服务器在第一周就获得了 283 万次点击。
-即使将所有内容都放在付费墙后面，它仍然达到了支出上限，并且该应用程序在第 5 天完全瘫痪。幸运的是，一位朋友/前同事将我介绍给了他在 OpenAI 的联系人。10 分钟后，他能够提高支出上限，PrettyPolly 又恢复了。我也欠他们两个人很多。
+即使将所有内容都放在付费墙后面，它仍然达到了支出上限，并且该应用程序在第 5 天完全瘫痪。幸运的是，一位朋友/前同事将我介绍给了他在 OpenAI 的联系人。他在 10 分钟后提高了支出上限，PrettyPolly 又恢复了。我也欠他们两个人很多。
 我们现在计划在 2024 年 3 月 27 日星期三发布 Product Hunt（https://www.producthunt.com/products/prettypolly），希望不会犯上次犯的所有错误，但让我们拭目以待吧！
 感谢阅读，
 Discord Indiehackers Chat广告这里]]></description>
@@ -861,14 +861,14 @@ Discord Indiehackers Chat广告这里]]></description>
       <link>https://feed.indiehackers.world/post/ae8970db87</link>
       <description><![CDATA[早期的成功提供了扩张所需的动力和资本。
 第 5 步：正式启动
-通过更精致的产品、展示真正的成果以及一支随时待命的团队，我今天正式向全世界推出这项服务。
+通过更精致的产品、展示真正的成果以及随时待命的团队，我今天正式向全世界推出这项服务。
 前 5 位客户购买任何产品均可免费获得一个 DR50+ 链接。如果您有兴趣，请查看此处。
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/ae8970db87</guid>
       <pubDate>Tue, 19 Mar 2024 18:14:51 GMT</pubDate>
     </item>
     <item>
-      <title>对我的着陆页的反馈。告诉我您是否清楚我构建了什么。如果您不了解，请务必告诉我</title>
+      <title>对我的着陆页的反馈。告诉我你是否清楚我构建了什么。如果你不了解，一定要告诉我</title>
       <link>https://feed.indiehackers.world/post/6fea291f2b</link>
       <description><![CDATA[标题说明了一切！
 寻找有关我的着陆页的反馈：https://slackbooster.com/apps/simple-url
@@ -897,14 +897,14 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Tue, 19 Mar 2024 15:05:42 GMT</pubDate>
     </item>
     <item>
-      <title>Essembi 启动与 Microsoft Teams 的集成</title>
+      <title>Essembi 推出与 Microsoft Teams 的集成</title>
       <link>https://feed.indiehackers.world/post/c4c43e4cdf</link>
       <description><![CDATA[Discord Indiehackers 聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/c4c43e4cdf</guid>
       <pubDate>Tue, 19 Mar 2024 15:02:55 GMT</pubDate>
     </item>
     <item>
-      <title>如果不能准确估计时间成本，请避免设定截止日期</title>
+      <title>如果你不能准确估计时间成本，就避免设定最后期限</title>
       <link>https://feed.indiehackers.world/post/18d7b7f364</link>
       <description><![CDATA[通过采用这种方法，您可以在工作流程中实现灵活性和适应性。它承认任何项目或任务都存在固有的不确定性和变化。它允许您不断改进方法，进行必要的调整，并保持正轨，而无需承受严格的截止日期带来的额外压力。
 总之，仅依靠截止日期进行任务管理并不是一种有效的方法，特别是对于小团队和个人企业家而言。相反，应专注于建立审查点来评估进度并进行必要的改进。拥抱灵活性和适应性，因为它们是成功驾驭不断变化的创业和项目管理格局的关键。
@@ -913,7 +913,7 @@ Discord Indiehackers Chat广告此处]]></description>
       <pubDate>Tue, 19 Mar 2024 15:02:51 GMT</pubDate>
     </item>
     <item>
-      <title>如果不能准确估计时间成本，请避免设定截止日期</title>
+      <title>如果你不能准确估计时间成本，就避免设定最后期限</title>
       <link>https://feed.indiehackers.world/post/41ddceae9e</link>
       <description><![CDATA[通过采用这种方法，您可以在工作流程中实现灵活性和适应性。它承认任何项目或任务都存在固有的不确定性和变化。它允许您不断改进方法，进行必要的调整，并保持正轨，而无需承受严格的截止日期带来的额外压力。
 总之，仅依靠截止日期进行任务管理并不是一种有效的方法，特别是对于小团队和个人企业家而言。相反，应专注于建立审查点来评估进度并进行必要的改进。拥抱灵活性和适应性，因为它们是成功驾驭不断变化的创业和项目管理格局的关键。
@@ -922,7 +922,7 @@ Discord Indiehackers Chat广告此处]]></description>
       <pubDate>Tue, 19 Mar 2024 15:02:05 GMT</pubDate>
     </item>
     <item>
-      <title>如果不能准确估计时间成本，请避免设定截止日期</title>
+      <title>如果你不能准确估计时间成本，就避免设定最后期限</title>
       <link>https://feed.indiehackers.world/post/3c86083890</link>
       <description><![CDATA[通过采用这种方法，您可以在工作流程中实现灵活性和适应性。它承认任何项目或任务都存在固有的不确定性和变化。它允许您不断改进方法，进行必要的调整，并保持正轨，而无需承受严格的截止日期带来的额外压力。
 总之，仅依靠截止日期进行任务管理并不是一种有效的方法，特别是对于小团队和个人企业家而言。相反，应专注于建立审查点来评估进度并进行必要的改进。拥抱灵活性和适应性，因为它们是成功驾驭不断变化的创业和项目管理格局的关键。
@@ -931,7 +931,7 @@ Discord Indiehackers Chat广告此处]]></description>
       <pubDate>Tue, 19 Mar 2024 15:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>如果不能准确估计时间成本，请避免设定截止日期</title>
+      <title>如果你不能准确估计时间成本，就避免设定最后期限</title>
       <link>https://feed.indiehackers.world/post/1401867243</link>
       <description><![CDATA[通过采用这种方法，您可以在工作流程中实现灵活性和适应性。它承认任何项目或任务都存在固有的不确定性和变化。它允许您不断改进方法，进行必要的调整，并保持正轨，而无需承受严格的截止日期带来的额外压力。
 总之，仅依靠截止日期进行任务管理并不是一种有效的方法，特别是对于小团队和个人企业家而言。相反，应专注于建立审查点来评估进度并进行必要的改进。拥抱灵活性和适应性，因为它们是成功驾驭不断变化的创业和项目管理格局的关键。
@@ -940,7 +940,7 @@ Discord Indiehackers Chat广告此处]]></description>
       <pubDate>Tue, 19 Mar 2024 15:00:27 GMT</pubDate>
     </item>
     <item>
-      <title>如果不能准确估计时间成本，请避免设定截止日期</title>
+      <title>如果你不能准确估计时间成本，就避免设定最后期限</title>
       <link>https://feed.indiehackers.world/post/fd8382f39e</link>
       <description><![CDATA[通过采用这种方法，您可以在工作流程中实现灵活性和适应性。它承认任何项目或任务都存在固有的不确定性和变化。它允许您不断改进方法，进行必要的调整，并保持正轨，而无需承受严格的截止日期带来的额外压力。
 总之，仅依靠截止日期进行任务管理并不是一种有效的方法，特别是对于小团队和个人企业家而言。相反，应专注于建立审查点来评估进度并进行必要的改进。拥抱灵活性和适应性，因为它们是成功驾驭不断变化的创业和项目管理格局的关键。
