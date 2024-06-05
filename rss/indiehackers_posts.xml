@@ -4,7 +4,7 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Wed, 05 Jun 2024 18:08:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 21:07:42 GMT</lastBuildDate>
     <item>
       <title>为新 BeReal 应用程序寻找 iOS 合作伙伴！</title>
       <link>https://feed.indiehackers.world/post/6283a9c508</link>
@@ -32,7 +32,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <description><![CDATA[你好，独立黑客们！
 我正在研究 Calombo 的 AI 增强功能，这是一款社交习惯共享应用，可帮助用户实现平衡的生活方式。我的目标是通过个性化交互和通过 AI 增强习惯遵守来提升用户体验。
 关于 Calombo：
-Calombo 支持用户在健康、职业和个人成长等不同生活领域养成和保持习惯。我希望引入 AI，不仅可以增加价值，还可以改变习惯追踪格局。请访问 calombo.com 了解更多信息。
+Calombo 支持用户在健康、职业和个人成长等不同生活领域养成和保持习惯。我希望引入 AI，不仅能增加价值，还能改变习惯追踪格局。请访问 calombo.com 了解更多信息。
 我希望得到您的意见：
 您认为哪些 AI 功能对习惯追踪应用最有益？您的见解可以帮助塑造 Calombo 的未来！
 Discord Indiehackers Chat广告此处]]></description>
@@ -110,7 +110,7 @@ Discord Indiehackers Chat广告这里]]></description>
     <item>
       <title>Kilian 如何为开发人员扩展其浏览器（Polypane）</title>
       <link>https://feed.indiehackers.world/post/d45efac951</link>
-      <description><![CDATA[在此案例研究中，我们了解了 Kilian Valkhof 如何扩展其面向开发人员的 Web 浏览器 Polypane。
+      <description><![CDATA[在本案例研究中，我们了解了 Kilian Valkhof 如何扩展其面向开发人员的 Web 浏览器 Polypane。
 ☑️ 从 Web 代理到“解决自己的问题”
 ☑️ 从粗糙的第一个版本开始
 ☑️ 发起了一场成功的公关活动
@@ -349,7 +349,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <title>您的团队使用 PagerDuty 和 Slack 吗？对我们的 v1 有什么反馈吗？</title>
       <link>https://feed.indiehackers.world/post/f134f0ce12</link>
       <description><![CDATA[或者填写调查问卷，因为我们正在考虑为其他值班系统构建集成。
-所以请告诉我你的想法或创意，我期待着一起学习并让我们的值班体验更好。
+所以请让我知道你的想法或创意，我期待着一起学习并让我们的值班体验更好。
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/f134f0ce12</guid>
       <pubDate>Thu, 18 Apr 2024 20:01:48 GMT</pubDate>
@@ -472,15 +472,15 @@ Discord Indiehackers Chat广告此处]]></description>
       <pubDate>Wed, 27 Mar 2024 14:53:14 GMT</pubDate>
     </item>
     <item>
-      <title>使用 OTP Upfront 还是使用 IAP OTP 进行 7 天试用？</title>
+      <title>使用 OTP 预付还是使用 IAP OTP 进行 7 天试用？</title>
       <link>https://feed.indiehackers.world/post/441c96e832</link>
       <description><![CDATA[我一直在考虑如何销售我的 iOS 极简文本启动器 Dumbify。
 选项包括：
 
-在 App Store 下载后一次性购买 (OTP)
+在 App Store 下载时预付一次性购买 (OTP)
 免费下载，试用期为 7 天，然后提示用户进行一次性应用内购买 (IAP)。
 
-将其设置为预付购买的最大优点是，用户可以清楚地知道这是一个 OTP，这一点很重要，因为现在有如此多基于订阅的应用程序。
+将其设为预付购买的最大优点是，用户可以清楚地知道这是一个 OTP，这一点很重要，因为现在有如此多基于订阅的应用程序。
 想知道你的想法
 我们计划4 月推出，并有一个候补名单
 Discord Indiehackers聊天广告这里]]></description>
@@ -488,7 +488,7 @@ Discord Indiehackers聊天广告这里]]></description>
       <pubDate>Tue, 26 Mar 2024 01:44:52 GMT</pubDate>
     </item>
     <item>
-      <title>那么如何准确发起“多次”呢？</title>
+      <title>如何准确启动“多次”？</title>
       <link>https://feed.indiehackers.world/post/10ac523c7a</link>
       <description><![CDATA[在 PH 上发布一次并不意味着什么。我从多个消息来源听说创始人需要多次发布。
 但如何做到这一点而不成为垃圾邮件？
@@ -598,7 +598,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <description><![CDATA[放置一个合适的链接，让其周围的内容如此吸引人，以至于人们无法抗拒点击。
 无需从“读者”实际上没有阅读内容的网站上购买 15 美元的反向链接。
 归根结底，重要的是内容。什么？是内容赋予了价值。
-创造价值，高质量的内容。唯一的副作用：人们会记住你。
+创造价值、高质量的内容。唯一的副作用：人们会记住你。
 有一个很棒的 &amp; Bill Slawski 的旧文章（2010 年）讨论了链接位置和其他内容，我强烈建议您查看：https://www.seobythesea.com/2010/05/googles-reasonable-surfer-how-the-value-of-a-link-may-differ-based-upon-link-and-document-features-and-user-data/
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/fdb501d077</guid>
@@ -764,7 +764,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Wed, 20 Mar 2024 05:47:37 GMT</pubDate>
     </item>
     <item>
-      <title>平衡副业与全职工作和个人生活的 6 个（超级简单）技巧</title>
+      <title>平衡副业与全职工作和个人生活的 6 个（非常简单）技巧</title>
       <link>https://feed.indiehackers.world/post/14cd874ed3</link>
       <description><![CDATA[您是否感受到了兼顾朝九晚五的工作和副业的压力，同时还试图维持个人生活？
 别担心，您并不孤单。
@@ -850,7 +850,7 @@ Discord Indiehackers Chat广告此处]]></description>
     <item>
       <title>人工智能应该帮助人们更好地应对求职面试，而不是通过作弊获得成功。我是不是很天真？</title>
       <link>https://feed.indiehackers.world/post/77632b7030</link>
-      <description><![CDATA[我做了很多招聘工作，我对大量申请人使用 GPT 生成的提交内容这一新现实感到恼火。
+      <description><![CDATA[我做了很多招聘工作，我对大量申请人使用 GPT 生成的提交内容的新现实感到恼火。
 应该有更好的方法来使用人工智能进行求职。我开发了一个工具，可以帮助人们更好地进行面试，而不是作弊。
 看一看：https://your-next-interview.com/
 Discord Indiehackers Chat广告这里]]></description>
@@ -905,7 +905,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <link>https://feed.indiehackers.world/post/ae8970db87</link>
       <description><![CDATA[早期的成功提供了扩张所需的动力和资本。
 第 5 步：正式启动
-通过更精致的产品、展示真正的成果以及一支随时待命的团队，我今天正式向全世界推出这项服务。
+通过更精致的产品、展示真正的成果以及随时待命的团队，我今天正式向全世界推出这项服务。
 前 5 位客户购买任何产品均可免费获得一个 DR50+ 链接。如果您有兴趣，请查看此处。
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/ae8970db87</guid>
@@ -950,7 +950,7 @@ Discord Indiehackers Chat广告这里]]></description>
     <item>
       <title>如果不能准确估计时间成本，请避免设定截止日期</title>
       <link>https://feed.indiehackers.world/post/18d7b7f364</link>
-      <description><![CDATA[通过采用这种方法，您可以在工作流程中实现灵活性和适应性。它承认任何项目或任务都存在固有的不确定性和变化。它允许您不断改进方法，进行必要的调整，并保持正轨，而无需承受严格的截止日期带来的额外压力。
+      <description><![CDATA[通过采用这种方法，您可以在工作流程中实现灵活性和适应性。它承认任何项目或任务都存在固有的不确定性和变化。它允许您不断改进方法，进行必要的调整，并保持正轨，而不会受到严格截止日期的额外压力。
 总之，仅依靠截止日期进行任务管理并不是一种有效的方法，特别是对于小团队和个人企业家而言。相反，应专注于建立审查点来评估进度并进行必要的改进。拥抱灵活性和适应性，因为它们是成功驾驭不断变化的创业和项目管理格局的关键。
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/18d7b7f364</guid>
@@ -959,7 +959,7 @@ Discord Indiehackers Chat广告此处]]></description>
     <item>
       <title>如果不能准确估计时间成本，请避免设定截止日期</title>
       <link>https://feed.indiehackers.world/post/41ddceae9e</link>
-      <description><![CDATA[通过采用这种方法，您可以在工作流程中实现灵活性和适应性。它承认任何项目或任务都存在固有的不确定性和变化。它允许您不断改进方法，进行必要的调整，并保持正轨，而无需承受严格的截止日期带来的额外压力。
+      <description><![CDATA[通过采用这种方法，您可以在工作流程中实现灵活性和适应性。它承认任何项目或任务都存在固有的不确定性和变化。它允许您不断改进方法，进行必要的调整，并保持正轨，而不会受到严格截止日期的额外压力。
 总之，仅依靠截止日期进行任务管理并不是一种有效的方法，特别是对于小团队和个人企业家而言。相反，应专注于建立审查点来评估进度并进行必要的改进。拥抱灵活性和适应性，因为它们是成功驾驭不断变化的创业和项目管理格局的关键。
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/41ddceae9e</guid>
@@ -968,7 +968,7 @@ Discord Indiehackers Chat广告此处]]></description>
     <item>
       <title>如果不能准确估计时间成本，请避免设定截止日期</title>
       <link>https://feed.indiehackers.world/post/3c86083890</link>
-      <description><![CDATA[通过采用这种方法，您可以在工作流程中实现灵活性和适应性。它承认任何项目或任务都存在固有的不确定性和变化。它允许您不断改进方法，进行必要的调整，并保持正轨，而无需承受严格的截止日期带来的额外压力。
+      <description><![CDATA[通过采用这种方法，您可以在工作流程中实现灵活性和适应性。它承认任何项目或任务都存在固有的不确定性和变化。它允许您不断改进方法，进行必要的调整，并保持正轨，而不会受到严格截止日期的额外压力。
 总之，仅依靠截止日期进行任务管理并不是一种有效的方法，特别是对于小团队和个人企业家而言。相反，应专注于建立审查点来评估进度并进行必要的改进。拥抱灵活性和适应性，因为它们是成功驾驭不断变化的创业和项目管理格局的关键。
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/3c86083890</guid>
@@ -977,7 +977,7 @@ Discord Indiehackers Chat广告此处]]></description>
     <item>
       <title>如果不能准确估计时间成本，请避免设定截止日期</title>
       <link>https://feed.indiehackers.world/post/1401867243</link>
-      <description><![CDATA[通过采用这种方法，您可以在工作流程中实现灵活性和适应性。它承认任何项目或任务都存在固有的不确定性和变化。它允许您不断改进方法，进行必要的调整，并保持正轨，而无需承受严格的截止日期带来的额外压力。
+      <description><![CDATA[通过采用这种方法，您可以在工作流程中实现灵活性和适应性。它承认任何项目或任务都存在固有的不确定性和变化。它允许您不断改进方法，进行必要的调整，并保持正轨，而不会受到严格截止日期的额外压力。
 总之，仅依靠截止日期进行任务管理并不是一种有效的方法，特别是对于小团队和个人企业家而言。相反，应专注于建立审查点来评估进度并进行必要的改进。拥抱灵活性和适应性，因为它们是成功驾驭不断变化的创业和项目管理格局的关键。
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/1401867243</guid>
@@ -986,7 +986,7 @@ Discord Indiehackers Chat广告此处]]></description>
     <item>
       <title>如果不能准确估计时间成本，请避免设定截止日期</title>
       <link>https://feed.indiehackers.world/post/fd8382f39e</link>
-      <description><![CDATA[通过采用这种方法，您可以在工作流程中实现灵活性和适应性。它承认任何项目或任务都存在固有的不确定性和变化。它允许您不断改进方法，进行必要的调整，并保持正轨，而无需承受严格的截止日期带来的额外压力。
+      <description><![CDATA[通过采用这种方法，您可以在工作流程中实现灵活性和适应性。它承认任何项目或任务都存在固有的不确定性和变化。它允许您不断改进方法，进行必要的调整，并保持正轨，而不会受到严格截止日期的额外压力。
 总之，仅依靠截止日期进行任务管理并不是一种有效的方法，特别是对于小团队和个人企业家而言。相反，应专注于建立审查点来评估进度并进行必要的改进。拥抱灵活性和适应性，因为它们是成功驾驭不断变化的创业和项目管理格局的关键。
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/fd8382f39e</guid>
