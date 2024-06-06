@@ -4,7 +4,16 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Wed, 05 Jun 2024 21:07:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 00:32:04 GMT</lastBuildDate>
+    <item>
+      <title>集成开发者</title>
+      <link>https://feed.indiehackers.world/post/8dadad182f</link>
+      <description><![CDATA[我正在为客户构建自定义集成。我开始管理即将转换的传入 Web 挂钩。随着越来越多的集成被添加，我发现很难管理所有集成。看到其他人在类似的工作流程中使用什么了吗？
+还想看看在使用服务提供的 Web 挂钩进行集成时是否有任何需要注意的提示或陷阱。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/8dadad182f</guid>
+      <pubDate>Wed, 05 Jun 2024 21:15:59 GMT</pubDate>
+    </item>
     <item>
       <title>为新 BeReal 应用程序寻找 iOS 合作伙伴！</title>
       <link>https://feed.indiehackers.world/post/6283a9c508</link>
@@ -110,7 +119,7 @@ Discord Indiehackers Chat广告这里]]></description>
     <item>
       <title>Kilian 如何为开发人员扩展其浏览器（Polypane）</title>
       <link>https://feed.indiehackers.world/post/d45efac951</link>
-      <description><![CDATA[在本案例研究中，我们了解了 Kilian Valkhof 如何扩展其面向开发人员的 Web 浏览器 Polypane。
+      <description><![CDATA[在此案例研究中，我们了解了 Kilian Valkhof 如何扩展其面向开发人员的 Web 浏览器 Polypane。
 ☑️ 从 Web 代理到“解决自己的问题”
 ☑️ 从粗糙的第一个版本开始
 ☑️ 发起了一场成功的公关活动
@@ -1042,19 +1051,6 @@ Discord Indiehackers Chat广告 这里]]></description>
 Discord Indiehackers Chat广告 这里]]></description>
       <guid>https://feed.indiehackers.world/post/61ce989537</guid>
       <pubDate>Tue, 19 Mar 2024 10:36:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何在 7 天内将一个业余项目发展到拥有 10 万独立访客，而且当时没有任何受众</title>
-      <link>https://feed.indiehackers.world/post/905cb21969</link>
-      <description><![CDATA[因此，reddit 用户很快就开始攻击我和网站。我收到了很多负面评论和反对票，帖子也从 subreddit 中删除。
-不过，流量还是很大，我能够从社区获得很多反馈。
-摘要
-该网站取得了巨大的成功。它在第一周就吸引了超过100,000 名访问者，而且每天仍有几千名访问者。这是启动副项目和成长的一次伟大实验，我从中学到了很多东西。
-希望您能从这个故事中学到一些东西并将其应用到您自己的项目中。如果您有任何问题或反馈，请随时通过 Twitter 与我联系。
-如果您想查看该网站，您可以在 openalternative.co 找到它。
-Discord Indiehackers Chat广告 这里]]></description>
-      <guid>https://feed.indiehackers.world/post/905cb21969</guid>
-      <pubDate>Tue, 19 Mar 2024 10:36:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
