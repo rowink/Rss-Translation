@@ -4,7 +4,7 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Fri, 14 Jun 2024 18:09:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 21:05:19 GMT</lastBuildDate>
     <item>
       <title>为什么你需要使用自己的产品</title>
       <link>https://feed.indiehackers.world/post/10b93d49b4</link>
@@ -102,7 +102,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <title>我如何破解 Reddit - 您今天就可以应用的 12 个经过测试的技巧！</title>
       <link>https://feed.indiehackers.world/post/5192d63e46</link>
       <description><![CDATA[
-回复帖子评论
+回复帖子上的评论
 
 回复那些对您的内容感兴趣的人。如果您一直很活跃，创建者和用户将因参与所有帖子而获得 karma。通过感谢用户的反馈，您将建立信任，鼓励他们再次分享您的内容。别忘了：读者可以对他们喜欢的任何帖子发表评论，这将包含在帖子的分数中。确保您回复评论您帖子的用户。这是让您的帖子保持活跃并在此过程中增加 karma 的一种方法。
 
@@ -735,8 +735,8 @@ Discord Indiehackers Chat广告这里]]></description>
       <title>正在寻找能够构建高质量 MVP 的人？</title>
       <link>https://feed.indiehackers.world/post/ed447a6fb8</link>
       <description><![CDATA[您好，我曾是多家 YC 投资公司的创始工程师。我目前经营一家名为 Arno (https://goarno.io) 的教育科技初创公司，该公司使用 LLM 帮助人们准备英语水平测试，目前我们拥有来自 200 多个国家的 75,000 多名用户。
-我目前正在寻找一份 20 小时的合同职位来帮助资助我的初创公司。我有多次从头开始构建产品的经验，因此我可以为您创建高质量的 MVP。如果有人感兴趣，请给我发电子邮件至mkinoshi12@gmail.com.
-Discord Indiehackers Chat广告这里]]></description>
+我目前正在寻找一份 20 小时的合同职位来帮助资助我的初创公司。我有多次从头开始构建产品的经验，因此我可以为您创建高质量的 MVP。如果有人感兴趣，请给我发电子邮件至mkinoshi12@gmail.com。
+Discord Indiehackers 聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/ed447a6fb8</guid>
       <pubDate>Wed, 05 Jun 2024 04:26:18 GMT</pubDate>
     </item>
@@ -963,6 +963,20 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Wed, 22 May 2024 06:55:09 GMT</pubDate>
     </item>
     <item>
+      <title>你好，我上个月辞职了</title>
+      <link>https://feed.indiehackers.world/post/8c50028bce</link>
+      <description><![CDATA[嗨，IndieHackers！
+上个月，我辞去了工作，全职创办了一家 LLM 运营初创公司。这是一种孤独与自由的结合。独自工作可能会让人感到孤独，但从头开始构建一些东西也是一种解放。
+压力是真实存在的。每个决定都至关重要，随着发布日的临近，我一直在怀疑自己。但尽管面临挑战，我比以往任何时候都更有动力。
+这个社区一直是我灵感的重要来源，我迫不及待地想与大家分享更多并向大家学习。
+话虽如此，我预计将在下周左右发布。等不及了！
+干杯，
+Ryan
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/8c50028bce</guid>
+      <pubDate>Mon, 20 May 2024 12:36:35 GMT</pubDate>
+    </item>
+    <item>
       <title>如何提出 SaaS 产品创意</title>
       <link>https://feed.indiehackers.world/post/5806ae734b</link>
       <description><![CDATA[企业家的机会：
@@ -1182,16 +1196,6 @@ Discord Indiehackers Chat广告此处]]></description>
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/2bc8cbe251</guid>
       <pubDate>Fri, 26 Apr 2024 17:57:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何实现应用内消息传递？</title>
-      <link>https://feed.indiehackers.world/post/01107b2c9d</link>
-      <description><![CDATA[在用户和群组之间建立应用内消息传递的最佳方式是什么？
-是否有任何 SAAS 产品提供这些功能，还是我必须从头开始构建。
-我确实找到了一些，但它们似乎价格过高。让我知道你的想法
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/01107b2c9d</guid>
-      <pubDate>Thu, 25 Apr 2024 18:47:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
