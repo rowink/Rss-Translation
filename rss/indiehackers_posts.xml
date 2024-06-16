@@ -4,13 +4,21 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Sun, 16 Jun 2024 09:08:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 12:11:23 GMT</lastBuildDate>
+    <item>
+      <title>你的自由职业者效率如何？</title>
+      <link>https://feed.indiehackers.world/post/3b73c5841c</link>
+      <description><![CDATA[了解先进的时间跟踪如何提高软件开发、设计、营销和内容创作等领域的自由职业者和机构的生产力。优化项目管理并确保准确计费。
+Discord Indiehackers Chat广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/3b73c5841c</guid>
+      <pubDate>Sun, 16 Jun 2024 10:27:12 GMT</pubDate>
+    </item>
     <item>
       <title>现代课堂中的教育技术：通过技术增强学习</title>
       <link>https://feed.indiehackers.world/post/251aa98319</link>
       <description><![CDATA[以前，学生只能看到课本上的平面图像，例如心脏的轮廓。观察心脏的二维图像可以让学生了解心脏在现实中看起来是什么样子。他们可以积累有关心脏内部活动的真实信息，但这些信息需要深度和大小。
 课堂上的增强现实
-现在，学生可以使用增强现实耳机完整地看到心脏和其他图像。他们可以从各个角度仔细观察。他们可以靠近，以全新的深度和清晰度观察每个心室和血管。他们的游览可以通过语音协助进行，数字导游会向他们讲解每个细节。
+现在，学生可以使用增强现实耳机完整地看到心脏和其他图像。他们可以从各个角度仔细观察。他们可以靠近，以全新的深度和清晰度观察每个心室和血管。他们的游览可以通过语音协助进行，数字导游将向他们讲解每个细节。
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/251aa98319</guid>
       <pubDate>Sun, 16 Jun 2024 08:33:33 GMT</pubDate>
@@ -54,10 +62,10 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Sat, 15 Jun 2024 12:07:08 GMT</pubDate>
     </item>
     <item>
-      <title>最新时事通讯：各层发生重大变化（第 168 期）</title>
+      <title>最新通讯：各层级均有重大变化（第 168 期）</title>
       <link>https://feed.indiehackers.world/post/be662883f0</link>
-      <description><![CDATA[最新通讯：每一层都发生重大变化（第 168 期）
-Linux 桌面运动得到大力推动，美元和石油美元正在消亡，风险投资正在发生变化，男士西装、欧盟选举和微软的惊人历史AI
+      <description><![CDATA[最新通讯：各层发生重大变化（第 168 期）
+Linux 桌面运动获得巨大推动，美元和石油美元正在消亡，风险投资正在发生变化，男士西装、欧盟选举和微软的惊人历史AI
 https://markjgsmith.substack.com/p/saturday-15th-june-2024-big-changes
 #javascript #tech #webdev
 非常乐意听到您的任何意见和反馈。
@@ -99,7 +107,7 @@ Discord Indiehackers Chat广告这里]]></description>
     <item>
       <title>毁灭战士滚动的替代品？</title>
       <link>https://feed.indiehackers.world/post/65815a8e72</link>
-      <description><![CDATA[大家好，我正在开发一个平台产品，并为其实现一个 feed 滚动。但我个人反对 doom scrolling，因为我在 Instagram 上浪费了很多时间，但我想不出任何其他可行的替代方案。
+      <description><![CDATA[大家好，我正在构建一个平台产品，并为其实现一个 feed 滚动。但我个人反对 doom scrolling，因为我在 Instagram 上浪费了很多时间，但我想不出任何其他可行的替代方案。
 虽然我的平台很高效，但我只是想问一下，除了 doom scrolling 之外，还有什么其他方式可以在不影响用户的情况下随时了解平台的最新动态？
 让我知道有关这方面的任何信息。这可能会让我未来的一些用户避免浪费不必要的时间。
 谢谢
@@ -121,7 +129,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <title>为什么你需要使用自己的产品</title>
       <link>https://feed.indiehackers.world/post/10b93d49b4</link>
       <description><![CDATA[
-真正使用自己的产品可以与用户群建立一定程度的真实性和信任度。您不仅可以更详细地了解用户面临的问题，还可以说明该产品如何帮助您解决以前遇到的问题。
+真正使用自己的产品可以建立用户群的真实性和信任度。您不仅可以更详细地了解用户面临的问题，还可以说明产品如何帮助您解决以前遇到的问题。
 如果您的产品没有解决您的问题怎么办？那么您就可以看到需要改进的地方。
 所以，问问自己：我会使用自己的产品吗？
 它是否具有您希望作为用户看到的功能？它是否解决了您自己处理过的问题？
@@ -169,7 +177,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <description><![CDATA[对于那些好奇 Workfeed 如何简化您的项目管理的人，我邀请您查看并告诉我您的想法！
 ⬇️⬇️⬇️
 https://workfeed.ai
-这种体验不仅仅是为了获得初始用户，还为了快速学习和适应。每一条评论、每一个点赞和每一次访问都是朝着完善 Workfeed 并使其成为我所设想的样子迈出的一步。
+这次体验不仅仅是为了获得初始用户，也是为了快速学习和适应。每一条评论、每一个点赞和每一次访问都是朝着完善 Workfeed 并使其成为我所设想的样子迈出的一步。
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/26ce99c84c</guid>
       <pubDate>Fri, 14 Jun 2024 13:46:44 GMT</pubDate>
@@ -205,7 +213,7 @@ Discord Indiehackers Chat广告这里]]></description>
     <item>
       <title>Cyber​​Defender 保障您的在线安全</title>
       <link>https://feed.indiehackers.world/post/2527690d9f</link>
-      <description><![CDATA[在复杂的数字通信环境中，像 WhatsApp 这样的平台的安全性和完整性由 Vijay Murganoor 先生这样的专业人士维护。他在开发高级安全措施和确保 WhatsApp 上的互动质量方面的工作证明了工程师在保护在线用户方面发挥的关键作用。随着我们继续探索数字时代，网络安全工作者的贡献对于为所有人创造更安全、更可靠的在线体验仍然不可或缺。
+      <description><![CDATA[在复杂的数字通信领域，像 WhatsApp 这样的平台的安全性和完整性由 Vijay Murganoor 先生这样的专业人士维护。他在开发高级安全措施和确保 WhatsApp 互动质量方面的工作证明了工程师在保护在线用户方面发挥的关键作用。随着我们继续探索数字时代，网络安全工作者的贡献对于为所有人创造更安全、更可靠的在线体验仍然不可或缺。
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/2527690d9f</guid>
       <pubDate>Fri, 14 Jun 2024 09:34:19 GMT</pubDate>
@@ -214,7 +222,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <title>我如何破解 Reddit - 您今天就可以应用的 12 个经过测试的技巧！</title>
       <link>https://feed.indiehackers.world/post/5192d63e46</link>
       <description><![CDATA[
-回复帖子上的评论
+回复帖子评论
 
 回复那些对您的内容感兴趣的人。如果您一直很活跃，创建者和用户将因参与所有帖子而获得 karma。通过感谢用户的反馈，您将建立信任，鼓励他们再次分享您的内容。别忘了：读者可以对他们喜欢的任何帖子发表评论，这将包含在帖子的分数中。确保您回复评论您帖子的用户。这是让您的帖子保持活跃并在此过程中增加 karma 的一种方法。
 
@@ -553,7 +561,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <description><![CDATA[社区参与：与社区和潜在用户的互动提供了宝贵的见解。他们的反馈不仅突出了改进领域，还启发了新功能。
 持续学习：人工智能和图像处理领域正在迅速发展。及时了解最新进展并不断学习对于保持工具的相关性和有效性至关重要。例如，在开发此应用程序的过程中，Stability AI 发布了一款新的旗舰型号 Stable Diffusion 3，我希望接下来对其进行测试并可能集成。
 展望未来
-AI 图像编辑器证明了创新技术和以用户为中心的设计相结合可以实现什么。当我尝试继续改进和扩展该工具时，重点仍然是增强用户体验和利用人工智能简化复杂任务。
+AI 图像编辑器证明了创新技术和以用户为中心的设计的融合可以实现什么。当我尝试继续改进和扩展该工具时，重点仍然是增强用户体验和利用人工智能简化复杂任务。
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/e9945ae497</guid>
       <pubDate>Wed, 12 Jun 2024 21:16:28 GMT</pubDate>
@@ -564,10 +572,18 @@ Discord Indiehackers Chat广告这里]]></description>
       <description><![CDATA[社区参与：与社区和潜在用户的互动提供了宝贵的见解。他们的反馈不仅突出了改进领域，还启发了新功能。
 持续学习：人工智能和图像处理领域正在迅速发展。及时了解最新进展并不断学习对于保持工具的相关性和有效性至关重要。例如，在开发此应用程序的过程中，Stability AI 发布了一款新的旗舰型号 Stable Diffusion 3，我希望接下来对其进行测试并可能集成。
 展望未来
-AI 图像编辑器证明了创新技术和以用户为中心的设计相结合可以实现什么。当我尝试继续改进和扩展该工具时，重点仍然是增强用户体验和利用人工智能简化复杂任务。
+AI 图像编辑器证明了创新技术和以用户为中心的设计的融合可以实现什么。当我尝试继续改进和扩展该工具时，重点仍然是增强用户体验和利用人工智能简化复杂任务。
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/900e11b431</guid>
       <pubDate>Wed, 12 Jun 2024 21:13:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找技术创始人 - 无人机防御项目</title>
+      <link>https://feed.indiehackers.world/post/29121d3b5a</link>
+      <description><![CDATA[如果您有无人机硬件组件（包括电机、ESC、飞行控制器和传感器）的实际操作经验。精通硬件相关的编码语言（例如 C、C++ 和 Python），并了解嵌入式系统、微控制器和通信协议（例如 UART、SPI、I2C）。请联系我！
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/29121d3b5a</guid>
+      <pubDate>Wed, 12 Jun 2024 19:08:13 GMT</pubDate>
     </item>
     <item>
       <title>我们的疯狂营销策略</title>
@@ -612,6 +628,16 @@ https://10k.isora.me
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/3f4edbcd8e</guid>
       <pubDate>Tue, 11 Jun 2024 12:42:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>API 法案让我关闭了我的应用程序！需要一名技术联合创始人。</title>
+      <link>https://feed.indiehackers.world/post/ddd2162184</link>
+      <description><![CDATA[我可以立即向其发送更多流量，因为我每天从主站点获得超过 6K 的访问量。 
+我以前是一名英语导师，喜欢在线营销和产生流量，但我的编码和技术知识很差。 
+我在英国曼彻斯特的一个加速器上，可以使用 VEUP、Innovate UK、AWS 积分、Azure 积分等以及大量其他资源，只是不是程序员！ 
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/ddd2162184</guid>
+      <pubDate>Tue, 11 Jun 2024 10:54:20 GMT</pubDate>
     </item>
     <item>
       <title>重新设计了我们的网站，采用了不同的品牌/风格。IH 对此有何看法？</title>
@@ -830,7 +856,7 @@ Discord Indiehackers Chat广告此处]]></description>
       <description><![CDATA[我把对作家的支持分为人类和机器人，这是否意味着我是个坏人？
 大型语言模型真的能把握我们都希望在一本新书中找到的生活乐趣吗？
 如果 AGI 阅读我的奋斗，会发生什么？
-人工智能时代提出了许多问题，我们中的许多人还没有准备好回答。我的基本信念是，只要我们小心行事，将人工智能用于解决影响我们所有人的真正令人心碎的社会问题，我们就不会出错……
+人工智能时代提出了许多问题，我们中的许多人还没有准备好回答。我的基本信念是，只要我们小心行事，并将人工智能用于解决影响我们所有人的真正令人心碎的社会问题，我们就不会出错……
 对吗？
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/7ed5739c67</guid>
@@ -865,13 +891,13 @@ Discord Indiehackers Chat广告这里]]></description>
     <item>
       <title>48 小时内将代码转换为 MVP</title>
       <link>https://feed.indiehackers.world/post/e373234420</link>
-      <description><![CDATA[总而言之，为了快速行动，我坚持使用自己精通的技术，并利用包含所有基本功能的技术；这样我就可以限制样板代码的数量，并专注于编写功能。我使用预制的仪表板模板来节省设计和样式的时间，并使用最少的 JS 在前端进行简单的 HTML 操作。
+      <description><![CDATA[总而言之，为了快速行动，我坚持使用我精通的技术，并使用包含所有基本功能的技术；这样我就可以限制样板代码的数量，并专注于编写功能。我使用预制的仪表板模板来节省设计和样式的时间，并使用最少的 JS 在前端进行简单的 HTML 操作。
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/e373234420</guid>
       <pubDate>Thu, 06 Jun 2024 19:30:57 GMT</pubDate>
     </item>
     <item>
-      <title>从无家可归到收入六位数：Stefano Treviso 的励志故事</title>
+      <title>从无家可归到收入六位数：斯特凡诺·特雷维索的励志故事</title>
       <link>https://feed.indiehackers.world/post/1de550c116</link>
       <description><![CDATA[Stefano 用出售所得的部分收益在迪拜购买了一套公寓，找到了他想要的稳定感。如今，他正在从事几个不同的项目。他出版了他的第一本书《从零到迪拜》，书中分享了他的个人旅程。除了 MozartCMS，他还在经营旅游网站 I Go Colombia 和另一个金融网站 Glofinex。
 “我想我们中的一些人天生就不稳定，喜欢大幅度改变，”Stefano 说。“我仍在努力弄清楚我的旅程的下一步。我唯一知道的是，我想用我所做的每一件事来创造价值，我想确保它对世界有益。”
@@ -984,7 +1010,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <description><![CDATA[你好，独立黑客们！
 我正在研究 Calombo 的 AI 增强功能，这是一款社交习惯共享应用，可帮助用户实现平衡的生活方式。我的目标是通过个性化交互和通过 AI 增强习惯遵守来提升用户体验。
 关于 Calombo：
-Calombo 支持用户在健康、职业和个人成长等不同生活领域养成和保持习惯。我希望引入 AI，不仅可以增加价值，还可以改变习惯追踪格局。请访问 calombo.com 了解更多信息。
+Calombo 支持用户在健康、职业和个人成长等不同生活领域养成和保持习惯。我希望引入 AI，不仅能增加价值，还能改变习惯追踪格局。请访问 calombo.com 了解更多信息。
 我希望得到您的意见：
 您认为哪些 AI 功能对习惯追踪应用最有益？您的见解可以帮助塑造 Calombo 的未来！
 Discord Indiehackers Chat广告此处]]></description>
@@ -1017,12 +1043,12 @@ Discord Indiehackers Chat广告这里]]></description>
     <item>
       <title>如何用引人入胜的标题描述你的产品</title>
       <link>https://feed.indiehackers.world/post/c38fe983ad</link>
-      <description><![CDATA[为什么？ 谁想销售课程，拥有 100% 的制作内容，并根据自己的需求定制一切
+      <description><![CDATA[为什么？ 谁想销售课程，拥有他们制作的 100% 内容，并根据自己的需求定制一切
 什么时候？ 在这个时代，每个人都使用相同的商店，放弃 22% 的血汗钱，并且必须使用 10 多个 SaaS 进行候补名单、追加销售、推荐
 第 2 部分
 梦想结果
 
- 在自己的平台上推出课程并拥有 100% 的课程
+ 在自己的平台上启动课程并拥有 100% 的内容
  增加 20% 的利润
  减少您用于管理渠道的 SaaS 订阅
 
@@ -1069,7 +1095,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <title>您如何看待 Rocketpages 这个新的旅行社模板？</title>
       <link>https://feed.indiehackers.world/post/c777ef9a3b</link>
       <description><![CDATA[嘿，独立黑客们！
-我们正在为所有类别创建各种模板，这只是我们即将推出的网站构建器 RocketPages 的旅行社设计之一！查看上面的屏幕截图并分享您的想法和反馈！
+我们正在为所有类别创建各种模板，这只是我们为即将推出的网站构建器 RocketPages 设计的旅行社模板之一！查看上面的屏幕截图并分享您的想法和反馈！
 Discord Indiehackers 聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/c777ef9a3b</guid>
       <pubDate>Thu, 30 May 2024 12:27:06 GMT</pubDate>
@@ -1138,45 +1164,6 @@ SWOT 分析：如何使用表格和示例
 Discord Indiehackers 聊天广告 这里]]></description>
       <guid>https://feed.indiehackers.world/post/e4bef2f382</guid>
       <pubDate>Tue, 28 May 2024 13:18:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>你可能听说过但还没尝试过的 30 种免费营销工具</title>
-      <link>https://feed.indiehackers.world/post/7c39a05b0c</link>
-      <description><![CDATA[Miro
-随着远程工作的兴起，团队中拥有在线协作工具已变得至关重要。Miro 是一个在线协作白板平台，可用于与同事联系和协作。它还与 Zoom 集成，因此您可以在交谈时进行绘图和展示。
-Canva
-我怎么能错过 Canva？它是面向新手的领先设计工具。无需任何设计经验即可创建出色的视觉内容。拥有数百万资产和内容，您可能永远不会缺少创意。
-Loom
-当我录制视频或需要截屏解释某事时，我会使用 Loom。它很容易获取和托管视频。免费计划为每人提供 25 个视频，视频长度最多为 5 分钟，并可无限次免费转录。
-Hypefury
-Discord Indiehackers Chat广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/7c39a05b0c</guid>
-      <pubDate>Tue, 28 May 2024 09:37:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否正在寻找一名开发人员在一周内打造您的产品？</title>
-      <link>https://feed.indiehackers.world/post/07a24f40dc</link>
-      <description><![CDATA[嗨，
-您是否正在寻找开发人员为您构建产品？
-我可以在您选择的技术堆栈中构建漂亮的 Web 应用程序、桌面应用程序和 iOS 应用程序。
-我最近为其他人构建的一些项目和网站-
-Witched
-Cinco
-We Love JS 2024
-如果您需要快速编写超高质量和高性能的代码，请与我联系。
-您可以通过tarun@axra.org与我联系
-谢谢
-Discord Indiehackers Chat广告 这里]]></description>
-      <guid>https://feed.indiehackers.world/post/07a24f40dc</guid>
-      <pubDate>Mon, 27 May 2024 19:20:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从 Product Hunt 自动发布中获取创意</title>
-      <link>https://feed.indiehackers.world/post/b20f697372</link>
-      <description><![CDATA[在 Product Hunt 上追踪您感兴趣的产品，获取想法和灵感。
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/b20f697372</guid>
-      <pubDate>Sat, 25 May 2024 05:00:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
