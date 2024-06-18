@@ -4,7 +4,20 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Tue, 18 Jun 2024 03:09:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 06:10:51 GMT</lastBuildDate>
+    <item>
+      <title>如何为你的软件团队聘请专门的开发人员</title>
+      <link>https://feed.indiehackers.world/post/385fb5c28c</link>
+      <description><![CDATA[🔹 保持质量和生产力：了解如何确保您的远程或离岸团队保持高质量和高生产力标准。
+无论您是初创公司创始人还是经验丰富的企业家，本指南旨在帮助您建立一支强大、专注的开发团队，推动您的业务向前发展。查看并让我们知道您的想法！
+在此处阅读完整指南：如何为您的软件团队聘请专职开发人员
+期待您的反馈和讨论！
+#Hiring #Developers #SoftwareTeam #RemoteWork #IndieHackers #TheScalers
+来源：https://thescalers.com/how-to-hire-dedicated-developers-for-your-software-team/
+Discord Indiehackers Chat广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/385fb5c28c</guid>
+      <pubDate>Tue, 18 Jun 2024 04:44:28 GMT</pubDate>
+    </item>
     <item>
       <title>Reddit：强大的客户获取工具</title>
       <link>https://feed.indiehackers.world/post/4c937999c7</link>
@@ -1155,15 +1168,6 @@ Discord Indiehackers Chat广告 这里]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/6b34ca9972</guid>
       <pubDate>Thu, 06 Jun 2024 04:33:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>集成开发者</title>
-      <link>https://feed.indiehackers.world/post/8dadad182f</link>
-      <description><![CDATA[我正在为客户构建自定义集成。我开始管理即将转换的传入 Web 挂钩。随着越来越多的集成被添加，我发现很难管理所有集成。看到其他人在类似的工作流程中使用什么了吗？
-还想看看在使用服务提供的 Web 挂钩进行集成时是否有任何需要注意的提示或陷阱。
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/8dadad182f</guid>
-      <pubDate>Wed, 05 Jun 2024 21:15:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
