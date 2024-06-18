@@ -4,7 +4,17 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Tue, 18 Jun 2024 15:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 18:10:00 GMT</lastBuildDate>
+    <item>
+      <title>📣 2024 年有效的免费营销渠道，我的成功与失败</title>
+      <link>https://feed.indiehackers.world/post/e35acbcac8</link>
+      <description><![CDATA[
+感谢您阅读到最后！请通过点赞和评论支持该帖子。如果您对移动应用推广感兴趣，我还写了一篇ASO（应用商店优化）指南。
+在不久的将来，我计划在 Product Hunt 上发布，看看它是如何工作的，并在Medium和Twitter上更加活跃。如果您想保持联系，请关注我！
+Discord Indiehackers 聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/e35acbcac8</guid>
+      <pubDate>Tue, 18 Jun 2024 17:00:16 GMT</pubDate>
+    </item>
     <item>
       <title>如何从黑名单中删除电子邮件：分步指南</title>
       <link>https://feed.indiehackers.world/post/96349a756b</link>
@@ -1134,17 +1144,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/baedc4a373</guid>
       <pubDate>Mon, 10 Jun 2024 09:25:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>📱如何使用 AI 进行基本的 ASO（提示 + Figma 模板）</title>
-      <link>https://feed.indiehackers.world/post/ca93f75131</link>
-      <description><![CDATA[
-要为您的屏幕截图创建标题，请使用此提示：
-```
-您是 ASO 专家，您的任务是提出 3 个行动号召 
-Discord Indiehackers Chat广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/ca93f75131</guid>
-      <pubDate>Mon, 10 Jun 2024 08:56:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
