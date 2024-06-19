@@ -4,7 +4,29 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Wed, 19 Jun 2024 18:08:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 21:04:00 GMT</lastBuildDate>
+    <item>
+      <title>Trip Budget 在 MicroLaunch 上线！（后续内容将发布在这里）</title>
+      <link>https://feed.indiehackers.world/post/9a93179248</link>
+      <description><![CDATA[大家好，
+我的 AI 旅行成本预测和规划工具 - TripBudget.Me - 在 MicroLaunch 上发布。
+我很高兴在那里看到您的点赞、反馈和吐槽！链接如下。
+PS。我将在几天后编辑帖子，在帖子中分享发布后的说明。
+https://microlaunch.net/p/tripbudget-5d0367
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/9a93179248</guid>
+      <pubDate>Wed, 19 Jun 2024 20:46:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>为我的下一次创业寻找合作伙伴</title>
+      <link>https://feed.indiehackers.world/post/b2f07ec441</link>
+      <description><![CDATA[我的名字是 Geoffrey Callaghan，我是 fabform.io veilmail.io 和 https://emailscraper.xyz 的创建者
+我是一名高级软件工程师，拥有 20 年的商业软件开发和产品创建经验。
+我希望为我的下一个创业公司合作。我很乐意听到您的意见。您可以通过 https://veilmail.io/irish-geoff 与我联系
+Discord Indiehackers Chat广告 这里]]></description>
+      <guid>https://feed.indiehackers.world/post/b2f07ec441</guid>
+      <pubDate>Wed, 19 Jun 2024 20:14:34 GMT</pubDate>
+    </item>
     <item>
       <title>您是否曾经参与过有专职 DBA 的项目？</title>
       <link>https://feed.indiehackers.world/post/5a2a445639</link>
@@ -376,10 +398,10 @@ Discord Indiehackers 聊天广告这里]]></description>
     <item>
       <title>早期采用者在哪里？👀</title>
       <link>https://feed.indiehackers.world/post/dcd201ad6f</link>
-      <description><![CDATA[它通过使用生成式人工智能的最新进展和提示技术（CoT、ToT 等）的最新研究以及精心打造的体验来实现所有这些。它不仅仅是一个具有漂亮 UI 的“ChatGPT”，它还可以让您轻松使用它。
-目前我们在 https://app.scopebrite.com/ 上线，我正在寻找用户来试用它，对其进行严格评分，告诉我您是否愿意为它付费，如果您喜欢某些东西，也请告诉我，这总是令人高兴的。
-如果您愿意与我交谈，请给我发送 DM 或发表评论！感谢大家！
-Discord Indiehackers Chat广告这里]]></description>
+      <description><![CDATA[如果您愿意与我交谈，请给我发送 DM 或发表评论！
+我也很想听听您获得早期关注和一些早期采用者的历程！
+感谢大家！
+Discord Indiehackers 聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/dcd201ad6f</guid>
       <pubDate>Mon, 17 Jun 2024 23:34:55 GMT</pubDate>
     </item>
@@ -1132,35 +1154,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers 聊天广告 这里]]></description>
       <guid>https://feed.indiehackers.world/post/db65baf582</guid>
       <pubDate>Thu, 13 Jun 2024 03:43:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌称之为“链接操纵”的 9 种链接构建方式</title>
-      <link>https://feed.indiehackers.world/post/b9e436bc06</link>
-      <description><![CDATA[[9] 隐藏链接：用户看不到但搜索引擎可以看到的链接是不可以的。
- 道德链接建设：必经之路
-为了避免受到处罚并建立可持续的在线形象，请专注于道德链接建设策略：
-
-优先考虑高质量内容：创建自然吸引反向链接的内容。
-采用有效的策略：在信誉良好的网站上发表客座文章，修复断开的链接并建立关系。
-培养关系：与您所在行业的有影响力的人和合作者建立联系。
-
-因此，通过遵循这些准则，您将走上长期 SEO 成功和更实质性的在线形象之路。
-注意
-有关本文的完整分析和更多专家见解，请查看我的原始文章“谷歌称之为链接操纵的 9 种链接建设方式”，仅在www.wpwax.com上发布
-Discord Indiehackers Chat广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/b9e436bc06</guid>
-      <pubDate>Thu, 13 Jun 2024 03:20:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在公开打造一款AI聊天机器人，期待你们的声音~</title>
-      <link>https://feed.indiehackers.world/post/e689cc1d93</link>
-      <description><![CDATA[设置机器人菜单：
-可以设置咨询页面的菜单，位于logo右侧，根据自身情况，可以将用户从咨询页面导流到价格等相关页面。
-全部设置完成后，可以预览对话页面，将生成的代码复制到git页面，几分钟就搞定了！
-以上功能来自我们自己的需求，想知道Gitmd.chat能解决的问题是否是开发者共同面临的问题，我们渴望听到你的声音，不管是好的，坏的，甚至是可怕的，让我们一起努力完善这个产品吧~~
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/e689cc1d93</guid>
-      <pubDate>Thu, 13 Jun 2024 02:40:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
