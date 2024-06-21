@@ -4,7 +4,17 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Fri, 21 Jun 2024 06:09:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 09:07:29 GMT</lastBuildDate>
+    <item>
+      <title>我尝试了 APIToolkit：一个 API 监控平台：以下是我学到的东西</title>
+      <link>https://feed.indiehackers.world/post/79aa4ab69d</link>
+      <description><![CDATA[而且由于 APIToolkit 会监视对我的 API 发出的请求，并为每个请求提供多个指标的数据点，所以我可以随意犯错，哈哈……
+如果您有 API 或正在构建一些 API，请尝试一下，然后告诉我它有多大帮助。
+这是 APIToolkit 的链接
+Discord Indiehackers Chat广告 这里]]></description>
+      <guid>https://feed.indiehackers.world/post/79aa4ab69d</guid>
+      <pubDate>Fri, 21 Jun 2024 07:27:20 GMT</pubDate>
+    </item>
     <item>
       <title>零售业中的机器学习产品匹配</title>
       <link>https://feed.indiehackers.world/post/e0b78b2a94</link>
@@ -708,6 +718,14 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Mon, 17 Jun 2024 10:09:12 GMT</pubDate>
     </item>
     <item>
+      <title>寻求我的技术 - 我将帮助您进行营销！</title>
+      <link>https://feed.indiehackers.world/post/0b3084ceb2</link>
+      <description><![CDATA[附言：不要害羞，请随意附上您的作品集或您可能参与过的任何相关项目的链接。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/0b3084ceb2</guid>
+      <pubDate>Mon, 17 Jun 2024 09:23:25 GMT</pubDate>
+    </item>
+    <item>
       <title>软件开发真的是一个好的职业选择吗？</title>
       <link>https://feed.indiehackers.world/post/075b624fc5</link>
       <description><![CDATA[您还可以了解可以从事的不同 IT 领域。查看本文以了解为什么 IT 是最佳工作领域
@@ -1131,22 +1149,6 @@ Sorted Nomad 创始人
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/11d5f769bb</guid>
       <pubDate>Fri, 14 Jun 2024 04:03:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>一年内从 0 美元到 8 万美元：我在 Designfly 的旅程</title>
-      <link>https://feed.indiehackers.world/post/cef4f589d5</link>
-      <description><![CDATA[我希望我的故事能激励你迈出这一步，开始你自己的旅程。你可以在这里关注我在 X 上的进展：https://x.com/designflyio
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/cef4f589d5</guid>
-      <pubDate>Fri, 14 Jun 2024 03:15:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何获得更高的搜索引擎排名和吸引更多的流量？</title>
-      <link>https://feed.indiehackers.world/post/db83120665</link>
-      <description><![CDATA[我希望这些技巧能帮助您在竞争激烈的在线环境中脱颖而出！
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/db83120665</guid>
-      <pubDate>Fri, 14 Jun 2024 01:50:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
