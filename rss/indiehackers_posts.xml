@@ -4,7 +4,15 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Sat, 22 Jun 2024 06:10:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 09:07:39 GMT</lastBuildDate>
+    <item>
+      <title>免费快照工具</title>
+      <link>https://feed.indiehackers.world/post/940cc9de5c</link>
+      <description><![CDATA[刚刚推出了一款免费快照工具，我很乐意听取一些反馈！谢谢，祝您玩得愉快！:)
+Discord Indiehackers Chat广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/940cc9de5c</guid>
+      <pubDate>Sat, 22 Jun 2024 06:55:14 GMT</pubDate>
+    </item>
     <item>
       <title>新功能：针对 App Store 进行优化</title>
       <link>https://feed.indiehackers.world/post/2c21a618a5</link>
@@ -211,8 +219,10 @@ https://www.producthunt.com/posts/10015-tools
 2 小时 9 分钟后：46 点赞
 5 小时 49 分钟后：80 点赞
 11 小时 58 分钟后：138 点赞
+24 小时后：202 点赞
+结果：#4 每日产品
 谢谢！
-Discord Indiehackers Chat广告 此处]]></description>
+Discord Indiehackers Chat广告 这里]]></description>
       <guid>https://feed.indiehackers.world/post/da53dc01b2</guid>
       <pubDate>Fri, 21 Jun 2024 09:13:04 GMT</pubDate>
     </item>
@@ -1165,17 +1175,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/b5c3a9fb17</guid>
       <pubDate>Sat, 15 Jun 2024 07:46:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>毁灭战士滚动的替代品？</title>
-      <link>https://feed.indiehackers.world/post/65815a8e72</link>
-      <description><![CDATA[大家好，我正在构建一个平台产品，并为其实现一个 feed 滚动。但我个人反对 doom scrolling，因为我在 Instagram 上浪费了很多时间，但我想不出任何其他可行的替代方案。
-虽然我的平台很高效，但我只是想问一下，除了 doom scrolling 之外，还有什么其他方式可以在不影响用户的情况下随时了解平台的最新动态？
-让我知道有关这方面的任何信息。这可能会让我未来的一些用户避免浪费不必要的时间。
-谢谢
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/65815a8e72</guid>
-      <pubDate>Sat, 15 Jun 2024 07:20:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
