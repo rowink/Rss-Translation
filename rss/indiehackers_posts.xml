@@ -4,7 +4,17 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Sat, 22 Jun 2024 03:08:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 06:10:18 GMT</lastBuildDate>
+    <item>
+      <title>新功能：针对 App Store 进行优化</title>
+      <link>https://feed.indiehackers.world/post/2c21a618a5</link>
+      <description><![CDATA[
+要为您的屏幕截图创建标题，请使用此提示：
+您是 ASO 专家，您的任务是想出三个 CTA 
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/2c21a618a5</guid>
+      <pubDate>Sat, 22 Jun 2024 03:38:43 GMT</pubDate>
+    </item>
     <item>
       <title>寻找将 Notion 页面转换为全栈应用程序的 SaaS 的早期采用者</title>
       <link>https://feed.indiehackers.world/post/9ba4816cf3</link>
@@ -381,6 +391,19 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/9d8fd5fe6e</guid>
       <pubDate>Thu, 20 Jun 2024 05:00:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>新功能：吸引媒体关注你的产品</title>
+      <link>https://feed.indiehackers.world/post/85f6cfcfe0</link>
+      <description><![CDATA[向投资者推销产品就像一场战斗。你要么赢得他们的心并获得所需的资金，要么冒着失去资金的风险（在最坏的情况下，破产）。
+你能做些什么来保持胜利？你如何吸引投资者的注意力并获得资金？
+秘诀
+拥有经过验证的吸引力的 MVP 是推销成功的秘诀之一。
+请记住，投资者也是人，他们不愿意将辛苦赚来的资金浪费在不值得的投资上。所以，你应该关注的第一件事是你的产品。
+即使它处于早期的 MVP 阶段，也要确保它能为你的用户解决一个重要的问题。不要在没有进行彻底的市场调查的情况下创造产品；否则，你的商业计划可能永远无法超越概念阶段。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/85f6cfcfe0</guid>
+      <pubDate>Thu, 20 Jun 2024 02:43:52 GMT</pubDate>
     </item>
     <item>
       <title>为什么终身交易比独立黑客的订阅更划算</title>
@@ -1153,32 +1176,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/65815a8e72</guid>
       <pubDate>Sat, 15 Jun 2024 07:20:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>新鲜事：如何创作优质内容</title>
-      <link>https://feed.indiehackers.world/post/e07dc0d4cb</link>
-      <description><![CDATA[授权您的团队
-授权您的团队，让他们有信心根据情况负责自己的任务和职责。无论情况或环境如何变化，这都能保证最大的生产力和产出。确保团队成员了解：
-
-每项任务的“为什么”：如果人们了解他们的工作为组织带来的价值，他们就更有可能为自己的工作感到自豪。这也会提高他们的整体工作满意度。
-
-每项任务背后的“什么”：不要将请求打包成命令。让事情协作起来，帮助团队成员保持正轨。此外，一定要确定团队成员是否非常独立，或者是否需要更多指导。这将有助于您进行沟通。
-
-
-尊重团队成员，让他们提供指导，指明方向。表现出对团队和组织整体成功的真正兴趣。问问为什么某件事对企业至关重要，以及为什么做这件事会为企业和客户带来最佳结果。
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/e07dc0d4cb</guid>
-      <pubDate>Sat, 15 Jun 2024 02:20:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们需要您的反馈</title>
-      <link>https://feed.indiehackers.world/post/24b15f118f</link>
-      <description><![CDATA[我们正在努力更多地了解我们的潜在客户，通过一个简单的 10 点调查，我们真的需要您花两分钟时间。我告诉过您，尽管这涉及到家庭 DIY 技术，但我们希望向您介绍我们的产品，以免歪曲您的答案。
-https://forms.gle/FgMfrAQM31MwZGEk8
-我们感谢我们活跃的 Indie Hackers 社区！
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/24b15f118f</guid>
-      <pubDate>Fri, 14 Jun 2024 22:54:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
