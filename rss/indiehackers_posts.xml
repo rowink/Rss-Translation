@@ -4,7 +4,48 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Sun, 23 Jun 2024 06:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 09:08:32 GMT</lastBuildDate>
+    <item>
+      <title>如何使用 Tailwind CSS 和 JavaScript 创建进度条</title>
+      <link>https://feed.indiehackers.world/post/6842dc21e7</link>
+      <description><![CDATA[const progressBar = document.getElementById(&quot;progress-bar&quot;);
+const interval = setInterval(() =&gt; {
+if (progress &lt; 100) {
+progress += 5;
+progressText.textContent = progress + &quot;%&quot;;
+progressBar.style.width = progress + &quot;%&quot;;
+} else {
+clearInterval(interval);
+}
+}, 100);
+
+});
+```
+结论
+在本教程中，我们使用 Tailwind CSS 和 JavaScript 创建了一个进度条。我们向窗口对象添加了一个事件监听器，以检测页面何时加载，并使用当前进度值更新进度条元素。我们还添加了一个条件来检查进度值是否小于 100，并每次将其增加 5。
+希望您喜欢本教程并祝您有美好的一天！
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/6842dc21e7</guid>
+      <pubDate>Sun, 23 Jun 2024 07:18:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>无服务器人工智能</title>
+      <link>https://feed.indiehackers.world/post/a9be555844</link>
+      <description><![CDATA[刚刚发现了featherless，它允许您从 huggingface serverless 运行任何 LLAMA 模型。如果您发现部署和运行模型太麻烦，那么这个工具非常有用。目前有 492 个模型可用。它们还允许您与不同的模型聊天作为预览。huggingface 应该有这个。而且看起来他们也会支持更多开源模型。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/a9be555844</guid>
+      <pubDate>Sun, 23 Jun 2024 06:56:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Show IH：Heroku 上一键部署的开源 ChatGPT Telegram 机器人</title>
+      <link>https://feed.indiehackers.world/post/c99fffef7b</link>
+      <description><![CDATA[我最近使用 Telegraf 框架构建了一个开源 ChatGPT Telegram 机器人。
+只需单击一下即可将其部署到 Heroku。
+该机器人处理文本、语音和照片消息，并将它们转换为文本，以便通过 OpenAI 的 ChatGPT 进行处理。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/c99fffef7b</guid>
+      <pubDate>Sun, 23 Jun 2024 06:25:47 GMT</pubDate>
+    </item>
     <item>
       <title>反馈请求：回复生成器</title>
       <link>https://feed.indiehackers.world/post/374204e04c</link>
@@ -606,7 +647,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <title>寻找婚礼策划应用程序的合作伙伴</title>
       <link>https://feed.indiehackers.world/post/afe072344f</link>
       <description><![CDATA[当前市场是德语市场，代码全部为英文。该应用程序在技术上已准备好支持多种语言。
-如果您有任何疑问或有兴趣合作，请在此处发表评论或发送电子邮件给我 indiehackers@cater-buddy.com
+如果您有任何疑问或有兴趣合作，请在此处发表评论或给我发送电子邮件indiehackers@cater-buddy.com
 Discord Indiehackers 聊天广告 此处]]></description>
       <guid>https://feed.indiehackers.world/post/afe072344f</guid>
       <pubDate>Wed, 19 Jun 2024 08:21:23 GMT</pubDate>
@@ -1158,43 +1199,6 @@ Discord Indiehackers Chat广告此处]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/251aa98319</guid>
       <pubDate>Sun, 16 Jun 2024 08:33:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看 QuickDemo 以创建交互式演示</title>
-      <link>https://feed.indiehackers.world/post/e1dc8988e7</link>
-      <description><![CDATA[嗨，IndieHackers，
-我一直在研究一个名为 QuickDemo 的新项目，您可以使用图像或屏幕截图创建交互式演示。它非常简单，可用于网站演示、入门或创建教学材料。我知道这不是一个革命性的想法或实现，但是嘿 - 创造东西很有趣！:) 
-您可以在我们的登录页面上查看示例演示，以了解它的工作原理。
-定价：
-
-提供免费套餐
-高级计划每月 5 美元
-
-我还为你们设置了一个折扣代码：EARLYBIRD66。它为您提供 66% 的高级计划折扣。
-欢迎随时在 QuickDemo.co 查看。让我知道你的想法！
-谢谢
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/e1dc8988e7</guid>
-      <pubDate>Sun, 16 Jun 2024 07:42:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>一周内获得 0 - 2 名付费用户：我如何获得第一批客户（成功与失败）</title>
-      <link>https://feed.indiehackers.world/post/52b5421744</link>
-      <description><![CDATA[额外提示：分享您的项目时，请附上视频或照片以使您的回复脱颖而出。 
-
-这正是我为 Snipowl 获得前 2 名客户的方式，而且是在发布后的第一周内发生的。如果您有任何疑问，请告诉我，我很乐意为您提供帮助！
-Discord Indiehackers Chat广告 这里]]></description>
-      <guid>https://feed.indiehackers.world/post/52b5421744</guid>
-      <pubDate>Sat, 15 Jun 2024 19:35:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>超棒的数字营销工具！🔥</title>
-      <link>https://feed.indiehackers.world/post/82a7591c03</link>
-      <description><![CDATA[❓我渴望听到并解决您的问题，您的早期反馈意义重大。我很好奇，您在数字营销合作中最大的痛苦是什么？🫡 
-期待您的反馈！
-Discord Indiehackers 聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/82a7591c03</guid>
-      <pubDate>Sat, 15 Jun 2024 15:15:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
