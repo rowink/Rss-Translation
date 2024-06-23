@@ -4,7 +4,33 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Sun, 23 Jun 2024 18:08:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 21:03:38 GMT</lastBuildDate>
+    <item>
+      <title>我向 Anthropic Claude 3.5 支付了 24 美元来编写 React 代码。结果令人惊叹</title>
+      <link>https://feed.indiehackers.world/post/0a4ca9f140</link>
+      <description><![CDATA[我已要求 Claude 使用 React 和 Tailwind 在 LinkedIn 界面内生成 Twitter，它做到了
+Discord Indiehackers Chat广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/0a4ca9f140</guid>
+      <pubDate>Sun, 23 Jun 2024 20:59:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们厌倦了官僚主义，所以我们建立了一个开源仓库来收集最好的指南</title>
+      <link>https://feed.indiehackers.world/post/4777ca89eb</link>
+      <description><![CDATA[我们正在推出 Tramitit，这是一个共享的开源数据库，用于以更简单的方式完成所有用户体验较差的本地程序。
+使用 Hugo 构建并利用 GitHub 进行存储。
+期待您的反馈！
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/4777ca89eb</guid>
+      <pubDate>Sun, 23 Jun 2024 20:48:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>启动（非 AI）：Brand[dot]dev - 互联网的品牌 API</title>
+      <link>https://feed.indiehackers.world/post/61c7e54872</link>
+      <description><![CDATA[感谢您的收看！
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/61c7e54872</guid>
+      <pubDate>Sun, 23 Jun 2024 18:53:38 GMT</pubDate>
+    </item>
     <item>
       <title>寻找营销联合创始人</title>
       <link>https://feed.indiehackers.world/post/6ede58d425</link>
@@ -815,7 +841,7 @@ Discord Indiehackers Chat广告这里]]></description>
 开发人员友好：直观且易于使用，因此您无需陡峭的学习曲线即可开始使用。
 可扩展的解决方案：从小型项目到大型应用程序，Microtica 都可以与您一起扩展。
 
-🚀 准备好深入研究了吗？
+🚀 准备好了吗？
 前往 Microtica 模板 并探索可用的各种模板。无论是设置基础设施、部署应用程序还是自动化工作流程，每位开发人员都能找到适合自己的内容。
 💬 加入对话
 您以前使用过 Microtica 模板吗？在评论中分享您的经验和技巧。让我们一起建设和成长！
@@ -1142,32 +1168,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告 此处]]></description>
       <guid>https://feed.indiehackers.world/post/075b624fc5</guid>
       <pubDate>Mon, 17 Jun 2024 06:52:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能网络研究员助力你的内容营销</title>
-      <link>https://feed.indiehackers.world/post/d84ef9d3ad</link>
-      <description><![CDATA[提前致谢，
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/d84ef9d3ad</guid>
-      <pubDate>Mon, 17 Jun 2024 05:29:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>您觉得我的免费 AI 工具怎么样？</title>
-      <link>https://feed.indiehackers.world/post/2e8fcc7057</link>
-      <description><![CDATA[我正在开发一款免费工具，我希望它是一款简单实用的产品。我计划在未来几周内推出 ProductHunt，希望在发布前听取您的建议。我怎样才能让它更有用？
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/2e8fcc7057</guid>
-      <pubDate>Sun, 16 Jun 2024 21:26:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>梦想习惯追踪器：反馈</title>
-      <link>https://feed.indiehackers.world/post/7dd62be5a4</link>
-      <description><![CDATA[还有更多！
-我使用 ReactJS 和 PostgreSQL 构建了它 :)
-欢迎发表任何反馈或建议&lt;3
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/7dd62be5a4</guid>
-      <pubDate>Sun, 16 Jun 2024 19:52:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
