@@ -4,7 +4,42 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Mon, 24 Jun 2024 18:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 21:03:50 GMT</lastBuildDate>
+    <item>
+      <title>我应该成为一名演员</title>
+      <link>https://feed.indiehackers.world/post/853a938fba</link>
+      <description><![CDATA[在这个拥有无限选择和无限时间用途的世界里，吸引别人的注意力对我来说比其他任何事情都更令人印象深刻。打造一款人们足够关心并关注的产品：这就是激发我灵魂的东西。
+不过，当我想到这一点时，如果我想要的是人们的注意力，那么也许我应该成为一名演员。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/853a938fba</guid>
+      <pubDate>Mon, 24 Jun 2024 20:45:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该成为一名演员</title>
+      <link>https://feed.indiehackers.world/post/8f442e8350</link>
+      <description><![CDATA[在这个拥有无限选择和无限时间用途的世界里，吸引别人的注意力对我来说比其他任何事情都更令人印象深刻。打造一款人们足够关心并关注的产品：这就是激发我灵魂的东西。
+不过，当我想到这一点时，如果我想要的是人们的注意力，那么也许我应该成为一名演员。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/8f442e8350</guid>
+      <pubDate>Mon, 24 Jun 2024 20:45:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>您会如何回应这位顾客？</title>
+      <link>https://feed.indiehackers.world/post/d254f136af</link>
+      <description><![CDATA[所以我运行在线购物车软件 Zylvie。
+这个人想让我建立一个离线兑换系统（带有二维码，整个系统），这样他就可以使用我的在线电子商务平台进行离线使用。
+我想过，但是不行......
+他对最后期限也很苛刻。🙃
+所以我给他发了这个：
+
+几天后，如果你问我的话，他回复了一些尖刻的话、一些羞辱性的语言，还有一些戏剧性。
+你会如何回应？ 🤔
+
+请注意，到目前为止，这个人在我的产品上花费了 0.00 美元。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/d254f136af</guid>
+      <pubDate>Mon, 24 Jun 2024 20:32:01 GMT</pubDate>
+    </item>
     <item>
       <title>为具有现代平台的工程师提供先进的事件响应策略</title>
       <link>https://feed.indiehackers.world/post/eea6e9c5e3</link>
@@ -1148,36 +1183,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/924232925f</guid>
       <pubDate>Tue, 18 Jun 2024 20:48:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>CloudWatch 与 CloudTrail：了解 AWS 监控的主要区别</title>
-      <link>https://feed.indiehackers.world/post/e43346f032</link>
-      <description><![CDATA[通过了解 CloudWatch 和 CloudTrail 的优势，您可以做出明智的决定，选择最适合您特定 AWS 监控和安全要求的工具，或者两者的战略组合。
-Squadcast 是一款专为 SRE 打造的事件管理工具。摆脱不必要的警报，接收相关通知并与流行的 ChatOps 工具集成。使用虚拟事件作战室进行协作，并使用自动化来消除辛劳。
-Discord Indiehackers Chat广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/e43346f032</guid>
-      <pubDate>Tue, 18 Jun 2024 18:52:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>📣 2024 年有效的免费营销渠道，我的成功与失败</title>
-      <link>https://feed.indiehackers.world/post/e35acbcac8</link>
-      <description><![CDATA[
-感谢您阅读到最后！请通过点赞和评论支持该帖子。如果您对移动应用推广感兴趣，我还写了一篇ASO（应用商店优化）指南。
-在不久的将来，我计划在 Product Hunt 上发布，看看它是如何工作的，并在Medium和Twitter上更加活跃。如果您想保持联系，请关注我！
-Discord Indiehackers 聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/e35acbcac8</guid>
-      <pubDate>Tue, 18 Jun 2024 17:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从黑名单中删除电子邮件：分步指南</title>
-      <link>https://feed.indiehackers.world/post/96349a756b</link>
-      <description><![CDATA[🛠️ 检查状态：使用 Unspam 或 MXToolBox 等工具查看您是否被列入黑名单。
-🔍 查找原因：常见原因包括服务器配置错误或共享 IP 问题。
-📩 请求除名：按照每个黑名单的除名流程操作。
-✅ 预防未来问题：确保正确
-Discord Indiehackers Chat广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/96349a756b</guid>
-      <pubDate>Tue, 18 Jun 2024 12:23:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
