@@ -4,7 +4,59 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Wed, 26 Jun 2024 06:10:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 09:08:59 GMT</lastBuildDate>
+    <item>
+      <title>我为 Product Hunt 所做的发布准备：征求您的建议</title>
+      <link>https://feed.indiehackers.world/post/9632c9a96c</link>
+      <description><![CDATA[
+周六和周日：流量低，主要由小型独立项目、资源、模因产品和 Beta 版发布组成。
+
+从各种上传时间和日期中，我最终选择了周五进行 MrScraper  发布。
+我希望这个计划涵盖所有内容，但我很想听听您的意见。您是否有任何建议或提示以确保成功发布？您的见解将非常宝贵！
+提前致谢！
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/9632c9a96c</guid>
+      <pubDate>Wed, 26 Jun 2024 07:33:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Photozilla - AI 图片库</title>
+      <link>https://feed.indiehackers.world/post/a0b2b4cd20</link>
+      <description><![CDATA[我即将发布 Photozilla，这是一个提供 AI 生成的库存照片的平台。
+为什么不使用经典的库存照片？
+因为经典的库存照片很贵
+因为经典的库存照片许可受到限制
+为什么不自己用 AI 生成它们？
+因为获得正确的结果需要花费大量时间。
+因为在生成之前您无法看到得到的结果。
+因为迭代提示以获取所需内容可能非常耗时。
+因为结果有时会带有奇怪的 AI 怪癖，从而使结果无法使用。
+您觉得如何？
+https://photozilla.io
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/a0b2b4cd20</guid>
+      <pubDate>Wed, 26 Jun 2024 07:32:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>从移动应用到个体经营者梦想：我的新冒险开始了</title>
+      <link>https://feed.indiehackers.world/post/fdb31cd494</link>
+      <description><![CDATA[真实故事：我将分享每一个高潮和低谷、成功和挑战。
+社区支持：我正在向经验丰富的 solopreneurs/IndieHackers 寻求建议、支持和灵感。
+个人成长：这段旅程就是要为我的角色添加新的层次，将我的技术技能与创业精神融为一体。
+🙏 加入我的旅程！🙏
+我邀请您跟随，提供您的见解，并见证转变。让我们一起看看这次冒险会带我们去哪里。谁知道呢？也许有一天，在您的支持下，我会成为一名成功的 solopreneur。🤞
+Discord Indiehackers 聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/fdb31cd494</guid>
+      <pubDate>Wed, 26 Jun 2024 07:00:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Tailwind CSS 和 JavaScript 创建搜索输入</title>
+      <link>https://feed.indiehackers.world/post/f8f5e1c850</link>
+      <description><![CDATA[这是一个非常简单的搜索功能，可用于根据搜索查询过滤项目列表，而无需任何额外的库或框架。这不是用于生产用途，但它是学习如何使用 JavaScript 构建交互式用户界面的好方法。
+希望您喜欢本教程并祝您有美好的一天！
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/f8f5e1c850</guid>
+      <pubDate>Wed, 26 Jun 2024 06:44:11 GMT</pubDate>
+    </item>
     <item>
       <title>音频博客：内容营销的未来</title>
       <link>https://feed.indiehackers.world/post/208ea8d796</link>
@@ -579,12 +631,12 @@ Discord Indiehackers Chat广告这里]]></description>
 
 分享您的见解
 我们对您的经验和策略很好奇。您认为在 LinkedIn 上营销 SaaS 产品有哪些有效的技巧和窍门？
-Discord Indiehackers Chat广告这里]]></description>
+Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/e67d884606</guid>
       <pubDate>Mon, 24 Jun 2024 08:23:34 GMT</pubDate>
     </item>
     <item>
-      <title>哪些非独立黑客类型的项目能给您带来钱？</title>
+      <title>哪些非独立黑客类型的项目能给您带来收入？</title>
       <link>https://feed.indiehackers.world/post/3b086f6f9e</link>
       <description><![CDATA[很高兴看到哪些非独立黑客类型的项目能为您带来收益？
 您是否拥有一家能为您带来可观收入的非技术相关业务？
@@ -1084,7 +1136,7 @@ Discord Indiehackers Chat广告 这里]]></description>
       <title>为什么 SaaS 创始人应该优先考虑内容市场契合度而不是产品市场契合度？</title>
       <link>https://feed.indiehackers.world/post/e50d544a16</link>
       <description><![CDATA[但在构建产品之前，您需要先完成此操作。同样，这是我作为 SaaS 创始人的个人经历，我犯了一个错误，没有先做这件事，现在又回到了这件事上。
-此外，专注于内容市场契合度有助于您建立强大的营销能力，并且您将对产品发布和市场契合度更加有信心。
+此外，关注内容市场契合度有助于您建立强大的营销能力，并且您将对产品发布和市场契合度更加有信心。
 最终，内容市场契合度为您的 SaaS 初创公司提供了坚实的基础，使您能够与受众建立有意义的联系，培养品牌忠诚度并推动业务增长。
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/e50d544a16</guid>
@@ -1136,54 +1188,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/9660873e8a</guid>
       <pubDate>Thu, 20 Jun 2024 19:41:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我昨天如何推出我的第一个 AI SaaS</title>
-      <link>https://feed.indiehackers.world/post/28ed4ccb95</link>
-      <description><![CDATA[迄今为止的发布结果
-🐣 21 名新用户
-💰 1 个新的年度订阅
-🎤 新用户录制的 7 篇文章
-出于某种原因，我原本想着更大的发布会，但那可能只是我的梦想。最后，我对我的发布会非常满意！
-$22 MRR，宝贝！ 🥳
-下一步是什么
-现在到了有趣的部分。更多的营销，并根据真实的用户反馈使产品更加出色。
-如果您想尝试一下，您可以免费录制 2 篇文章，看看您是否喜欢它。只需前往 https://blogrecorder.com 注册，登录后点击“开始免费试用”。
-如果您想知道我计划很快在 Blog Recorder 中添加什么，还有一个路线图。
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/28ed4ccb95</guid>
-      <pubDate>Thu, 20 Jun 2024 17:06:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>两周内通过 Whatsapp 群组获得前 25 名用户和 1000 美元收入</title>
-      <link>https://feed.indiehackers.world/post/09b634427e</link>
-      <description><![CDATA[我在 WhatsApp 上加入了 30 多个群组和社区。
-我遵循了使用 Whatlist 的流程，并通过与群组成员的有效互动，为我的初创公司带来了前 25 名用户和 1000 美元的收入。
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/09b634427e</guid>
-      <pubDate>Thu, 20 Jun 2024 16:01:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求对我的副项目 MVP（面向专业人士的基于故事的作品集）的反馈。</title>
-      <link>https://feed.indiehackers.world/post/be53212bf9</link>
-      <description><![CDATA[
-我主要想了解您对该应用的可用性和整体概念的看法。
-感谢您提供的任何反馈，以帮助改进 MyPortfolio。
-非常感谢大家！
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/be53212bf9</guid>
-      <pubDate>Thu, 20 Jun 2024 15:27:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>一款在 Reddit 上寻找想要你的产品的数千人的工具</title>
-      <link>https://feed.indiehackers.world/post/992a391e9a</link>
-      <description><![CDATA[您可以在发布之前查看和编辑每条回复。该工具会自动为 OP 生成有用的回复，并巧妙地提及您的产品作为推荐，但您可以自由编辑它们并使回复成为您自己的回复。
-此外，您可以直接从平台向潜在客户发送私人消息。
-我真诚地感谢所有反馈。谢谢！
-在这里尝试：replyhub.co
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/992a391e9a</guid>
-      <pubDate>Thu, 20 Jun 2024 14:51:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
