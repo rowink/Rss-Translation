@@ -4,7 +4,26 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Sat, 29 Jun 2024 09:07:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 12:12:07 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找 SEO 工具的认真 Beta 测试人员，想加入吗？</title>
+      <link>https://feed.indiehackers.world/post/a16badb754</link>
+      <description><![CDATA[我创建了简单的 SEO 工具来帮助您：
+
+构建关键字集群
+长尾关键字
+生成基础内容（奖励）
+
+目前我正在寻找认真的 beta 测试人员为他们的项目做 SEO。
+我不想浪费时间在不认真的 beta 测试人员身上（只是获得访问权限，之后什么也不做）
+如果您认真优化 SEO，我将为您提供免费访问权限。但我需要你帮我提供反馈，这样这个工具才能不断改进，满足你的需求
+在这里查看工具：https://hubrank.co/
+如果你认真对待你的 SEO 项目，并有兴趣获得免费访问权限，请在 X 上给我发私信，并提及你的项目 
+https://x.com/khulanwar
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/a16badb754</guid>
+      <pubDate>Sat, 29 Jun 2024 09:56:20 GMT</pubDate>
+    </item>
     <item>
       <title>SOC 2 合规性如何塑造值得信赖的标识？</title>
       <link>https://feed.indiehackers.world/post/8b48e356a8</link>
@@ -70,7 +89,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <description><![CDATA[我正在阅读 Rob Walling 的阶梯式方法，似乎第 1 步主要针对更大的 SaaS 生态系统（如 Salesforce、Zoom、Slack 等）制作应用程序
 其中大多数都是我不经常使用的平台，所以我不知道用户可能想要什么，但我一直在使用我的网络浏览器。
 今天将浏览器扩展作为第 1 步项目是否可行？
-Discord Indiehackers Chat广告这里]]></description>
+Discord Indiehackers 聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/4a44cb6d85</guid>
       <pubDate>Fri, 28 Jun 2024 18:11:13 GMT</pubDate>
     </item>
@@ -453,7 +472,7 @@ DRY（不要重复自己）
 关注你的技术债务
 
 CI/CD
-这些通常被过度使用，并且在你做小工作时没有用。CI/CD 变得更加重要，但 DRY 是最被过度使用的模式之一。我很快就会写一篇博客文章，介绍为什么你应该避免 DRY。订阅我位于右侧的方便位置的新闻通讯，以免错过它的发布。您将收到此文章以及我们发布的每一篇文章的通知。这一切都是免费的，而且会给你带来很多好处。
+这些通常被过度使用，并且在你做小工作时没有用。CI/CD 变得更加重要，但 DRY 是最被过度使用的模式之一。我很快就会写一篇博客文章，介绍为什么你应该避免 DRY。订阅我位于右侧的方便位置的新闻通讯，以免错过它的发布。您将收到此文章以及我们发布的所有其他文章的通知。这一切都是免费的，而且能为您带来很多好处。
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/0d9f47edef</guid>
       <pubDate>Thu, 27 Jun 2024 09:23:19 GMT</pubDate>
@@ -474,8 +493,8 @@ Discord Indiehackers Chat广告这里]]></description>
 
 作者：Rob Hope
 使用这些设计、开发和转换技巧增强您的登陆页面！
-在结帐流程。 
-可能会紧张。 使用这些小提醒之一来安抚它们，这些提醒策略性地放置在结帐表单附近：
+在结帐流程。
+可能会紧张。使用这些小提醒之一来安抚它们，这些提醒策略性地放置在结帐表单附近：
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/3b423cf600</guid>
       <pubDate>Thu, 27 Jun 2024 03:37:55 GMT</pubDate>
@@ -673,7 +692,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Wed, 26 Jun 2024 13:41:15 GMT</pubDate>
     </item>
     <item>
-      <title>licsm（许可证服务器）启动</title>
+      <title>licsm（许可证服务器）已启动</title>
       <link>https://feed.indiehackers.world/post/9e1ff3a31a</link>
       <description><![CDATA[我出售 licsm（许可证服务器）。它带有 C++ 库，可以与任何开发语言集成。许可证服务器是市场上最便宜的。licsm 许可证服务器适用于自由职业者、初创公司或构建其软件产品的公司。它有助于将他们的软件货币化并防止未经授权访问他们的软件。它附带年度许可证和免费更新。
 许可证服务器可以托管在具有专用 IP 的 VPS / 专用服务器中。
@@ -684,7 +703,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Wed, 26 Jun 2024 13:40:57 GMT</pubDate>
     </item>
     <item>
-      <title>licsm（许可证服务器）启动</title>
+      <title>licsm（许可证服务器）已启动</title>
       <link>https://feed.indiehackers.world/post/6893b471af</link>
       <description><![CDATA[我出售 licsm（许可证服务器）。它带有 C++ 库，可以与任何开发语言集成。许可证服务器是市场上最便宜的。licsm 许可证服务器适用于自由职业者、初创公司或构建其软件产品的公司。它有助于将他们的软件货币化并防止未经授权访问他们的软件。它附带年度许可证和免费更新。
 许可证服务器可以托管在具有专用 IP 的 VPS / 专用服务器中。
@@ -695,7 +714,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Wed, 26 Jun 2024 13:39:47 GMT</pubDate>
     </item>
     <item>
-      <title>licsm（许可证服务器）启动</title>
+      <title>licsm（许可证服务器）已启动</title>
       <link>https://feed.indiehackers.world/post/df28a4f2b5</link>
       <description><![CDATA[我出售 licsm（许可证服务器）。它带有 C++ 库，可以与任何开发语言集成。许可证服务器是市场上最便宜的。licsm 许可证服务器适用于自由职业者、初创公司或构建其软件产品的公司。它有助于将他们的软件货币化并防止未经授权访问他们的软件。它附带年度许可证和免费更新。
 许可证服务器可以托管在具有专用 IP 的 VPS / 专用服务器中。
@@ -1115,17 +1134,6 @@ SEO AI：提高转化率的秘密武器
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/200107f849</guid>
       <pubDate>Tue, 25 Jun 2024 02:07:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>快速实现收入多元化的最佳方式</title>
-      <link>https://feed.indiehackers.world/post/151acebab8</link>
-      <description><![CDATA[
-您可以使用任何风格成为会员：网站、博客、时事通讯、社交媒体 - 没关系。Mango 与您合作。 
-
-https://mango-mail.getrewardful.com/signup
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/151acebab8</guid>
-      <pubDate>Mon, 24 Jun 2024 22:59:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
