@@ -4,14 +4,14 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Fri, 28 Jun 2024 21:03:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 00:30:23 GMT</lastBuildDate>
     <item>
       <title>2024 年的浏览器扩展</title>
       <link>https://feed.indiehackers.world/post/4a44cb6d85</link>
       <description><![CDATA[我正在阅读 Rob Walling 的阶梯式方法，似乎第 1 步主要针对更大的 SaaS 生态系统（如 Salesforce、Zoom、Slack 等）制作应用程序
 其中大多数都是我不经常使用的平台，所以我不知道用户可能想要什么，但我一直在使用我的网络浏览器。
 今天将浏览器扩展作为第 1 步项目是否可行？
-Discord Indiehackers 聊天广告这里]]></description>
+Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/4a44cb6d85</guid>
       <pubDate>Fri, 28 Jun 2024 18:11:13 GMT</pubDate>
     </item>
@@ -75,7 +75,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Fri, 28 Jun 2024 12:53:02 GMT</pubDate>
     </item>
     <item>
-      <title>显示 IH：钱从哪里来 – 在 Stripe 中查看你的钱来自哪里</title>
+      <title>显示 IH：钱在哪里 – 在 Stripe 中查看你的钱来自哪里</title>
       <link>https://feed.indiehackers.world/post/38e8c7184b</link>
       <description><![CDATA[嗨，IH，
 我是 Imran。今天我在 ProductHunt 上发布了 Where Money。
@@ -394,7 +394,7 @@ DRY（不要重复自己）
 关注你的技术债务
 
 CI/CD
-这些通常被过度使用，并且在你做小工作时没有用。CI/CD 变得更加重要，但 DRY 是最被过度使用的模式之一。我很快就会写一篇博客文章，介绍为什么你应该避免 DRY。订阅我位于右侧的方便位置的新闻通讯，以免错过它的发布。您将收到此文章以及我们发布的每一篇文章的通知。这一切都是免费的，而且会给你带来很多好处。
+这些通常被过度使用，并且在你做小工作时没有用。CI/CD 变得更加重要，但 DRY 是最被过度使用的模式之一。我很快就会写一篇博客文章，介绍为什么你应该避免 DRY。订阅我位于右侧的方便位置的新闻通讯，以免错过它的发布。您将收到此文章以及我们发布的每一篇文章的通知。这一切都是免费的，而且能为您带来很多好处。
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/0d9f47edef</guid>
       <pubDate>Thu, 27 Jun 2024 09:23:19 GMT</pubDate>
@@ -415,8 +415,8 @@ Discord Indiehackers Chat广告这里]]></description>
 
 作者：Rob Hope
 使用这些设计、开发和转换技巧增强您的登陆页面！
-在结帐流程。
-可能会紧张。使用这些小提醒之一来安抚它们，这些提醒策略性地放置在结帐表单附近：
+在结帐流程。 
+可能会紧张。 使用这些小提醒之一来安抚它们，这些提醒策略性地放置在结帐表单附近：
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/3b423cf600</guid>
       <pubDate>Thu, 27 Jun 2024 03:37:55 GMT</pubDate>
@@ -614,7 +614,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Wed, 26 Jun 2024 13:41:15 GMT</pubDate>
     </item>
     <item>
-      <title>licsm（许可证服务器）已启动</title>
+      <title>licsm（许可证服务器）启动</title>
       <link>https://feed.indiehackers.world/post/9e1ff3a31a</link>
       <description><![CDATA[我出售 licsm（许可证服务器）。它带有 C++ 库，可以与任何开发语言集成。许可证服务器是市场上最便宜的。licsm 许可证服务器适用于自由职业者、初创公司或构建其软件产品的公司。它有助于将他们的软件货币化并防止未经授权访问他们的软件。它附带年度许可证和免费更新。
 许可证服务器可以托管在具有专用 IP 的 VPS / 专用服务器中。
@@ -625,7 +625,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Wed, 26 Jun 2024 13:40:57 GMT</pubDate>
     </item>
     <item>
-      <title>licsm（许可证服务器）已启动</title>
+      <title>licsm（许可证服务器）启动</title>
       <link>https://feed.indiehackers.world/post/6893b471af</link>
       <description><![CDATA[我出售 licsm（许可证服务器）。它带有 C++ 库，可以与任何开发语言集成。许可证服务器是市场上最便宜的。licsm 许可证服务器适用于自由职业者、初创公司或构建其软件产品的公司。它有助于将他们的软件货币化并防止未经授权访问他们的软件。它附带年度许可证和免费更新。
 许可证服务器可以托管在具有专用 IP 的 VPS / 专用服务器中。
@@ -636,7 +636,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Wed, 26 Jun 2024 13:39:47 GMT</pubDate>
     </item>
     <item>
-      <title>licsm（许可证服务器）已启动</title>
+      <title>licsm（许可证服务器）启动</title>
       <link>https://feed.indiehackers.world/post/df28a4f2b5</link>
       <description><![CDATA[我出售 licsm（许可证服务器）。它带有 C++ 库，可以与任何开发语言集成。许可证服务器是市场上最便宜的。licsm 许可证服务器适用于自由职业者、初创公司或构建其软件产品的公司。它有助于将他们的软件货币化并防止未经授权访问他们的软件。它附带年度许可证和免费更新。
 许可证服务器可以托管在具有专用 IP 的 VPS / 专用服务器中。
@@ -675,7 +675,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <link>https://feed.indiehackers.world/post/e7955f8282</link>
       <description><![CDATA[观看此视频后，您将不再讨厌 NULL 指针异常
 
-空指针，也称为十亿美元的错误，实际上并没有那么糟糕。
+空指针，也称为价值数十亿美元的错误，实际上并没有那么糟糕。
 
 这就是为什么以及如何享受空值及其异常的原因
 
@@ -714,8 +714,8 @@ Discord Indiehackers Chat广告此处]]></description>
       <link>https://feed.indiehackers.world/post/15467f95a4</link>
       <description><![CDATA[您是非技术创始人吗？
 无需聘请内部开发人员或提前将股权让给 CTO
-按照简单的异步开发流程，仅需 20 天即可从头开始推出您的产品
-Discord Indiehackers Chat广告此处]]></description>
+按照简单的异步开发流程，在短短 20 天内从头开始推出您的产品
+Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/15467f95a4</guid>
       <pubDate>Wed, 26 Jun 2024 11:04:09 GMT</pubDate>
     </item>
@@ -745,7 +745,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <link>https://feed.indiehackers.world/post/a46969af56</link>
       <description><![CDATA[阅读：软件开发人员可以构建精美的软件
 结论
-人们说你不应该以貌取人。我不同意这种观点。以貌取人可以帮助你选择一本书而不是另一本书。这一原则也适用于缩略图。创建最好的、引人注目的缩略图，以帮助您的视频获得更好的点击量。
+人们说你不应该以貌取人。我不同意这种观点。以貌取人可以帮助你选择一本书而不是另一本书。这一原则适用于缩略图。创建最好的、引人注目的缩略图，以帮助您的视频获得更好的点击量。
 我相信演示对帮助您实现伟大的事情大有帮助。我知道这六项原则将帮助您将视频制作到您想要的高度。
 
 如需了解这些以及更多想法、指南和见解，请访问我的博客 martinbaun.com。
@@ -802,8 +802,8 @@ Discord Indiehackers Chat广告这里]]></description>
 因为获得正确的结果需要花费大量时间。
 因为在生成之前您无法看到得到的结果。
 因为迭代提示以获取所需内容可能非常耗时。
-因为结果有时会带有奇怪的 AI 怪癖，这会使结果无法使用。
-你怎么看？
+因为结果有时会带有奇怪的 AI 怪癖，从而使结果无法使用。
+您觉得如何？
 https://photozilla.io
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/a0b2b4cd20</guid>
@@ -867,7 +867,7 @@ Discord Indiehackers 聊天广告这里]]></description>
     <item>
       <title>经过数月的建设，产品仍未完成</title>
       <link>https://feed.indiehackers.world/post/e679d3b131</link>
-      <description><![CDATA[在孤立地工作中经历了许多挫折之后，我想到了一个带有候补名单的初始登陆页面，这可以为应用程序奠定基础，并且我可以更公开地了解我正在做的事情，希望这能激励我。但是现在，当我终于完成了登陆页面时，我不再感到有动力了，因为产品还远未完成，我不确定是否值得付出更多努力来推动自己，或者我是否应该尝试寻找一些不同的项目来开展工作，并将我的策略改变为更精益的创业，更加公开，并首先想办法开发原型。
+      <description><![CDATA[在孤立地工作中经历了许多挫折之后，我想到了一个带有候补名单的初始登陆页面，这可以为应用程序奠定基础，并且我可以更公开地了解我正在做的事情，希望这能激励我。但是现在，当我终于完成了登陆页面时，我不再感到有动力了，因为产品还远未完成，我不确定是否值得付出更多努力来推动自己，或者我是否应该尝试寻找一些不同的项目来开展工作，并将我的策略改变为更精益的创业，更加公开，并首先找出一种在原型上工作的方法。
 如果您想查看网站，我们将不胜感激：- https://phia.app
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/e679d3b131</guid>
@@ -983,7 +983,7 @@ Discord Indiehackers Chat广告 这里]]></description>
       <pubDate>Tue, 25 Jun 2024 09:41:56 GMT</pubDate>
     </item>
     <item>
-      <title>我做了一项服务来帮助创始人进行用户访谈</title>
+      <title>我提供了一项服务来帮助创始人进行用户访谈</title>
       <link>https://feed.indiehackers.world/post/e9a2636354</link>
       <description><![CDATA[Discord Indiehackers 聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/e9a2636354</guid>
@@ -995,7 +995,7 @@ Discord Indiehackers Chat广告 这里]]></description>
       <description><![CDATA[虽然社交媒体信号不会直接影响 SEO，但它们可以为您的网站带来流量。在 Twitter、LinkedIn 和 Reddit 等平台上分享您的内容，以吸引更广泛的受众。
 -定期更新内容
 SEO 不是一次性任务。定期更新您的内容可确保其与您的受众保持相关性和价值。它还向搜索引擎发出信号，表明您的网站处于活跃状态。
-SEO 是一个持续的过程，我很高兴看到未来几周的结果。如果您有任何建议或其他提示可以增加 MrScraper 网站 的流量，我很乐意听取！
+SEO 是一个持续的过程，我很高兴在未来几周看到结果。如果您有任何建议或其他提示可以增加 MrScraper 网站 的流量，我很乐意听取！
 Discord Indiehackers Chat广告 此处]]></description>
       <guid>https://feed.indiehackers.world/post/618e972edb</guid>
       <pubDate>Tue, 25 Jun 2024 06:38:12 GMT</pubDate>
