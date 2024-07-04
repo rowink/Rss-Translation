@@ -4,12 +4,48 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Thu, 04 Jul 2024 15:07:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 18:09:17 GMT</lastBuildDate>
+    <item>
+      <title>从坚持到收获：ProductHunt 如何带来意外的客户</title>
+      <link>https://feed.indiehackers.world/post/daba24ef71</link>
+      <description><![CDATA[故事的寓意
+永远不要认为你现在采取的那些小步骤是无用的；它们可能会在你最意想不到的时候带来回报。正如嘉纳治五郎所说，“只要努力，就一定会有成就！”
+感谢您阅读我的旅程，我希望它能激励您继续前进，无论遇到多大的困难。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/daba24ef71</guid>
+      <pubDate>Thu, 04 Jul 2024 18:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我重新设计了英雄部分：寻求反馈</title>
+      <link>https://feed.indiehackers.world/post/179f83d55e</link>
+      <description><![CDATA[我重新设计了应用程序的英雄部分。以下是我改进的内容：
+我添加的关键改进 -
+
+易于阅读的视觉标题
+清晰、整洁的副标题
+重新创建徽标以匹配品牌
+用“预订演示”替换 CTA 以提高清晰度
+增强社会认同以建立信任
+
+这是 figma 链接：https://www.figma.com/proto/LraxAib8cvxKUbkWc4Oz4g/Business?node-id=55-7848&amp;t=dSiGuePzamvVDPad-1
+非常感谢朋友们的反馈。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/179f83d55e</guid>
+      <pubDate>Thu, 04 Jul 2024 18:01:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>拥抱脸部以适应 IaC。好主意还是坏主意？</title>
+      <link>https://feed.indiehackers.world/post/e9e0787c1f</link>
+      <description><![CDATA[您认为“IaC 的拥抱脸”是好主意还是坏主意？您需要它还是会考虑它？
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/e9e0787c1f</guid>
+      <pubDate>Thu, 04 Jul 2024 15:34:23 GMT</pubDate>
+    </item>
     <item>
       <title>打造成功初创企业的免费工具</title>
       <link>https://feed.indiehackers.world/post/4243fb1d41</link>
-      <description><![CDATA[如果您有任何问题，请随时给我发送电子邮件：denis@startupsteals.cc
-Discord Indiehackers 聊天广告这里]]></description>
+      <description><![CDATA[如果您有任何疑问，请随时给我发送电子邮件denis@startupsteals.cc
+Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/4243fb1d41</guid>
       <pubDate>Thu, 04 Jul 2024 14:42:12 GMT</pubDate>
     </item>
@@ -778,10 +814,10 @@ Discord Indiehackers Chat广告这里]]></description>
       <title>寻找销售/营销合作伙伴来帮助扩展我开发的应用程序</title>
       <link>https://feed.indiehackers.world/post/ecc3d4e482</link>
       <description><![CDATA[影响力：塑造我们的销售/营销方向。
-如果您感兴趣，请通过 dclark312@gmail.com 与我联系，或直接给我发私信这里。
+如果您感兴趣，请通过dclark312@gmail.com与我联系，或在此给我发私信。
 祝好，
 Damon
-Discord Indiehackers 聊天广告 这里]]></description>
+Discord Indiehackers 聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/ecc3d4e482</guid>
       <pubDate>Tue, 02 Jul 2024 19:47:12 GMT</pubDate>
     </item>
@@ -1127,34 +1163,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/8516fcaa8a</guid>
       <pubDate>Mon, 01 Jul 2024 14:57:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>React 开发工具：关于大技术的精简指南</title>
-      <link>https://feed.indiehackers.world/post/0a351f5c72</link>
-      <description><![CDATA[如需了解如何在项目中使用当代技术的更多讨论，请联系 Celadonsoft。
-Discord Indiehackers Chat广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/0a351f5c72</guid>
-      <pubDate>Mon, 01 Jul 2024 14:35:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>餐厅应用程序开发中急需的功能</title>
-      <link>https://feed.indiehackers.world/post/1a7b61b034</link>
-      <description><![CDATA[在 Celadonsoft，我们专注于软件开发，在餐饮业中拥有强大的立足点。我们的团队由高技能的专业人士组成，致力于打造一款能够推动您的业务发展的应用程序。我们的流程从彻底的研究开始，以确定餐厅最有效的移动应用程序功能，然后选择为餐厅量身定制的现代高效堆栈。我们的设计师将基于行业领先的 UI/UX 实践创建直观、用户友好的界面，我们的质量保证工程师将不遗余力地检测和纠正任何问题。此外，即使在应用程序发布后，Celadonsoft 的开发人员仍致力于支持您的成功之旅。
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/1a7b61b034</guid>
-      <pubDate>Mon, 01 Jul 2024 14:26:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>竞争优势：顶尖公司超越竞争对手的 5 种强大方法</title>
-      <link>https://feed.indiehackers.world/post/b3bff220c0</link>
-      <description><![CDATA[战略合作伙伴关系
-建立战略合作伙伴关系和联盟可以增强公司的能力和市场覆盖范围，提供额外的资源和专业知识。例如，借助 RivalSense 等竞争对手分析工具，您可以轻松跟踪竞争对手参加或组织的活动和网络研讨会。
-
-结论
-获得和保持竞争优势对于长期业务成功至关重要。通过了解不同类型的竞争优势并实施创新、卓越运营和卓越客户体验等关键战略，公司可以超越竞争对手并确保强大的市场地位。定期评估和调整这些策略将确保在不断变化的商业环境中持续增长和盈利。
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/b3bff220c0</guid>
-      <pubDate>Mon, 01 Jul 2024 13:33:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
