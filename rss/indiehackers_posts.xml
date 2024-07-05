@@ -4,7 +4,26 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Fri, 05 Jul 2024 18:09:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 21:07:25 GMT</lastBuildDate>
+    <item>
+      <title>人们如何收集有关其产品的反馈？</title>
+      <link>https://feed.indiehackers.world/post/837410bb77</link>
+      <description><![CDATA[请告诉我您在获取反馈方面取得的成功或失败。
+Discord Indiehackers Chat广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/837410bb77</guid>
+      <pubDate>Fri, 05 Jul 2024 20:50:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我重新设计了一款人工智能应用 - 寻求反馈</title>
+      <link>https://feed.indiehackers.world/post/d46b5e18f1</link>
+      <description><![CDATA[我吐槽了 RomeAI 界面 ✨
+RomeAI 利用人工智能帮助您在手机上找到互联网上最高的 RPM 负载，由 Craig Weiss 创立
+之前 → 之后
+twitter 原始帖子链接 - https://x.com/WorkLokesh/status/1809303529817034765
+Discord Indiehackers 聊天广告 这里]]></description>
+      <guid>https://feed.indiehackers.world/post/d46b5e18f1</guid>
+      <pubDate>Fri, 05 Jul 2024 19:49:21 GMT</pubDate>
+    </item>
     <item>
       <title>帮助：什么时候是出售你的初创公司的最佳时机？</title>
       <link>https://feed.indiehackers.world/post/b39925805c</link>
@@ -496,7 +515,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Thu, 04 Jul 2024 04:14:15 GMT</pubDate>
     </item>
     <item>
-      <title>如何利用有效的技术提高网站流量和增强 SEO</title>
+      <title>如何通过有效的技术提高网站流量和增强 SEO</title>
       <link>https://feed.indiehackers.world/post/70ce3c7f92</link>
       <description><![CDATA[9. 针对本地 SEO 进行优化
 如果您是本地企业，针对本地 SEO 进行优化可以吸引附近的客户。确保您的 Google My Business 资料准确且完整，并鼓励客户留下正面评价。
@@ -1104,7 +1123,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <description><![CDATA[对人工智能及其彻底改变行业的潜力充满热情。
 如果您是一位对未来有远见的营销明星，我希望听到您的声音！
 请将您的简历和一份简要说明发送给swayammi7@gmail.com.
-让我们一起创造一些了不起的东西吧！
+让我们一起创造一些了不起的东西！
 #AI #SaaS #Marketing #Startup #Cofounder
 P.S.欢迎与您网络中可能非常合适的任何人分享此帖子！
 Discord Indiehackers Chat广告此处]]></description>
@@ -1134,31 +1153,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/d4ec0d7f43</guid>
       <pubDate>Tue, 02 Jul 2024 12:49:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>SSL 问题“无法获取本地颁发者证书”</title>
-      <link>https://feed.indiehackers.world/post/40f1d50185</link>
-      <description><![CDATA[我应该采取哪些步骤来正确配置我的服务器上的中间证书？
-要正确配置中间证书，请按照以下步骤为您的 Web 服务器配置：
-Apache：确保您的中间证书包含在 SSLCertificateChainFile 指令中。示例配置：
-SSLCertificateFile /path/to/your_domain.crt
-SSLCertificateKeyFile /path/to/your_domain.key
-SSLCertificateChainFile /path/to/intermediate_certificate.crt
-Nginx：将您的服务器证书和中间证书连接到一个文件中，并在 ssl_certificate 指令中指定它。示例配置：
-ssl_certificate /path/to/your_domain_combined.crt;
-ssl_certificate_key /path/to/your_domain.key;
-确保合并的文件以正确的顺序包含服务器证书和中间证书。
-Discord Indiehackers Chat广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/40f1d50185</guid>
-      <pubDate>Tue, 02 Jul 2024 12:29:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>微型 SaaS 趋势 - 自动化、交易、PDF 和其他 8 个领域。</title>
-      <link>https://feed.indiehackers.world/post/db94d9c5a6</link>
-      <description><![CDATA[您可以在构建盈利的微型 SaaS 解锁 500 多个趋势更新、独家社区和 1000 多个详细的微型 SaaS 创意
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/db94d9c5a6</guid>
-      <pubDate>Tue, 02 Jul 2024 12:28:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
