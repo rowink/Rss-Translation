@@ -4,7 +4,70 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Mon, 08 Jul 2024 12:13:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 15:08:00 GMT</lastBuildDate>
+    <item>
+      <title>为忙碌的创始人提供用户访谈服务</title>
+      <link>https://feed.indiehackers.world/post/0af944bb9e</link>
+      <description><![CDATA[我很高兴与大家分享 Insight Pad，这是我开发的一项服务，旨在帮助创始人获得高质量的用户反馈，而无需花费大量时间亲自管理访谈。
+我们的工作：
+查找并安排与目标用户的访谈
+主持访谈
+提供可操作的见解和功能路线图
+为什么？因为作为创始人，我亲身了解用户反馈的重要性，也知道管理它有多耗时。
+我很想听听你的想法：
+用户研究的最大痛点是什么？
+什么会让这样的服务对你来说变得轻而易举？
+在 theinsightpad.com 上查看并告诉我你的想法！
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/0af944bb9e</guid>
+      <pubDate>Mon, 08 Jul 2024 14:27:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>创业是一个搜索问题。</title>
+      <link>https://feed.indiehackers.world/post/59a94a15eb</link>
+      <description><![CDATA[
+我在今天的《The Tech Bubble》中写过这个主题，这是我的时事通讯，我每周都会发布一些创业智慧，例如这个主题，一些独立商业案例以激发灵感，并记录我作为一名独立黑客的旅程。
+https://jointhetechbubble.substack.com/p/the-tech-bubble-9-entrepreneurship
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/59a94a15eb</guid>
+      <pubDate>Mon, 08 Jul 2024 13:44:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过建立战略合作伙伴关系，将规模从 0 美元扩大到 12,000 美元/月</title>
+      <link>https://feed.indiehackers.world/post/280dea4ff2</link>
+      <description><![CDATA[关键要点：
+‍1) 从第一天开始建立牢固的合作伙伴关系。这是一项适用于任何业务类型、客户群或行业的常青战略。
+
+以价值为导向接触目标人群可以促进真正的联系，并为战略伙伴关系打开大门。
+
+提供强有力的激励。让合作伙伴有理由在与客户、顾客或用户交谈时牢记您的提议。
+
+
+‍在没有过去成功证据的情况下创业是一项挑战。
+但是，通过与服务客户但不与您的产品重叠的其他人合作，您可以共同创造更大的价值，为您的业务带来更多收入，并在您的领域建立更多权威。
+如果您想阅读更多这样的案例研究并了解当今有效的增长策略，请考虑查看时事通讯。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/280dea4ff2</guid>
+      <pubDate>Mon, 08 Jul 2024 13:30:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Flight API：数据提取概述</title>
+      <link>https://feed.indiehackers.world/post/56fa9dd952</link>
+      <description><![CDATA[结论
+简而言之，Google Flight API 提供了一种简化而全面的数据提取方法，为用户提供了清晰而简洁的关键航班信息概述。凭借其高效的功能，开发人员可以将此 API 无缝集成到他们的应用程序中，为用户提供实时航班数据、定价趋势和预订选项。通过利用 Google Flight API 的强大功能，企业可以创造增强的旅行体验，优化运营并为旅行者提供有价值的见解。凭借其清晰易用的界面，Google Flight API 是任何希望通过准确和最新的航班数据丰富旅游业的人的宝贵工具。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/56fa9dd952</guid>
+      <pubDate>Mon, 08 Jul 2024 13:13:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为何搬到荷兰：一位初创公司创始人的创业之旅</title>
+      <link>https://feed.indiehackers.world/post/8be4a6b366</link>
+      <description><![CDATA[如果您对流程有任何疑问，请随时联系我们。我很乐意为您提供帮助并分享我的经验。
+对于阿姆斯特丹的所有创始人和初创公司，我很乐意与您见面并聊天。咖啡我请客！
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/8be4a6b366</guid>
+      <pubDate>Mon, 08 Jul 2024 12:18:31 GMT</pubDate>
+    </item>
     <item>
       <title>Product Hunt 上的 KrutAI</title>
       <link>https://feed.indiehackers.world/post/9d74450b22</link>
@@ -91,9 +154,9 @@ Discord Indiehackers Chat广告 此处]]></description>
     <item>
       <title>在我们的主页上嵌入评论</title>
       <link>https://feed.indiehackers.world/post/d86fc6617f</link>
-      <description><![CDATA[正在寻找利用评论的创新方法？例如，Feedspace.io 已将评论直接嵌入其主页，突出展示客户反馈。 
-您是否想了解更多？ 
-访问我们的博客，我们详细介绍了最大化评论影响力的最佳策略，帮助您建立信任并有效增强客户参与度。 
+      <description><![CDATA[正在寻找利用评论的创新方法？例如，Feedspace.io 已将评论直接嵌入其主页，突出展示客户反馈。
+您是否想了解更多？
+访问我们的博客，我们详细介绍了最大化评论影响力的最佳策略，帮助您建立信任并有效增强客户参与度。
 https://www.feedspace.io/blogs/best-strategies-to-utilize-reviews/
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/d86fc6617f</guid>
@@ -203,7 +266,7 @@ Discord Indiehackers Chat广告此处]]></description>
     <item>
       <title>优化游戏玩法的方法</title>
       <link>https://feed.indiehackers.world/post/c98d373493</link>
-      <description><![CDATA[在 Aviator 中优化您的游戏玩法需要结合设定明确的目标、使用演示版本进行练习、分析游戏模式、制定灵活的投注策略、管理您的资金、在压力下保持镇定、使用数据和分析以及适应不断变化的条件。通过实施这些方法，您可以增强您的游戏体验并增加成功的机会。请记住，优化的关键在于不断学习和改进您的策略。
+      <description><![CDATA[在 Aviator 中优化您的游戏玩法需要结合设定明确的目标、使用演示版本进行练习、分析游戏模式、制定灵活的投注策略、管理您的资金、在压力下保持镇定、使用数据和分析以及适应不断变化的条件。通过实施这些方法，您可以增强游戏体验并增加成功的机会。请记住，优化的关键在于不断学习和改进您的策略。
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/c98d373493</guid>
       <pubDate>Sun, 07 Jul 2024 16:46:17 GMT</pubDate>
@@ -442,7 +505,7 @@ Discord Indiehackers 聊天广告 这里]]></description>
       <title>帮助：什么时候是出售你的初创公司的最佳时机？</title>
       <link>https://feed.indiehackers.world/post/b39925805c</link>
       <description><![CDATA[推出 JobBoardSearch 🔎 四个月后，我收到了一个 2 万美元的稳定报价（我拒绝了）
-几天前，我收到了一位合法潜在买家发来的以下 DM
+几天前，我收到了一位合法潜在买家发来的以下直接消息
 “你愿意出售 jobboardsearch 吗？ 
 对。你心中有什么要价吗？ 
 我去年卖掉了我的初创公司，但我想收购一家新公司。所以只是浏览 :)&quot;
@@ -537,13 +600,13 @@ Discord Indiehackers Chat广告这里]]></description>
       <link>https://feed.indiehackers.world/post/9c1aad817f</link>
       <description><![CDATA[您是否正在寻找一种有效的方式来启动在线分类广告平台？在当今的数字时代，最好的 Craigslist 克隆脚本可以帮助您无缝连接买家和卖家。此解决方案具有成本效益且功能丰富，可让您更轻松地快速设置平台并开始您的业务之旅。
 使用最好的 Craigslist 克隆脚本，您可以自定义您的网站以完美适合您的品牌。它还允许您在业务增长时轻松扩展业务。用户友好界面、高级搜索选项、安全支付网关和响应式设计等主要功能可确保您的用户在您的平台上获得良好的体验。
-选择最佳的 Craigslist 克隆脚本 可节省时间和金钱。建立蓬勃发展的在线分类广告业务并轻松吸引全球受众。立即开始您的旅程，见证您的业务蓬勃发展。
+通过选择最佳的 Craigslist 克隆脚本 来节省时间和金钱。建立蓬勃发展的在线分类广告业务并轻松吸引全球受众。立即开始您的旅程，见证您的业务蓬勃发展。
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/9c1aad817f</guid>
       <pubDate>Fri, 05 Jul 2024 07:26:27 GMT</pubDate>
     </item>
     <item>
-      <title>5 美元工具：如何向数百名注册用户发送私人消息（包括后续消息）</title>
+      <title>5 美元工具：我如何向数百名注册用户发送私人消息（包括后续消息）</title>
       <link>https://feed.indiehackers.world/post/513874b98a</link>
       <description><![CDATA[
 在 Gmail 上：加载 Vocus 模板，填写数据（姓名、公司名称等），并添加一句话表明您已经调查过该公司。
@@ -559,7 +622,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Fri, 05 Jul 2024 07:19:38 GMT</pubDate>
     </item>
     <item>
-      <title>5 美元工具：如何向数百名注册用户发送私人消息（包括后续消息）</title>
+      <title>5 美元工具：我如何向数百名注册用户发送私人消息（包括后续消息）</title>
       <link>https://feed.indiehackers.world/post/57c2d2fb97</link>
       <description><![CDATA[
 在 Gmail 上：加载 Vocus 模板，填写数据（姓名、公司名称等），并添加一句话表明您已经调查过该公司。
@@ -598,7 +661,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Fri, 05 Jul 2024 06:35:24 GMT</pubDate>
     </item>
     <item>
-      <title>11个月后，我以20万美元的价格卖掉了我的应用程序。</title>
+      <title>11 个月后，我以 20 万美元的价格卖掉了我的应用程序。</title>
       <link>https://feed.indiehackers.world/post/0d89507cd3</link>
       <description><![CDATA[现在，这不是一夜之间的成功。这是 7 年磨练的结果。自开始以来，我启动了 40 多个项目，其中大多数都失败了。我每周经常工作 100 个小时，而且我很少出去或见很多人。这并不适合所有人，但我对此很满意
 Discord Indiehackers Chat广告这里]]></description>
@@ -612,7 +675,7 @@ Discord Indiehackers Chat广告这里]]></description>
 6. 持续监控和优化
 SEO策略需要持续监控和优化，定期分析流量来源、关键词排名、转化率等关键指标，根据数据洞察调整策略、优化网站内容，及时响应搜索引擎算法更新和市场变化，保持策略有效性和竞争力。
 
-通过整合这些核心组件，您可以构建强大的SEO策略，让您的网站在搜索引擎结果中脱颖而出，吸引更多访客，提高转化率。开始实施，并记住不断优化和监控，适应市场变化以保持竞争优势！
+通过整合这些核心组件，您可以构建强大的SEO策略，让您的网站在搜索引擎结果中脱颖而出，吸引更多访客，提高转化率。开始实施并记住不断优化和监控，适应市场变化以保持竞争优势！
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/8d6f075eeb</guid>
       <pubDate>Fri, 05 Jul 2024 02:31:21 GMT</pubDate>
@@ -636,13 +699,13 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Thu, 04 Jul 2024 18:02:30 GMT</pubDate>
     </item>
     <item>
-      <title>我重新设计了英雄部分：寻求反馈</title>
+      <title>我重新设计了一个英雄部分：寻求反馈</title>
       <link>https://feed.indiehackers.world/post/179f83d55e</link>
       <description><![CDATA[我重新设计了应用程序的英雄部分。以下是我改进的内容：
 我添加的关键改进 -
 
 易于阅读的视觉标题
-清晰、整洁的副标题
+清晰、无杂乱的副标题
 重新创建徽标以匹配品牌
 用“预订演示”替换 CTA 以提高清晰度
 增强社会认同以建立信任
@@ -703,7 +766,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Thu, 04 Jul 2024 13:31:29 GMT</pubDate>
     </item>
     <item>
-      <title>🌠 产品提示 #034：点赞后鼓励分享、限时会员优惠和基本提示电子邮件系列</title>
+      <title>🌠 产品技巧 #034：点赞后鼓励分享、限时会员优惠和基本技巧电子邮件系列</title>
       <link>https://feed.indiehackers.world/post/d43bb6deba</link>
       <description><![CDATA[🖖 嗨！写道 🌠 产品提示 034：
 🙏 点赞后鼓励分享
@@ -716,7 +779,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Thu, 04 Jul 2024 12:45:39 GMT</pubDate>
     </item>
     <item>
-      <title>🌠 产品提示 #034：点赞后鼓励分享、限时会员优惠和基本提示电子邮件系列</title>
+      <title>🌠 产品技巧 #034：点赞后鼓励分享、限时会员优惠和基本技巧电子邮件系列</title>
       <link>https://feed.indiehackers.world/post/8cf0eb1b7e</link>
       <description><![CDATA[🖖 嗨！写道 🌠 产品提示 034：
 🙏 点赞后鼓励分享
@@ -729,9 +792,9 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Thu, 04 Jul 2024 12:45:12 GMT</pubDate>
     </item>
     <item>
-      <title>🌠 产品提示 #034：点赞后鼓励分享、限时会员优惠和基本提示电子邮件系列</title>
+      <title>🌠 产品技巧 #034：点赞后鼓励分享、限时会员优惠和基本技巧电子邮件系列</title>
       <link>https://feed.indiehackers.world/post/6439904842</link>
-      <description><![CDATA[🖖 大家好！ 🌠 产品提示 034 写道：
+      <description><![CDATA[🖖 嗨！写了 🌠 产品提示 034：
 🙏 点赞后鼓励分享
 🌟 限时会员优惠
 📧 基本提示电子邮件系列
@@ -741,7 +804,7 @@ Discord Indiehackers 聊天广告 这里]]></description>
       <pubDate>Thu, 04 Jul 2024 12:44:30 GMT</pubDate>
     </item>
     <item>
-      <title>🌠 产品提示 #034：点赞后鼓励分享、限时会员优惠和基本提示电子邮件系列</title>
+      <title>🌠 产品技巧 #034：点赞后鼓励分享、限时会员优惠和基本技巧电子邮件系列</title>
       <link>https://feed.indiehackers.world/post/adce0347c2</link>
       <description><![CDATA[🖖 嗨！写道 🌠 产品提示 034：
 🙏 点赞后鼓励分享
@@ -793,9 +856,9 @@ Discord Indiehackers Chat广告此处]]></description>
     <item>
       <title>为你的产品建立一个 discord 频道</title>
       <link>https://feed.indiehackers.world/post/1d8394252e</link>
-      <description><![CDATA[theinsightpad.com 的一位客户需要持续访问他的目标用户。
+      <description><![CDATA[theinsightpad.com 的一位客户需要不断访问他的目标用户。
 有什么比 discord 频道更好的方法吗！！！
-我将很快与您分享如何做到这一点。
+我将很快分享您如何做到这一点。
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/1d8394252e</guid>
       <pubDate>Thu, 04 Jul 2024 09:41:07 GMT</pubDate>
@@ -806,7 +869,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <description><![CDATA[你好！我有一个网站，但我没有洞察力。我希望你帮我吐槽一下我的网站。你有什么顾虑，你会反对什么？批评它，撕毁它。一切都是公平的游戏，以意识的名义。—— 
 https://hackglobe.it
 我有一个 YouTube (@hackglobe)，还有一个 Twitter 页面 (@hackglobe_team)。 
-有点迷茫，但希望你能帮我理清一些。🙏🐒🕹️👋🖥️
+有点迷茫，但希望你能帮我带来一些清晰度。🙏🐒🕹️👋🖥️
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/906e49307c</guid>
       <pubDate>Thu, 04 Jul 2024 09:40:35 GMT</pubDate>
@@ -871,11 +934,11 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Thu, 04 Jul 2024 07:21:46 GMT</pubDate>
     </item>
     <item>
-      <title>🚀 我如何在一个周末创建一家 AI 初创公司</title>
+      <title>🚀 我如何在一个周末创建了一家 AI 初创公司</title>
       <link>https://feed.indiehackers.world/post/8f6ceebbda</link>
       <description><![CDATA[⏱️ 时间管理
 总时间：我每天工作近 12 个小时来完成这个项目，这表明决心和良好的组织能力可以在创纪录的时间内将想法变成现实。
-ToolList.ai 现已在 toollist.ai 上线。我热切期待您的反馈，并希望听到您快速​​开发的经历！
+ToolList.ai 现在在 toollist.ai 上线。我热切期待您的反馈，并希望听到您快速​​开发的经历！
 Ayyoub Bhihi
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/8f6ceebbda</guid>
@@ -950,7 +1013,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Wed, 03 Jul 2024 19:15:42 GMT</pubDate>
     </item>
     <item>
-      <title>5 秒内提高你的 LLM 提示</title>
+      <title>5 秒内改善你的 LLM 提示</title>
       <link>https://feed.indiehackers.world/post/479987b74c</link>
       <description><![CDATA[结论：{1-2 段 - 应总结所提供的信息并强调保护海龟的重要性
 根据需要继续。
@@ -1089,50 +1152,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告 此处]]></description>
       <guid>https://feed.indiehackers.world/post/b5f61fe045</guid>
       <pubDate>Wed, 03 Jul 2024 14:10:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>🌟 正确提高生产力</title>
-      <link>https://feed.indiehackers.world/post/60e3cc8208</link>
-      <description><![CDATA[📝 对于我的副项目 🍅 Pomotastic，写了一篇新博客文章，它将帮助您以正确的方式使用 Pomodoro Technique 👉 Productivity Done Right。
-查看指南 🌟 https://pomotastic.com/blog/productivity-done-right
-Discord Indiehackers Chat广告 这里]]></description>
-      <guid>https://feed.indiehackers.world/post/60e3cc8208</guid>
-      <pubDate>Wed, 03 Jul 2024 13:58:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>BeReal 为何会失败——一位独立开发者的想法。</title>
-      <link>https://feed.indiehackers.world/post/5842f88c7e</link>
-      <description><![CDATA[感谢阅读
-Discord Indiehackers Chat广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/5842f88c7e</guid>
-      <pubDate>Wed, 03 Jul 2024 13:58:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>🌟 正确提高生产力</title>
-      <link>https://feed.indiehackers.world/post/cca37e24ec</link>
-      <description><![CDATA[📝 对于我的副项目 🍅 Pomotastic，写了一篇新博客文章，它将帮助您以正确的方式使用 Pomodoro Technique 👉 Productivity Done Right。
-查看指南 🌟 https://pomotastic.com/blog/productivity-done-right
-Discord Indiehackers Chat广告 这里]]></description>
-      <guid>https://feed.indiehackers.world/post/cca37e24ec</guid>
-      <pubDate>Wed, 03 Jul 2024 13:58:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>🌟 正确提高生产力</title>
-      <link>https://feed.indiehackers.world/post/11fd9e76cf</link>
-      <description><![CDATA[📝 对于我的副项目 🍅 Pomotastic，写了一篇新博客文章，它将帮助您以正确的方式使用 Pomodoro Technique 👉 Productivity Done Right。
-查看指南 🌟 https://pomotastic.com/blog/productivity-done-right
-Discord Indiehackers Chat广告 这里]]></description>
-      <guid>https://feed.indiehackers.world/post/11fd9e76cf</guid>
-      <pubDate>Wed, 03 Jul 2024 13:58:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>🌟 正确提高生产力</title>
-      <link>https://feed.indiehackers.world/post/5269317f39</link>
-      <description><![CDATA[📝 对于我的副项目 🍅 Pomotastic，写了一篇新博客文章，它将帮助您以正确的方式使用 Pomodoro Technique 👉 Productivity Done Right。
-查看指南 🌟 https://pomotastic.com/blog/productivity-done-right
-Discord Indiehackers Chat广告 这里]]></description>
-      <guid>https://feed.indiehackers.world/post/5269317f39</guid>
-      <pubDate>Wed, 03 Jul 2024 13:57:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
