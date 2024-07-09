@@ -4,7 +4,16 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Tue, 09 Jul 2024 18:09:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 21:04:40 GMT</lastBuildDate>
+    <item>
+      <title>想象一下，如果你能在 24 小时内得到任何人的答复</title>
+      <link>https://feed.indiehackers.world/post/c82c321d8d</link>
+      <description><![CDATA[我对 IH 的问题是：您是否因无法联系到他人而感到沮丧？只有我一个人这样吗？当紧急需要联系某个人时，您会使用这个功能吗？
+诚实的想法会有所帮助，谢谢！
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/c82c321d8d</guid>
+      <pubDate>Tue, 09 Jul 2024 19:40:16 GMT</pubDate>
+    </item>
     <item>
       <title>寻找增长营销人员</title>
       <link>https://feed.indiehackers.world/post/a50de908bf</link>
@@ -1100,7 +1109,7 @@ Discord Indiehackers Chat广告这里]]></description>
     <item>
       <title>打造成功初创企业的免费工具</title>
       <link>https://feed.indiehackers.world/post/4243fb1d41</link>
-      <description><![CDATA[如果您有任何问题，请随时给我发送电子邮件：denis@startupsteals.cc
+      <description><![CDATA[如果您有任何疑问，请随时给我发送电子邮件denis@startupsteals.cc
 P.S.如果有人想要更多免费工具，请订阅我的时事通讯，它只是免费或非常便宜的工具：www.startupsteals.cc
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/4243fb1d41</guid>
@@ -1125,18 +1134,6 @@ Squadcast 是一款流行的 Pagerduty 替代事件管理工具，专为 SRE 打
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/d6079c7ce6</guid>
       <pubDate>Thu, 04 Jul 2024 13:55:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员如何帮助 SRE 实现可观察性</title>
-      <link>https://feed.indiehackers.world/post/65501ddc42</link>
-      <description><![CDATA[结论
-通过遵循这些最佳实践，开发人员可以显著提高 SRE 的可观察性，使 SRE 能够更有效地识别和解决问题。开发人员和 SRE 之间协作的改善最终会带来更可靠、性能更高的软件产品。
-Squadcast：为 SRE 构建的事件管理工具
-Squadcast 是一个专为 SRE 设计的事件管理平台。它消除了警报疲劳，传递了相关通知，并与流行的 ChatOps 工具集成。使用虚拟事件作战室简化协作，并利用自动化来减少手动任务。
-请在评论中告诉我们这五种做法如何帮助改善您的 SRE 团队的工作流程！
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/65501ddc42</guid>
-      <pubDate>Thu, 04 Jul 2024 13:31:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
