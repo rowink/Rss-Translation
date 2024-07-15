@@ -4,7 +4,20 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Sun, 14 Jul 2024 21:03:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 00:34:05 GMT</lastBuildDate>
+    <item>
+      <title>登陆页面文案资源</title>
+      <link>https://feed.indiehackers.world/post/29401d230a</link>
+      <description><![CDATA[嗨！
+所以目前我正在开发一个应用程序，我跳过了基本部分，即获取登录页面以开始获取其他人可以访问的地方或我可以将其他人发送到的地方：http://get.leafnode.app/
+我遇到的问题。我试图复制，这让我意识到我并不擅长，所以我的问题是：
+是否有任何建议、资源可供其他人在处理他们的着陆页/页面时用作模板并继续使用？
+我的目标是在公开发布构建内容时营销和启动社交媒体，但在我这样做之前，我可能值得花时间让信息自己说话，而不是让我自己构建。
+任何建议，直接指向资源，或者如果您推荐任何人帮助解决着陆页上缺少的一般部分以及该怎么做，我们将不胜感激。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/29401d230a</guid>
+      <pubDate>Mon, 15 Jul 2024 00:22:46 GMT</pubDate>
+    </item>
     <item>
       <title>获得付费客户很难！一年后我终于获得了一个。事情是这样的。</title>
       <link>https://feed.indiehackers.world/post/70491a48ac</link>
@@ -1114,17 +1127,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/c82c321d8d</guid>
       <pubDate>Tue, 09 Jul 2024 19:40:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找增长营销人员</title>
-      <link>https://feed.indiehackers.world/post/a50de908bf</link>
-      <description><![CDATA[嗨，各位 IH 们
-我正在寻找一位增长营销人员，帮助我们为早期 B2B SaaS 项目制定和实施上市策略。您将有机会使用各种渠道，例如新闻通讯、ProductHunt、Google Ads 和 Reddit Ads。
-我们正在寻找一位能够体现我们创业精神的人 — 具有积极进取的态度、学习能力强、执行任务能力强的人。您应该独立自主，能够适应紧迫的期限，并且在完全远程的自由职业环境中茁壮成长。
-如果您有推动 B2B SaaS 增长的经验，并且熟悉各种数字营销渠道，我们很乐意与您联系！
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/a50de908bf</guid>
-      <pubDate>Tue, 09 Jul 2024 16:46:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
