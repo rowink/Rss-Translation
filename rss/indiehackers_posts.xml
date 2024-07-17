@@ -4,7 +4,25 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Wed, 17 Jul 2024 18:09:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 21:07:19 GMT</lastBuildDate>
+    <item>
+      <title>寻找音乐产品！</title>
+      <link>https://feed.indiehackers.world/post/8378e06c0e</link>
+      <description><![CDATA[大家好，
+我们开发了一款名为 TrackList 的音乐共享/发现工具。
+它的工作原理与 Product Hunt 一样。提交曲目，获得社区的点赞，寻找新粉丝。
+我们希望您查看并告诉我们您的想法！
+Discord Indiehackers Chat广告 此处]]></description>
+      <guid>https://feed.indiehackers.world/post/8378e06c0e</guid>
+      <pubDate>Wed, 17 Jul 2024 19:36:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个学习心算的应用程序</title>
+      <link>https://feed.indiehackers.world/post/d97cd24a12</link>
+      <description><![CDATA[Discord Indiehackers 聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/d97cd24a12</guid>
+      <pubDate>Wed, 17 Jul 2024 18:36:03 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 Reddit 吸引数百名潜在客户</title>
       <link>https://feed.indiehackers.world/post/b9d5c60404</link>
@@ -1118,28 +1136,6 @@ Discord Indiehackers 聊天广告这里]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/b3f42ebf85</guid>
       <pubDate>Fri, 12 Jul 2024 14:26:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一款应用程序，将交互式产品演示和视频整合到一个指南中</title>
-      <link>https://feed.indiehackers.world/post/02ab816b07</link>
-      <description><![CDATA[嘿，Indie Hackers！
-我开发了一款新应用，让您可以创建包含视频的交互式产品演示，以指导客户/客户了解您的产品。
-这可以很好地向潜在客户展示您的产品，吸引新客户，甚至在帮助中心使用它来提供客户支持或教程。
-该产品名为 Dymolab，我期待你们的反馈。
-Discord Indiehackers Chat广告 这里]]></description>
-      <guid>https://feed.indiehackers.world/post/02ab816b07</guid>
-      <pubDate>Fri, 12 Jul 2024 13:48:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>PagerDuty 替代方案：选择正确的工具来简化事件响应</title>
-      <link>https://feed.indiehackers.world/post/bcfac211f6</link>
-      <description><![CDATA[介绍 Squadcast：开发人员首选的 Pagerduty 替代方案
-Squadcast 结合了 PagerDuty 和 Splunk 的优势，提供强大的事件响应功能、可操作的见解和用户友好的界面，价格实惠。Squadcast 入门非常简单。只需注册 14 天免费试用，即可体验由工程师为工程师设计的统一事件管理平台的不同之处。
-适合每个团队的工具
-在事件响应解决方案的较量中，真正的胜利者是能够最满足您团队特定需求的平台。评估 PagerDuty 和 Splunk，将 Squadcast 视为可行的替代方案，并选择能够让您的团队征服事件响应战场并确保顺利运行的工具！
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/bcfac211f6</guid>
-      <pubDate>Fri, 12 Jul 2024 13:11:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
